@@ -1,0 +1,13 @@
+---
+title: "Cours Magistraux"
+subtitle: "Introduction à la conception de système mécatronique"
+#page-layout: full
+toc: true
+---
+
+## Planning des Séances
+
+## Notes
+
+
+## Bibliographie

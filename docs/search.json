@@ -2,14 +2,14 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "CI3",
+    "title": "Introduction à la conception de système mécatronique",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2\n\n\nss"
+    "text": "0.1 Instructor\n\n   ?var:guillaume.name\n   ?var:instructor.name\n   ?var:instructor.office\n   ?var:instructor.email\n   ?var:instructor.twitter\n   Schedule an appointment\n\n\n\n0.2 Course details\n\n   ?var:course.days\n   ?var:course.dates\n   ?var:course.time\n   ?var:course.location\n   Slack\n\n\n\n0.3 Contacting me\n?var:instructor.contact_policy\n\n\n\nCours Magistraux Guide de Travaux Dirigés\n\n\n\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "intro.html",
     "href": "intro.html",
-    "title": "1  Introduction",
+    "title": "1  Bienvenue",
     "section": "",
     "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   },
@@ -26,5 +26,33 @@
     "title": "References",
     "section": "",
     "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "CM/CM1.html",
+    "href": "CM/CM1.html",
+    "title": "Introduction à la Conception",
+    "section": "",
+    "text": "1 Lecture\n\n\n2 Slides\n\n\n3 Idé\n\n\n4 Bibliographie\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "CM.html#notes",
+    "href": "CM.html#notes",
+    "title": "Cours Magistraux",
+    "section": "2 Notes",
+    "text": "2 Notes"
+  },
+  {
+    "objectID": "CM.html#bibliographie",
+    "href": "CM.html#bibliographie",
+    "title": "Cours Magistraux",
+    "section": "3 Bibliographie",
+    "text": "3 Bibliographie"
+  },
+  {
+    "objectID": "CM/01-schema-cinematique.html",
+    "href": "CM/01-schema-cinematique.html",
+    "title": "Introduction Schéma Cinématiques",
+    "section": "",
+    "text": "1 Lecture\n\n\n2 Slides\n\n\n3 Idé\n\n\n4 Bibliographie\n\n\n\n\n Back to top"
   }
 ]
