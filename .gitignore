@@ -2,5 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
-bibliography/
+_bibliography/
 /.quarto/
