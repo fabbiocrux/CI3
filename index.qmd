@@ -26,9 +26,9 @@ format:
 ::: {.grid .course-details}
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-### Instructor
+## Instructors
 
-- {{< fa user >}} &nbsp; [{{< var guillaume.name >}}]({{< var instructor.url >}})
+- {{< fa user >}} &nbsp; [{{< var alaa.name >}}]({{< var instructor.url >}})
 - {{< fa user >}} &nbsp; [{{< var instructor.name >}}]({{< var instructor.url >}})
 - {{< fa university >}} &nbsp; {{< var instructor.office >}}
 - {{< fa envelope >}} &nbsp; <a href="mailto:{{< var instructor.email >}}">{{< var instructor.email >}}</a>
@@ -37,7 +37,7 @@ format:
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-### Course details
+## Course details
 
 - {{< fa calendar >}} &nbsp; {{< var course.days >}}
 - {{< fa calendar-alt >}} &nbsp; {{< var course.dates >}}
@@ -47,7 +47,7 @@ format:
 :::
 
 ::: {.g-col-12 .g-col-md-4 .contact-policy}
-### Contacting me
+## Contacting us
 
 {{< var instructor.contact_policy >}}
 :::
@@ -55,10 +55,7 @@ format:
 :::
 
 
-::: {.hero-buttons}
-[Cours Magistraux](CM/){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
-[Guide de Travaux Dirigés](TD/){#btn-guide .btn-action .btn .btn-info .btn-lg role="button"}
-::: 
+
 :::
 
 ::: {.hero-animation}

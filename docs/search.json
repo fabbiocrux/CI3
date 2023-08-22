@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Introduction à la conception de système mécatronique",
+    "title": "\n             Introduction à la conception de système mécatronique\n         ",
     "section": "",
-    "text": "0.1 Instructor\n\n   ?var:guillaume.name\n   ?var:instructor.name\n   ?var:instructor.office\n   ?var:instructor.email\n   ?var:instructor.twitter\n   Schedule an appointment\n\n\n\n0.2 Course details\n\n   ?var:course.days\n   ?var:course.dates\n   ?var:course.time\n   ?var:course.location\n   Slack\n\n\n\n0.3 Contacting me\n?var:instructor.contact_policy\n\n\n\nCours Magistraux Guide de Travaux Dirigés\n\n\n\n\n\n\n\n\n\n\n Back to top"
+    "text": "Conception et Innovation\n         \n         \n             La vitesse n’a jamais tué personne. Se retrouver brusquement immobile, c’est ça qui vous tue. - Jeremy Clarkson, Top Gear Université de Lorraine\n         \n         \n         \n            Cours Magistraux            \n            Guide de Travaux Dirigés"
   },
   {
     "objectID": "intro.html",
@@ -54,5 +54,103 @@
     "title": "Introduction Schéma Cinématiques",
     "section": "",
     "text": "1 Lecture\n\n\n2 Slides\n\n\n3 Idé\n\n\n4 Bibliographie\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html#instructor",
+    "href": "index.html#instructor",
+    "title": "\n             Introduction à la conception de système mécatronique\n         ",
+    "section": "1 Instructor",
+    "text": "1 Instructor\n\n   MdC. Alaa Hassan\n   Dr. Fabio A Cruz\n   ENSGSI\n   fabio.cruz@univ-lorraine.fr\n   fabbiocrux\n   Schedule an appointment"
+  },
+  {
+    "objectID": "index.html#instructors",
+    "href": "index.html#instructors",
+    "title": "\n             Introduction à la conception de système mécatronique\n         ",
+    "section": "1 Instructors",
+    "text": "1 Instructors\n\n   MdC. Alaa Hassan\n   Dr. Fabio A Cruz\n   ENSGSI\n   fabio.cruz@univ-lorraine.fr\n   fabbiocrux\n   Schedule an appointment"
+  },
+  {
+    "objectID": "index.html#course-details",
+    "href": "index.html#course-details",
+    "title": "\n             Introduction à la conception de système mécatronique\n         ",
+    "section": "2 Course details",
+    "text": "2 Course details\n\n   Thursdays\n   January 9–May 2, 2023\n   7:15–9:45 PM\n   ENSGSI\n   Slack"
+  },
+  {
+    "objectID": "index.html#contacting-me",
+    "href": "index.html#contacting-me",
+    "title": "\n             Introduction à la conception de système mécatronique\n         ",
+    "section": "3 Contacting me",
+    "text": "3 Contacting me\nE-mail and Slack are the best ways to get in contact with me. I will try to respond to all course-related e-mails and Slack messages within 24 hours (really), but also remember that life can be busy and chaotic for everyone (including me!), so if I don’t respond right away, don’t worry!"
+  },
+  {
+    "objectID": "index.html#contacting-us",
+    "href": "index.html#contacting-us",
+    "title": "\n             Introduction à la conception de système mécatronique\n         ",
+    "section": "3 Contacting us",
+    "text": "3 Contacting us\nE-mail and Slack are the best ways to get in contact with me. I will try to respond to all course-related e-mails and Slack messages within 24 hours (really), but also remember that life can be busy and chaotic for everyone (including me!), so if I don’t respond right away, don’t worry!"
+  },
+  {
+    "objectID": "TP/TP1.html",
+    "href": "TP/TP1.html",
+    "title": "TP 1:",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "TP/TP2.html",
+    "href": "TP/TP2.html",
+    "title": "TP 2:",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "TP/TP3.html",
+    "href": "TP/TP3.html",
+    "title": "TP 3:",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "TP/TP4.html",
+    "href": "TP/TP4.html",
+    "title": "TP 4:",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "TP/TP5.html",
+    "href": "TP/TP5.html",
+    "title": "TP 5:",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "TP/TP6.html",
+    "href": "TP/TP6.html",
+    "title": "TP 6:",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "TP/TP7.html",
+    "href": "TP/TP7.html",
+    "title": "TP 7:",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "TP/TP8.html",
+    "href": "TP/TP8.html",
+    "title": "TP 8:",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "TP/TP9.html",
+    "href": "TP/TP9.html",
+    "title": "TP 9:",
+    "section": "",
+    "text": "Back to top"
   }
 ]

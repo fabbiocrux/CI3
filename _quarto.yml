@@ -73,17 +73,31 @@ website:
       style: "floating"
       contents:
         - CM.qmd      
-        - CM/01-schema-cinematique.qmd
-        - CM/02-dynamique.qmd
-        - CM/03-energetique.qmd
-        - CM/04-mecanique.qmd
+        - CM/CM1.qmd
+        - CM/CM2.qmd
+        - CM/CM3.qmd
+        - CM/CM4.qmd
+        - CM/CM5.qmd        
+        - CM/CM6.qmd                
     - title: "Travaux Dirigés"
       style: "floating"
       contents:
         - TD.qmd      
-        - TD/01-TD.qmd
-        - TD/02-TD.qmd
-        - TD/03-TD.qmd
+        - TD/TD1.qmd
+        - TD/TD2.qmd
+    - title: "Travaux Pratiques"
+      style: "floating"
+      contents:
+        - TP.qmd      
+        - TP/TP1.qmd
+        - TP/TP2.qmd        
+        - TP/TP3.qmd
+        - TP/TP4.qmd        
+        - TP/TP5.qmd
+        - TP/TP6.qmd        
+        - TP/TP7.qmd
+        - TP/TP8.qmd 
+        - TP/TP9.qmd                                        
   page-navigation: true
   back-to-top-navigation: true
 

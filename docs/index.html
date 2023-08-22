@@ -39,6 +39,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -138,56 +140,62 @@ window.MathJax = {
 <!-- main -->
 <main class="content column-page" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Introduction à la conception de système mécatronique</h1>
-<p class="subtitle lead">Conception et Innovation</p>
-</div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-</header>
+<div class="grid title-block">
+     <div class="course-details-title-block g-col-12 g-col-sm-8 order-2 order-sm-1 text-center text-sm-start">
+         <h1 class="course-title">
+             Introduction à la conception de système mécatronique
+         </h1>
+         <div class="course-subtitle">
+             <p>Conception et Innovation</p>
+         </div>
+         <div class="course-meta">
+             <p></p><p>La vitesse n’a jamais tué personne. Se retrouver brusquement immobile, c’est ça qui vous tue. - Jeremy Clarkson, <em>Top Gear</em><br> Université de Lorraine</p><p></p>
+         </div>
+         
+         <p>
+            <a href="CM/" class="btn-action-primary btn-action btn btn-success btn-lg" role="button">Cours Magistraux</a>            
+            <a href="TD/" id="btn-guide" class="btn-action btn btn-info btn-lg" role="button">Guide de Travaux Dirigés</a>
+         </p>
+         
+     </div>
+     <div class="g-col-12 g-col-sm-4 order-1 order-sm-2">
+       <div class="grid" style="--bs-columns: 5;">
+         <div class="g-col-1 g-col-sm-0"></div>
+         <div class="g-col-3 g-col-sm-5"><img src="./assets/img/logo-mdp.png" class="img-fluid"></div>
+         <div class="g-col-1 g-col-sm-0"></div>
+       </div>
+     </div>
+ </div>
 
 <div class="hero-banner">
 <div class="content-block">
 <div class="hero-text">
 <div class="grid course-details">
-<section id="instructor" class="level3 g-col-12 g-col-sm-6 g-col-md-4" data-number="0.1">
-<h3 data-number="0.1" class="anchored" data-anchor-id="instructor"><span class="header-section-number">0.1</span> Instructor</h3>
+<section id="instructors" class="level2 g-col-12 g-col-sm-6 g-col-md-4" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="instructors"><span class="header-section-number">1</span> Instructors</h2>
 <ul>
-<li> &nbsp; <a href="?var:instructor.url"><strong>?var:guillaume.name</strong></a></li>
-<li> &nbsp; <a href="?var:instructor.url"><strong>?var:instructor.name</strong></a></li>
-<li> &nbsp; <strong>?var:instructor.office</strong></li>
-<li> &nbsp; <a href="mailto:?var:instructor.email"><strong>?var:instructor.email</strong></a></li>
-<li> &nbsp; <a href="https://www.twitter.com/?var:instructor.twitter"><strong>?var:instructor.twitter</strong></a></li>
-<li> &nbsp; <a href="?var:instructor.appointment_url">Schedule an appointment</a></li>
+<li><i class="fa-solid fa-user" aria-label="user"></i> &nbsp; <a href="">MdC. Alaa Hassan</a></li>
+<li><i class="fa-solid fa-user" aria-label="user"></i> &nbsp; <a href="">Dr.&nbsp;Fabio A Cruz</a></li>
+<li><i class="fa-solid fa-university" aria-label="university"></i> &nbsp; ENSGSI</li>
+<li><i class="fa-solid fa-envelope" aria-label="envelope"></i> &nbsp; <a href="mailto:fabio.cruz@univ-lorraine.fr">fabio.cruz@univ-lorraine.fr</a></li>
+<li><i class="fa-brands fa-twitter" aria-label="twitter"></i> &nbsp; <a href="https://www.twitter.com/fabbiocrux">fabbiocrux</a></li>
+<li><i class="fa-solid fa-calendar-check" aria-label="calendar-check"></i> &nbsp; <a href="https://calendly.com/andrewheiss/">Schedule an appointment</a></li>
 </ul>
 </section>
-<section id="course-details" class="level3 g-col-12 g-col-sm-6 g-col-md-4" data-number="0.2">
-<h3 data-number="0.2" class="anchored" data-anchor-id="course-details"><span class="header-section-number">0.2</span> Course details</h3>
+<section id="course-details" class="level2 g-col-12 g-col-sm-6 g-col-md-4" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="course-details"><span class="header-section-number">2</span> Course details</h2>
 <ul>
-<li> &nbsp; <strong>?var:course.days</strong></li>
-<li> &nbsp; <strong>?var:course.dates</strong></li>
-<li> &nbsp; <strong>?var:course.time</strong></li>
-<li> &nbsp; <strong>?var:course.location</strong></li>
-<li> &nbsp; <a href="?var:course.slack">Slack</a></li>
+<li><i class="fa-solid fa-calendar" aria-label="calendar"></i> &nbsp; Thursdays</li>
+<li><i class="fa-solid fa-calendar-alt" aria-label="calendar-alt"></i> &nbsp; January 9–May 2, 2023</li>
+<li><i class="fa-solid fa-clock" aria-label="clock"></i> &nbsp; 7:15–9:45 PM</li>
+<li><i class="fa-solid fa-location-dot" aria-label="location-dot"></i> &nbsp; ENSGSI</li>
+<li><i class="fa-brands fa-slack" aria-label="slack"></i> &nbsp; <a href="https://gsuevalsp2023.slack.com">Slack</a></li>
 </ul>
 </section>
-<section id="contacting-me" class="level3 g-col-12 g-col-md-4 contact-policy" data-number="0.3">
-<h3 data-number="0.3" class="anchored" data-anchor-id="contacting-me"><span class="header-section-number">0.3</span> Contacting me</h3>
-<p><strong>?var:instructor.contact_policy</strong></p>
+<section id="contacting-us" class="level2 g-col-12 g-col-md-4 contact-policy" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="contacting-us"><span class="header-section-number">3</span> Contacting us</h2>
+<p>E-mail and Slack are the best ways to get in contact with me. I will try to respond to all course-related e-mails and Slack messages within 24 hours (<em>really</em>), but also remember that life can be busy and chaotic for everyone (including me!), so if I don’t respond right away, don’t worry!</p>
 </section>
-</div>
-<div class="hero-buttons">
-<p><a href="CM/" class="btn-action-primary btn-action btn btn-success btn-lg" role="button">Cours Magistraux</a> <a href="TD/" id="btn-guide" class="btn-action btn btn-info btn-lg" role="button">Guide de Travaux Dirigés</a></p>
 </div>
 </div>
 <div class="hero-animation">
