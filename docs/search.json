@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "\n             Introduction à la conception de système mécatronique\n         ",
     "section": "",
-    "text": "Conception et Innovation\n         \n         \n             La vitesse n’a jamais tué personne. Se retrouver brusquement immobile, c’est ça qui vous tue. - Jeremy Clarkson, Top Gear Université de Lorraine\n         \n         \n         \n            Cours Magistraux            \n            Guide de Travaux Dirigés"
+    "text": "Conception et Innovation\n         \n         \n             “Think with your hands, build something or ty something, then talk about it, NOT the Reverse.” David Kelly, Founder IDEO & Standford Deisgn School\n         \n         \n         \n            Cours Magistraux            \n            Guide de Travaux Dirigés"
   },
   {
     "objectID": "intro.html",
@@ -67,14 +67,14 @@
     "href": "index.html#instructors",
     "title": "\n             Introduction à la conception de système mécatronique\n         ",
     "section": "1 Instructors",
-    "text": "1 Instructors\n\n   MdC. Alaa Hassan\n   Dr. Fabio A Cruz\n   ENSGSI\n   fabio.cruz@univ-lorraine.fr\n   fabbiocrux\n   Schedule an appointment"
+    "text": "1 Instructors\n\n   MdC. Alaa Hassan\n   Dr. Fabio A Cruz\n   ENSGSI\n   Schedule an appointment"
   },
   {
     "objectID": "index.html#course-details",
     "href": "index.html#course-details",
     "title": "\n             Introduction à la conception de système mécatronique\n         ",
     "section": "2 Course details",
-    "text": "2 Course details\n\n   Thursdays\n   January 9–May 2, 2023\n   7:15–9:45 PM\n   ENSGSI\n   Slack"
+    "text": "2 Course details\n\n   Thursdays\n   January 9–May 2, 2023\n   7:15–9:45 PM\n   ENSGSI"
   },
   {
     "objectID": "index.html#contacting-me",
@@ -194,5 +194,19 @@
     "title": "Introduction aux Système Mécatroniques I",
     "section": "",
     "text": "1 Lecture\n\n\n2 Slides\n\n\n3 Idé\n\n\n4 Bibliographie\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html#contacterz-us",
+    "href": "index.html#contacterz-us",
+    "title": "\n             Introduction à la conception de système mécatronique\n         ",
+    "section": "3 Contacterz us",
+    "text": "3 Contacterz us\nE-mail and Slack are the best ways to get in contact with me. I will try to respond to all course-related e-mails and Slack messages within 24 hours (really), but also remember that life can be busy and chaotic for everyone (including me!), so if I don’t respond right away, don’t worry!"
+  },
+  {
+    "objectID": "index.html#contactez-nous",
+    "href": "index.html#contactez-nous",
+    "title": "\n             Introduction à la conception de système mécatronique\n         ",
+    "section": "3 Contactez nous",
+    "text": "3 Contactez nous\nL’e-mail et Microsoft teams sont les meilleurs moyens de nous contacter. On essai de répondre à tous les courriels et messages liés au cours dans les XX heures (vraiment), mais rappelez-vous aussi que la vie peut être occupée et chaotique pour tout le monde (y compris nous !), alors si je ne réponds pas tout de suite, ne vous inquiétez pas !"
   }
 ]

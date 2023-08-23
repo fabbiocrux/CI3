@@ -2,8 +2,7 @@
 title: "Introduction à la conception de système mécatronique"
 subtitle: "Conception et Innovation"
 details: |
-  La vitesse n'a jamais tué personne. Se retrouver brusquement immobile, c'est ça qui vous tue. - Jeremy Clarkson, *Top Gear*<br>
-  Université de Lorraine
+  "Think with your hands, build something or ty something, then talk about it, NOT the Reverse." *David Kelly, Founder IDEO & Standford Deisgn School* 
 sidebar: false
 page-layout: full
 course-logo: /assets/img/logo-mdp.png
@@ -28,12 +27,10 @@ format:
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ## Instructors
 
-- {{< fa user >}} &nbsp; [{{< var alaa.name >}}]({{< var instructor.url >}})
-- {{< fa user >}} &nbsp; [{{< var instructor.name >}}]({{< var instructor.url >}})
-- {{< fa university >}} &nbsp; {{< var instructor.office >}}
-- {{< fa envelope >}} &nbsp; <a href="mailto:{{< var instructor.email >}}">{{< var instructor.email >}}</a>
-- {{< fa brands twitter >}} &nbsp; [{{< var instructor.twitter >}}](https://www.twitter.com/{{< var instructor.twitter >}})
-- {{< fa calendar-check >}} &nbsp; [Schedule an appointment]({{< var instructor.appointment_url >}})
+- {{< fa user >}} &nbsp; [{{< var alaa.name >}}]({{< var fabio.url >}})
+- {{< fa user >}} &nbsp; [{{< var fabio.name >}}]({{< var fabio.url >}})
+- {{< fa university >}} &nbsp; {{< var fabio.office >}}
+- {{< fa calendar-check >}} &nbsp; [Schedule an appointment]({{< var fabio.appointment_url >}})
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
@@ -43,13 +40,13 @@ format:
 - {{< fa calendar-alt >}} &nbsp; {{< var course.dates >}}
 - {{< fa clock >}} &nbsp; {{< var course.time >}}
 - {{< fa location-dot >}} &nbsp; {{< var course.location >}}
-- {{< fa brands slack >}} &nbsp; [Slack]({{< var course.slack >}})
+
 :::
 
 ::: {.g-col-12 .g-col-md-4 .contact-policy}
-## Contacting us
+## Contactez nous
 
-{{< var instructor.contact_policy >}}
+{{< var fabio.contact_policy >}}
 :::
 
 :::
