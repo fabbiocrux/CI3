@@ -1,16 +1,13 @@
 ---
 title: "Introduction Schéma Cinématiques"
-subtitle: ""
+subtitle: "But de la Séance: Définir la notion de ..."
 ---
 
-# Lecture
+# Lecture obligatoire
 
 
 # Slides
 
-
-
-# Idé
 
 
 # Bibliographie

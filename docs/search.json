@@ -32,21 +32,21 @@
     "href": "CM/CM1.html",
     "title": "Introduction Schéma Cinématiques",
     "section": "",
-    "text": "1 Lecture\n\n\n2 Slides\n\n\n3 Idé\n\n\n4 Bibliographie\n\n\n\n\n Back to top"
+    "text": "1 Lecture obligatoire\n\n\n2 Slides\n\n\n3 Bibliographie\n\n\n\n\n Back to top"
   },
   {
     "objectID": "CM.html#notes",
     "href": "CM.html#notes",
-    "title": "Cours Magistraux",
-    "section": "2 Notes",
-    "text": "2 Notes"
+    "title": "Syllabus du Cours",
+    "section": "3.1 Notes",
+    "text": "3.1 Notes"
   },
   {
     "objectID": "CM.html#bibliographie",
     "href": "CM.html#bibliographie",
-    "title": "Cours Magistraux",
-    "section": "3 Bibliographie",
-    "text": "3 Bibliographie"
+    "title": "Syllabus du Cours",
+    "section": "3.2 Bibliographie",
+    "text": "3.2 Bibliographie"
   },
   {
     "objectID": "CM/01-schema-cinematique.html",
@@ -156,7 +156,7 @@
   {
     "objectID": "TD/TD2.html",
     "href": "TD/TD2.html",
-    "title": "CI3:",
+    "title": "TD 2:",
     "section": "",
     "text": "Back to top"
   },
@@ -208,5 +208,12 @@
     "title": "\n             Introduction à la conception de système mécatronique\n         ",
     "section": "3 Contactez nous",
     "text": "3 Contactez nous\nL’e-mail et Microsoft teams sont les meilleurs moyens de nous contacter. On essai de répondre à tous les courriels et messages liés au cours dans les XX heures (vraiment), mais rappelez-vous aussi que la vie peut être occupée et chaotique pour tout le monde (y compris nous !), alors si je ne réponds pas tout de suite, ne vous inquiétez pas !"
+  },
+  {
+    "objectID": "CM.html",
+    "href": "CM.html",
+    "title": "Syllabus du Cours",
+    "section": "",
+    "text": "Ce cours vise les étudiants de \\(1^{ère}\\) année de cycle d’Ingénierie de l’ENSGSI.\nLa conception de systèmes mécatroniques repose sur un ensemble de technologies (incluant notamment l’impression 3D, l’usinage à commande numérique et l’électronique programmable) permettant la production de systèmes fonctionnels (maquettes, preuves de concepts) en un temps et un coût réduit. La maitrise de ces technologies est primordiale afin d’être capable de choisir les outils les plus adaptés en prenant en compte les contraintes spécifiques à chaque technologie ainsi qu’au prototype à réaliser.\nL’objectif du cours est de donner aux élèves les compétences de base afin de pouvoir matérialiser une idée conceptuelle vers un objet de conception intermédiaire mécatronique pour un concept donné. Ce module utilisera les technologies disponibles au Lorraine Fab Living Lab. A l’issue du cours, les élèves auront acquis la culture scientifique et technique nécessaire à la conception et à la réalisation, en autonomie, d’un prototype de système mécanique fonctionnel comportant une partie commande."
   }
 ]
