@@ -1,6 +1,6 @@
 ---
 title: "Design and Innovation - CI3-"
-subtitle: "Prototyping for a better world"
+subtitle: "Introduction to the design of mechatronic systems"
 email: "cruzsanc1@univ-lorraine.fr"
 institute: "Université de Lorraine | ENSGSI"
 author: 
@@ -31,11 +31,20 @@ The word **Engineer** (Latin *Ingeniator*) is derived from the Latin words **Ing
 
 . . .
 
-**Mathematics + Physics** → Force, Matter, and Motion.
+**Mathematics + Physics** → Force, Matter, and *Motion*.
+
+
+![](figures/Mechanics.jpeg){width="60%" fig-align="center"}
+
+
+
+Image source: [engineer4free](https://www.engineer4free.com/uploads/1/0/2/9/10296972/free-online-engineering-dynamics-course_orig.jpg)
+
+
 
 ## Challenge {.center}
 
-**Formez des équipes de quatre/Cinq personnes**
+**Formez des équipes de quatre/cinq personnes**
 
 - De préférence, avec vos voisins entre les rangs.
 
@@ -45,6 +54,7 @@ The word **Engineer** (Latin *Ingeniator*) is derived from the Latin words **Ing
 ::: {.column width="60%"}
 
 <br><br><br>
+
 Vous avez 18 minutes pour construire une **tour autoportante** qui supporte des poids calibrés avec les matériaux listées ici →
 
 Nous noterons les tours en fonction de:
@@ -76,8 +86,10 @@ Nous noterons les tours en fonction de:
 - How did you learn?
 
 :::
-::: {.column width="40%"}
+::: {.column width="30%"}
+
 ![](figures/Challege.png)
+
 :::
 :::
 
@@ -93,15 +105,18 @@ Nous noterons les tours en fonction de:
 clothespins)?
 
 :::
-::: {.column width="40%"}
+
+::: {.column width="30%"}
+
 ![](figures/Challege.png)
+
 :::
 :::
 
 
 
 
-# Introduction to the design of mechatronic systems
+# The design of mechatronic systems
 
 ## Why is it important?
 
@@ -169,6 +184,7 @@ Validation of the design hypothesis
 ::: column
 ::: callout-tip
 #### Learning by Doing !
+
 ![](figures/People.jpeg)
 
 :::
@@ -187,23 +203,15 @@ Validation of the design hypothesis
 
 ### Technologies at LF2L.
 
-::: {.columns}
-::: {.column}
-![](figures/Tools-00.png)
-:::
-::: {.column}
-![](figures/Tools-01.png)
-:::
-:::
 
-::: {.columns}
-::: {.column}
-![](figures/Tools-03.png)
-:::
-::: {.column}
-![](figures/Tools-04.png)
-:::
-:::
+![](figures/Tools-00.png){width="20%" }
+
+![](figures/Tools-03.png){width="20%" }
+
+![](figures/Tools-04.png){width="20%" }
+
+![](figures/Tools-01.png){width="20%" }
+
 
 Documentation: [https://fabmanager.lf2l.fr/](https://fabmanager.lf2l.fr/)
 
@@ -328,17 +336,10 @@ Documentation: [https://fabmanager.lf2l.fr/](https://fabmanager.lf2l.fr/)
 
 ![](figures/Prototype-00.png){width="50%" fig-align="center"}
 
-### What is a Prototype? {.center}
-
-**A prototype is a tangible artifact that requires interpretation**. 
-
-- Prototypes are designed to answer questions.
-
-![](figures/Prototype-00.png){width="60%" fig-align="center"}
 
 ### What is a Prototype? {.center}
 
-**A prototype is a tangible artifact that requires interpretation**. 
+**Prototypes are designed to answer questions.**. 
 
 
 ![](figures/Prototype-01.png){width="60%" fig-align="center"}
