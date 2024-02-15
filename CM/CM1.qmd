@@ -1,14 +1,373 @@
 ---
-title: "Introduction Schéma Cinématiques"
-subtitle: "But de la Séance: Définir la notion de ..."
+title: "Design and Innovation - CI3-"
+subtitle: "Prototyping for a better world"
+email: "cruzsanc1@univ-lorraine.fr"
+institute: "Université de Lorraine | ENSGSI"
+author: 
+  - "MdC. Fabio Cruz"
+  - "MdC Alaa Hassam"
+date: 16-Feb-2023
+metadata-files:
+  - _metadata.yml
+
+toc: true
 ---
 
-# Lecture obligatoire
 
 
-# Slides
+# Introduction
+
+## Engineering and Mechanics
+
+### What is the meaning of "Engineer" for you ?
+
+. . .
+
+The word **Engineer** (Latin *Ingeniator*) is derived from the Latin words **Ingeniare** ("to contrive, devise") and **Ingenium** ("cleverness").
+
+![](figures/engineers.png){width="70%" fig-align="center"}
+
+### What is the meaning of "Mechanics" for you ?
+
+. . .
+
+**Mathematics + Physics** → Force, Matter, and Motion.
+
+## Challenge {.center}
+
+**Formez des équipes de quatre/Cinq personnes**
+
+- De préférence, avec vos voisins entre les rangs.
+
+### Challenge {.center}
+
+::: {.columns}
+::: {.column width="60%"}
+
+<br><br><br>
+Vous avez 18 minutes pour construire une **tour autoportante** qui supporte des poids calibrés avec les matériaux listées ici →
+
+Nous noterons les tours en fonction de:
+
+
+1. Il résiste à au moins un poids: Oui / Non 
+2. $Score=heigth_{weigth} * weigth$
+
+:::
+::: {.column width="30%"}
+![](figures/Challege.png)
+:::
+:::
+
+### 18 Minutes 
+
+![Timer](figures/Timer.png){width="60%" fig-align="center"}
+
+[Timer](https://www.youtube.com/watch?v=tJan3T4h5ok)
+
+
+## Reflecting on the design process 
+
+::: {.columns}
+::: {.column width="60%"}
+
+- What strategies did you use to maker your towers?
+- How many towers did you make?
+- How did you learn?
+
+:::
+::: {.column width="40%"}
+![](figures/Challege.png)
+:::
+:::
+
+### Reflecting on the design process 
+
+::: {.columns}
+::: {.column width="60%"}
+
+- How many teams sketched out ideas first before starting to build?
+- How many teams tried multiple ideas before settling on a final design?
+- How many teams tried to use the weights during the prototyping process?
+- How many teams used parts in unintentional ways (took apart
+clothespins)?
+
+:::
+::: {.column width="40%"}
+![](figures/Challege.png)
+:::
+:::
 
 
 
-# Bibliographie
+
+# Introduction to the design of mechatronic systems
+
+## Why is it important?
+
+### Why is it important for you as futur Engineers in Innovation ?
+
+. . .
+
+::: {.columns .fragment}
+::: {.column width="70%"}
+"Humans are really interesting. If you show them your idea in a prototype form, **very few people will tell you what’s right about it. But everybody will tell you what’s wrong with it**." 
+:::
+::: {.column width="30%"}
+![](figures/David-kelley.jpeg)
+
+David Kelly, IDEO
+:::
+:::
+
+
+### Why is it important for you as futur Engineers in Innovation?
+
+::: incremental
+1.  Idea → Mock-up → Proof-of-Concept → Prototype
+
+2.  To be able to **choose the most appropriate** design tools.
+
+3.  Fail as soon as possible. 
+:::
+
+![](figures/OIC-00.png){width="70%" fig-align="center"}
+
+
+
+### Fail with purpose !!
+
+Validation of the design hypothesis
+
+![](figures/Fail.png){width="60%" fig-align="center"}
+
+
+
+### Learning goals of the module
+
+::: incremental
+1.  Give you the basic skills to be able to materialize a conceptual idea into an intermediate mechatronic design object for a given concept.
+
+2.  Learn the prototyping technologies available at the Lorraine Fab Living Lab.
+
+3.  A scientific and technical baseline to independently design and build a prototype. --**Do-It-Yourself**-
+:::
+
+### Specific learning goals
+
+::: columns
+::: column
+1.  Prototyping phases and techniques.
+1.  Mechatronics design:
+    -   CAD Modeling
+    -   Description of a Kinematic chain
+    -   Control
+    -   Simulation of a simple movement transformation system 
+1.  Fablabs and the social innovation approach.
+:::
+
+::: column
+::: callout-tip
+#### Learning by Doing !
+![](figures/People.jpeg)
+
+:::
+:::
+:::
+
+### Organization of the Module Planning
+
+| **Time**      | **Activity**                          |
+|:--------------|:--------------------------------------|
+| 7 CM | Introduction to Mechatronic Design |
+| 2 TD | Application of theory |
+| TP 1-4 | **Learn Design Tools**: CAD, Laser Cut, 3D Printing                            |
+| TP 5-9 | Projet developed by you 🍏                            |
+
+
+### Technologies at LF2L.
+
+::: {.columns}
+::: {.column}
+![](figures/Tools-00.png)
+:::
+::: {.column}
+![](figures/Tools-01.png)
+:::
+:::
+
+::: {.columns}
+::: {.column}
+![](figures/Tools-03.png)
+:::
+::: {.column}
+![](figures/Tools-04.png)
+:::
+:::
+
+Documentation: [https://fabmanager.lf2l.fr/](https://fabmanager.lf2l.fr/)
+
+
+
+### Evaluation of the Module
+
+- 2 tests
+
+::: {.columns}
+::: {.column}
+
+#### Individual
+
+- Individual test (**Weight: 2/3**) 
+
+:::
+::: {.column}
+#### Group
+
+- Presentation of the mechanism
+
+
+:::
+:::
+
+
+### Compromises
+
+**What We expect from you**
+
+**What do you expect from us**
+
+
+
+
+# Prototyping: An overview
+
+## Prototyping: An overview ?
+
+1. What is Prototyping ? 
+1. What is a prototype?
+1. Why prototype?
+1. When to prototype?
+1. The fidelity and dimensions of prototypes
+1. How to prototype. The “science” of prototyping—emerging research and industry examples supporting best practices in prototyping 
+
+
+### What is Prototyping ?
+
+“The process of creating usable artifacts at a variety of fidelities of completion, in order to answer design questions and communicate design ideas; with users in the context of use.”
+
+### What is Prototyping ?
+
+“The **process of creating** usable artifacts at a variety of fidelities of completion, in order to answer design questions and communicate design ideas; with users in the context of use.”
+
+![](figures/process-explained-1.jpg){width="50%" fig-align="center"}
+
+
+### What is Prototyping ?
+
+“The process of creating **usable artifacts** at a variety of fidelities of completion, in order to answer design questions and communicate design ideas; with users in the context of use.”
+
+
+![](figures/prototyping-01.png){width="50%" fig-align="center"}
+
+
+### What is Prototyping ?
+
+“The process of creating usable artifacts at a **variety of fidelities of completion**, in order to answer design questions and communicate design ideas; with users in the context of use.”
+
+
+![](figures/prototyping-02.png){width="50%" fig-align="center"}
+
+
+
+### What is Prototyping ?
+
+“The process of creating usable artifacts at a variety of fidelities of completion, **in order to answer design questions** and communicate design ideas; with users in the context of use.”
+
+<br>
+
+::: {.columns}
+::: {.column width="25%"}
+
+- Representation
+- Precision
+- Interactivity
+- Evolution
+
+:::
+::: {.column width="75%"}
+![Dyson](figures/prototyping-03.png){fig-align="center"}
+
+
+:::
+:::
+
+
+### What is Prototyping ?
+
+“The process of creating usable artifacts at a variety of fidelities of completion, in order to answer design questions and **communicate design ideas**; with users in the context of use.”
+
+<br>
+
+![](figures/prototyping-04.png){width="50%" fig-align="center"}
+
+
+### What is Prototyping ?
+
+“The process of creating usable artifacts at a variety of fidelities of completion, in order to answer design questions and communicate design ideas; **with users in the context of use.**”
+
+<br>
+
+![](figures/prototyping-05.jpg){width="50%" fig-align="center"}
+
+
+
+### What is a Prototype? {.center}
+
+**A prototype is a tangible artifact that requires interpretation**. 
+
+![](figures/Prototype-00.png){width="50%" fig-align="center"}
+
+### What is a Prototype? {.center}
+
+**A prototype is a tangible artifact that requires interpretation**. 
+
+- Prototypes are designed to answer questions.
+
+![](figures/Prototype-00.png){width="60%" fig-align="center"}
+
+### What is a Prototype? {.center}
+
+**A prototype is a tangible artifact that requires interpretation**. 
+
+
+![](figures/Prototype-01.png){width="60%" fig-align="center"}
+
+
+
+### What kind of prototype?
+
+**A prototype is a tangible artifact that requires interpretation**. 
+
+- Product, Process and [Service prototype](https://www.youtube.com/watch?v=jTageuhPfAM&t=1s)
+
+![](figures/Prototype-03.png){width="50%" fig-align="center"}
+
+
+### What role for the prototype?
+
+**Communcation** ↔ **Aids in Learning** ↔ **Decision making**
+
+![](figures/Prototype-04.png){width="50%" fig-align="center"}
+
+
+### What benefits ?
+
+![](figures/Prototype-05.png){width="50%" fig-align="center"}
+
+## In summary? {.center}
+
+>Our bodies, physical actions, and use of tools and the environment shape how we think. The act of prototyping engages our bodies and senses in thought and can be faster/easier/better than mental operations alone
+
+## Next time: Information and Energy chains
 
