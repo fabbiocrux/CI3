@@ -71,9 +71,9 @@ Nous noterons les tours en fonction de:
 
 ### 18 Minutes 
 
-![Timer](figures/Timer.png){width="60%" fig-align="center"}
+![[Timer](https://www.youtube.com/watch?v=tJan3T4h5ok)](figures/Timer.png){width="60%" fig-align="center"}
 
-[Timer](https://www.youtube.com/watch?v=tJan3T4h5ok)
+
 
 
 ## Reflecting on the design process 
@@ -114,9 +114,24 @@ clothespins)?
 :::
 
 
+### Reflecting on the design process 
 
 
-# The design of mechatronic systems
+![](figures/Proto-process-01.png){width="65%" fig-align="center"}
+
+
+
+### Prototyping is about failure !
+
+Having the audacity to dream, experiment, and fail - is required.
+
+![](figures/Proto-process-02.png){width="65%" fig-align="center"}
+
+
+
+
+
+# CI3 -- design of mechatronic systems
 
 ## Why is it important?
 
@@ -203,14 +218,22 @@ Validation of the design hypothesis
 
 ### Technologies at LF2L.
 
+::: {.columns}
+::: {.column}
 
 ![](figures/Tools-00.png){width="20%" }
 
 ![](figures/Tools-03.png){width="20%" }
 
+:::
+::: {.column}
 ![](figures/Tools-04.png){width="20%" }
 
 ![](figures/Tools-01.png){width="20%" }
+
+:::
+:::
+
 
 
 Documentation: [https://fabmanager.lf2l.fr/](https://fabmanager.lf2l.fr/)
@@ -364,9 +387,9 @@ Documentation: [https://fabmanager.lf2l.fr/](https://fabmanager.lf2l.fr/)
 
 ### What benefits ?
 
-![](figures/Prototype-05.png){width="50%" fig-align="center"}
+![](figures/Prototype-05.png){width="90%" fig-align="center"}
 
-## In summary? {.center}
+## In summary {.center}
 
 >Our bodies, physical actions, and use of tools and the environment shape how we think. The act of prototyping engages our bodies and senses in thought and can be faster/easier/better than mental operations alone
 
