@@ -162,9 +162,9 @@ phase de s’assurer de son adéquation avec les besoins attendus.
 ### Avec une approche iteratif ...
 
 ::: {layout="[[45, -5, 55]]"}
-![Cycle en V d'un projet](figures/CM2/Cycle-projet-01-proto.png){width="80%" fig-align="center"}
+![Cycle en V d'un projet](figures/CM2/Cycle-projet-01-proto.png){width="100%" fig-align="center"}
 
-![Cycle iteratif](figures/CM2/Cycle-projet-02.png){width="50%" fig-align="center"}
+![Cycle iteratif](figures/CM2/Cycle-projet-02.png){width="100%" fig-align="center"}
 :::
 
 
@@ -176,7 +176,7 @@ phase de s’assurer de son adéquation avec les besoins attendus.
 
 **Prenez 60 secondes et notez tous les différents types de prototypes pertinents pour le métier *d'Ingénieur de L'innovation***
 
-![](figures/CM2/Wooclap.png){width="50%" fig-align="center"}
+![](figures/CM2/Wooclap.png){width="70%" fig-align="center"}
 
 
 ## Le prototypage : Une vue d'ensemble 
@@ -399,9 +399,16 @@ Les fonctions:
 **Comment voulez-vous positionner ?**
 
 
-
-
 ### Prochaine Séances
 
 **Rentrer en détaille sur les composants de chaque Chaîne**
+
+::: {.columns}
+::: {.column width="45%"}
+![Composants de la chhaîne d'Energie](figures/CM2/Next-1.png)
+:::
+::: {.column width="45%"}
+![Composants de la chaîne d'Information](figures/CM2/Next-2.png)
+:::
+:::
 
