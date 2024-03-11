@@ -1,7 +1,8 @@
 project:
   type: website
   output-dir: docs
-  
+  preview: 
+    port: 4200
 website:
   title: "CI3:" 
   site-url: ""

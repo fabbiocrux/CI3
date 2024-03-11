@@ -1,17 +1,407 @@
 ---
-title: "Chaine d'Information et Energie"
-subtitle: ""
+title: "Conception et Innovation -- CI3"
+subtitle: "Introduction à la conception des systèmes mécatroniques"
+email: "cruzsanc1@univ-lorraine.fr"
+institute: "Université de Lorraine | ENSGSI"
+author: 
+  - "MdC. Fabio Cruz"
+  - "MdC Alaa Hassan"
+date: 16-Feb-2023
+# metadata-files:
+#   - _metadata.yml
+
+format:
+  beamer: 
+    keep-tex: false
+    colorlinks: true
+    classoption: c
+    aspectratio: 169
+    navigation: horizontal
+    theme: Luebeck #AnnArbor
+    toc: true
+    toc-title: "Objetifs de la séance"
+    colortheme: beaver  #seahorse
+    slide-level: 3
+    toc-depth: 3
+    fig-align: center
+editor_options: 
+  chunk_output_type: console
 ---
 
-# Lecture
+# Conception Inventive
+
+## Projet de Conception
 
 
-# Slides
+![](../Photos/Seance 1/CI3-Introduction.jpg){width="70%" fig-align="center"}
 
 
 
-# Idé
+### Auto-évaluation des compétences {.center}
+
+\LARGE
+https://forms.gle/oUqpJMmzPNX2Ax268
+
+![](figures/brave.png){width="40%" fig-align="center"}
 
 
-# Bibliographie
+### Métier d’ingénieur
+
+>"Le métier de base de l'ingénieur consiste à *poser et résoudre de manière toujours plus performante* des **problèmes** souvent complexes, liés à **la conception, à la réalisation et à la mise en oeuvre**, au sein d'une organisation compétitive, de produits, de systèmes ou de services, éventuellement à leur financement et à leur commercialisation. <br>
+À ce titre un ingénieur doit posséder un ensemble de savoirs techniques, économiques, sociaux et humains, reposant sur une solide culture scientifique.
+-- **Commission des Titres d’Ingénieur**.
+
+
+### Projet de Conception
+
+L’agence française de normalisation (AFNOR) définit le projet de la façon suivante :
+
+::: {layout="[[65, -5, 35]]"}
+> «Un projet se définit comme une **démarche spécifique qui permet de structurer méthodiquement une réalité à venir**. <br> Un projet est défini et mis en œuvre pour élaborer la réponse au *besoin d’un utilisateur, d’un client ou d’une clientèle* et il implique un objectif et des actions à entreprendre avec des ressources données».
+
+![](figures/CM2/AFNOR.png)
+:::
+
+### Projet de Conception $\rightarrow$ Vision partagé. 
+
+![](figures/CM2/Conception-00.png){width="80%" fig-align="center"}
+
+-   de mieux définir les exigences,
+-   d’améliorer la qualité de la conception,
+-   de faciliter le développement des systèmes complexes,
+-   de représenter de façon exhaustive le système.
+
+### Ecarts en conception 
+
+![](figures/CM2/Ecarts-00.png){width="80%" fig-align="center"}
+
+### Ecarts en conception
+
+![](figures/CM2/Ecarts-01.png){width="80%" fig-align="center"}
+
+
+### Ecarts en conception
+
+![](figures/CM2/Ecarts-02.png){width="80%" fig-align="center"}
+
+
+### Ecarts en conception
+
+![](figures/CM2/Ecarts-03.png){width="80%" fig-align="center"}
+
+
+### Ecarts en conception
+
+::: columns
+::: {.column width="50%" align="top"}
+- **Système souhaité** $\rightarrow$  fonctions du système et de quantifier ses performances. 
+
+- **Système simulé** $\rightarrow$ modélisé par des lois comportementales, de façon à estimer ses capacités à répondre aux attentes du système souhaité. 
+
+- **Système réel** est la conséquence des choix effectués lors des simulations. Il est alors possible de mesurer les performances réelles et de les comparer aux performances attendues. 
+:::
+
+::: {.column width="50%" align="top"}
+![](figures/CM2/Ecarts-04.png){width="100%" fig-align="center"}
+:::
+:::
+
+**Les écarts entre chaque système font l’objet d’analyses et, le cas échéant, d’une reconfiguration.**
+
+
+
+### Example 1
+
+![](figures/CM2/Escoba.png){width="80%" fig-align="center"}
+
+1. **Domaine du Client**: Quelle est le besoin? ...
+2. **Domaine de la Simulation**: loi physique?
+2. **Domaine du Laboratoire**: Quel type d'Expérimentation? 
+
+
+
+## Cycle de vie d'un projet
+
+
+Un projet comporte globalement 3 phases, connues sous la désignation «3C» : Cadrer - Conduire -
+Conclure. 
+
+:::incremental
+- **Phase de préparation** : il s’agit de l’analyse des besoins et de l’analyse de l’opportunité de
+mener à bien ce projet. Appelée également avant-projet, cette phase aboutit à la rédaction du cahier
+des charges.
+- **Phase de réalisation** : elle débute par la réception du cahier des charges et s’achève à la
+livraison du produit. C’est la phase opérationnelle du projet.
+- **Phase de fin de projet** : le produit est mis en situation de production, et il s’agit dans cette
+phase de s’assurer de son adéquation avec les besoins attendus.
+:::
+
+
+### Cycle en V
+
+![Cycle en V d'un projet](figures/CM2/Cycle-projet-00.png){width="40%" fig-align="center"}
+
+### Cycle en V ... plus detaillé
+
+![Cycle en V d'un projet](figures/CM2/Cycle-projet-01.png){width="80%" fig-align="center"}
+
+### Cycle en V ... (encore) plus detaillé
+
+![Cycle en V d'un projet](figures/CM2/Cycle-projet-012.png){width="80%" fig-align="center"}
+
+
+### oui, mais comment on peut faire cela au ENSGSI? {.center .plain}
+
+
+. . .
+
+![Cycle en V d'un projet](figures/CM2/Cycle-projet-01-proto.png){width="80%" fig-align="center"}
+
+
+
+### Avec une approche iteratif ...
+
+::: {layout="[[45, -5, 55]]"}
+![Cycle en V d'un projet](figures/CM2/Cycle-projet-01-proto.png){width="80%" fig-align="center"}
+
+![Cycle iteratif](figures/CM2/Cycle-projet-02.png){width="50%" fig-align="center"}
+:::
+
+
+
+
+
+# Prototypage {.center}
+
+
+**Prenez 60 secondes et notez tous les différents types de prototypes pertinents pour le métier *d'Ingénieur de L'innovation***
+
+![](figures/CM2/Wooclap.png){width="50%" fig-align="center"}
+
+
+## Le prototypage : Une vue d'ensemble 
+
+1.  Qu'est-ce que le prototypage ?
+2.  Qu'est-ce qu'un prototype ?
+3.  Quel type et quel rôle pour le prototype ?
+4.  Quel benefices du processus ?
+5.  La fidélité et les dimensions des prototypes
+
+### Qu'est-ce que le prototypage ?
+
+“Le processus de création d'artefacts utilisables à différents degrés d'achèvement, afin de répondre à des questions de conception et de communiquer des idées de conception ; avec les utilisateurs dans le contexte de l'utilisation.”
+
+### Qu'est-ce que le prototypage ?
+
+"Le **processus de création** d'artefacts utilisables à différents degrés d'achèvement, afin de répondre à des questions de conception et de communiquer des idées de conception ; avec les utilisateurs dans le contexte de l'utilisation."
+
+![](figures/process-explained-1.jpg){width="60%" fig-align="center"}
+
+### Qu'est-ce que le prototypage ?
+
+"Le processus de création **d'artefacts utilisables** à différents degrés d'achèvement, afin de répondre à des questions de conception et de communiquer des idées de conception ; avec les utilisateurs dans le contexte de l'utilisation."
+
+![](figures/prototyping-01.png){width="45%" fig-align="center"}
+
+### Qu'est-ce que le prototypage ?
+
+"Le processus de création d'artefacts utilisables **à différents degrés d'achèvement**, afin de répondre à des questions de conception et de communiquer des idées de conception ; avec les utilisateurs dans le contexte de l'utilisation."
+
+![](figures/prototyping-02.png){width="55%" fig-align="center"}
+
+### Qu'est-ce que le prototypage ?
+
+"Le processus de création d'artefacts utilisables à différents degrés d'achèvement, **afin de répondre à des questions de conception** et de communiquer des idées de conception ; avec les utilisateurs dans le contexte de l'utilisation."
+
+<br>
+
+::: columns
+::: {.column width="25%"}
+-   Representation
+-   Precision
+-   Interactivité
+-   Evolution
+:::
+
+::: {.column width="70%"}
+![Dyson](figures/prototyping-03.png){fig-align="center"}
+:::
+:::
+
+### Qu'est-ce que le prototypage ?
+
+"Le processus de création d'artefacts utilisables à différents degrés d'achèvement, afin de répondre à des questions de conception et de **communiquer des idées de conception** ; avec les utilisateurs dans le contexte de l'utilisation."
+
+<br>
+
+![](figures/prototyping-04.png){width="60%" fig-align="center"}
+
+### Qu'est-ce que le prototypage ?
+
+"Le processus de création d'artefacts utilisables à différents degrés d'achèvement, afin de répondre à des questions de conception et de communiquer des idées de conception; avec **les utilisateurs dans le contexte de l'utilisation.**"
+
+
+<br>
+
+![](figures/prototyping-05.jpg){width="50%" fig-align="center"}
+
+
+
+## Qu'est-ce qu'un prototype ? {.center}
+
+
+**Un prototype est un artefact tangible qui nécessite une interprétation**.
+
+![](figures/Prototype-00.png){width="80%" fig-align="center"}
+
+
+### Qu'est-ce qu'un prototype ? {.center}
+
+**Les prototypes sont conçus pour répondre à des questions.**.
+
+
+::: {.columns}
+::: {.column width="50%"}
+![](figures/CM2/Cycle-projet-01.png){width="80%" fig-align="center"}
+:::
+::: {.column width="50%"}
+![](figures/Prototype-01.png){width="100%" fig-align="center"}
+:::
+:::
+
+
+
+## Quel type de prototype ?
+
+
+
+::: {.columns}
+::: {.column width="25%"}
+1. Product
+2. Processus
+3. [Service prototype (?)](https://www.youtube.com/watch?v=jTageuhPfAM&t=1s)
+:::
+::: {.column width="75%"}
+![](figures/Prototype-03.png){width="90%" fig-align="center"}
+:::
+:::
+
+
+### Quel rôle pour le prototype ?
+
+::: {.columns}
+::: {.column width="30%"}
+1. **Communcation** 
+2. **Aids in Learning**
+3. **Decision making**
+:::
+::: {.column width="70%"}
+![](figures/Prototype-04.png){width="100%" fig-align="center"}
+:::
+:::
+
+
+### What benefits ?
+
+![](figures/Prototype-05.png){width="90%" fig-align="center"}
+
+
+# Les chaînes fonctionnelles
+
+## Structure des systèmes : Chaîne d'Energie et d'Information
+
+### Système a besoin de ...
+
+#### La **chaîne d’énergie**
+
+Tout système est constitué d’une succession d’éléments permettant de *transmettre l’énergie* depuis la source vers les actionneurs (éléments du système agissant sur la matière d’œuvre). 
+
+. . . 
+
+\noindent\rule{\textwidth}{1pt}
+
+#### La **chaîne d’information**.
+
+Le système adapte son comportement en fonction d’informations sur l’état du système. 
+
+Il s’agit donc de récupérer ces informations, de les traiter et ensuite de communiquer le résultat de ce traitement.
+
+
+
+## La chaîne d’énergie
+
+![](figures/CM2/Chaine-energie.png){width="70%" fig-align="center"}
+
+**Chaque objet technique a besoin d’une énergie pour fonctionner.** 
+
+. . . 
+
+
+Les fonctions:
+
+-   **Alimenter** : constituants permettant l’énergie nécessaire au système
+   -   **Stocker** : certains objets doivent pouvoir stocker de L’énergie en vue de la restituer
+-   **Distribuer** : commander, contrôler et répartir la quantité d’énergie nécessaire
+-   **Convertir** : transformer une énergie en une autre nécessaire à l’effet attendu
+-   **Transmettre** :  acheminer cette énergie convertie de
+façon à la rendre disponible pour l’action à réaliser.
+
+
+### Example
+
+![](figures/CM2/Chaine-energie-example.png){width="80%" fig-align="center"}
+
+
+
+
+## La Chaîne d'Information
+
+### Chaîne d'Information
+
+![](figures/CM2/Chaine-info.png){width="70%" fig-align="center"}
+
+**La chaîne d'information décide des ordres à donner à la chaîne d'énergie.** 
+
+. . . 
+
+Les fonctions:
+
+-   **Acquerir** : renseigne le système et/ou l’utilisateur sur l’état du système.
+-   **Traiter** : manipule ces données de façon à faire évoluer le système.
+-   **Communique** : permet d’acheminer le résultat de ce traitement vers le système (vers la fonction *«Distribuer»* et/ou Opérateur)
+
+
+
+### Structure globale d’un système
+
+![Chaîne d'Information et d'Energie](figures/CM2/Chaine-energie-Info-00.png){width="7cm" fig-align="center"}
+
+
+### Structure globale d’un système $\rightarrow$ Mécanique
+
+![Point vue Mécanique](figures/CM2/Chaine-energie-Info-00-Mecanique.png){width="10cm" fig-align="center"}
+
+
+### Structure globale d’un système $\rightarrow$ Electrique
+
+![Point vue Mécanique](figures/CM2/Chaine-energie-Info-00-Electrique.png){width="10cm" fig-align="center"}
+
+
+### Structure globale d’un système $\rightarrow$ Informatique
+
+![Point vue Informatique](figures/CM2/Chaine-energie-Info-00-Informatique.png){width="10cm" fig-align="center"}
+
+
+### Structure globale d’un système $\rightarrow$ ENSGSI? {.c}
+
+
+\Large 
+**Comment voulez-vous positionner ?**
+
+
+
+
+### Prochaine Séances
+
+**Rentrer en détaille sur les composants de chaque Chaîne**
 
