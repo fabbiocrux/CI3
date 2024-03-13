@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "CM/CM1.html",
-    "href": "CM/CM1.html",
-    "title": "Design and Innovation - CI3-",
-    "section": "",
-    "text": ". . .\nThe word Engineer (Latin Ingeniator) is derived from the Latin words Ingeniare (“to contrive, devise”) and Ingenium (“cleverness”).\n\n\n\n\n\n\n\n\n. . .\nMathematics + Physics → Force, Matter, and Motion.\n\n\n\n\n\nImage source: engineer4free\n\n\n\n\nFormez des équipes de quatre/cinq personnes\n\nDe préférence, avec vos voisins entre les rangs.\n\n\n\n\n\n\nVous avez 18 minutes pour construire une tour autoportante qui supporte des poids calibrés avec les matériaux listées ici →\nNous noterons les tours en fonction de:\n\nIl résiste à au moins un poids: Oui / Non\n\\(Score=heigth_{weigth} * weigth\\)\n\n\n\n\n\n\n\n\n\n\n\nTimer\n\n\n\n\n\n\n\n\n\nWhat strategies did you use to maker your towers?\nHow many towers did you make?\nHow did you learn?\n\n\n\n\n\n\n\n\n\n\nHow many teams sketched out ideas first before starting to build?\nHow many teams tried multiple ideas before settling on a final design?\nHow many teams tried to use the weights during the prototyping process?\nHow many teams used parts in unintentional ways (took apart clothespins)?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHaving the audacity to dream, experiment, and fail - is required."
-  },
-  {
-    "objectID": "CM/CM1.html#learning-goals",
-    "href": "CM/CM1.html#learning-goals",
-    "title": "Design and Innovation - CI3-",
-    "section": "",
-    "text": "Prototyping phases and techniques.\nMechanical design:\n\nDescription of a Kinematic chain\nSimulation of a simple movement transformation system\n\nMajor components of the\n\nFablab, And the Social Innovation approach.\n\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nLearning by Doing !"
-  },
-  {
     "objectID": "references.html",
     "href": "references.html",
     "title": "References",
@@ -21,72 +7,69 @@
     "text": "References\n\n\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "CM/CM2.html",
-    "href": "CM/CM2.html",
-    "title": "Design and Innovation - CI3-",
+    "objectID": "TD/TD2.html",
+    "href": "TD/TD2.html",
+    "title": "TD 2:",
     "section": "",
-    "text": "L’agence française de normalisation (AFNOR) définit le projet de la façon suivante :\n\n\n\n\n\n\n\n«Un projet se définit comme une démarche spécifique qui permet de structurer méthodiquement une réalité à venir.  Un projet est défini et mis en œuvre pour élaborer la réponse au besoin d’un utilisateur, d’un client ou d’une clientèle et il implique un objectif et des actions à entreprendre avec des ressources données».\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nde mieux définir les exigences,\nd’améliorer la qualité de la conception,\nde faciliter le développement des systèmes complexes,\nde représenter de façon exhaustive le système.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSystème souhaité \\(\\rightarrow\\) fonctions du système et de quantifier ses performances.\nSystème simulé \\(\\rightarrow\\) modélisé par des lois comportementales, de façon à estimer ses capacités à répondre aux attentes du système souhaité.\nSystème réel est la conséquence des choix effectués lors des simulations. Il est alors possible de mesurer les performances réelles et de les comparer aux performances attendues.\n\n\n\n\n\n\n\n\n\nLes écarts entre chaque système font l’objet d’analyses et, le cas échéant, d’une reconfiguration.\n\n\n\n\n\n\n\n\n\nDomaine du Client: Quelle est le besoin? …\nDomaine de la Simulation: Quelle lois?\nDomaine du Laboratoire: Quelle type d’Expérimentation?\n\n\n\n\n\nUn projet comporte globalement 3 phases, connues sous la désignation «3C» : Cadrer - Conduire - Conclure.\n\n\nPhase de préparation : il s’agit de l’analyse des besoins et de l’analyse de l’opportunité de mener à bien ce projet. Appelée également avant-projet, cette phase aboutit à la rédaction du cahier des charges.\nPhase de réalisation : elle débute par la réception du cahier des charges et s’achève à la livraison du produit. C’est la phase opérationnelle du projet.\nPhase de fin de projet : le produit est mis en situation de production, et il s’agit dans cette phase de s’assurer de son adéquation avec les besoins attendus.",
+    "text": "Back to top",
     "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
+      "Travaux Dirigés",
+      "TD 2:"
     ]
   },
   {
-    "objectID": "CM/CM5.html",
-    "href": "CM/CM5.html",
-    "title": "Elements de Machines I",
-    "section": "",
-    "text": "1 Lecture\n\n\n2 Slides\n\n\n3 Idé\n\n\n4 Bibliographie\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "CM/CM6.html",
-    "href": "CM/CM6.html",
-    "title": "Elements de Machines II",
-    "section": "",
-    "text": "1 Lecture\n\n\n2 Slides\n\n\n3 Idé\n\n\n4 Bibliographie\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "TP/TP6.html",
-    "href": "TP/TP6.html",
-    "title": "TP 6:",
+    "objectID": "TP/TP7.html",
+    "href": "TP/TP7.html",
+    "title": "TP 7:",
     "section": "",
     "text": "Back to top",
     "crumbs": [
       "Travaux Pratiques",
-      "TP 6:"
+      "TP 7:"
     ]
   },
   {
-    "objectID": "TP/TP5.html",
-    "href": "TP/TP5.html",
-    "title": "TP 5:",
+    "objectID": "TP/TP4.html",
+    "href": "TP/TP4.html",
+    "title": "TP 4:",
     "section": "",
     "text": "Back to top",
     "crumbs": [
       "Travaux Pratiques",
-      "TP 5:"
+      "TP 4:"
     ]
   },
   {
-    "objectID": "TP/TP2.html",
-    "href": "TP/TP2.html",
-    "title": "TP 2:",
+    "objectID": "TP/TP1.html",
+    "href": "TP/TP1.html",
+    "title": "TP 1:",
     "section": "",
     "text": "Back to top",
     "crumbs": [
       "Travaux Pratiques",
-      "TP 2:"
+      "TP 1:"
     ]
   },
   {
-    "objectID": "TP/TP8.html",
-    "href": "TP/TP8.html",
-    "title": "TP 8:",
+    "objectID": "TP/TP3.html",
+    "href": "TP/TP3.html",
+    "title": "TP 3:",
     "section": "",
     "text": "Back to top",
     "crumbs": [
       "Travaux Pratiques",
-      "TP 8:"
+      "TP 3:"
+    ]
+  },
+  {
+    "objectID": "TP/TP9.html",
+    "href": "TP/TP9.html",
+    "title": "TP 9:",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "Travaux Pratiques",
+      "TP 9:"
     ]
   },
   {
@@ -123,558 +106,83 @@
     ]
   },
   {
-    "objectID": "TP/TP9.html",
-    "href": "TP/TP9.html",
-    "title": "TP 9:",
+    "objectID": "TP/TP8.html",
+    "href": "TP/TP8.html",
+    "title": "TP 8:",
     "section": "",
     "text": "Back to top",
     "crumbs": [
       "Travaux Pratiques",
-      "TP 9:"
+      "TP 8:"
     ]
   },
   {
-    "objectID": "TP/TP3.html",
-    "href": "TP/TP3.html",
-    "title": "TP 3:",
+    "objectID": "TP/TP2.html",
+    "href": "TP/TP2.html",
+    "title": "TP 2:",
     "section": "",
     "text": "Back to top",
     "crumbs": [
       "Travaux Pratiques",
-      "TP 3:"
+      "TP 2:"
     ]
   },
   {
-    "objectID": "TP/TP1.html",
-    "href": "TP/TP1.html",
-    "title": "TP 1:",
+    "objectID": "TP/TP5.html",
+    "href": "TP/TP5.html",
+    "title": "TP 5:",
     "section": "",
     "text": "Back to top",
     "crumbs": [
       "Travaux Pratiques",
-      "TP 1:"
+      "TP 5:"
     ]
   },
   {
-    "objectID": "TP/TP4.html",
-    "href": "TP/TP4.html",
-    "title": "TP 4:",
+    "objectID": "TP/TP6.html",
+    "href": "TP/TP6.html",
+    "title": "TP 6:",
     "section": "",
     "text": "Back to top",
     "crumbs": [
       "Travaux Pratiques",
-      "TP 4:"
+      "TP 6:"
     ]
   },
   {
-    "objectID": "TP/TP7.html",
-    "href": "TP/TP7.html",
-    "title": "TP 7:",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\n             Introduction à la conception de système mécatronique\n         ",
     "section": "",
-    "text": "Back to top",
-    "crumbs": [
-      "Travaux Pratiques",
-      "TP 7:"
-    ]
+    "text": "Conception et Innovation\n         \n         \n             “Think with your hands, build something or ty something, then talk about it, NOT the Reverse.” David Kelly, Founder IDEO & Standford Deisgn School\n         \n         \n         \n            Cours Magistraux            \n            Guide de Travaux Dirigés"
   },
   {
-    "objectID": "TD/TD2.html",
-    "href": "TD/TD2.html",
-    "title": "TD 2:",
-    "section": "",
-    "text": "Back to top",
-    "crumbs": [
-      "Travaux Dirigés",
-      "TD 2:"
-    ]
+    "objectID": "index.html#instructors",
+    "href": "index.html#instructors",
+    "title": "\n             Introduction à la conception de système mécatronique\n         ",
+    "section": "1 Instructors",
+    "text": "1 Instructors\n\n   MdC. Alaa Hassan\n   Dr. Fabio A Cruz\n   ENSGSI\n   Schedule an appointment"
   },
   {
-    "objectID": "CM/CM4.html",
-    "href": "CM/CM4.html",
-    "title": "Introduction aux Système Mécatroniques II",
-    "section": "",
-    "text": "1 Lecture\n\n\n2 Slides\n\n\n3 Idé\n\n\n4 Bibliographie\n\n\n\n\n Back to top"
+    "objectID": "index.html#course-details",
+    "href": "index.html#course-details",
+    "title": "\n             Introduction à la conception de système mécatronique\n         ",
+    "section": "2 Course details",
+    "text": "2 Course details\n\n   Thursdays\n   January 9–May 2, 2023\n   7:15–9:45 PM\n   ENSGSI"
   },
   {
-    "objectID": "CM/CM3.html",
-    "href": "CM/CM3.html",
-    "title": "Introduction aux Système Mécatroniques I",
-    "section": "",
-    "text": "1 Lecture\n\n\n2 Slides\n\n\n3 Idé\n\n\n4 Bibliographie\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "CM/CM1.html#design-and-innnovation-1",
-    "href": "CM/CM1.html#design-and-innnovation-1",
-    "title": "Design and Innovation - CI3-",
-    "section": "Design and Innnovation",
-    "text": "Design and Innnovation\nWhy is it important for you as futur Engineers?\nWhy is it important for you as futur Engineers?\n\n\nIdea → Mock-up → Proof-of-Concept → Prototype\nTo be able to choose the most appropriate design tools.\n\n\n\n\nWhy is it important for you as futur Engineers?\n\n\nIdea → Mock-up → Proof-of-Concept → Prototype\nTo be able to choose the most appropriate design tools.\n\n\n\nMain goal\n\nGive you the basic skills to be able to materialize a conceptual idea into an intermediate mechatronic design object for a given concept.\nLearn technologies available at the Lorraine Fab Living Lab. A\nA scientific and technical culture needed to independently design and build a prototype of a functional mechanical system including a control section.\n\nSpecific learning goals\n\n\n\nPrototyping phases and techniques.\nMechanical design:\n\nCAD Modelling\nDescription of a Kinematic chain\nSimulation of a simple movement transformation system\n\nMajor components of the\n\nFablabs and the Social Innovation approach.\n\n\n\n\n\n\n\n\nLearning by Doing !",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#team",
-    "href": "CM/CM1.html#team",
-    "title": "Design and Innovation - CI3-",
-    "section": "Team",
-    "text": "Team\n\n\nFabio\n\nAlaa",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#what-ne-expect-from-you",
-    "href": "CM/CM1.html#what-ne-expect-from-you",
-    "title": "Design and Innovation - CI3-",
-    "section": "What ne expect from you",
-    "text": "What ne expect from you",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#planning",
-    "href": "CM/CM1.html#planning",
-    "title": "Design and Innovation - CI3-",
-    "section": "Planning",
-    "text": "Planning\n\n\n\nSession\nCol2\nCol3",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#evaluation",
-    "href": "CM/CM1.html#evaluation",
-    "title": "Design and Innovation - CI3-",
-    "section": "Evaluation",
-    "text": "Evaluation",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#expectation",
-    "href": "CM/CM1.html#expectation",
-    "title": "Design and Innovation - CI3-",
-    "section": "Expectation",
-    "text": "Expectation",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#lecture-for-the",
-    "href": "CM/CM1.html#lecture-for-the",
-    "title": "Design and Innovation - CI3-",
-    "section": "Lecture for the",
-    "text": "Lecture for the",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#planning-2",
-    "href": "CM/CM1.html#planning-2",
-    "title": "Design and Innovation - CI3-",
-    "section": "Planning",
-    "text": "Planning\n\n\n\nTime\nActivity\n\n\n\n\n13:45 - 14:15\nIntroduction to LF2L and key concepts\n\n\n14:15 - 15:15\nDesign\n\n\n15:15 - 15:30\nBreak 🍏\n\n\n15:30 - 16:00\nFabricate\n\n\n16:00 - 16:45\nDocumentate",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#goal-of-the-day",
-    "href": "CM/CM1.html#goal-of-the-day",
-    "title": "Design and Innovation - CI3-",
-    "section": "2.2 Goal of the day",
-    "text": "2.2 Goal of the day\n\n\nDesign\n\n\n\n\n\nhttps://inkscape.org/\n\nFabricate \nhttps://fabmanager.lf2l.fr/\n\nDocumentation"
-  },
-  {
-    "objectID": "CM/CM1.html#what-is-the-meaning-of-engineer-for-you",
-    "href": "CM/CM1.html#what-is-the-meaning-of-engineer-for-you",
-    "title": "Design and Innovation - CI3-",
-    "section": "What is the meaning of “Engineer” for you ?",
-    "text": "What is the meaning of “Engineer” for you ?\n\nThe word Engineer (Latin Ingeniator) is derived from the Latin words Ingeniare (“to contrive, devise”) and Ingenium (“cleverness”).",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#fab-lab-and-how-to-do-almost-anything",
-    "href": "CM/CM1.html#fab-lab-and-how-to-do-almost-anything",
-    "title": "Design and Innovation - CI3-",
-    "section": "Fab Lab and how to do (almost) anything",
-    "text": "Fab Lab and how to do (almost) anything\n\n\nSource: https://cba.mit.edu/classes/",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#unleash-your-creativity-in-a-fab-lab.-feb-2006",
-    "href": "CM/CM1.html#unleash-your-creativity-in-a-fab-lab.-feb-2006",
-    "title": "Design and Innovation - CI3-",
-    "section": "Unleash your creativity in a Fab Lab. Feb 2006",
-    "text": "Unleash your creativity in a Fab Lab. Feb 2006\n\n\n\n\n\n\nSource: https://www.ted.com/talks/neil_gershenfeld_unleash_your_creativity_in_a_fab_lab",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#what-is-a-fablab",
-    "href": "CM/CM1.html#what-is-a-fablab",
-    "title": "Design and Innovation - CI3-",
-    "section": "What is a Fablab?",
-    "text": "What is a Fablab?\n\nSource: https://fab.cba.mit.edu/about/charter/",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#personal-fabrication",
-    "href": "CM/CM1.html#personal-fabrication",
-    "title": "Design and Innovation - CI3-",
-    "section": "Personal Fabrication",
-    "text": "Personal Fabrication\nProducts for a market of one person\n  Source:  Avec Airbus et un fablab, il fabrique sa prothèse high-tech\nhttps://www.facebook.com/PrintMyLeg/",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#personal-fabrication-1",
-    "href": "CM/CM1.html#personal-fabrication-1",
-    "title": "Design and Innovation - CI3-",
-    "section": "Personal Fabrication",
-    "text": "Personal Fabrication\nProducts for a market of one person\n\nFablab and Handicap:  https://myhumankit.org/",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#personal-fabrication-2",
-    "href": "CM/CM1.html#personal-fabrication-2",
-    "title": "Design and Innovation - CI3-",
-    "section": "Personal Fabrication",
-    "text": "Personal Fabrication\nProducts for a market of one person\n\nFablab and Music:  https://lowtechlab.org/fr",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#personal-fabrication-3",
-    "href": "CM/CM1.html#personal-fabrication-3",
-    "title": "Design and Innovation - CI3-",
-    "section": "Personal Fabrication",
-    "text": "Personal Fabrication\nProducts for a market of one person\n\nFablab and Music",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#personal-fabrication-4",
-    "href": "CM/CM1.html#personal-fabrication-4",
-    "title": "Design and Innovation - CI3-",
-    "section": "Personal Fabrication",
-    "text": "Personal Fabrication\nProducts for a market of one person\n\nFablab and Music\nSource: Matt Keeter - Fab Boombox",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#personal-fabrication-5",
-    "href": "CM/CM1.html#personal-fabrication-5",
-    "title": "Design and Innovation - CI3-",
-    "section": "Personal Fabrication",
-    "text": "Personal Fabrication\nProducts for a market of one person\n\nFablab et Fashion:  https://class.textile-academy.org/",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#personal-fabrication-6",
-    "href": "CM/CM1.html#personal-fabrication-6",
-    "title": "Design and Innovation - CI3-",
-    "section": "Personal Fabrication",
-    "text": "Personal Fabrication\nProducts for a market of one person\n\nFablab and Agriculture:  https://www.latelierpaysan.org/",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#personal-fabrication-7",
-    "href": "CM/CM1.html#personal-fabrication-7",
-    "title": "Design and Innovation - CI3-",
-    "section": "Personal Fabrication",
-    "text": "Personal Fabrication\nProducts for a market of one person\n\nFablab and Architecure:  Fablab House Barcelone",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#new-approch-for-engineering",
-    "href": "CM/CM1.html#new-approch-for-engineering",
-    "title": "Design and Innovation - CI3-",
-    "section": "New approch for engineering…",
-    "text": "New approch for engineering…",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#before",
-    "href": "CM/CM1.html#before",
-    "title": "Design and Innovation - CI3-",
-    "section": "Before",
-    "text": "Before",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#before-1",
-    "href": "CM/CM1.html#before-1",
-    "title": "Design and Innovation - CI3-",
-    "section": "Before",
-    "text": "Before",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#materialize-citizen-innovation",
-    "href": "CM/CM1.html#materialize-citizen-innovation",
-    "title": "Design and Innovation - CI3-",
-    "section": "Materialize Citizen Innovation?",
-    "text": "Materialize Citizen Innovation?",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#role-of-lf2l",
-    "href": "CM/CM1.html#role-of-lf2l",
-    "title": "Design and Innovation - CI3-",
-    "section": "Role of LF2L",
-    "text": "Role of LF2L\nResearch platform for prospective assessment of innovative usages",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#prototyping-why-it-matters",
-    "href": "CM/CM1.html#prototyping-why-it-matters",
-    "title": "Design and Innovation - CI3-",
-    "section": "Prototyping … Why it Matters ?",
-    "text": "Prototyping … Why it Matters ?",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#why-prototyping-matters",
-    "href": "CM/CM1.html#why-prototyping-matters",
-    "title": "Design and Innovation - CI3-",
-    "section": "Why Prototyping Matters ?",
-    "text": "Why Prototyping Matters ?\n\n\n“Humans are really interesting. If you show them your idea in a prototype form, very few people will tell you what’s right about it. But everybody will tell you what’s wrong with it.”\n\n\nDavid Kelly, IDEO",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#what-is-prototyping-1",
-    "href": "CM/CM1.html#what-is-prototyping-1",
-    "title": "Design and Innovation - CI3-",
-    "section": "What is Prototyping ?",
-    "text": "What is Prototyping ?\n“The process of creating usable artifacts at a variety of fidelities of completion, in order to answer design questions and communicate design ideas; with users in the context of use.”",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#what-is-prototyping-2",
-    "href": "CM/CM1.html#what-is-prototyping-2",
-    "title": "Design and Innovation - CI3-",
-    "section": "What is Prototyping ?",
-    "text": "What is Prototyping ?\n“The process of creating usable artifacts at a variety of fidelities of completion, in order to answer design questions and communicate design ideas; with users in the context of use.”",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#what-is-prototyping-3",
-    "href": "CM/CM1.html#what-is-prototyping-3",
-    "title": "Design and Innovation - CI3-",
-    "section": "What is Prototyping ?",
-    "text": "What is Prototyping ?\n“The process of creating usable artifacts at a variety of fidelities of completion, in order to answer design questions and communicate design ideas; with users in the context of use.”",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#what-is-prototyping-4",
-    "href": "CM/CM1.html#what-is-prototyping-4",
-    "title": "Design and Innovation - CI3-",
-    "section": "What is Prototyping ?",
-    "text": "What is Prototyping ?\n“The process of creating usable artifacts at a variety of fidelities of completion, in order to answer design questions and communicate design ideas; with users in the context of use.”",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#what-is-prototyping-5",
-    "href": "CM/CM1.html#what-is-prototyping-5",
-    "title": "Design and Innovation - CI3-",
-    "section": "What is Prototyping ?",
-    "text": "What is Prototyping ?\n“The process of creating usable artifacts at a variety of fidelities of completion, in order to answer design questions and communicate design ideas; with users in the context of use.”\n\n\n\n\nRepresentation\nPrecision\nInteractivity\nEvolution\n\n\n\n\n\nDyson",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#what-is-prototyping-6",
-    "href": "CM/CM1.html#what-is-prototyping-6",
-    "title": "Design and Innovation - CI3-",
-    "section": "What is Prototyping ?",
-    "text": "What is Prototyping ?\n“The process of creating usable artifacts at a variety of fidelities of completion, in order to answer design questions and communicate design ideas; with users in the context of use.”",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#what-is-prototyping-7",
-    "href": "CM/CM1.html#what-is-prototyping-7",
-    "title": "Design and Innovation - CI3-",
-    "section": "What is Prototyping ?",
-    "text": "What is Prototyping ?\n“The process of creating usable artifacts at a variety of fidelities of completion, in order to answer design questions and communicate design ideas; with users in the context of use.”",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#what-is-a-prototype",
-    "href": "CM/CM1.html#what-is-a-prototype",
-    "title": "Design and Innovation - CI3-",
-    "section": "What is a Prototype?",
-    "text": "What is a Prototype?\nWe define a prototype as a concrete representation of part or all of an interactive system.\nA prototype is a tangible artifact, not an abstract description that requires interpretation.\nDesigners, as well as managers, developers, customers and end users, can use these artifacts to envision and reflect upon the final system.”",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM1.html#questions",
-    "href": "CM/CM1.html#questions",
-    "title": "Design and Innovation - CI3-",
-    "section": "Questions?",
-    "text": "Questions?",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
+    "objectID": "index.html#contactez-nous",
+    "href": "index.html#contactez-nous",
+    "title": "\n             Introduction à la conception de système mécatronique\n         ",
+    "section": "3 Contactez nous",
+    "text": "3 Contactez nous\nL’e-mail et Microsoft teams sont les meilleurs moyens de nous contacter. On essai de répondre à tous les courriels et messages liés au cours dans les XX heures (vraiment), mais rappelez-vous aussi que la vie peut être occupée et chaotique pour tout le monde (y compris nous !), alors si je ne réponds pas tout de suite, ne vous inquiétez pas !"
   },
   {
     "objectID": "CM/CM1.html#engineering-and-mechanics",
     "href": "CM/CM1.html#engineering-and-mechanics",
     "title": "Design and Innovation - CI3-",
-    "section": "",
-    "text": ". . .\nThe word Engineer (Latin Ingeniator) is derived from the Latin words Ingeniare (“to contrive, devise”) and Ingenium (“cleverness”).\n\n\n\n\n\n\n\n\n. . .\nMathematics + Physics → Force, Matter, and Motion.\n\n\n\n\n\nImage source: engineer4free"
-  },
-  {
-    "objectID": "CM/CM1.html#what-is-prototyping",
-    "href": "CM/CM1.html#what-is-prototyping",
-    "title": "Design and Innovation - CI3-",
-    "section": "2.1 What is Prototyping ?",
-    "text": "2.1 What is Prototyping ?\n““The process of creating usable artifacts at a variety of fidelities of completion, in order to answer design questions and communicate design ideas; with users in the context of use.”\n\n2.1.1 What is Prototyping ?\n“The process of creating usable artifacts at a variety of fidelities of completion, in order to answer design questions and communicate design ideas; with users in the context of use.”\n\n\n2.1.2 What is Prototyping ?\n“The process of creating usable artifacts at a variety of fidelities of completion, in order to answer design questions and communicate design ideas; with users in the context of use.”\n{ width=“80%”” fig-align=“center”}"
-  },
-  {
-    "objectID": "CM/CM2.html#prototyping-an-overview-1",
-    "href": "CM/CM2.html#prototyping-an-overview-1",
-    "title": "Design and Innovation - CI3-",
-    "section": "Prototyping: An overview ?",
-    "text": "Prototyping: An overview ?\n\nWhat is Prototyping ?\nWhat is a prototype?\nWhy prototype?\nWhen to prototype?\nThe fidelity and dimensions of prototypes\nHow to prototype. The “science” of prototyping—emerging research and industry examples supporting best practices in prototyping"
-  },
-  {
-    "objectID": "CM/CM2.html#in-summary",
-    "href": "CM/CM2.html#in-summary",
-    "title": "Design and Innovation - CI3-",
-    "section": "In summary",
-    "text": "In summary\n\nOur bodies, physical actions, and use of tools and the environment shape how we think. The act of prototyping engages our bodies and senses in thought and can be faster/easier/better than mental operations alone"
-  },
-  {
-    "objectID": "CM/CM2.html#lintêret-de-ce-cours-de-conception",
-    "href": "CM/CM2.html#lintêret-de-ce-cours-de-conception",
-    "title": "Design and Innovation - CI3-",
-    "section": "2.1 L’intêret de ce cours de conception:",
-    "text": "2.1 L’intêret de ce cours de conception:\n\n\n\n\n\n\nde mieux définir les exigences,\nd’améliorer la qualité de la conception,\nde faciliter le développement des systèmes complexes,\nde représenter de façon exhaustive le système.\n\n\n2.1.1 Ecarts en conception\n\n\n\n\n\n\n\n2.1.2 Ecarts en conception\n\n\n\n\n\n\n\n2.1.3 Ecarts en conception\n\n\n\n\n\n\n\n2.1.4 Ecarts en conception\n\n\n\n\n\n\n\n2.1.5 Projet de Conception\nL’agence française de normalisation (AFNOR) définit le projet de la façon suivante :\n\n\n\n\n\n\n\n«Un projet se définit comme une démarche spécifique qui permet de structurer méthodiquement une réalité à venir.  Un projet est défini et mis en œuvre pour élaborer la réponse au besoin d’un utilisateur, d’un client ou d’une clientèle et il implique un objectif et des actions à entreprendre avec des ressources données»."
-  },
-  {
-    "objectID": "CM/CM2.html#section",
-    "href": "CM/CM2.html#section",
-    "title": "Design and Innovation - CI3-",
-    "section": "2.1 ",
-    "text": "2.1",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM2.html#section-1",
-    "href": "CM/CM2.html#section-1",
-    "title": "Design and Innovation - CI3-",
-    "section": "3.1 ",
-    "text": "3.1"
-  },
-  {
-    "objectID": "CM/CM2.html#informational-and-energy-chains",
-    "href": "CM/CM2.html#informational-and-energy-chains",
-    "title": "Design and Innovation - CI3-",
-    "section": "Informational and Energy chains",
-    "text": "Informational and Energy chains\n\nChaîne d’Information et d’Energie",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM2.html#les-chaînes-dénergie",
-    "href": "CM/CM2.html#les-chaînes-dénergie",
-    "title": "Design and Innovation - CI3-",
-    "section": "Les chaînes d’énergie",
-    "text": "Les chaînes d’énergie\nChaque objet technique a besoin d’une énergie pour fonctionner.\nIl n’est pas possible en général de d’utiliser dans sa forme initiale. Il faut donc la stocker, réaliser sa commande d’utilisation, la transporter aux différents éléments, la convertir, l’utiliser. Les composants internes de cet objet peuvent être représentés sous forme de blocs ayant chacun une fonction élémentaire qui agit sur l’énergie.\n\nAlimenter : apporter l’énergie nécessaire au système\nStocker : certains objets doivent pouvoir stocker de L’énergie en vue de la restituer\nDistribuer : commander, contrôler et répartir la quantité d’énergie nécessaire\nConvertir : transformer une énergie en une autre nécessaire à l’effet attendu\nTransmettre : transporter l’énergie d’un lieu à un autre",
+    "section": "Engineering and Mechanics",
+    "text": "Engineering and Mechanics",
     "crumbs": [
       "Cours Magistraux",
       "Design and Innovation - CI3-"
@@ -684,96 +192,33 @@
     "objectID": "CM/CM1.html#challenge",
     "href": "CM/CM1.html#challenge",
     "title": "Design and Innovation - CI3-",
-    "section": "",
-    "text": "Formez des équipes de quatre/cinq personnes\n\nDe préférence, avec vos voisins entre les rangs.\n\n\n\n\n\n\nVous avez 18 minutes pour construire une tour autoportante qui supporte des poids calibrés avec les matériaux listées ici →\nNous noterons les tours en fonction de:\n\nIl résiste à au moins un poids: Oui / Non\n\\(Score=heigth_{weigth} * weigth\\)\n\n\n\n\n\n\n\n\n\n\n\nTimer"
+    "section": "Challenge",
+    "text": "Challenge\nFormez des équipes de quatre/cinq personnes\n\nDe préférence, avec vos voisins entre les rangs.",
+    "crumbs": [
+      "Cours Magistraux",
+      "Design and Innovation - CI3-"
+    ]
   },
   {
     "objectID": "CM/CM1.html#reflecting-on-the-design-process",
     "href": "CM/CM1.html#reflecting-on-the-design-process",
     "title": "Design and Innovation - CI3-",
-    "section": "",
-    "text": "What strategies did you use to maker your towers?\nHow many towers did you make?\nHow did you learn?\n\n\n\n\n\n\n\n\n\n\nHow many teams sketched out ideas first before starting to build?\nHow many teams tried multiple ideas before settling on a final design?\nHow many teams tried to use the weights during the prototyping process?\nHow many teams used parts in unintentional ways (took apart clothespins)?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHaving the audacity to dream, experiment, and fail - is required."
+    "section": "Reflecting on the design process",
+    "text": "Reflecting on the design process\n\n\n\nWhat strategies did you use to maker your towers?\nHow many towers did you make?\nHow did you learn?",
+    "crumbs": [
+      "Cours Magistraux",
+      "Design and Innovation - CI3-"
+    ]
   },
   {
     "objectID": "CM/CM1.html#why-is-it-important",
     "href": "CM/CM1.html#why-is-it-important",
     "title": "Design and Innovation - CI3-",
-    "section": "2.1 Why is it important?",
-    "text": "2.1 Why is it important?\n\n2.1.1 Why is it important for you as futur Engineers in Innovation ?\n. . .\n\n\n“Humans are really interesting. If you show them your idea in a prototype form, very few people will tell you what’s right about it. But everybody will tell you what’s wrong with it.”\n\n\nDavid Kelly, IDEO\n\n\n\n\n2.1.2 Why is it important for you as futur Engineers in Innovation?\n\n\nIdea → Mock-up → Proof-of-Concept → Prototype\nTo be able to choose the most appropriate design tools.\nFail as soon as possible.\n\n\n\n\n\n\n\n\n\n2.1.3 Fail with purpose !!\nValidation of the design hypothesis\n\n\n\n\n\n\n\n2.1.4 Learning goals of the module\n\n\nGive you the basic skills to be able to materialize a conceptual idea into an intermediate mechatronic design object for a given concept.\nLearn the prototyping technologies available at the Lorraine Fab Living Lab.\nA scientific and technical baseline to independently design and build a prototype. –Do-It-Yourself-\n\n\n\n\n2.1.5 Specific learning goals\n\n\n\nPrototyping phases and techniques.\nMechatronics design:\n\nCAD Modeling\nDescription of a Kinematic chain\nControl\nSimulation of a simple movement transformation system\n\nFablabs and the social innovation approach.\n\n\n\n\n\n\n\n\nLearning by Doing !\n\n\n\n\n\n\n\n\n\n\n2.1.6 Organization of the Module Planning\n\n\n\n\n\n\n\nTime\nActivity\n\n\n\n\n7 CM\nIntroduction to Mechatronic Design\n\n\n2 TD\nApplication of theory\n\n\nTP 1-4\nLearn Design Tools: CAD, Laser Cut, 3D Printing\n\n\nTP 5-9\nProjet developed by you 🍏\n\n\n\n\n\n2.1.7 Technologies at LF2L.\n\n\n\n\n\n\n\n\n\nDocumentation: https://fabmanager.lf2l.fr/\n\n\n2.1.8 Evaluation of the Module\n\n2 tests\n\n\n\n\n2.1.8.1 Individual\n\nIndividual test (Weight: 2/3)\n\n\n\n\n2.1.8.2 Group\n\nPresentation of the mechanism\n\n\n\n\n\n\n2.1.9 Compromises\nWhat We expect from you\nWhat do you expect from us"
-  },
-  {
-    "objectID": "CM/CM2.html#projet-de-conception-1",
-    "href": "CM/CM2.html#projet-de-conception-1",
-    "title": "Design and Innovation - CI3-",
-    "section": "Projet de Conception",
-    "text": "Projet de Conception\n\n\nde mieux définir les exigences,\nd’améliorer la qualité de la conception,\nde faciliter le développement des systèmes complexes,\nde représenter de façon exhaustive le système.",
+    "section": "Why is it important?",
+    "text": "Why is it important?",
     "crumbs": [
       "Cours Magistraux",
       "Design and Innovation - CI3-"
     ]
-  },
-  {
-    "objectID": "CM/CM2.html#ecarts-en-conception-4",
-    "href": "CM/CM2.html#ecarts-en-conception-4",
-    "title": "Design and Innovation - CI3-",
-    "section": "2.2 Ecarts en conception",
-    "text": "2.2 Ecarts en conception\n\n\nUn système souhaité \\(\\rightarrow\\) sera décrit par les fonctions du système et de quantifier ses performances. Un système simulé est modélisé par des lois comportementales, de façon à estimer ses capacités à répondre aux attentes du système souhaité. Un système réel est la conséquence des choix effectués lors des simulations. Il est alors possible de mesurer les performances réelles et de les comparer aux performances attendues. Les écarts entre chaque système font l’objet d’analyses et, le cas échéant, d’une reconfiguration."
-  },
-  {
-    "objectID": "CM/CM2.html#projet-de-conception",
-    "href": "CM/CM2.html#projet-de-conception",
-    "title": "Design and Innovation - CI3-",
-    "section": "Projet de Conception",
-    "text": "Projet de Conception"
-  },
-  {
-    "objectID": "CM/CM2.html#cycle-de-vie-dun-projet",
-    "href": "CM/CM2.html#cycle-de-vie-dun-projet",
-    "title": "Design and Innovation - CI3-",
-    "section": "Cycle de vie d’un projet",
-    "text": "Cycle de vie d’un projet\nUn projet comporte globalement 3 phases, connues sous la désignation «3C» : Cadrer - Conduire - Conclure.\n\n\nPhase de préparation : il s’agit de l’analyse des besoins et de l’analyse de l’opportunité de mener à bien ce projet. Appelée également avant-projet, cette phase aboutit à la rédaction du cahier des charges.\nPhase de réalisation : elle débute par la réception du cahier des charges et s’achève à la livraison du produit. C’est la phase opérationnelle du projet.\nPhase de fin de projet : le produit est mis en situation de production, et il s’agit dans cette phase de s’assurer de son adéquation avec les besoins attendus."
-  },
-  {
-    "objectID": "CM/CM2.html#test",
-    "href": "CM/CM2.html#test",
-    "title": "Design and Innovation - CI3-",
-    "section": "test",
-    "text": "test",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM2.html#système",
-    "href": "CM/CM2.html#système",
-    "title": "Design and Innovation - CI3-",
-    "section": "Système",
-    "text": "Système\nTout système est constitué d’une succession d’éléments permettant de *transmettre l’énergie depuis la source vers les actionneurs (éléments du système agissant sur la matière d’œuvre).\nL’ensemble de ces éléments constitue la chaîne d’énergie\n–\nLe système adapte son comportement en fonction d’informations sur l’état du système. Il s’agit donc de récupérer ces informations, de les traiter et ensuite de communiquer le résultat de ce traitement. L’ensemble des éléments impliqués constitue la chaîne d’information.",
-    "crumbs": [
-      "Cours Magistraux",
-      "Design and Innovation - CI3-"
-    ]
-  },
-  {
-    "objectID": "CM/CM2.html#structure-des-systèmes-chaîne-denergie-et-dinformation",
-    "href": "CM/CM2.html#structure-des-systèmes-chaîne-denergie-et-dinformation",
-    "title": "Design and Innovation - CI3-",
-    "section": "Structure des systèmes : Chaîne d’Energie et d’Information",
-    "text": "Structure des systèmes : Chaîne d’Energie et d’Information"
-  },
-  {
-    "objectID": "CM/CM2.html#la-chaîne-dénergie-1",
-    "href": "CM/CM2.html#la-chaîne-dénergie-1",
-    "title": "Design and Innovation - CI3-",
-    "section": "La chaîne d’énergie",
-    "text": "La chaîne d’énergie\n\nChaque objet technique a besoin d’une énergie pour fonctionner.\n\nLes fonctions:\n\nAlimenter : constituants permettant l’énergie nécessaire au système\nStocker : certains objets doivent pouvoir stocker de L’énergie en vue de la restituer\nDistribuer : commander, contrôler et répartir la quantité d’énergie nécessaire\nConvertir : transformer une énergie en une autre nécessaire à l’effet attendu\nTransmettre : acheminer cette énergie convertie de façon à la rendre disponible pour l’action à réaliser."
-  },
-  {
-    "objectID": "CM/CM2.html#la-chaîne-dinformation",
-    "href": "CM/CM2.html#la-chaîne-dinformation",
-    "title": "Design and Innovation - CI3-",
-    "section": "La Chaîne d’Information",
-    "text": "La Chaîne d’Information"
   }
 ]

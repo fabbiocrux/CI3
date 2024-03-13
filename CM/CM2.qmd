@@ -1,29 +1,12 @@
 ---
 title: "Conception et Innovation -- CI3"
 subtitle: "Introduction à la conception des systèmes mécatroniques"
-email: "cruzsanc1@univ-lorraine.fr"
-institute: "Université de Lorraine | ENSGSI"
 author: 
   - "MdC. Fabio Cruz"
   - "MdC Alaa Hassan"
-date: 16-Feb-2023
-# metadata-files:
-#   - _metadata.yml
-
-format:
-  beamer: 
-    keep-tex: false
-    colorlinks: true
-    classoption: c
-    aspectratio: 169
-    navigation: horizontal
-    theme: Luebeck #AnnArbor
-    toc: true
-    toc-title: "Objetifs de la séance"
-    colortheme: beaver  #seahorse
-    slide-level: 3
-    toc-depth: 3
-    fig-align: center
+date: 11-Mar-2023
+metadata-files:
+  - _metadata.yml
 editor_options: 
   chunk_output_type: console
 ---

@@ -1,16 +1,9 @@
 ---
 title: "Design and Innovation - CI3-"
 subtitle: "Introduction to the design of mechatronic systems"
-email: "cruzsanc1@univ-lorraine.fr"
-institute: "Université de Lorraine | ENSGSI"
-author: 
-  - "MdC. Fabio Cruz"
-  - "MdC Alaa Hassan"
 date: 16-Feb-2023
 metadata-files:
   - _metadata.yml
-
-toc: true
 ---
 
 
@@ -42,7 +35,7 @@ Image source: [engineer4free](https://www.engineer4free.com/uploads/1/0/2/9/1029
 
 
 
-## Challenge {.center}
+## Challenge {.center background-color="aquamarine"}
 
 **Formez des équipes de quatre/cinq personnes**
 
@@ -164,7 +157,6 @@ David Kelly, IDEO
 ![](figures/OIC-00.png){width="70%" fig-align="center"}
 
 
-
 ### Fail with purpose !!
 
 Validation of the design hypothesis
@@ -173,7 +165,7 @@ Validation of the design hypothesis
 
 
 
-### Learning goals of the module
+## Learning goals of the module
 
 ::: incremental
 1.  Give you the basic skills to be able to materialize a conceptual idea into an intermediate mechatronic design object for a given concept.
@@ -218,20 +210,15 @@ Validation of the design hypothesis
 
 ### Technologies at LF2L.
 
-::: {.columns}
-::: {.column}
 
-![](figures/Tools-00.png){width="20%" }
+::: {layout="[[25,25, 25, 25 ]]"}
+![](figures/Tools-00.png){width="100%" }
 
-![](figures/Tools-03.png){width="20%" }
+![](figures/Tools-03.png){width="100%" }
 
-:::
-::: {.column}
-![](figures/Tools-04.png){width="20%" }
+![](figures/Tools-04.png){width="100%" }
 
-![](figures/Tools-01.png){width="20%" }
-
-:::
+![](figures/Tools-01.png){width="100%" }
 :::
 
 
@@ -241,8 +228,6 @@ Documentation: [https://fabmanager.lf2l.fr/](https://fabmanager.lf2l.fr/)
 
 
 ### Evaluation of the Module
-
-- 2 tests
 
 ::: {.columns}
 ::: {.column}
@@ -256,7 +241,7 @@ Documentation: [https://fabmanager.lf2l.fr/](https://fabmanager.lf2l.fr/)
 #### Group
 
 - Presentation of the mechanism
-
+- Documentation of the mechanism on [https://fabmanager.lf2l.fr/](https://fabmanager.lf2l.fr/) 
 
 :::
 :::
@@ -270,3 +255,7 @@ Documentation: [https://fabmanager.lf2l.fr/](https://fabmanager.lf2l.fr/)
 
 
 
+### Thanks
+
+
+**Next time: 11/03/2024**
