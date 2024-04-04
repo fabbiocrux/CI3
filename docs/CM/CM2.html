@@ -12,7 +12,7 @@
 
   <meta name="author" content="MdC. Fabio Cruz">
   <meta name="author" content="MdC Alaa Hassan">
-  <meta name="dcterms.date" content="2023-03-20">
+  <meta name="dcterms.date" content="2023-03-11">
   <title>CI3: - Conception et Innovation – CI3</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -331,7 +331,7 @@
 
 <section id="title-slide" class="quarto-title-block center">
   <h1 class="title">Conception et Innovation – CI3</h1>
-  <p class="subtitle">Schema Cinématique</p>
+  <p class="subtitle">Introduction à la conception des systèmes mécatroniques</p>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
@@ -349,218 +349,419 @@ MdC Alaa Hassan
 </div>
 </div>
 
-  <p class="date">2023-03-20</p>
+  <p class="date">2023-03-11</p>
 </section><section id="TOC">
 <nav role="doc-toc"> 
 <h2 id="toc-title">Table of contents</h2>
 <ul>
-<li><a href="#/modélisation-des-liaisons-mécaniques" id="/toc-modélisation-des-liaisons-mécaniques">Modélisation des liaisons mécaniques</a>
+<li><a href="#/conception-inventive" id="/toc-conception-inventive">Conception Inventive</a>
 <ul>
-<li><a href="#/définition" id="/toc-définition">Définition</a></li>
-<li><a href="#/solides-indeformables" id="/toc-solides-indeformables">Solides Indeformables</a></li>
-<li><a href="#/repere" id="/toc-repere">Repere</a></li>
-<li><a href="#/degree-de-liberté" id="/toc-degree-de-liberté">Degree de liberté</a></li>
-<li><a href="#/notion-de-liaison" id="/toc-notion-de-liaison">Notion de liaison</a></li>
-<li><a href="#/zones-de-contacts" id="/toc-zones-de-contacts">Zones de Contacts</a></li>
-<li><a href="#/degrés-de-libertéde-liaison-dune-liaison" id="/toc-degrés-de-libertéde-liaison-dune-liaison">Degrés de liberté/de liaison d’une liaison</a></li>
+<li><a href="#/projet-de-conception" id="/toc-projet-de-conception">Projet de Conception</a></li>
+<li><a href="#/cycle-de-vie-dun-projet" id="/toc-cycle-de-vie-dun-projet">Cycle de vie d’un projet</a></li>
 </ul></li>
-<li><a href="#/élaboration-dun-schéma-cinématique" id="/toc-élaboration-dun-schéma-cinématique">Élaboration d’un schéma cinématique</a>
+<li><a href="#/prototypage" id="/toc-prototypage">Prototypage</a>
 <ul>
-<li><a href="#/définition-1" id="/toc-définition-1">Définition</a></li>
+<li><a href="#/le-prototypage-une-vue-densemble" id="/toc-le-prototypage-une-vue-densemble">Le prototypage : Une vue d’ensemble</a></li>
+<li><a href="#/quest-ce-quun-prototype" id="/toc-quest-ce-quun-prototype">Qu’est-ce qu’un prototype ?</a></li>
+<li><a href="#/quel-type-de-prototype" id="/toc-quel-type-de-prototype">Quel type de prototype ?</a></li>
 </ul></li>
-<li><a href="#/example" id="/toc-example">Example</a></li>
+<li><a href="#/les-chaînes-fonctionnelles" id="/toc-les-chaînes-fonctionnelles">Les chaînes fonctionnelles</a>
+<ul>
+<li><a href="#/structure-des-systèmes-chaîne-denergie-et-dinformation" id="/toc-structure-des-systèmes-chaîne-denergie-et-dinformation">Structure des systèmes : Chaîne d’Energie et d’Information</a></li>
+<li><a href="#/la-chaîne-dénergie-1" id="/toc-la-chaîne-dénergie-1">La chaîne d’énergie</a></li>
+<li><a href="#/la-chaîne-dinformation" id="/toc-la-chaîne-dinformation">La Chaîne d’Information</a></li>
+</ul></li>
 </ul>
 </nav>
 </section>
 <section>
-<section id="modélisation-des-liaisons-mécaniques" class="title-slide slide level1 center">
-<h1>Modélisation des liaisons mécaniques</h1>
+<section id="conception-inventive" class="title-slide slide level1 center">
+<h1>Conception Inventive</h1>
 
 </section>
-<section id="définition" class="title-slide slide level2 center">
-<h2>Définition</h2>
-<p><strong>Mécanisme</strong>:</p>
-<p>On appelle mécanisme, un <em>ensemble de pièces mécaniques</em> reliées entre elles par des <em>liaisons</em>, en vue de réaliser une fonction déterminée.</p>
-<div class="quarto-layout-panel" data-layout="[70,30]">
-<div class="quarto-layout-row quarto-layout-valign-center">
-<div class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: flex-start;">
-<p>Nous admettrons que les pièces mécaniques peuvent être modélisées par des <strong>solides indéformables</strong>.</p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="CM3/turbina.gif" class="quarto-figure quarto-figure-center" style="width:90.0%"></p>
-<figcaption>Exemple de mécanisme : un micromoteur de modélisme</figcaption>
-</figure>
-</div>
-</div>
-</div>
-</div>
-</section>
+<section id="projet-de-conception" class="title-slide slide level2 center">
+<h2>Projet de Conception</h2>
 
-<section id="solides-indeformables" class="title-slide slide level2 center">
-<h2>Solides Indeformables</h2>
-<p>Le solide possède une <em>masse constante</em> et un <em>volume</em> dont les <strong>limites sont invariantes</strong> quelles que soient les actions extérieures auxquelles il est soumis.</p>
-<div class="quarto-layout-panel" data-layout="[70,30]">
-<div class="quarto-layout-row quarto-layout-valign-center">
-<div class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: flex-start;">
-<div class="callout callout-note callout-titled callout-style-default">
-<div class="callout-body">
-<div class="callout-title">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
+<img data-src="../Photos/Seance 1/CI3-Introduction.jpg" class="quarto-figure quarto-figure-center r-stretch" style="width:70.0%"></section>
+<section id="auto-évaluation-des-compétences" class="slide level3 center">
+<h3>Auto-évaluation des compétences</h3>
+<p>https://forms.gle/oUqpJMmzPNX2Ax268</p>
+
+<img data-src="figures/brave.png" class="quarto-figure quarto-figure-center r-stretch" style="width:40.0%"></section>
+<section id="métier-dingénieur" class="slide level3">
+<h3>Métier d’ingénieur</h3>
+<blockquote>
+<p>“Le métier de base de l’ingénieur consiste à <em>poser et résoudre de manière toujours plus performante</em> des <strong>problèmes</strong> souvent complexes, liés à <strong>la conception, à la réalisation et à la mise en oeuvre</strong>, au sein d’une organisation compétitive, de produits, de systèmes ou de services, éventuellement à leur financement et à leur commercialisation. <br> À ce titre un ingénieur doit posséder un ensemble de savoirs techniques, économiques, sociaux et humains, reposant sur une solide culture scientifique. – <strong>Commission des Titres d’Ingénieur</strong>.</p>
+</blockquote>
+</section>
+<section id="projet-de-conception-1" class="slide level3">
+<h3>Projet de Conception</h3>
+<p>L’agence française de normalisation (AFNOR) définit le projet de la façon suivante :</p>
+<div class="quarto-layout-panel" data-layout="[[65, -5, 35]]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 61.9%;justify-content: flex-start;">
+<blockquote>
+<p>«Un projet se définit comme une <strong>démarche spécifique qui permet de structurer méthodiquement une réalité à venir</strong>. <br> Un projet est défini et mis en œuvre pour élaborer la réponse au <em>besoin d’un utilisateur, d’un client ou d’une clientèle</em> et il implique un objectif et des actions à entreprendre avec des ressources données».</p>
+</blockquote>
 </div>
-<p><strong>Conséquence géométrique</strong></p>
+<div class="quarto-figure-spacer quarto-layout-cell" style="flex-basis: 4.8%;justify-content: flex-start;">
+<p>&nbsp;</p>
 </div>
-<div class="callout-content">
-<p>La distance entre deux points quelconques d’un solide indéformable est invariable dans un <strong>Repère donneé</strong></p>
-</div>
-</div>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="CM3/Solide-indeformable.png" class="quarto-figure quarto-figure-center" style="width:90.0%"></p>
-<figcaption>Exemple de mécanisme : un micromoteur de modélisme</figcaption>
-</figure>
-</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<p><img data-src="figures/CM2/AFNOR.png"></p>
 </div>
 </div>
 </div>
 </section>
+<section id="projet-de-conception-rightarrow-vision-partagé." class="slide level3">
+<h3>Projet de Conception <span class="math inline">\(\rightarrow\)</span> Vision partagé.</h3>
 
-<section id="repere" class="title-slide slide level2 center">
-<h2>Repere</h2>
-<p>Pour connaitre la position de tous ses points dans l’espace, il suffit de connaitre la position d’un repère lié à ce solide.</p>
-<div class="quarto-layout-panel" data-layout="[60,40]">
-<div class="quarto-layout-row quarto-layout-valign-center">
-<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
-<p><strong>Repère de référence</strong>: <span class="math inline">\(R(O, \vec{x}, \vec{y}, \vec{z})\)</span> <br> <strong>Repère de lié au solide.</strong>: <span class="math inline">\(R(O_1, \vec{x_1}, \vec{y_1}, \vec{z_1})\)</span></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
+<img data-src="figures/CM2/Conception-00.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"><ul>
+<li>de mieux définir les exigences,</li>
+<li>d’améliorer la qualité de la conception,</li>
+<li>de faciliter le développement des systèmes complexes,</li>
+<li>de représenter de façon exhaustive le système.</li>
+</ul>
+</section>
+<section id="ecarts-en-conception" class="slide level3">
+<h3>Ecarts en conception</h3>
+
+<img data-src="figures/CM2/Ecarts-00.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="ecarts-en-conception-1" class="slide level3">
+<h3>Ecarts en conception</h3>
+
+<img data-src="figures/CM2/Ecarts-01.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="ecarts-en-conception-2" class="slide level3">
+<h3>Ecarts en conception</h3>
+
+<img data-src="figures/CM2/Ecarts-02.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="ecarts-en-conception-3" class="slide level3">
+<h3>Ecarts en conception</h3>
+
+<img data-src="figures/CM2/Ecarts-03.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="ecarts-en-conception-4" class="slide level3">
+<h3>Ecarts en conception</h3>
+<div class="columns">
+<div class="column" data-align="top" style="width:50%;">
+<ul>
+<li><p><strong>Système souhaité</strong> <span class="math inline">\(\rightarrow\)</span> fonctions du système et de quantifier ses performances.</p></li>
+<li><p><strong>Système simulé</strong> <span class="math inline">\(\rightarrow\)</span> modélisé par des lois comportementales, de façon à estimer ses capacités à répondre aux attentes du système souhaité.</p></li>
+<li><p><strong>Système réel</strong> est la conséquence des choix effectués lors des simulations. Il est alors possible de mesurer les performances réelles et de les comparer aux performances attendues.</p></li>
+</ul>
+</div><div class="column" data-align="top" style="width:50%;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="CM3/Repere.png" class="quarto-figure quarto-figure-center" style="width:90.0%"></p>
+<p><img data-src="figures/CM2/Ecarts-04.png" class="quarto-figure quarto-figure-center" style="width:100.0%"></p>
 </figure>
 </div>
 </div>
 </div>
+<p><strong>Les écarts entre chaque système font l’objet d’analyses et, le cas échéant, d’une reconfiguration.</strong></p>
+</section>
+<section id="example-1" class="slide level3">
+<h3>Example 1</h3>
+
+<img data-src="figures/CM2/Escoba.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"><ol type="1">
+<li><strong>Domaine du Client</strong>: Quelle est le besoin? …</li>
+<li><strong>Domaine de la Simulation</strong>: loi physique?</li>
+<li><strong>Domaine du Laboratoire</strong>: Quel type d’Expérimentation?</li>
+</ol>
+</section>
+
+<section id="cycle-de-vie-dun-projet" class="title-slide slide level2 center">
+<h2>Cycle de vie d’un projet</h2>
+<p>Un projet comporte globalement 3 phases, connues sous la désignation «3C» : Cadrer - Conduire - Conclure.</p>
+<div>
+<ul>
+<li class="fragment"><strong>Phase de préparation</strong> : il s’agit de l’analyse des besoins et de l’analyse de l’opportunité de mener à bien ce projet. Appelée également avant-projet, cette phase aboutit à la rédaction du cahier des charges.</li>
+<li class="fragment"><strong>Phase de réalisation</strong> : elle débute par la réception du cahier des charges et s’achève à la livraison du produit. C’est la phase opérationnelle du projet.</li>
+<li class="fragment"><strong>Phase de fin de projet</strong> : le produit est mis en situation de production, et il s’agit dans cette phase de s’assurer de son adéquation avec les besoins attendus.</li>
+</ul>
 </div>
+</section>
+<section id="cycle-en-v" class="slide level3">
+<h3>Cycle en V</h3>
+
+<img data-src="figures/CM2/Cycle-projet-00.png" class="quarto-figure quarto-figure-center r-stretch" style="width:40.0%"><p class="caption">Cycle en V d’un projet</p></section>
+<section id="cycle-en-v-plus-detaillé" class="slide level3">
+<h3>Cycle en V … plus detaillé</h3>
+
+<img data-src="figures/CM2/Cycle-projet-01.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"><p class="caption">Cycle en V d’un projet</p></section>
+<section id="cycle-en-v-encore-plus-detaillé" class="slide level3">
+<h3>Cycle en V … (encore) plus detaillé</h3>
+
+<img data-src="figures/CM2/Cycle-projet-012.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"><p class="caption">Cycle en V d’un projet</p></section>
+<section id="oui-mais-comment-on-peut-faire-cela-au-ensgsi" class="slide level3 center plain">
+<h3>oui, mais comment on peut faire cela au ENSGSI?</h3>
 <div class="fragment">
-<p>La position du solide dans l’espace, est déterminée par <em>6 paramètres indépendants</em></p>
-<ol type="1">
-<li>Position du point <span class="math inline">\(O_1\)</span> → <strong>3 Coordonnées</strong></li>
-<li>Orientation de <span class="math inline">\(\vec{x_1}, \vec{y_1}, \vec{z_1})\)</span> par rapport à <span class="math inline">\(R(O, \vec{x}, \vec{y}, \vec{z})\)</span> → <strong>3 Angles</strong></li>
-</ol>
-</div>
-</section>
-<section id="repère" class="slide level3">
-<h3>Repère</h3>
-<p>Exemple : repère local lié au solide 2 (la bielle) et repère de référence, lié au solide 0 (le bâti)</p>
-<div class="quarto-layout-panel" data-layout="[50,50]">
-<div class="quarto-layout-row quarto-layout-valign-center">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="CM3/Repere-01.png" class="quarto-figure quarto-figure-center" style="width:90.0%"></p>
+<p><img data-src="figures/CM2/Cycle-projet-01-proto.png" class="quarto-figure quarto-figure-center" style="width:80.0%"></p>
+<figcaption>Cycle en V d’un projet</figcaption>
 </figure>
 </div>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+</section>
+<section id="avec-une-approche-iteratif" class="slide level3">
+<h3>Avec une approche iteratif …</h3>
+<div class="quarto-layout-panel" data-layout="[[45, -5, 55]]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 42.9%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="CM3/Repere-02.gif" class="quarto-figure quarto-figure-center" style="width:90.0%"></p>
+<p><img data-src="figures/CM2/Cycle-projet-01-proto.png" class="quarto-figure quarto-figure-center" style="width:100.0%"></p>
+<figcaption>Cycle en V d’un projet</figcaption>
 </figure>
 </div>
 </div>
+<div class="quarto-figure-spacer quarto-layout-cell" style="flex-basis: 4.8%;justify-content: flex-start;">
+<p>&nbsp;</p>
 </div>
-</div>
-</section>
-<section id="repère-1" class="slide level3">
-<h3>Repère</h3>
-<p>Example 2</p>
-</section>
-
-<section id="degree-de-liberté" class="title-slide slide level2 center">
-<h2>Degree de liberté</h2>
-<p>Il existe deux mouvements élémentaires entre les solides :</p>
-<ol type="1">
-<li>Le mouvement de <strong>TRANSLATION (RECTILIGNE)</strong> : les trajectoires de tous les points du solide sont des droites parallèles.</li>
-<li>Le mouvement de <strong>ROTATION</strong> : les trajectoires de chaque point sont des cercles coaxiaux.</li>
-</ol>
-<div class="quarto-layout-panel" data-layout="[70,30]">
-<div class="quarto-layout-row quarto-layout-valign-center">
-<div class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: flex-start;">
-<p>On appelle <em>libertés</em> d’un solide par rapport à un référentiel, les mouvements indépendants de ce solide pour passer d’une position à une autre.</p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: center;">
+<div class="quarto-layout-cell" style="flex-basis: 52.4%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="CM3/Repere-02.png" class="quarto-figure quarto-figure-center" style="width:100.0%"></p>
+<p><img data-src="figures/CM2/Cycle-projet-02.png" class="quarto-figure quarto-figure-center" style="width:100.0%"></p>
+<figcaption>Cycle iteratif</figcaption>
 </figure>
 </div>
 </div>
 </div>
 </div>
-</section>
-<section id="degree-de-liberte" class="slide level3">
-<h3>Degree de Liberte</h3>
-<p>Il existe deux mouvements élémentaires entre les solides :</p>
-<ol type="1">
-<li>Le mouvement de <strong>TRANSLATION (RECTILIGNE)</strong> : les trajectoires de tous les points du solide sont des droites parallèles.
-<ul>
-<li><span class="math inline">\(T_x, T_y, T_z\)</span> selon <span class="math inline">\((x,y,z)\)</span></li>
-</ul></li>
-<li>Le mouvement de <strong>ROTATION</strong> : les trajectoires de chaque point sont des cercles coaxiaux.
-<ul>
-<li><span class="math inline">\(R_x, R_y, R_z\)</span> autour des axes <span class="math inline">\((x,y,z)\)</span></li>
-</ul></li>
-</ol>
-<div class="quarto-layout-panel" data-layout="[70,30]">
-<div class="quarto-layout-row quarto-layout-valign-center">
-<div class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: flex-start;">
-<p><strong>6 Degrees de liberté</strong></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="CM3/Degrees-liberte.png" class="quarto-figure quarto-figure-center" style="width:90.0%"></p>
-</figure>
-</div>
-</div>
-</div>
-</div>
-</section>
-
-<section id="notion-de-liaison" class="title-slide slide level2 center">
-<h2>Notion de liaison</h2>
-<p>On appelle liaison entre deux solides l’ensemble des couples de surfaces en contact entre ces deux solides, visant à diminuer la mobilité entre ces deux solides.</p>
-</section>
-
-<section id="zones-de-contacts" class="title-slide slide level2 center">
-<h2>Zones de Contacts</h2>
-
-<img data-src="CM3/Contact.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"><p class="caption">Contact</p></section>
-
-<section id="degrés-de-libertéde-liaison-dune-liaison" class="title-slide slide level2 center">
-<h2>Degrés de liberté/de liaison d’une liaison</h2>
-<p>Les <em>degrés de liberté d’une liaison</em> sont <strong>les déplacements élémentaires indépendants</strong> autorisés par cette liaison.</p>
 </section>
 </section>
 <section>
-<section id="élaboration-dun-schéma-cinématique" class="title-slide slide level1 center">
-<h1>Élaboration d’un schéma cinématique</h1>
+<section id="prototypage" class="title-slide slide level1 center">
+<h1>Prototypage</h1>
+<p><strong>Prenez 60 secondes et notez tous les différents types de prototypes pertinents pour le métier <em>d’Ingénieur de L’innovation</em></strong></p>
+
+<img data-src="figures/CM2/Wooclap.png" class="quarto-figure quarto-figure-center r-stretch" style="width:70.0%"></section>
+<section id="le-prototypage-une-vue-densemble" class="title-slide slide level2 center">
+<h2>Le prototypage : Une vue d’ensemble</h2>
+<ol type="1">
+<li>Qu’est-ce que le prototypage ?</li>
+<li>Qu’est-ce qu’un prototype ?</li>
+<li>Quel type et quel rôle pour le prototype ?</li>
+<li>Quel benefices du processus ?</li>
+<li>La fidélité et les dimensions des prototypes</li>
+</ol>
+</section>
+<section id="quest-ce-que-le-prototypage" class="slide level3">
+<h3>Qu’est-ce que le prototypage ?</h3>
+<p>“Le processus de création d’artefacts utilisables à différents degrés d’achèvement, afin de répondre à des questions de conception et de communiquer des idées de conception ; avec les utilisateurs dans le contexte de l’utilisation.”</p>
+</section>
+<section id="quest-ce-que-le-prototypage-1" class="slide level3">
+<h3>Qu’est-ce que le prototypage ?</h3>
+<p>“Le <strong>processus de création</strong> d’artefacts utilisables à différents degrés d’achèvement, afin de répondre à des questions de conception et de communiquer des idées de conception ; avec les utilisateurs dans le contexte de l’utilisation.”</p>
+
+<img data-src="figures/process-explained-1.jpg" class="quarto-figure quarto-figure-center r-stretch" style="width:60.0%"></section>
+<section id="quest-ce-que-le-prototypage-2" class="slide level3">
+<h3>Qu’est-ce que le prototypage ?</h3>
+<p>“Le processus de création <strong>d’artefacts utilisables</strong> à différents degrés d’achèvement, afin de répondre à des questions de conception et de communiquer des idées de conception ; avec les utilisateurs dans le contexte de l’utilisation.”</p>
+
+<img data-src="figures/prototyping-01.png" class="quarto-figure quarto-figure-center r-stretch" style="width:45.0%"></section>
+<section id="quest-ce-que-le-prototypage-3" class="slide level3">
+<h3>Qu’est-ce que le prototypage ?</h3>
+<p>“Le processus de création d’artefacts utilisables <strong>à différents degrés d’achèvement</strong>, afin de répondre à des questions de conception et de communiquer des idées de conception ; avec les utilisateurs dans le contexte de l’utilisation.”</p>
+
+<img data-src="figures/prototyping-02.png" class="quarto-figure quarto-figure-center r-stretch" style="width:55.0%"></section>
+<section id="quest-ce-que-le-prototypage-4" class="slide level3">
+<h3>Qu’est-ce que le prototypage ?</h3>
+<p>“Le processus de création d’artefacts utilisables à différents degrés d’achèvement, <strong>afin de répondre à des questions de conception</strong> et de communiquer des idées de conception ; avec les utilisateurs dans le contexte de l’utilisation.”</p>
+<p><br></p>
+<div class="columns">
+<div class="column" style="width:25%;">
+<ul>
+<li>Representation</li>
+<li>Precision</li>
+<li>Interactivité</li>
+<li>Evolution</li>
+</ul>
+</div><div class="column" style="width:70%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/prototyping-03.png" class="quarto-figure quarto-figure-center"></p>
+<figcaption>Dyson</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="quest-ce-que-le-prototypage-5" class="slide level3">
+<h3>Qu’est-ce que le prototypage ?</h3>
+<p>“Le processus de création d’artefacts utilisables à différents degrés d’achèvement, afin de répondre à des questions de conception et de <strong>communiquer des idées de conception</strong> ; avec les utilisateurs dans le contexte de l’utilisation.”</p>
+<p><br></p>
+
+<img data-src="figures/prototyping-04.png" class="quarto-figure quarto-figure-center r-stretch" style="width:60.0%"></section>
+<section id="quest-ce-que-le-prototypage-6" class="slide level3">
+<h3>Qu’est-ce que le prototypage ?</h3>
+<p>“Le processus de création d’artefacts utilisables à différents degrés d’achèvement, afin de répondre à des questions de conception et de communiquer des idées de conception; avec <strong>les utilisateurs dans le contexte de l’utilisation.</strong>”</p>
+<p><br></p>
+
+<img data-src="figures/prototyping-05.jpg" class="quarto-figure quarto-figure-center r-stretch" style="width:50.0%"></section>
+
+<section id="quest-ce-quun-prototype" class="title-slide slide level2 center">
+<h2>Qu’est-ce qu’un prototype ?</h2>
+<p><strong>Un prototype est un artefact tangible qui nécessite une interprétation</strong>.</p>
+
+<img data-src="figures/Prototype-00.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="quest-ce-quun-prototype-1" class="slide level3 center">
+<h3>Qu’est-ce qu’un prototype ?</h3>
+<p><strong>Les prototypes sont conçus pour répondre à des questions.</strong>.</p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/CM2/Cycle-projet-01.png" class="quarto-figure quarto-figure-center" style="width:80.0%"></p>
+</figure>
+</div>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/Prototype-01.png" class="quarto-figure quarto-figure-center" style="width:100.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+
+<section id="quel-type-de-prototype" class="title-slide slide level2 center">
+<h2>Quel type de prototype ?</h2>
+<div class="columns">
+<div class="column" style="width:25%;">
+<ol type="1">
+<li>Product</li>
+<li>Processus</li>
+<li><a href="https://www.youtube.com/watch?v=jTageuhPfAM&amp;t=1s">Service prototype (?)</a></li>
+</ol>
+</div><div class="column" style="width:75%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/Prototype-03.png" class="quarto-figure quarto-figure-center" style="width:90.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="quel-rôle-pour-le-prototype" class="slide level3">
+<h3>Quel rôle pour le prototype ?</h3>
+<div class="columns">
+<div class="column" style="width:30%;">
+<ol type="1">
+<li><strong>Communcation</strong></li>
+<li><strong>Aids in Learning</strong></li>
+<li><strong>Decision making</strong></li>
+</ol>
+</div><div class="column" style="width:70%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/Prototype-04.png" class="quarto-figure quarto-figure-center" style="width:100.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="what-benefits" class="slide level3">
+<h3>What benefits ?</h3>
+
+<img data-src="figures/Prototype-05.png" class="quarto-figure quarto-figure-center r-stretch" style="width:90.0%"></section>
+</section>
+<section>
+<section id="les-chaînes-fonctionnelles" class="title-slide slide level1 center">
+<h1>Les chaînes fonctionnelles</h1>
 
 </section>
-<section id="définition-1" class="title-slide slide level2 center">
-<h2>Définition</h2>
-<p>Le schéma cinématique d’un mécanisme est un **modèle filaire du mécanisme utilisant les symboles normalisés des liaisons.</p>
-<p>Ce modèle est utile tant au niveau de la conception que de l’analyse à posteriori pour réaliser l’étude cinématique ou dynamique (trajectoire, vitesse, efforts, etc.)</p>
+<section id="structure-des-systèmes-chaîne-denergie-et-dinformation" class="title-slide slide level2 center">
+<h2>Structure des systèmes : Chaîne d’Energie et d’Information</h2>
+
 </section>
+<section id="système-a-besoin-de" class="slide level3">
+<h3>Système a besoin de …</h3>
+<h4 id="la-chaîne-dénergie">La <strong>chaîne d’énergie</strong></h4>
+<p>Tout système est constitué d’une succession d’éléments permettant de <em>transmettre l’énergie</em> depuis la source vers les actionneurs (éléments du système agissant sur la matière d’œuvre).</p>
+<p>. . .</p>
+
+<h4 id="la-chaîne-dinformation.">La <strong>chaîne d’information</strong>.</h4>
+<p>Le système adapte son comportement en fonction d’informations sur l’état du système.</p>
+<p>Il s’agit donc de récupérer ces informations, de les traiter et ensuite de communiquer le résultat de ce traitement.</p>
 </section>
-<section id="example" class="title-slide slide level1 center">
-<h1>Example</h1>
+
+<section id="la-chaîne-dénergie-1" class="title-slide slide level2 center">
+<h2>La chaîne d’énergie</h2>
+
+<img data-src="figures/CM2/Chaine-energie.png" class="quarto-figure quarto-figure-center r-stretch" style="width:70.0%"><p><strong>Chaque objet technique a besoin d’une énergie pour fonctionner.</strong></p>
+<div class="fragment">
+<p>Les fonctions:</p>
+<ul>
+<li><strong>Alimenter</strong> : constituants permettant l’énergie nécessaire au système</li>
+<li><strong>Stocker</strong> : certains objets doivent pouvoir stocker de L’énergie en vue de la restituer</li>
+<li><strong>Distribuer</strong> : commander, contrôler et répartir la quantité d’énergie nécessaire</li>
+<li><strong>Convertir</strong> : transformer une énergie en une autre nécessaire à l’effet attendu</li>
+<li><strong>Transmettre</strong> : acheminer cette énergie convertie de façon à la rendre disponible pour l’action à réaliser.</li>
+</ul>
+</div>
+</section>
+<section id="example" class="slide level3">
+<h3>Example</h3>
+
+<img data-src="figures/CM2/Chaine-energie-example.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+
+<section id="la-chaîne-dinformation" class="title-slide slide level2 center">
+<h2>La Chaîne d’Information</h2>
+
+</section>
+<section id="chaîne-dinformation" class="slide level3">
+<h3>Chaîne d’Information</h3>
+
+<img data-src="figures/CM2/Chaine-info.png" class="quarto-figure quarto-figure-center r-stretch" style="width:70.0%"><p><strong>La chaîne d’information décide des ordres à donner à la chaîne d’énergie.</strong></p>
+<div class="fragment">
+<p>Les fonctions:</p>
+<ul>
+<li><strong>Acquerir</strong> : renseigne le système et/ou l’utilisateur sur l’état du système.</li>
+<li><strong>Traiter</strong> : manipule ces données de façon à faire évoluer le système.</li>
+<li><strong>Communique</strong> : permet d’acheminer le résultat de ce traitement vers le système (vers la fonction <em>«Distribuer»</em> et/ou Opérateur)</li>
+</ul>
+</div>
+</section>
+<section id="structure-globale-dun-système" class="slide level3">
+<h3>Structure globale d’un système</h3>
+
+<img data-src="figures/CM2/Chaine-energie-Info-00.png" class="quarto-figure quarto-figure-center r-stretch" style="width:7cm"><p class="caption">Chaîne d’Information et d’Energie</p></section>
+<section id="structure-globale-dun-système-rightarrow-mécanique" class="slide level3">
+<h3>Structure globale d’un système <span class="math inline">\(\rightarrow\)</span> Mécanique</h3>
+
+<img data-src="figures/CM2/Chaine-energie-Info-00-Mecanique.png" class="quarto-figure quarto-figure-center r-stretch" style="width:10cm"><p class="caption">Point vue Mécanique</p></section>
+<section id="structure-globale-dun-système-rightarrow-electrique" class="slide level3">
+<h3>Structure globale d’un système <span class="math inline">\(\rightarrow\)</span> Electrique</h3>
+
+<img data-src="figures/CM2/Chaine-energie-Info-00-Electrique.png" class="quarto-figure quarto-figure-center r-stretch" style="width:10cm"><p class="caption">Point vue Mécanique</p></section>
+<section id="structure-globale-dun-système-rightarrow-informatique" class="slide level3">
+<h3>Structure globale d’un système <span class="math inline">\(\rightarrow\)</span> Informatique</h3>
+
+<img data-src="figures/CM2/Chaine-energie-Info-00-Informatique.png" class="quarto-figure quarto-figure-center r-stretch" style="width:10cm"><p class="caption">Point vue Informatique</p></section>
+<section id="structure-globale-dun-système-rightarrow-ensgsi" class="slide level3 c">
+<h3>Structure globale d’un système <span class="math inline">\(\rightarrow\)</span> ENSGSI?</h3>
+<p><strong>Comment voulez-vous positionner ?</strong></p>
+</section>
+<section id="prochaine-séances" class="slide level3">
+<h3>Prochaine Séances</h3>
+<p><strong>Rentrer en détaille sur les composants de chaque Chaîne</strong></p>
+<div class="columns">
+<div class="column" style="width:45%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/CM2/Next-1.png"></p>
+<figcaption>Composants de la chhaîne d’Energie</figcaption>
+</figure>
+</div>
+</div><div class="column" style="width:45%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/CM2/Next-2.png"></p>
+<figcaption>Composants de la chaîne d’Information</figcaption>
+</figure>
+</div>
+</div>
+</div>
 
 <div class="quarto-auto-generated-content">
 <p><img src="../assets/img/ENSGSI.png" class="slide-logo"></p>
@@ -568,6 +769,7 @@ MdC Alaa Hassan
 
 </div>
 </div>
+</section>
 </section>
     </div>
   </div>

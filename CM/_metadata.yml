@@ -5,29 +5,6 @@ author:
   - "MdC Alaa Hassan"
 link-citations: true
 format:
-  beamer: 
-    linkcolor: Blue
-    urlcolor: Blue
-    keep-tex: false
-    classoption: c
-    aspectratio: 169
-    navigation: horizontal
-    theme: Luebeck #AnnArbor
-    toc: true
-    toc-title: "Organisation de la presentation"    
-    colortheme: beaver  #seahorse
-    slide-level: 3
-    toc-depth: 4
-    fig-align: center
-    #header-includes:
-    #  - \titlegraphic{\includegraphics[width=0.6\paperwidth]{Figures/logos/UL-ENSGSI-ERPI.png}}
-#      - \date{Thisis test }
-    # beameroption: 
-    #  - show notes on second screen
-    #beamerarticle: true
-    #latex_engine: lualatex
-    #include-in-header: [assets/slides.tex]
-
   revealjs:
     slide-number: c/t
     slide-level: 3
@@ -60,3 +37,26 @@ format:
 #  bullets: numbered
 #  heading: Agenda for today
 #  
+
+  beamer: 
+    linkcolor: Blue
+    urlcolor: Blue
+    keep-tex: false
+    classoption: c
+    aspectratio: 169
+    navigation: horizontal
+    theme: Luebeck #AnnArbor
+    toc: true
+    toc-title: "Organisation de la presentation"    
+    colortheme: beaver  #seahorse
+    slide-level: 3
+    toc-depth: 4
+    fig-align: center
+    #header-includes:
+    #  - \titlegraphic{\includegraphics[width=0.6\paperwidth]{Figures/logos/UL-ENSGSI-ERPI.png}}
+#      - \date{Thisis test }
+    # beameroption: 
+    #  - show notes on second screen
+    #beamerarticle: true
+    #latex_engine: lualatex
+    #include-in-header: [assets/slides.tex]

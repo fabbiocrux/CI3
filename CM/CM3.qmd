@@ -1,17 +1,141 @@
 ---
-title: "Introduction aux Système Mécatroniques I"
-subtitle: ""
+title: "Conception et Innovation -- CI3"
+subtitle: "Schema Cinématique"
+author: 
+  - "MdC. Fabio Cruz"
+  - "MdC Alaa Hassan"
+date: 20-Mar-2023
+metadata-files:
+  - _metadata.yml
+editor_options: 
+  chunk_output_type: console
 ---
 
-# Lecture
+
+# Modélisation des liaisons mécaniques
+
+## Définition
+**Mécanisme**:
 
 
-# Slides
+On appelle mécanisme, un *ensemble de pièces mécaniques* reliées entre elles par des *liaisons*, en vue de réaliser une fonction déterminée.
+
+::: {layout="[70,30]" layout-valign="center"}
+Nous admettrons que les pièces mécaniques peuvent être modélisées par des **solides indéformables**.
+
+![Exemple de mécanisme : un micromoteur de modélisme](CM3/turbina.gif){width="90%" fig-align="center"}
+:::
 
 
 
-# Idé
+
+## Solides Indeformables
+
+Le solide possède une *masse constante* et un *volume* dont les **limites sont invariantes** quelles que soient les actions extérieures auxquelles il est soumis.
 
 
-# Bibliographie
+::: {layout="[70,30]" layout-valign="center"}
+::: {.callout-note}
+#### Conséquence géométrique 
+La distance entre deux points quelconques d’un solide indéformable est invariable dans un **Repère donneé**
+:::
+
+![Exemple de mécanisme : un micromoteur de modélisme](CM3/Solide-indeformable.png){width="90%" fig-align="center"}
+:::
+
+
+## Repere
+
+Pour connaitre la position de tous ses points dans l’espace, il suffit de connaitre la position d’un repère lié à ce solide.
+
+::: {layout="[60,40]" layout-valign="center"}
+
+**Repère de référence**: $R(O, \vec{x}, \vec{y}, \vec{z})$ <br>
+**Repère de lié au solide.**: $R(O_1, \vec{x_1}, \vec{y_1}, \vec{z_1})$
+
+![](CM3/Repere.png){width="90%" fig-align="center"}
+:::
+
+. . . 
+
+La position du solide dans l’espace, est déterminée par *6 paramètres indépendants*
+
+1. Position du point $O_1$ → **3 Coordonnées**
+2. Orientation de $\vec{x_1}, \vec{y_1}, \vec{z_1})$ par rapport à $R(O, \vec{x}, \vec{y}, \vec{z})$ → **3 Angles**
+
+
+
+### Repère
+
+Exemple : repère local lié au solide 2 (la bielle) et repère de référence, lié au solide 0 (le bâti)
+
+::: {layout="[50,50]" layout-valign="center"}
+
+![](CM3/Repere-01.png){width="90%" fig-align="center"}
+
+![](CM3/Repere-02.gif){width="90%" fig-align="center"}
+:::
+
+
+### Repère
+
+Example 2
+
+
+
+
+## Degree de liberté
+
+Il existe deux mouvements élémentaires entre les solides :
+
+1. Le mouvement de **TRANSLATION (RECTILIGNE)** : les trajectoires de tous les points du solide sont des droites parallèles.
+2. Le mouvement de **ROTATION** : les trajectoires de chaque point sont des cercles coaxiaux.
+
+::: {layout="[70,30]" layout-valign="center"}
+On appelle *libertés* d’un solide par rapport à un référentiel, les mouvements indépendants de ce solide pour passer d’une position à une autre.
+
+![](CM3/Repere-02.png){width="100%" fig-align="center"}
+:::
+
+
+
+### Degree de Liberte
+Il existe deux mouvements élémentaires entre les solides :
+
+1. Le mouvement de **TRANSLATION (RECTILIGNE)** : les trajectoires de tous les points du solide sont des droites parallèles.
+    - $T_x, T_y, T_z$ selon $(x,y,z)$
+
+2. Le mouvement de **ROTATION** : les trajectoires de chaque point sont des cercles coaxiaux.
+    - $R_x, R_y, R_z$ autour des axes $(x,y,z)$
+
+::: {layout="[70,30]" layout-valign="center"}
+**6 Degrees de liberté**
+
+![](CM3/Degrees-liberte){width="90%" fig-align="center"}
+:::
+
+
+
+## Notion de liaison
+On appelle liaison entre deux solides l’ensemble des couples de surfaces en contact entre ces deux solides, visant à diminuer la mobilité entre ces deux solides.
+
+
+## Zones de Contacts
+
+![Contact](CM3/Contact.png){width="80%" fig-align="center"}
+
+
+
+## Degrés de liberté/de liaison d’une liaison
+Les *degrés de liberté d’une liaison* sont **les déplacements élémentaires indépendants** autorisés par cette liaison.
+
+# Élaboration d’un schéma cinématique
+
+## Définition
+Le schéma cinématique d’un mécanisme est un **modèle filaire du mécanisme utilisant les symboles normalisés des liaisons. 
+
+Ce modèle est utile tant au niveau de la conception que de l’analyse à posteriori pour réaliser l’étude cinématique ou dynamique (trajectoire, vitesse, efforts, etc.)
+
+# Example
+
 

@@ -220,5 +220,225 @@
       "Cours Magistraux",
       "Design and Innovation - CI3-"
     ]
+  },
+  {
+    "objectID": "CM/CM3.html#définition",
+    "href": "CM/CM3.html#définition",
+    "title": "Conception et Innovation – CI3",
+    "section": "Définition",
+    "text": "Définition\nMécanisme:\nOn appelle mécanisme, un ensemble de pièces mécaniques reliées entre elles par des liaisons, en vue de réaliser une fonction déterminée.\n\n\n\nNous admettrons que les pièces mécaniques peuvent être modélisées par des solides indéformables.\n\n\n\n\n\nExemple de mécanisme : un micromoteur de modélisme",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#définition-.c",
+    "href": "CM/CM3.html#définition-.c",
+    "title": "Conception et Innovation – CI3",
+    "section": "Définition .c",
+    "text": "Définition .c\n\n\nMécanisme:\nOn appelle mécanisme, un ensemble de pièces mécaniques reliées entre elles par des liaisons, en vue de réaliser une fonction déterminée.\n\n\nExemple de mécanisme : un micromoteur de modélisme",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#solides-indeformables",
+    "href": "CM/CM3.html#solides-indeformables",
+    "title": "Conception et Innovation – CI3",
+    "section": "Solides Indeformables",
+    "text": "Solides Indeformables\nLe solide possède une masse constante et un volume dont les limites sont invariantes quelles que soient les actions extérieures auxquelles il est soumis.\n\n\n\n\n\n\n\n\n\nConséquence géométrique\n\n\nLa distance entre deux points quelconques d’un solide indéformable est invariable dans un Repère donneé\n\n\n\n\n\n\n\n\nExemple de mécanisme : un micromoteur de modélisme",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#définition-1",
+    "href": "CM/CM3.html#définition-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Définition",
+    "text": "Définition\nLe schéma cinématique d’un mécanisme est un **modèle filaire du mécanisme utilisant les symboles normalisés des liaisons.\nCe modèle est utile tant au niveau de la conception que de l’analyse à posteriori pour réaliser l’étude cinématique ou dynamique (trajectoire, vitesse, efforts, etc.)",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#définition-background-imagecm3turbina.gif-background-size50-background-position50-100",
+    "href": "CM/CM3.html#définition-background-imagecm3turbina.gif-background-size50-background-position50-100",
+    "title": "Conception et Innovation – CI3",
+    "section": "Définition {background-image=“CM3/turbina.gif” background-size=“50%”” background-position=“50% 100%”}",
+    "text": "Définition {background-image=“CM3/turbina.gif” background-size=“50%”” background-position=“50% 100%”}\nMécanisme:\n\n\n\nOn appelle mécanisme, un ensemble de pièces mécaniques reliées entre elles par des liaisons, en vue de réaliser une fonction déterminée.\n\n\n\n\n\nExemple de mécanisme : un micromoteur de modélisme\n\n\n\n\n\nNous admettrons que les pièces mécaniques peuvent être modélisées par des solides indéformables.",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#degree-de-liberté",
+    "href": "CM/CM3.html#degree-de-liberté",
+    "title": "Conception et Innovation – CI3",
+    "section": "Degree de liberté",
+    "text": "Degree de liberté\nIl existe deux mouvements élémentaires entre les solides :\n\nLe mouvement de TRANSLATION (RECTILIGNE) : les trajectoires de tous les points du solide sont des droites parallèles.\nLe mouvement de ROTATION : les trajectoires de chaque point sont des cercles coaxiaux.\n\n\n\n\nOn appelle libertés d’un solide par rapport à un référentiel, les mouvements indépendants de ce solide pour passer d’une position à une autre.",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#notion-de-liaison",
+    "href": "CM/CM3.html#notion-de-liaison",
+    "title": "Conception et Innovation – CI3",
+    "section": "Notion de liaison",
+    "text": "Notion de liaison\nOn appelle liaison entre deux solides l’ensemble des couples de surfaces en contact entre ces deux solides, visant à diminuer la mobilité entre ces deux solides.",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#zones-de-contacts",
+    "href": "CM/CM3.html#zones-de-contacts",
+    "title": "Conception et Innovation – CI3",
+    "section": "Zones de Contacts",
+    "text": "Zones de Contacts\n\nContact",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#repere",
+    "href": "CM/CM3.html#repere",
+    "title": "Conception et Innovation – CI3",
+    "section": "Repere",
+    "text": "Repere\nPour connaitre la position de tous ses points dans l’espace, il suffit de connaitre la position d’un repère lié à ce solide.\n\n\n\nRepère de référence: \\(R(O, \\vec{x}, \\vec{y}, \\vec{z})\\)  Repère de lié au solide.: \\(R(O_1, \\vec{x_1}, \\vec{y_1}, \\vec{z_1})\\)\n\n\n\n\n\n\n\n\n\n\n\nLa position du solide dans l’espace, est déterminée par 6 paramètres indépendants\n\nPosition du point \\(O_1\\) → 3 Coordonnées\nOrientation de \\(\\vec{x_1}, \\vec{y_1}, \\vec{z_1})\\) par rapport à \\(R(O, \\vec{x}, \\vec{y}, \\vec{z})\\) → 3 Angles",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#repere-1",
+    "href": "CM/CM3.html#repere-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Repere",
+    "text": "Repere\nLa position du solide dans l’espace, est déterminée par 6 paramètres indépendants :\nPosition du point 𝑂1 dans : 3 coordonnées Orientation de (𝑥1→,𝑦1→,𝑧1→) par rapport à (𝑥⃗ ,𝑦⃗ ,𝑧⃗ ) : 3 angles\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExemple : repère local lié au solide 2 (la bielle) et repère de référence, lié au solide 0 (le bâti)",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#degrés-de-libertéde-liaison-dune-liaison",
+    "href": "CM/CM3.html#degrés-de-libertéde-liaison-dune-liaison",
+    "title": "Conception et Innovation – CI3",
+    "section": "Degrés de liberté/de liaison d’une liaison",
+    "text": "Degrés de liberté/de liaison d’une liaison\nLes degrés de liberté d’une liaison sont les déplacements élémentaires indépendants autorisés par cette liaison.",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM1.html#learning-goals-of-the-module",
+    "href": "CM/CM1.html#learning-goals-of-the-module",
+    "title": "Design and Innovation - CI3-",
+    "section": "Learning goals of the module",
+    "text": "Learning goals of the module\n\n\nGive you the basic skills to be able to materialize a conceptual idea into an intermediate mechatronic design object for a given concept.\nLearn the prototyping technologies available at the Lorraine Fab Living Lab.\nA scientific and technical baseline to independently design and build a prototype. –Do-It-Yourself-",
+    "crumbs": [
+      "Cours Magistraux",
+      "Design and Innovation - CI3-"
+    ]
+  },
+  {
+    "objectID": "CM/CM2.html#projet-de-conception",
+    "href": "CM/CM2.html#projet-de-conception",
+    "title": "Conception et Innovation – CI3",
+    "section": "Projet de Conception",
+    "text": "Projet de Conception",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM2.html#cycle-de-vie-dun-projet",
+    "href": "CM/CM2.html#cycle-de-vie-dun-projet",
+    "title": "Conception et Innovation – CI3",
+    "section": "Cycle de vie d’un projet",
+    "text": "Cycle de vie d’un projet\nUn projet comporte globalement 3 phases, connues sous la désignation «3C» : Cadrer - Conduire - Conclure.\n\n\nPhase de préparation : il s’agit de l’analyse des besoins et de l’analyse de l’opportunité de mener à bien ce projet. Appelée également avant-projet, cette phase aboutit à la rédaction du cahier des charges.\nPhase de réalisation : elle débute par la réception du cahier des charges et s’achève à la livraison du produit. C’est la phase opérationnelle du projet.\nPhase de fin de projet : le produit est mis en situation de production, et il s’agit dans cette phase de s’assurer de son adéquation avec les besoins attendus.",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM2.html#le-prototypage-une-vue-densemble",
+    "href": "CM/CM2.html#le-prototypage-une-vue-densemble",
+    "title": "Conception et Innovation – CI3",
+    "section": "Le prototypage : Une vue d’ensemble",
+    "text": "Le prototypage : Une vue d’ensemble\n\nQu’est-ce que le prototypage ?\nQu’est-ce qu’un prototype ?\nQuel type et quel rôle pour le prototype ?\nQuel benefices du processus ?\nLa fidélité et les dimensions des prototypes",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM2.html#quest-ce-quun-prototype",
+    "href": "CM/CM2.html#quest-ce-quun-prototype",
+    "title": "Conception et Innovation – CI3",
+    "section": "Qu’est-ce qu’un prototype ?",
+    "text": "Qu’est-ce qu’un prototype ?\nUn prototype est un artefact tangible qui nécessite une interprétation.",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM2.html#quel-type-de-prototype",
+    "href": "CM/CM2.html#quel-type-de-prototype",
+    "title": "Conception et Innovation – CI3",
+    "section": "Quel type de prototype ?",
+    "text": "Quel type de prototype ?\n\n\n\nProduct\nProcessus\nService prototype (?)",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM2.html#structure-des-systèmes-chaîne-denergie-et-dinformation",
+    "href": "CM/CM2.html#structure-des-systèmes-chaîne-denergie-et-dinformation",
+    "title": "Conception et Innovation – CI3",
+    "section": "Structure des systèmes : Chaîne d’Energie et d’Information",
+    "text": "Structure des systèmes : Chaîne d’Energie et d’Information",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM2.html#la-chaîne-dénergie-1",
+    "href": "CM/CM2.html#la-chaîne-dénergie-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "La chaîne d’énergie",
+    "text": "La chaîne d’énergie\n\nChaque objet technique a besoin d’une énergie pour fonctionner.\n\nLes fonctions:\n\nAlimenter : constituants permettant l’énergie nécessaire au système\nStocker : certains objets doivent pouvoir stocker de L’énergie en vue de la restituer\nDistribuer : commander, contrôler et répartir la quantité d’énergie nécessaire\nConvertir : transformer une énergie en une autre nécessaire à l’effet attendu\nTransmettre : acheminer cette énergie convertie de façon à la rendre disponible pour l’action à réaliser.",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM2.html#la-chaîne-dinformation",
+    "href": "CM/CM2.html#la-chaîne-dinformation",
+    "title": "Conception et Innovation – CI3",
+    "section": "La Chaîne d’Information",
+    "text": "La Chaîne d’Information",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
   }
 ]
