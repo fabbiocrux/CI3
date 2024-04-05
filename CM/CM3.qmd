@@ -5,91 +5,106 @@ author:
   - "MdC. Fabio Cruz"
   - "MdC Alaa Hassan"
 date: 20-Mar-2023
-metadata-files:
-  - _metadata.yml
+#metadata-files:
+#  - _metadata.yml
+email: "fabio.cruz@univ-lorraine.fr"
+institute: "Université de Lorraine | ENSGSI"
+link-citations: true
+format:
+  revealjs:
+    slide-number: c/t
+    slide-level: 3
+    controls: true
+    transition: none
+    #margin: 10
+    width: 1600
+    height: 900
+    theme: [default, ../assets/custom.scss]
+    logo: "../assets/img/ENSGSI.png"
+    #embed-resources: false
+    echo: false
+    pdf-separate-fragments: true
+    toc: true
+    #toc-title: Agenda for today
+    toc-depth: 1
+    center: false
+    number-sections: false
+    fig-align: center
+    code-copy: true        
+    header-logo: "../assets/img/ENSGSI.png"    
+    #subtitle-as-header: true
+    sc-sb-title: false
+    chalkboard: true
 editor_options: 
   chunk_output_type: console
 ---
 
-
 # Modélisation des liaisons mécaniques
 
-## Définition
-**Mécanisme**:
+## Mécanisme {background-image="CM3/turbina.gif" background-size="30%" background-position="95% 30%"}
 
+**Définition**:
 
+::: {layout="[65,30]" layout-valign="top"}
 On appelle mécanisme, un *ensemble de pièces mécaniques* reliées entre elles par des *liaisons*, en vue de réaliser une fonction déterminée.
 
-::: {layout="[70,30]" layout-valign="center"}
-Nous admettrons que les pièces mécaniques peuvent être modélisées par des **solides indéformables**.
-
-![Exemple de mécanisme : un micromoteur de modélisme](CM3/turbina.gif){width="90%" fig-align="center"}
 :::
 
+. . .
 
+Nous admettrons que les pièces mécaniques peuvent être modélisées par des **solides indéformables**.
 
 
 ## Solides Indeformables
 
-Le solide possède une *masse constante* et un *volume* dont les **limites sont invariantes** quelles que soient les actions extérieures auxquelles il est soumis.
-
-
 ::: {layout="[70,30]" layout-valign="center"}
-::: {.callout-note}
-#### Conséquence géométrique 
+::: callout-note
+#### Conséquence géométrique
+
 La distance entre deux points quelconques d’un solide indéformable est invariable dans un **Repère donneé**
 :::
 
-![Exemple de mécanisme : un micromoteur de modélisme](CM3/Solide-indeformable.png){width="90%" fig-align="center"}
+![Bielle d'un micromoteur de modélisme](CM3/Solide-indeformable.png){width="90%" fig-align="center"}
 :::
 
+## Repère
 
-## Repere
+::: {layout="[60,40]" layout-valign="top"}
+Pour connaitre la position de tous ses points dans l’espace, il suffit de connaitre la position d’un repère lié à ce solide. <br>
+**Repère de référence**: $R(O, \vec{x}, \vec{y}, \vec{z})$ <br> **Repère de lié au solide.**: $R(O_1, \vec{x_1}, \vec{y_1}, \vec{z_1})$
 
-Pour connaitre la position de tous ses points dans l’espace, il suffit de connaitre la position d’un repère lié à ce solide.
-
-::: {layout="[60,40]" layout-valign="center"}
-
-**Repère de référence**: $R(O, \vec{x}, \vec{y}, \vec{z})$ <br>
-**Repère de lié au solide.**: $R(O_1, \vec{x_1}, \vec{y_1}, \vec{z_1})$
-
-![](CM3/Repere.png){width="90%" fig-align="center"}
+![](CM3/Repere.png){width="80%" fig-align="center"}
 :::
 
-. . . 
+. . .
 
 La position du solide dans l’espace, est déterminée par *6 paramètres indépendants*
 
-1. Position du point $O_1$ → **3 Coordonnées**
-2. Orientation de $\vec{x_1}, \vec{y_1}, \vec{z_1})$ par rapport à $R(O, \vec{x}, \vec{y}, \vec{z})$ → **3 Angles**
-
-
+1.  Position du point $O_1$ → **3 Coordonnées**
+2.  Orientation de $\vec{x_1}, \vec{y_1}, \vec{z_1})$ par rapport à $R(O, \vec{x}, \vec{y}, \vec{z})$ → **3 Angles**
 
 ### Repère
 
-Exemple : repère local lié au solide 2 (la bielle) et repère de référence, lié au solide 0 (le bâti)
+*Exemple* : Repère local lié au Solide 2 (la bielle) et Repère de référence, lié au solide 0 (le bâti)
 
 ::: {layout="[50,50]" layout-valign="center"}
+![](CM3/Repere-01.png){width="70%" fig-align="center"}
 
-![](CM3/Repere-01.png){width="90%" fig-align="center"}
-
-![](CM3/Repere-02.gif){width="90%" fig-align="center"}
+![](CM3/Repere-02.gif){width="70%" fig-align="center"}
 :::
+
 
 
 ### Repère
 
 Example 2
 
-
-
-
 ## Degree de liberté
 
 Il existe deux mouvements élémentaires entre les solides :
 
-1. Le mouvement de **TRANSLATION (RECTILIGNE)** : les trajectoires de tous les points du solide sont des droites parallèles.
-2. Le mouvement de **ROTATION** : les trajectoires de chaque point sont des cercles coaxiaux.
+1.  Le mouvement de **TRANSLATION (RECTILIGNE)** : les trajectoires de tous les points du solide sont des droites parallèles.
+2.  Le mouvement de **ROTATION** : les trajectoires de chaque point sont des cercles coaxiaux.
 
 ::: {layout="[70,30]" layout-valign="center"}
 On appelle *libertés* d’un solide par rapport à un référentiel, les mouvements indépendants de ce solide pour passer d’une position à une autre.
@@ -97,45 +112,102 @@ On appelle *libertés* d’un solide par rapport à un référentiel, les mouvem
 ![](CM3/Repere-02.png){width="100%" fig-align="center"}
 :::
 
+### Degree de Liberté {background-image="CM3/Degrees-liberte.png" background-size="20%" background-position="85% 85%"}
+
+1.  Le mouvement de **TRANSLATION (RECTILIGNE)** : les trajectoires de tous les points du solide sont des droites parallèles.
+    -   $T_x, T_y, T_z$ selon $(x,y,z)$
+2.  Le mouvement de **ROTATION** : les trajectoires de chaque point sont des cercles coaxiaux.
+    -   $R_x, R_y, R_z$ autour des axes $(x,y,z)$
 
 
-### Degree de Liberte
-Il existe deux mouvements élémentaires entre les solides :
-
-1. Le mouvement de **TRANSLATION (RECTILIGNE)** : les trajectoires de tous les points du solide sont des droites parallèles.
-    - $T_x, T_y, T_z$ selon $(x,y,z)$
-
-2. Le mouvement de **ROTATION** : les trajectoires de chaque point sont des cercles coaxiaux.
-    - $R_x, R_y, R_z$ autour des axes $(x,y,z)$
-
-::: {layout="[70,30]" layout-valign="center"}
 **6 Degrees de liberté**
 
-![](CM3/Degrees-liberte){width="90%" fig-align="center"}
+
+## Notion de liaison
+
+On appelle **liaison** entre deux solides l’ensemble des couples de surfaces en contact entre ces deux solides, **visant à diminuer la mobilité entre ces deux solides**.
+
+**Zones de Contacts**
+
+![](CM3/Contact.png){width="80%" fig-align="center"}
+
+## Degrés de liberté d’une liaison
+
+Les *degrés de liberté d’une liaison* sont **les déplacements élémentaires indépendants** autorisés par cette liaison.
+
+## Les Liaisons Mécaniques Elementaires
+
+### Encastrement
+
+
+![](CM3/Liaison-Encastrement.png){width="80%" fig-align="center"}
+
+
+### Pivot d'Axe
+
+![](CM3/Liaison-Pivot.png){width="80%" fig-align="center"}
+
+
+### Glissière
+
+![](CM3/Liaison-Glissiere){width="80%" fig-align="center"}
+
+
+### Rotule
+
+::: {.panel-tabset}
+
+#### À vous !
+![](CM3/Liaison-rotule-00.png){width="70%" fig-align="center"}
+
+#### Solution
+![](CM3/Liaison-rotule-01.png){width="70%" fig-align="center"}
+:::
+
+### Pivot glissant
+
+::: {.panel-tabset}
+#### À vous !
+![](CM3/Liaison-Pivot-glissant-00.png){width="70%" fig-align="center"}
+
+#### Solution
+![](CM3/Liaison-Pivot-glissant-01.png){width="70%" fig-align="center"}
 :::
 
 
 
-## Notion de liaison
-On appelle liaison entre deux solides l’ensemble des couples de surfaces en contact entre ces deux solides, visant à diminuer la mobilité entre ces deux solides.
+### Appui Plan Normale
+
+::: {.panel-tabset}
+#### À vous !
+![](CM3/Liaison-Plan-00.png){width="70%" fig-align="center"}
+
+#### Solution
+![](CM3/Liaison-Plan-01.png){width="70%" fig-align="center"}
+:::
+
+### Liste de liaisons standard
+
+![](CM3/Liaisons.png){width="70%" fig-align="center"}
 
 
-## Zones de Contacts
-
-![Contact](CM3/Contact.png){width="80%" fig-align="center"}
+## Pour quoi faire?
 
 
+## Example 1: Mécanisme Bielle-Manivelle
 
-## Degrés de liberté/de liaison d’une liaison
-Les *degrés de liberté d’une liaison* sont **les déplacements élémentaires indépendants** autorisés par cette liaison.
 
 # Élaboration d’un schéma cinématique
 
 ## Définition
-Le schéma cinématique d’un mécanisme est un **modèle filaire du mécanisme utilisant les symboles normalisés des liaisons. 
+
+Le schéma cinématique d’un mécanisme est un \*\*modèle filaire du mécanisme utilisant les symboles normalisés des liaisons.
 
 Ce modèle est utile tant au niveau de la conception que de l’analyse à posteriori pour réaliser l’étude cinématique ou dynamique (trajectoire, vitesse, efforts, etc.)
 
-# Example
+# Exemple 
 
 
+
+
+<iframe src="http://www.mechdes.net/" height="700" width="100%" title="description"></iframe>

@@ -354,21 +354,9 @@ MdC Alaa Hassan
 <nav role="doc-toc"> 
 <h2 id="toc-title">Table of contents</h2>
 <ul>
-<li><a href="#/modélisation-des-liaisons-mécaniques" id="/toc-modélisation-des-liaisons-mécaniques">Modélisation des liaisons mécaniques</a>
-<ul>
-<li><a href="#/définition" id="/toc-définition">Définition</a></li>
-<li><a href="#/solides-indeformables" id="/toc-solides-indeformables">Solides Indeformables</a></li>
-<li><a href="#/repere" id="/toc-repere">Repere</a></li>
-<li><a href="#/degree-de-liberté" id="/toc-degree-de-liberté">Degree de liberté</a></li>
-<li><a href="#/notion-de-liaison" id="/toc-notion-de-liaison">Notion de liaison</a></li>
-<li><a href="#/zones-de-contacts" id="/toc-zones-de-contacts">Zones de Contacts</a></li>
-<li><a href="#/degrés-de-libertéde-liaison-dune-liaison" id="/toc-degrés-de-libertéde-liaison-dune-liaison">Degrés de liberté/de liaison d’une liaison</a></li>
-</ul></li>
-<li><a href="#/élaboration-dun-schéma-cinématique" id="/toc-élaboration-dun-schéma-cinématique">Élaboration d’un schéma cinématique</a>
-<ul>
-<li><a href="#/définition-1" id="/toc-définition-1">Définition</a></li>
-</ul></li>
-<li><a href="#/example" id="/toc-example">Example</a></li>
+<li><a href="#/modélisation-des-liaisons-mécaniques" id="/toc-modélisation-des-liaisons-mécaniques">Modélisation des liaisons mécaniques</a></li>
+<li><a href="#/élaboration-dun-schéma-cinématique" id="/toc-élaboration-dun-schéma-cinématique">Élaboration d’un schéma cinématique</a></li>
+<li><a href="#/exemple" id="/toc-exemple">Exemple</a></li>
 </ul>
 </nav>
 </section>
@@ -377,30 +365,23 @@ MdC Alaa Hassan
 <h1>Modélisation des liaisons mécaniques</h1>
 
 </section>
-<section id="définition" class="title-slide slide level2 center">
-<h2>Définition</h2>
-<p><strong>Mécanisme</strong>:</p>
+<section id="mécanisme" class="title-slide slide level2 center" data-background-image="CM3/turbina.gif" data-background-size="30%" data-background-position="95% 30%">
+<h2>Mécanisme</h2>
+<p><strong>Définition</strong>:</p>
+<div class="quarto-layout-panel" data-layout="[65,30]">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 68.4%;justify-content: flex-start;">
 <p>On appelle mécanisme, un <em>ensemble de pièces mécaniques</em> reliées entre elles par des <em>liaisons</em>, en vue de réaliser une fonction déterminée.</p>
-<div class="quarto-layout-panel" data-layout="[70,30]">
-<div class="quarto-layout-row quarto-layout-valign-center">
-<div class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: flex-start;">
+</div>
+</div>
+</div>
+<div class="fragment">
 <p>Nous admettrons que les pièces mécaniques peuvent être modélisées par des <strong>solides indéformables</strong>.</p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="CM3/turbina.gif" class="quarto-figure quarto-figure-center" style="width:90.0%"></p>
-<figcaption>Exemple de mécanisme : un micromoteur de modélisme</figcaption>
-</figure>
-</div>
-</div>
-</div>
 </div>
 </section>
 
 <section id="solides-indeformables" class="title-slide slide level2 center">
 <h2>Solides Indeformables</h2>
-<p>Le solide possède une <em>masse constante</em> et un <em>volume</em> dont les <strong>limites sont invariantes</strong> quelles que soient les actions extérieures auxquelles il est soumis.</p>
 <div class="quarto-layout-panel" data-layout="[70,30]">
 <div class="quarto-layout-row quarto-layout-valign-center">
 <div class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: flex-start;">
@@ -422,7 +403,7 @@ MdC Alaa Hassan
 <div class="quarto-figure quarto-figure-center">
 <figure>
 <p><img data-src="CM3/Solide-indeformable.png" class="quarto-figure quarto-figure-center" style="width:90.0%"></p>
-<figcaption>Exemple de mécanisme : un micromoteur de modélisme</figcaption>
+<figcaption>Bielle d’un micromoteur de modélisme</figcaption>
 </figure>
 </div>
 </div>
@@ -430,18 +411,17 @@ MdC Alaa Hassan
 </div>
 </section>
 
-<section id="repere" class="title-slide slide level2 center">
-<h2>Repere</h2>
-<p>Pour connaitre la position de tous ses points dans l’espace, il suffit de connaitre la position d’un repère lié à ce solide.</p>
+<section id="repère" class="title-slide slide level2 center">
+<h2>Repère</h2>
 <div class="quarto-layout-panel" data-layout="[60,40]">
-<div class="quarto-layout-row quarto-layout-valign-center">
+<div class="quarto-layout-row quarto-layout-valign-top">
 <div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
-<p><strong>Repère de référence</strong>: <span class="math inline">\(R(O, \vec{x}, \vec{y}, \vec{z})\)</span> <br> <strong>Repère de lié au solide.</strong>: <span class="math inline">\(R(O_1, \vec{x_1}, \vec{y_1}, \vec{z_1})\)</span></p>
+<p>Pour connaitre la position de tous ses points dans l’espace, il suffit de connaitre la position d’un repère lié à ce solide. <br> <strong>Repère de référence</strong>: <span class="math inline">\(R(O, \vec{x}, \vec{y}, \vec{z})\)</span> <br> <strong>Repère de lié au solide.</strong>: <span class="math inline">\(R(O_1, \vec{x_1}, \vec{y_1}, \vec{z_1})\)</span></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="CM3/Repere.png" class="quarto-figure quarto-figure-center" style="width:90.0%"></p>
+<p><img data-src="CM3/Repere.png" class="quarto-figure quarto-figure-center" style="width:80.0%"></p>
 </figure>
 </div>
 </div>
@@ -455,29 +435,29 @@ MdC Alaa Hassan
 </ol>
 </div>
 </section>
-<section id="repère" class="slide level3">
+<section id="repère-1" class="slide level3">
 <h3>Repère</h3>
-<p>Exemple : repère local lié au solide 2 (la bielle) et repère de référence, lié au solide 0 (le bâti)</p>
+<p><em>Exemple</em> : Repère local lié au Solide 2 (la bielle) et Repère de référence, lié au solide 0 (le bâti)</p>
 <div class="quarto-layout-panel" data-layout="[50,50]">
 <div class="quarto-layout-row quarto-layout-valign-center">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="CM3/Repere-01.png" class="quarto-figure quarto-figure-center" style="width:90.0%"></p>
+<p><img data-src="CM3/Repere-01.png" class="quarto-figure quarto-figure-center" style="width:70.0%"></p>
 </figure>
 </div>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="CM3/Repere-02.gif" class="quarto-figure quarto-figure-center" style="width:90.0%"></p>
+<p><img data-src="CM3/Repere-02.gif" class="quarto-figure quarto-figure-center" style="width:70.0%"></p>
 </figure>
 </div>
 </div>
 </div>
 </div>
 </section>
-<section id="repère-1" class="slide level3">
+<section id="repère-2" class="slide level3">
 <h3>Repère</h3>
 <p>Example 2</p>
 </section>
@@ -504,9 +484,8 @@ MdC Alaa Hassan
 </div>
 </div>
 </section>
-<section id="degree-de-liberte" class="slide level3">
-<h3>Degree de Liberte</h3>
-<p>Il existe deux mouvements élémentaires entre les solides :</p>
+<section id="degree-de-liberté-1" class="slide level3" data-background-image="CM3/Degrees-liberte.png" data-background-size="20%" data-background-position="85% 85%">
+<h3>Degree de Liberté</h3>
 <ol type="1">
 <li>Le mouvement de <strong>TRANSLATION (RECTILIGNE)</strong> : les trajectoires de tous les points du solide sont des droites parallèles.
 <ul>
@@ -517,35 +496,116 @@ MdC Alaa Hassan
 <li><span class="math inline">\(R_x, R_y, R_z\)</span> autour des axes <span class="math inline">\((x,y,z)\)</span></li>
 </ul></li>
 </ol>
-<div class="quarto-layout-panel" data-layout="[70,30]">
-<div class="quarto-layout-row quarto-layout-valign-center">
-<div class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: flex-start;">
 <p><strong>6 Degrees de liberté</strong></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: center;">
+</section>
+
+<section id="notion-de-liaison" class="title-slide slide level2 center">
+<h2>Notion de liaison</h2>
+<p>On appelle <strong>liaison</strong> entre deux solides l’ensemble des couples de surfaces en contact entre ces deux solides, <strong>visant à diminuer la mobilité entre ces deux solides</strong>.</p>
+<p><strong>Zones de Contacts</strong></p>
+
+<img data-src="CM3/Contact.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+
+<section id="degrés-de-liberté-dune-liaison" class="title-slide slide level2 center">
+<h2>Degrés de liberté d’une liaison</h2>
+<p>Les <em>degrés de liberté d’une liaison</em> sont <strong>les déplacements élémentaires indépendants</strong> autorisés par cette liaison.</p>
+</section>
+
+<section id="les-liaisons-mécaniques-elementaires" class="title-slide slide level2 center">
+<h2>Les Liaisons Mécaniques Elementaires</h2>
+
+</section>
+<section id="encastrement" class="slide level3">
+<h3>Encastrement</h3>
+
+<img data-src="CM3/Liaison-Encastrement.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="pivot-daxe" class="slide level3">
+<h3>Pivot d’Axe</h3>
+
+<img data-src="CM3/Liaison-Pivot.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="glissière" class="slide level3">
+<h3>Glissière</h3>
+
+<img data-src="CM3/Liaison-Glissiere.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+<section id="rotule" class="slide level3">
+<h3>Rotule</h3>
+<div class="panel-tabset">
+<ul id="tabset-1" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-1-1">À vous !</a></li><li><a href="#tabset-1-2">Solution</a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="CM3/Degrees-liberte.png" class="quarto-figure quarto-figure-center" style="width:90.0%"></p>
+<p><img data-src="CM3/Liaison-rotule-00.png" class="quarto-figure quarto-figure-center" style="width:70.0%"></p>
+</figure>
+</div>
+</div>
+<div id="tabset-1-2">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="CM3/Liaison-rotule-01.png" class="quarto-figure quarto-figure-center" style="width:70.0%"></p>
 </figure>
 </div>
 </div>
 </div>
 </div>
 </section>
+<section id="pivot-glissant" class="slide level3">
+<h3>Pivot glissant</h3>
+<div class="panel-tabset">
+<ul id="tabset-2" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-2-1">À vous !</a></li><li><a href="#tabset-2-2">Solution</a></li></ul>
+<div class="tab-content">
+<div id="tabset-2-1">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="CM3/Liaison-Pivot-glissant-00.png" class="quarto-figure quarto-figure-center" style="width:70.0%"></p>
+</figure>
+</div>
+</div>
+<div id="tabset-2-2">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="CM3/Liaison-Pivot-glissant-01.png" class="quarto-figure quarto-figure-center" style="width:70.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="appui-plan-normale" class="slide level3">
+<h3>Appui Plan Normale</h3>
+<div class="panel-tabset">
+<ul id="tabset-3" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-3-1">À vous !</a></li><li><a href="#tabset-3-2">Solution</a></li></ul>
+<div class="tab-content">
+<div id="tabset-3-1">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="CM3/Liaison-Plan-00.png" class="quarto-figure quarto-figure-center" style="width:70.0%"></p>
+</figure>
+</div>
+</div>
+<div id="tabset-3-2">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="CM3/Liaison-Plan-01.png" class="quarto-figure quarto-figure-center" style="width:70.0%"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="liste-de-liaisons-standard" class="slide level3">
+<h3>Liste de liaisons standard</h3>
 
-<section id="notion-de-liaison" class="title-slide slide level2 center">
-<h2>Notion de liaison</h2>
-<p>On appelle liaison entre deux solides l’ensemble des couples de surfaces en contact entre ces deux solides, visant à diminuer la mobilité entre ces deux solides.</p>
+<img data-src="CM3/Liaisons.png" class="quarto-figure quarto-figure-center r-stretch" style="width:70.0%"></section>
+
+<section id="pour-quoi-faire" class="title-slide slide level2 center">
+<h2>Pour quoi faire?</h2>
+
 </section>
 
-<section id="zones-de-contacts" class="title-slide slide level2 center">
-<h2>Zones de Contacts</h2>
+<section id="example-1-mécanisme-bielle-manivelle" class="title-slide slide level2 center">
+<h2>Example 1: Mécanisme Bielle-Manivelle</h2>
 
-<img data-src="CM3/Contact.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"><p class="caption">Contact</p></section>
-
-<section id="degrés-de-libertéde-liaison-dune-liaison" class="title-slide slide level2 center">
-<h2>Degrés de liberté/de liaison d’une liaison</h2>
-<p>Les <em>degrés de liberté d’une liaison</em> sont <strong>les déplacements élémentaires indépendants</strong> autorisés par cette liaison.</p>
 </section>
 </section>
 <section>
@@ -553,14 +613,16 @@ MdC Alaa Hassan
 <h1>Élaboration d’un schéma cinématique</h1>
 
 </section>
-<section id="définition-1" class="title-slide slide level2 center">
+<section id="définition" class="title-slide slide level2 center">
 <h2>Définition</h2>
 <p>Le schéma cinématique d’un mécanisme est un **modèle filaire du mécanisme utilisant les symboles normalisés des liaisons.</p>
 <p>Ce modèle est utile tant au niveau de la conception que de l’analyse à posteriori pour réaliser l’étude cinématique ou dynamique (trajectoire, vitesse, efforts, etc.)</p>
 </section>
 </section>
-<section id="example" class="title-slide slide level1 center">
-<h1>Example</h1>
+<section id="exemple" class="title-slide slide level1 center">
+<h1>Exemple</h1>
+<iframe src="http://www.mechdes.net/" height="700" width="100%" title="description">
+</iframe>
 
 <div class="quarto-auto-generated-content">
 <p><img src="../assets/img/ENSGSI.png" class="slide-logo"></p>

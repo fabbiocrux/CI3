@@ -226,7 +226,7 @@
     "href": "CM/CM3.html#définition",
     "title": "Conception et Innovation – CI3",
     "section": "Définition",
-    "text": "Définition\nMécanisme:\nOn appelle mécanisme, un ensemble de pièces mécaniques reliées entre elles par des liaisons, en vue de réaliser une fonction déterminée.\n\n\n\nNous admettrons que les pièces mécaniques peuvent être modélisées par des solides indéformables.\n\n\n\n\n\nExemple de mécanisme : un micromoteur de modélisme",
+    "text": "Définition\nLe schéma cinématique d’un mécanisme est un **modèle filaire du mécanisme utilisant les symboles normalisés des liaisons.\nCe modèle est utile tant au niveau de la conception que de l’analyse à posteriori pour réaliser l’étude cinématique ou dynamique (trajectoire, vitesse, efforts, etc.)",
     "crumbs": [
       "Cours Magistraux",
       "Conception et Innovation -- CI3"
@@ -248,7 +248,7 @@
     "href": "CM/CM3.html#solides-indeformables",
     "title": "Conception et Innovation – CI3",
     "section": "Solides Indeformables",
-    "text": "Solides Indeformables\nLe solide possède une masse constante et un volume dont les limites sont invariantes quelles que soient les actions extérieures auxquelles il est soumis.\n\n\n\n\n\n\n\n\n\nConséquence géométrique\n\n\nLa distance entre deux points quelconques d’un solide indéformable est invariable dans un Repère donneé\n\n\n\n\n\n\n\n\nExemple de mécanisme : un micromoteur de modélisme",
+    "text": "Solides Indeformables\n\n\n\n\n\n\n\n\n\nConséquence géométrique\n\n\nLa distance entre deux points quelconques d’un solide indéformable est invariable dans un Repère donneé\n\n\n\n\n\n\n\n\nBielle d’un micromoteur de modélisme",
     "crumbs": [
       "Cours Magistraux",
       "Conception et Innovation -- CI3"
@@ -292,7 +292,7 @@
     "href": "CM/CM3.html#notion-de-liaison",
     "title": "Conception et Innovation – CI3",
     "section": "Notion de liaison",
-    "text": "Notion de liaison\nOn appelle liaison entre deux solides l’ensemble des couples de surfaces en contact entre ces deux solides, visant à diminuer la mobilité entre ces deux solides.",
+    "text": "Notion de liaison\nOn appelle liaison entre deux solides l’ensemble des couples de surfaces en contact entre ces deux solides, visant à diminuer la mobilité entre ces deux solides.\nZones de Contacts",
     "crumbs": [
       "Cours Magistraux",
       "Conception et Innovation -- CI3"
@@ -436,6 +436,94 @@
     "title": "Conception et Innovation – CI3",
     "section": "La Chaîne d’Information",
     "text": "La Chaîne d’Information",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#liaisons-usuelles",
+    "href": "CM/CM3.html#liaisons-usuelles",
+    "title": "Conception et Innovation – CI3",
+    "section": "Liaisons usuelles",
+    "text": "Liaisons usuelles",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#repère",
+    "href": "CM/CM3.html#repère",
+    "title": "Conception et Innovation – CI3",
+    "section": "Repère",
+    "text": "Repère\n\n\n\nPour connaitre la position de tous ses points dans l’espace, il suffit de connaitre la position d’un repère lié à ce solide.  Repère de référence: \\(R(O, \\vec{x}, \\vec{y}, \\vec{z})\\)  Repère de lié au solide.: \\(R(O_1, \\vec{x_1}, \\vec{y_1}, \\vec{z_1})\\)\n\n\n\n\n\n\n\n\n\n\n\nLa position du solide dans l’espace, est déterminée par 6 paramètres indépendants\n\nPosition du point \\(O_1\\) → 3 Coordonnées\nOrientation de \\(\\vec{x_1}, \\vec{y_1}, \\vec{z_1})\\) par rapport à \\(R(O, \\vec{x}, \\vec{y}, \\vec{z})\\) → 3 Angles",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#les-liaisons-mécaniques-elementaires",
+    "href": "CM/CM3.html#les-liaisons-mécaniques-elementaires",
+    "title": "Conception et Innovation – CI3",
+    "section": "Les Liaisons Mécaniques Elementaires",
+    "text": "Les Liaisons Mécaniques Elementaires",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#les-liaisons-mécaniques-elementaires-1",
+    "href": "CM/CM3.html#les-liaisons-mécaniques-elementaires-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Les Liaisons Mécaniques Elementaires",
+    "text": "Les Liaisons Mécaniques Elementaires\n\n\n\n\n\n\n\n\n\nLiaison\nSymbole\nDegree de Liberté\nTorseur cinématique\n\n\n\n\nEncastrement \n2.05\n2.05\n2.05",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#mécanisme",
+    "href": "CM/CM3.html#mécanisme",
+    "title": "Conception et Innovation – CI3",
+    "section": "Mécanisme",
+    "text": "Mécanisme\nDéfinition:\n\n\n\nOn appelle mécanisme, un ensemble de pièces mécaniques reliées entre elles par des liaisons, en vue de réaliser une fonction déterminée.\n\n\n\n\nNous admettrons que les pièces mécaniques peuvent être modélisées par des solides indéformables.",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#example-1-mécanisme-bielle-manivelle",
+    "href": "CM/CM3.html#example-1-mécanisme-bielle-manivelle",
+    "title": "Conception et Innovation – CI3",
+    "section": "Example 1: Mécanisme Bielle-Manivelle",
+    "text": "Example 1: Mécanisme Bielle-Manivelle",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#degrés-de-liberté-dune-liaison",
+    "href": "CM/CM3.html#degrés-de-liberté-dune-liaison",
+    "title": "Conception et Innovation – CI3",
+    "section": "Degrés de liberté d’une liaison",
+    "text": "Degrés de liberté d’une liaison\nLes degrés de liberté d’une liaison sont les déplacements élémentaires indépendants autorisés par cette liaison.",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#pour-quoi-faire",
+    "href": "CM/CM3.html#pour-quoi-faire",
+    "title": "Conception et Innovation – CI3",
+    "section": "Pour quoi faire?",
+    "text": "Pour quoi faire?",
     "crumbs": [
       "Cours Magistraux",
       "Conception et Innovation -- CI3"
