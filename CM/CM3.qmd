@@ -96,10 +96,6 @@ La position du solide dans l’espace, est déterminée par *6 paramètres indé
 
 
 
-### Repère
-
-Example 2
-
 ## Degree de liberté
 
 Il existe deux *mouvements élémentaires* entre les solides :
