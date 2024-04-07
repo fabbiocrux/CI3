@@ -226,7 +226,7 @@
     "href": "CM/CM3.html#définition",
     "title": "Conception et Innovation – CI3",
     "section": "Définition",
-    "text": "Définition\nLe schéma cinématique d’un mécanisme est un **modèle filaire du mécanisme utilisant les symboles normalisés des liaisons.\nCe modèle est utile tant au niveau de la conception que de l’analyse à posteriori pour réaliser l’étude cinématique ou dynamique (trajectoire, vitesse, efforts, etc.)",
+    "text": "Définition\nLe schéma cinématique d’un mécanisme est un modèle filaire du mécanisme utilisant les symboles normalisés des liaisons.\nCe modèle est utile tant au niveau de la conception que de l’analyse à posteriori pour réaliser l’étude cinématique ou dynamique (trajectoire, vitesse, efforts, etc.)",
     "crumbs": [
       "Cours Magistraux",
       "Conception et Innovation -- CI3"
@@ -281,7 +281,7 @@
     "href": "CM/CM3.html#degree-de-liberté",
     "title": "Conception et Innovation – CI3",
     "section": "Degree de liberté",
-    "text": "Degree de liberté\nIl existe deux mouvements élémentaires entre les solides :\n\nLe mouvement de TRANSLATION (RECTILIGNE) : les trajectoires de tous les points du solide sont des droites parallèles.\nLe mouvement de ROTATION : les trajectoires de chaque point sont des cercles coaxiaux.\n\n\n\n\nOn appelle libertés d’un solide par rapport à un référentiel, les mouvements indépendants de ce solide pour passer d’une position à une autre.",
+    "text": "Degree de liberté\nIl existe deux mouvements élémentaires entre les solides :\n\n\n\n\nTRANSLATION (RECTILIGNE) : les trajectoires de tous les points du solide sont des droites parallèles.\nROTATION : les trajectoires de chaque point sont des cercles coaxiaux.\n\n\n\n\n\n\n\n\n\n\n\nOn appelle libertés d’un solide par rapport à un référentiel, les mouvements indépendants de ce solide pour passer d’une position à une autre.",
     "crumbs": [
       "Cours Magistraux",
       "Conception et Innovation -- CI3"
@@ -468,7 +468,7 @@
     "href": "CM/CM3.html#les-liaisons-mécaniques-elementaires",
     "title": "Conception et Innovation – CI3",
     "section": "Les Liaisons Mécaniques Elementaires",
-    "text": "Les Liaisons Mécaniques Elementaires",
+    "text": "Les Liaisons Mécaniques Elementaires\nSelon la norme NF EN ISO 3952-1",
     "crumbs": [
       "Cours Magistraux",
       "Conception et Innovation -- CI3"
@@ -523,7 +523,117 @@
     "href": "CM/CM3.html#pour-quoi-faire",
     "title": "Conception et Innovation – CI3",
     "section": "Pour quoi faire?",
-    "text": "Pour quoi faire?",
+    "text": "Pour quoi faire?\n. . . Construire un schéma cinématique, une représentation simplifiée d’un mécanisme permettant une meilleure compréhension du fonctionnement.",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#example-1-modélisation-cinématique-dun-micromoteur-de-modélisme",
+    "href": "CM/CM3.html#example-1-modélisation-cinématique-dun-micromoteur-de-modélisme",
+    "title": "Conception et Innovation – CI3",
+    "section": "Example 1: Modélisation cinématique d’un micromoteur de modélisme",
+    "text": "Example 1: Modélisation cinématique d’un micromoteur de modélisme\nEtapes:\n\nRegroupement des pièces en ensembles solides\nÉlaboration du graphe des liaisons\nConstruction du schéma cinématique",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#examples",
+    "href": "CM/CM3.html#examples",
+    "title": "Conception et Innovation – CI3",
+    "section": "Examples",
+    "text": "Examples",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#example-1",
+    "href": "CM/CM3.html#example-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Example 1",
+    "text": "Example 1\nModélisation cinématique d’un micromoteur de modélisme",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#simuler-pour-mieux-comprendre.",
+    "href": "CM/CM3.html#simuler-pour-mieux-comprendre.",
+    "title": "Conception et Innovation – CI3",
+    "section": "💻 Simuler pour mieux comprendre.",
+    "text": "💻 Simuler pour mieux comprendre.",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#example-2",
+    "href": "CM/CM3.html#example-2",
+    "title": "Conception et Innovation – CI3",
+    "section": "Example 2",
+    "text": "Example 2\nModélisation cinématique d’une Vélo elliptique",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#example-2-vélo-elliptique-ve680",
+    "href": "CM/CM3.html#example-2-vélo-elliptique-ve680",
+    "title": "Conception et Innovation – CI3",
+    "section": "Example 2: Vélo elliptique VE680",
+    "text": "Example 2: Vélo elliptique VE680",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#example-2-vélo-elliptique-ve680-1",
+    "href": "CM/CM3.html#example-2-vélo-elliptique-ve680-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Example 2: Vélo elliptique VE680",
+    "text": "Example 2: Vélo elliptique VE680\n\nContexteAnalyse du besoinChaîne d’Energie\n\n\n\n\n\nSociété Décathlon commercialise le système du vélo elliptique de marque Domyos, modèle VE 680.",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#references.",
+    "href": "CM/CM3.html#references.",
+    "title": "Conception et Innovation – CI3",
+    "section": "References.",
+    "text": "References.",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#questions",
+    "href": "CM/CM3.html#questions",
+    "title": "Conception et Innovation – CI3",
+    "section": "Questions?",
+    "text": "Questions?",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#message-clé-de-cette-séance",
+    "href": "CM/CM3.html#message-clé-de-cette-séance",
+    "title": "Conception et Innovation – CI3",
+    "section": "Message clé de cette séance",
+    "text": "Message clé de cette séance",
     "crumbs": [
       "Cours Magistraux",
       "Conception et Innovation -- CI3"

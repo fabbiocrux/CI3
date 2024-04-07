@@ -70,8 +70,9 @@ La distance entre deux points quelconques d’un solide indéformable est invari
 ## Repère
 
 ::: {layout="[60,40]" layout-valign="top"}
-Pour connaitre la position de tous ses points dans l’espace, il suffit de connaitre la position d’un repère lié à ce solide. <br>
-**Repère de référence**: $R(O, \vec{x}, \vec{y}, \vec{z})$ <br> **Repère de lié au solide.**: $R(O_1, \vec{x_1}, \vec{y_1}, \vec{z_1})$
+Pour connaitre la position de tous ses points dans l’espace, il suffit de connaitre la position d’un repère lié à ce solide. <br><br> 
+**Repère de référence**: $R(O, \vec{x}, \vec{y}, \vec{z})$ <br> 
+**Repère de lié au solide.**: $R(O_1, \vec{x_1}, \vec{y_1}, \vec{z_1})$
 
 ![](CM3/Repere.png){width="80%" fig-align="center"}
 :::
@@ -101,22 +102,25 @@ Example 2
 
 ## Degree de liberté
 
-Il existe deux mouvements élémentaires entre les solides :
+Il existe deux *mouvements élémentaires* entre les solides :
 
-1.  Le mouvement de **TRANSLATION (RECTILIGNE)** : les trajectoires de tous les points du solide sont des droites parallèles.
-2.  Le mouvement de **ROTATION** : les trajectoires de chaque point sont des cercles coaxiaux.
+::: {layout="[60,50]" layout-valign="center"}
 
-::: {layout="[70,30]" layout-valign="center"}
-On appelle *libertés* d’un solide par rapport à un référentiel, les mouvements indépendants de ce solide pour passer d’une position à une autre.
+1.  **TRANSLATION (RECTILIGNE)** : les trajectoires de tous les points du solide sont des droites parallèles.
+2.  **ROTATION** : les trajectoires de chaque point sont des cercles coaxiaux.
 
 ![](CM3/Repere-02.png){width="100%" fig-align="center"}
 :::
 
+On appelle *libertés* d’un solide par rapport à un référentiel, les mouvements indépendants de ce solide pour passer d’une position à une autre.
+
+
+
 ### Degree de Liberté {background-image="CM3/Degrees-liberte.png" background-size="20%" background-position="85% 85%"}
 
-1.  Le mouvement de **TRANSLATION (RECTILIGNE)** : les trajectoires de tous les points du solide sont des droites parallèles.
+1.  **TRANSLATION (RECTILIGNE)** : les trajectoires de tous les points du solide sont des droites parallèles.
     -   $T_x, T_y, T_z$ selon $(x,y,z)$
-2.  Le mouvement de **ROTATION** : les trajectoires de chaque point sont des cercles coaxiaux.
+2.  **ROTATION** : les trajectoires de chaque point sont des cercles coaxiaux.
     -   $R_x, R_y, R_z$ autour des axes $(x,y,z)$
 
 
@@ -136,6 +140,9 @@ On appelle **liaison** entre deux solides l’ensemble des couples de surfaces e
 Les *degrés de liberté d’une liaison* sont **les déplacements élémentaires indépendants** autorisés par cette liaison.
 
 ## Les Liaisons Mécaniques Elementaires
+
+
+Selon la norme NF EN ISO 3952-1
 
 ### Encastrement
 
@@ -193,21 +200,348 @@ Les *degrés de liberté d’une liaison* sont **les déplacements élémentaire
 
 ## Pour quoi faire?
 
+. . .
+Construire un schéma cinématique, une représentation simplifiée d’un mécanisme permettant **une meilleure compréhension du fonctionnement**.
 
-## Example 1: Mécanisme Bielle-Manivelle
+
 
 
 # Élaboration d’un schéma cinématique
 
 ## Définition
 
-Le schéma cinématique d’un mécanisme est un \*\*modèle filaire du mécanisme utilisant les symboles normalisés des liaisons.
+Le schéma cinématique d’un mécanisme est un modèle filaire du mécanisme utilisant les symboles normalisés des liaisons.
 
 Ce modèle est utile tant au niveau de la conception que de l’analyse à posteriori pour réaliser l’étude cinématique ou dynamique (trajectoire, vitesse, efforts, etc.)
 
-# Exemple 
+
+## Example 1 {background-image="CM3/turbina.gif" background-size="30%" background-position="95% 30%"} 
+
+**Modélisation cinématique d’un micromoteur de modélisme**
+
+### Etapes  {background-image="CM3/turbina.gif" background-size="30%" background-position="95% 30%"} 
+
+1. Regroupement des pièces en ensembles solides
+2. Élaboration du graphe des liaisons
+3. Construction du schéma cinématique
 
 
 
+### Etapes  {background-image="CM3/Schema-Cine-01.png" background-size="25%" background-position="95% 30%"} 
+
+1. **Regroupement des pièces en ensembles solides**
+2. [Élaboration du graphe des liaisons]{.grey}
+3. [Construction du schéma cinématique]{.grey}
+
+
+::: {layout="[70,30]" layout-valign="center"}
+::: {.class}
+<br><br>
+🔎 On regroupe les pièces dans des ensembles (appelés classes d’équivalence cinématique)
+
+✍️ Un nom (un numéro par exemple)
+
+🔵 Une couleur
+:::
+:::
+
+### Etapes  {background-image="CM3/Repere-01.png" background-size="20%" background-position="85% 10%"} 
+
+1. [Regroupement des pièces en ensembles solides]{.grey}
+2. **Élaboration du graphe des liaisons**
+3. [Construction du schéma cinématique]{.grey}
+
+::: {layout="[70,30]" layout-valign="center"}
+
+:::.{}
+<br><br>
+
+✓ Choix d’une base pour le solide de référence (bâti)<br>
+✓ Recherche des contacts entre les solides<br>
+✓ Étude des liaisons entre les solides
+:::
+
+<br>![](CM3/Graphe-des-liaisons.png){width="50%" fig-align="center"}
+:::
+
+
+### Etapes  {background-image="CM3/Liaison-1.gif" background-size="20%" background-position="85% 10%"} 
+
+1. [Regroupement des pièces en ensembles solides]{.grey}
+2. **Élaboration du graphe des liaisons**
+3. [Construction du schéma cinématique]{.grey}
+
+::: {layout="[80,20]" layout-valign="center"}
+
+:::.{}
+<br><br>
+Analyser pour ***chaque laiaison***
+
+✓ Surfaces en contact → (plan/plan, sphère/cylindre, ...)<br>
+✓ Degrés de liberté<br>
+✓ Identification de composants
+:::
+:::
+
+### Etapes  {background-image="CM3/Schema-Cine-02.png" background-size="30%" background-position="95% 30%"} 
+
+1. [Regroupement des pièces en ensembles solides]{.grey}
+2. **Élaboration du graphe des liaisons**
+3. [Construction du schéma cinématique]{.grey}
+
+::: {layout="[80,20]" layout-valign="center"}
+
+:::.{}
+<br><br>
+Analyser pour ***chaque laiaison***
+
+$L_{0-1}$ : Pivot d’axe $(𝐴,\vec{z})$<br>
+$L_{1-2}$ : Pivot d’axe $(𝐵,\vec{z})$<br>
+$L_{2-3}$ : Pivot glissant d’axe $(𝐶,\vec{z})$<br>
+$L_{3-0}$ : Pivot glissant d’axe $(𝐴,\vec{y})$<br>
+
+:::
+:::
+
+
+
+### Etapes  {background-image="CM3/Schema-Cine-03.png" background-size="30%" background-position="95% 30%"} 
+
+1. [Regroupement des pièces en ensembles solides]{.grey}
+2. [Élaboration du graphe des liaisons]{.grey}
+3. **Construction du schéma cinématique**
+
+
+::: {layout="[80,20]" layout-valign="center"}
+
+:::.{}
+<br><br>
+✓ Tracé des éléments de situation des liaisons <br>
+[✓ Dessin des symboles des liaisons]{.grey} <br>
+[✓ Simuler]{.grey}
+:::
+:::
+
+
+### Etapes  {background-image="CM3/Schema-Cine-04.png" background-size="30%" background-position="95% 30%"} 
+
+1. [Regroupement des pièces en ensembles solides]{.grey}
+2. [Élaboration du graphe des liaisons]{.grey}
+3. **Construction du schéma cinématique**
+
+
+::: {layout="[80,20]" layout-valign="center"}
+
+:::.{}
+<br><br>
+[✓ Tracé des éléments de situation des liaisons]{.grey} <br>
+✓ Dessin des symboles des liaisons <br>
+[✓ Simuler]{.grey}
+:::
+:::
+
+
+### Etapes  {background-image="CM3/Schema-Cine-04.gif" background-size="12%" background-position="90% 30%"} 
+
+1. [Regroupement des pièces en ensembles solides]{.grey}
+2. [Élaboration du graphe des liaisons]{.grey}
+3. **Construction du schéma cinématique**
+
+
+::: {layout="[80,20]" layout-valign="center"}
+
+:::.{}
+<br><br>
+[✓ Tracé des éléments de situation des liaisons]{.grey} <br>
+[✓ Dessin des symboles des liaisons]{.grey} <br>
+✓ Simuler
+:::
+
+:::
+
+## 💻 Simuler pour mieux comprendre.
 
 <iframe src="http://www.mechdes.net/" height="700" width="100%" title="description"></iframe>
+
+
+## Example 2: Vélo elliptique VE680
+
+## Example 2: Vélo elliptique VE680
+
+
+::: {.panel-tabset}
+
+#### Contexte
+
+::: {layout="[80,20]" layout-valign="center"}
+
+:::.{}
+Société Décathlon commercialise le système du vélo elliptique de marque Domyos, modèle VE 680.
+
+![](CM3/Velo-fonctionnelle.png){width="40%" fig-align="center"}
+:::
+
+![](CM3/Velo.png){width="70%" fig-align="center"}
+:::
+
+#### Analyse du besoin
+
+::: {layout="[50,50]" layout-valign="center"}
+
+![](CM3/Velo-fonctionnelle-01.png){width="100%" fig-align="center"}
+
+![](CM3/Velo-fonctionnelle-03.png){width="100%" fig-align="center"}
+
+:::
+
+#### Chaîne d'Energie
+
+
+::: {layout="[60,50]" layout-valign="center"}
+
+![](CM3/Velo-fonctionnelle-04.png){width="100%" fig-align="center"}
+
+![](CM3/Velo-fonctionnelle-02.png){width="100%" fig-align="center"}
+
+:::
+
+:::
+
+
+
+
+## Example 2 {background-image="CM3/Velo-fonctionnelle-00.png" background-size="80%" background-position="50% 50%"} 
+
+**Modélisation cinématique d’une <br>Vélo elliptique**
+
+### Etapes  {background-image="CM3/turbina.gif" background-size="30%" background-position="95% 30%"} 
+
+1. Regroupement des pièces en ensembles solides
+2. Élaboration du graphe des liaisons
+3. Construction du schéma cinématique
+
+
+### Etapes  {background-image="CM3/Velo-fonctionnelle-06.png" background-size="30%" background-position="95% 0%"} 
+
+1. **Regroupement des pièces en ensembles solides**
+2. [Élaboration du graphe des liaisons]{.grey}
+3. [Construction du schéma cinématique]{.grey}
+
+
+::: {layout="[70,30]" layout-valign="bottom"}
+::: {}
+<br><br>
+🔎 On regroupe les pièces dans des ensembles <br>(appelés classes d’équivalence cinématique)
+
+✍️ Un nom (un numéro par exemple)
+
+🔵 Une couleur
+:::
+
+::: {}
+<br><br>
+⬛ 1 bâti <br>
+🟥 2 bras <br>
+🟩 2 pédales <br>
+🟦 2 articulations <br>
+🟨 1 pédalier <br>
+:::
+:::
+
+### Etapes  {background-image="CM3/Velo-fonctionnelle-10.png" background-size="40%" background-position="95% 10%"} 
+
+1. [Regroupement des pièces en ensembles solides]{.grey}
+2. **Élaboration du graphe des liaisons**
+3. [Construction du schéma cinématique]{.grey}
+
+::: {layout="[70,30]" layout-valign="center"}
+
+:::.{}
+✓ Choix d’une base pour le solide de référence (bâti)<br>
+✓ Recherche des contacts entre les solides<br>
+✓ Étude des liaisons entre les solides
+:::
+:::
+
+
+### Etapes  {background-image="CM3/Velo-fonctionnelle-11.png" background-size="40%" background-position="100% 35%"} 
+
+1. [Regroupement des pièces en ensembles solides]{.grey}
+2. **Élaboration du graphe des liaisons**
+3. [Construction du schéma cinématique]{.grey}
+
+::: {layout="[80,20]" layout-valign="center"}
+
+:::.{}
+Analyser pour ***chaque laiaison***
+
+✓ Surfaces en contact → (plan/plan, sphère/cylindre, ...)<br>
+✓ Degrés de liberté<br>
+✓ Identification de composants
+:::
+:::
+
+### Etapes  {background-image="CM3/Velo-fonctionnelle-10.png" background-size="40%" background-position="95% 10%"} 
+
+1. [Regroupement des pièces en ensembles solides]{.grey}
+2. **Élaboration du graphe des liaisons**
+3. [Construction du schéma cinématique]{.grey}
+
+::: {layout="[80,20]" layout-valign="center"}
+
+:::.{}
+Analyser pour ***chaque laiaison***
+
+$L_{0-2}$ : Pivot d’axe $(𝐴,\vec{z})$<br>
+$L_{0-3}$ : Pivot d’axe $(𝐵,\vec{z})$<br>
+$L_{2-1}$ : Pivot d’axe $(𝐶,\vec{y})$<br>
+$L_{1-4}$ : Pivot glissant d’axe $(𝐴,\vec{y})$<br>
+$L_{3-4}$ : Pivot d’axe $(E,\vec{z})$<br>
+:::
+:::
+
+
+
+### Etapes  {background-image="CM3/Velo-fonctionnelle-12.png" background-size="40%" background-position="100% 30%"} 
+
+1. [Regroupement des pièces en ensembles solides]{.grey}
+2. [Élaboration du graphe des liaisons]{.grey}
+3. **Construction du schéma cinématique**
+
+
+::: {layout="[80,20]" layout-valign="center"}
+
+:::.{}
+<br>
+✓ Tracé des éléments de situation des liaisons <br>
+✓ Dessin des symboles des liaisons <br>
+[✓ Simuler]{.grey}
+:::
+:::
+
+
+### Etapes  {background-image="CM3/Velo-00.gif" background-size="40%" background-position="100% 30%"} 
+
+1. [Regroupement des pièces en ensembles solides]{.grey}
+2. [Élaboration du graphe des liaisons]{.grey}
+3. **Construction du schéma cinématique**
+
+
+::: {layout="[80,20]" layout-valign="center"}
+
+:::.{}
+<br><br>
+[✓ Tracé des éléments de situation des liaisons]{.grey} <br>
+[✓ Dessin des symboles des liaisons]{.grey} <br>
+✓ Simuler
+:::
+
+:::
+
+
+## Message clé de cette séance
+
+## Questions?
+
+
+## References.

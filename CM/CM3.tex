@@ -198,43 +198,34 @@
 \section{Modélisation des liaisons
 mécaniques}\label{moduxe9lisation-des-liaisons-muxe9caniques}
 
-\subsection{Définition}\label{duxe9finition}
+\subsection{Mécanisme}\label{muxe9canisme}
 
-\begin{frame}{Définition}
-\textbf{Mécanisme}:
-
-On appelle mécanisme, un \emph{ensemble de pièces mécaniques} reliées
-entre elles par des \emph{liaisons}, en vue de réaliser une fonction
-déterminée.
+\begin{frame}{Mécanisme}
+\textbf{Définition}:
 
 \begin{figure}
 
-\begin{minipage}{0.70\linewidth}
-Nous admettrons que les pièces mécaniques peuvent être modélisées par
-des \textbf{solides indéformables}.\end{minipage}%
-%
-\begin{minipage}{0.30\linewidth}
-
-\includegraphics[width=0.9\textwidth,height=\textheight]{CM3/turbina.gif}
-
-\subcaption{\label{}Exemple de mécanisme : un micromoteur de modélisme}
-\end{minipage}%
+\begin{minipage}{0.68\linewidth}
+On appelle mécanisme, un \emph{ensemble de pièces mécaniques} reliées
+entre elles par des \emph{liaisons}, en vue de réaliser une fonction
+déterminée.\end{minipage}%
 
 \end{figure}%
+
+\pause
+
+Nous admettrons que les pièces mécaniques peuvent être modélisées par
+des \textbf{solides indéformables}.
 \end{frame}
 
 \subsection{Solides Indeformables}\label{solides-indeformables}
 
 \begin{frame}{Solides Indeformables}
-Le solide possède une \emph{masse constante} et un \emph{volume} dont
-les \textbf{limites sont invariantes} quelles que soient les actions
-extérieures auxquelles il est soumis.
-
 \begin{figure}
 
 \begin{minipage}{0.70\linewidth}
 
-\begin{tcolorbox}[enhanced jigsaw, colback=white, left=2mm, toprule=.15mm, arc=.35mm, bottomtitle=1mm, breakable, colframe=quarto-callout-note-color-frame, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Conséquence géométrique}, opacitybacktitle=0.6, bottomrule=.15mm, toptitle=1mm, titlerule=0mm, coltitle=black, colbacktitle=quarto-callout-note-color!10!white, leftrule=.75mm, opacityback=0, rightrule=.15mm]
+\begin{tcolorbox}[enhanced jigsaw, left=2mm, colframe=quarto-callout-note-color-frame, colback=white, opacityback=0, leftrule=.75mm, toptitle=1mm, opacitybacktitle=0.6, bottomrule=.15mm, breakable, rightrule=.15mm, arc=.35mm, bottomtitle=1mm, toprule=.15mm, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Conséquence géométrique}, colbacktitle=quarto-callout-note-color!10!white, titlerule=0mm, coltitle=black]
 
 La distance entre deux points quelconques d'un solide indéformable est
 invariable dans un \textbf{Repère donneé}
@@ -247,7 +238,7 @@ invariable dans un \textbf{Repère donneé}
 
 \includegraphics[width=0.9\textwidth,height=\textheight]{CM3/Solide-indeformable.png}
 
-\subcaption{\label{}Exemple de mécanisme : un micromoteur de modélisme}
+\subcaption{\label{}Bielle d'un micromoteur de modélisme}
 \end{minipage}%
 
 \end{figure}%
@@ -256,19 +247,17 @@ invariable dans un \textbf{Repère donneé}
 \subsection{Repère}\label{repuxe8re}
 
 \begin{frame}{Repère}
-Pour connaitre la position de tous ses points dans l'espace, il suffit
-de connaitre la position d'un repère lié à ce solide.
-
 \begin{figure}
 
 \begin{minipage}{0.60\linewidth}
-\textbf{Repère de référence}: \(R(O, \vec{x}, \vec{y}, \vec{z})\)
-\textbf{Repère de lié au solide.}:
-\(R(O_1, \vec{x_1}, \vec{y_1}, \vec{z_1})\)\end{minipage}%
+Pour connaitre la position de tous ses points dans l'espace, il suffit
+de connaitre la position d'un repère lié à ce solide. \textbf{Repère de
+référence}: \(R(O, \vec{x}, \vec{y}, \vec{z})\) \textbf{Repère de lié au
+solide.}: \(R(O_1, \vec{x_1}, \vec{y_1}, \vec{z_1})\)\end{minipage}%
 %
 \begin{minipage}{0.40\linewidth}
 \begin{center}
-\includegraphics[width=0.9\textwidth,height=\textheight]{CM3/Repere.png}
+\includegraphics[width=0.8\textwidth,height=\textheight]{CM3/Repere.png}
 \end{center}
 \end{minipage}%
 
@@ -291,20 +280,20 @@ paramètres indépendants}
 
 \begin{frame}{Repère}
 \phantomsection\label{repuxe8re-1}
-Exemple : repère local lié au solide 2 (la bielle) et repère de
+\emph{Exemple} : Repère local lié au Solide 2 (la bielle) et Repère de
 référence, lié au solide 0 (le bâti)
 
 \begin{figure}
 
 \begin{minipage}{0.50\linewidth}
 \begin{center}
-\includegraphics[width=0.9\textwidth,height=\textheight]{CM3/Repere-01.png}
+\includegraphics[width=0.7\textwidth,height=\textheight]{CM3/Repere-01.png}
 \end{center}
 \end{minipage}%
 %
 \begin{minipage}{0.50\linewidth}
 \begin{center}
-\includegraphics[width=0.9\textwidth,height=\textheight]{CM3/Repere-02.gif}
+\includegraphics[width=0.7\textwidth,height=\textheight]{CM3/Repere-02.gif}
 \end{center}
 \end{minipage}%
 
@@ -347,10 +336,8 @@ autre.\end{minipage}%
 \end{figure}%
 \end{frame}
 
-\begin{frame}{Degree de Liberte}
-\phantomsection\label{degree-de-liberte}
-Il existe deux mouvements élémentaires entre les solides :
-
+\begin{frame}{Degree de Liberté}
+\phantomsection\label{degree-de-libertuxe9-1}
 \begin{enumerate}
 \tightlist
 \item
@@ -373,18 +360,7 @@ Il existe deux mouvements élémentaires entre les solides :
   \end{itemize}
 \end{enumerate}
 
-\begin{figure}
-
-\begin{minipage}{0.70\linewidth}
-\textbf{6 Degrees de liberté}\end{minipage}%
-%
-\begin{minipage}{0.30\linewidth}
-\begin{center}
-\includegraphics[width=0.9\textwidth,height=\textheight]{CM3/Degrees-liberte.pdf}
-\end{center}
-\end{minipage}%
-
-\end{figure}%
+\textbf{6 Degrees de liberté}
 \end{frame}
 
 \subsection{Notion de liaison}\label{notion-de-liaison}
@@ -396,21 +372,15 @@ mobilité entre ces deux solides}.
 
 \textbf{Zones de Contacts}
 
-\begin{figure}[H]
-
-{\centering \includegraphics[width=0.8\textwidth,height=\textheight]{CM3/Contact.png}
-
-}
-
-\caption{Contact}
-
-\end{figure}%
+\begin{center}
+\includegraphics[width=0.8\textwidth,height=\textheight]{CM3/Contact.png}
+\end{center}
 \end{frame}
 
-\subsection{Degrés de liberté/de liaison d'une
-liaison}\label{degruxe9s-de-libertuxe9de-liaison-dune-liaison}
+\subsection{Degrés de liberté d'une
+liaison}\label{degruxe9s-de-libertuxe9-dune-liaison}
 
-\begin{frame}{Degrés de liberté/de liaison d'une liaison}
+\begin{frame}{Degrés de liberté d'une liaison}
 Les \emph{degrés de liberté d'une liaison} sont \textbf{les déplacements
 élémentaires indépendants} autorisés par cette liaison.
 \end{frame}
@@ -421,43 +391,89 @@ Elementaires}\label{les-liaisons-muxe9caniques-elementaires}
 \begin{frame}{Encastrement}
 \phantomsection\label{encastrement}
 \begin{center}
-\includegraphics[width=0.8\textwidth,height=\textheight]{CM3/Encastrement.png}
+\includegraphics[width=0.8\textwidth,height=\textheight]{CM3/Liaison-Encastrement.png}
 \end{center}
 \end{frame}
 
-\subsection{Les Liaisons Mécaniques
-Elementaires}\label{les-liaisons-muxe9caniques-elementaires-1}
-
-\begin{frame}{Les Liaisons Mécaniques Elementaires}
-\begin{longtable}[]{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2623}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2623}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.1803}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2951}}@{}}
-\toprule\noalign{}
-\begin{minipage}[b]{\linewidth}\raggedright
-\textbf{Liaison}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{Symbole}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{Degree de Liberté}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{Torseur cinématique}
-\end{minipage} \\
-\midrule\noalign{}
-\endhead
-Encastrement \begin{center}
-\includegraphics[width=0.8\textwidth,height=\textheight]{CM3/Contact.png}
+\begin{frame}{Pivot d'Axe}
+\phantomsection\label{pivot-daxe}
+\begin{center}
+\includegraphics[width=0.8\textwidth,height=\textheight]{CM3/Liaison-Pivot.png}
 \end{center}
-& 2.05 & 2.05 & 2.05 \\
-\bottomrule\noalign{}
-\end{longtable}
 \end{frame}
+
+\begin{frame}{Glissière}
+\phantomsection\label{glissiuxe8re}
+\begin{center}
+\includegraphics[width=0.8\textwidth,height=\textheight]{CM3/Liaison-Glissiere.pdf}
+\end{center}
+\end{frame}
+
+\begin{frame}{Rotule}
+\phantomsection\label{rotule}
+\begin{block}{À vous !}
+\begin{center}
+\includegraphics[width=0.7\textwidth,height=\textheight]{CM3/Liaison-rotule-00.png}
+\end{center}
+\end{block}
+
+\begin{block}{Solution}
+\begin{center}
+\includegraphics[width=0.7\textwidth,height=\textheight]{CM3/Liaison-rotule-01.png}
+\end{center}
+\end{block}
+\end{frame}
+
+\begin{frame}{Pivot glissant}
+\phantomsection\label{pivot-glissant}
+\begin{block}{À vous !}
+\begin{center}
+\includegraphics[width=0.7\textwidth,height=\textheight]{CM3/Liaison-Pivot-glissant-00.png}
+\end{center}
+\end{block}
+
+\begin{block}{Solution}
+\begin{center}
+\includegraphics[width=0.7\textwidth,height=\textheight]{CM3/Liaison-Pivot-glissant-01.png}
+\end{center}
+\end{block}
+\end{frame}
+
+\begin{frame}{Appui Plan Normale}
+\phantomsection\label{appui-plan-normale}
+\begin{block}{À vous !}
+\begin{center}
+\includegraphics[width=0.7\textwidth,height=\textheight]{CM3/Liaison-Plan-00.png}
+\end{center}
+\end{block}
+
+\begin{block}{Solution}
+\begin{center}
+\includegraphics[width=0.7\textwidth,height=\textheight]{CM3/Liaison-Plan-01.png}
+\end{center}
+\end{block}
+\end{frame}
+
+\begin{frame}{Liste de liaisons standard}
+\phantomsection\label{liste-de-liaisons-standard}
+\begin{center}
+\includegraphics[width=0.7\textwidth,height=\textheight]{CM3/Liaisons.png}
+\end{center}
+\end{frame}
+
+\subsection{Pour quoi faire?}\label{pour-quoi-faire}
+
+\begin{frame}{Pour quoi faire?}
+git a
+\end{frame}
+
+\subsection{Example 1: Mécanisme
+Bielle-Manivelle}\label{example-1-muxe9canisme-bielle-manivelle}
 
 \section{Élaboration d'un schéma
 cinématique}\label{uxe9laboration-dun-schuxe9ma-cinuxe9matique}
 
-\subsection{Définition}\label{duxe9finition-1}
+\subsection{Définition}\label{duxe9finition}
 
 \begin{frame}{Définition}
 Le schéma cinématique d'un mécanisme est un **modèle filaire du
@@ -469,6 +485,9 @@ vitesse, efforts, etc.)
 \end{frame}
 
 \section{Exemple}\label{exemple}
+
+\begin{frame}{Exemple}
+\end{frame}
 
 
 
