@@ -35,6 +35,7 @@ format:
     #subtitle-as-header: true
     sc-sb-title: false
     chalkboard: true
+    multiplex: true
 editor_options: 
   chunk_output_type: console
 ---
@@ -409,6 +410,10 @@ Société Décathlon commercialise le système du vélo elliptique de marque Dom
 ## Example 2 
 
 **Modélisation cinématique d’une <br>Vélo elliptique**
+
+::: aside
+Source: https://eduscol.education.fr/sti/concours_examen/velo-elliptique-ve680#fichiers-liens
+:::
 
 ### Etapes  {background-image="CM3/turbina.gif" background-size="30%" background-position="95% 30%"} 
 
