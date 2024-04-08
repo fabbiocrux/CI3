@@ -55,6 +55,10 @@ On appelle mécanisme, un *ensemble de pièces mécaniques* reliées entre elles
 
 Nous admettrons que les pièces mécaniques peuvent être modélisées par des **solides indéformables**.
 
+## Conception en V
+
+![](CM3/System-design.png){width="80%" fig-align="center"}
+
 
 ## Solides Indeformables
 
@@ -358,9 +362,17 @@ $L_{3-0}$ : Pivot glissant d’axe $(𝐴,\vec{y})$<br>
 
 ## 💻 Simuler pour mieux comprendre.
 
+
+
+::: {layout="[50,40]" layout-valign="center"}
+
+Introduction to Mechanism Design <br>
 Source: [http://www.mechdes.net/](http://www.mechdes.net/)
 
-<iframe src="http://www.mechdes.net/" height="650" width="80%" title="description"></iframe>
+![](CM3/Mechanism-design.png){width="80%" fig-align="center"}
+:::
+
+
 
 
 

@@ -435,7 +435,7 @@
     "href": "CM/CM3.html#simuler-pour-mieux-comprendre.",
     "title": "Conception et Innovation – CI3",
     "section": "💻 Simuler pour mieux comprendre.",
-    "text": "💻 Simuler pour mieux comprendre.\nSource: http://www.mechdes.net/",
+    "text": "💻 Simuler pour mieux comprendre.\n\n\n\nIntroduction to Mechanism Design  Source: http://www.mechdes.net/",
     "crumbs": [
       "Cours Magistraux",
       "Conception et Innovation -- CI3"
@@ -513,6 +513,17 @@
     "title": "Conception et Innovation – CI3",
     "section": "References.",
     "text": "References.",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#conception-en-v",
+    "href": "CM/CM3.html#conception-en-v",
+    "title": "Conception et Innovation – CI3",
+    "section": "Conception en V",
+    "text": "Conception en V",
     "crumbs": [
       "Cours Magistraux",
       "Conception et Innovation -- CI3"
