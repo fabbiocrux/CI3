@@ -358,7 +358,11 @@ $L_{3-0}$ : Pivot glissant d’axe $(𝐴,\vec{y})$<br>
 
 ## 💻 Simuler pour mieux comprendre.
 
-<iframe src="http://www.mechdes.net/" height="700" width="100%" title="description"></iframe>
+Source: [http://www.mechdes.net/](http://www.mechdes.net/)
+
+<iframe src="http://www.mechdes.net/" height="650" width="80%" title="description"></iframe>
+
+
 
 
 ## Example 2: Vélo elliptique VE680
