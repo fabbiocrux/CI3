@@ -1,11 +1,197 @@
 ---
-title: "TD 2: "
-subtitle: "Objectif: ..."
+title: "TD 2: Conception et Innovation"
+subtitle: "Réalisation d'un Schéma Cinématique"
+date: 18/04/2024
 format:
-  # pdf:
-  #   toc: true
-  #   number-sections: true
-  #   colorlinks: true
-  html:
+  #docx: default
+  pdf:
+    #documentclass: article
+    block-headings: false
+    toc: false 
+    geometry:
+     - top=25mm
+     - left=20mm
+     - bottom=25mm
+     - right=20mm     
     number-sections: true
+    colorlinks: true    
+    include-in-header:
+      - file: ../assets/packages.tex
+#reference-location: margin
+#citation-location: margin
+callout-appearance: simple
 ---
+
+1. Prenom NOM: \hrulefill 
+1. Prenom NOM: \hrulefill
+
+
+\thispagestyle{fancy}
+\let\olditshape\itshape 
+\def\itshape{\color{blue}\olditshape}
+
+::: {.callout-tip}
+## Objectifs de la séance :
+
+- Identifications des types de laisons mécaniques
+- Maitrise des notions théoriques sur la modélisation des mécanismes
+- Réalisations d'un schéma cinématique minimal
+
+:::
+
+
+
+::: {.callout-warning}
+## Démarche
+
+La réalisation d'un schéma cinématique respecte concerne les étapes suivantes: 
+
+1. **Identifications des classes d'equivalence**: Une classe d'équivalence est un groupe de pièces n'ayant aucun mouvement relatif les unes par rapport aux autres pour une phase de fonctionnement donnée. La recherche des classes d'équivalence passe par la localisation de toutes les liaisons encastrement (liaisons complètes) réalisées à l'intérieur du mécanisme pour la phase de fonctionnement étudiée.
+2. **Tracé du graph des liaisons**: Un graphe des liaisons (ou graphe de structure), est un graphe représentant les différentes classes d'équivalence (ce sont les noeuds) reliés entre eux par des traits matérialisant les liaisons. 
+3. **Réalisations d'un schéma cinématique minimal**
+   - Recherche de la géometrie des contacts, et conclusions sur le type de liaisons.
+   - Choix d'une vue de répresentation du schéma cinématique (face, gauche, dessus, ...)
+   - Répresentation normalisée de ces liaison en cohérence avec la vue choisie
+   - Connexion entre-elles des liaisons issues de la même classe d'équivalence.
+:::
+
+
+# Identification des Liaisons
+
+# Réalisations des schémas cinématiques
+
+## Exercice 1
+
+:::{layout="[40,60]" layout-valign="center"}
+
+![](TD2/Hemomixer_1.png){width="100%" fig-align="center"}
+
+:::{}
+
+### Contexte
+
+Cet automate permet de superviser le prélèvement de sang lors de collectes mobiles. Il effectue simultanément la pesée (volume) et l’agitation des poches de sang. 
+\newline
+Le plateau d’agitation est animé d’un mouvement de rotation alternative autour d’un axe horizontal.
+Ce mouvement est provoqué par un motoréducteur qui entraine en rotation un bras, puis transmis au plateau via une bielle.
+\newline
+**Questions:**
+:::
+:::
+
+
+
+\begin{tabu} to \linewidth {X[1,c] | X[1,l]}
+
+\toprule
+\textbf{1.}
+ Nommez et identifiez les classes d’equivalence et les liaisons 
+  & 
+  \textbf{2.}
+  Déterminer le graphe des liaisons du mécanisme (choisir la base pour orienter l’espace, et les différents points nécessaires à la description des liaisons)  \\
+
+\includegraphics[width=8cm]{TD2/Hemomixer-00.jpg} &  \vspace{3cm} \\
+\midrule
+
+\multicolumn{2}{l} { \textbf{3. Schéma Cinématique} 
+Réaliser le schéma cinématique dans le plan de l’animation précédente. } 
+\vspace{4cm} \\
+
+
+
+\bottomrule
+\end{tabu}
+
+
+
+\newpage
+
+## Exercise 2
+
+
+\begin{tabu} to \linewidth {X[1,c] | X[1,l]}
+
+\toprule
+\textbf{1.}
+ Colorier les pièces en fonction de leur classe d’équivalence
+&   \textbf{2.}
+ Déterminer le graphe des liaisons du mécanisme  \\
+
+\includegraphics[width=2cm]{TD2/Perforatrice-00.jpeg} 
+\includegraphics[width=8cm]{TD2/Perforatrice.png} 
+
+\vspace{1cm}
+&  \\ \midrule
+
+\multicolumn{2}{l} { \textbf{3. Schéma Cinématique} } 
+
+\vspace{4cm}
+ 
+ \\
+
+\bottomrule
+\end{tabu}
+
+
+\newpage
+## Exercise 3
+
+1. Colorier les pièces en fonction de leur classe d’équivalence
+
+![](TD2/Borne-00.jpg){width="80%" fig-align="center"}
+
+
+
+
+\begin{tabu} to \linewidth {X[1,l] | X[1,l]}
+
+\toprule
+\textbf{2.} Tracez le graphe des liaisons.
+  & 
+  \textbf{3.}
+  Tracez le schéma cinématique  \\
+
+  \vspace{3cm} &  \vspace{5cm} \\
+
+\bottomrule
+\end{tabu}
+
+
+\newpage
+
+## Exercice 4
+
+
+
+:::{layout="[50,50]" layout-valign="center"}
+
+![](TD2/Hayon-00.png){width="100%" fig-align="center"}
+
+:::{}
+### Contexte
+La société Bourgeois fabrique et commercialise des hayons élévateurs permettant l’accès d’un véhicule à toute personne se déplaçant en fauteuil roulant, sans modification de la carrosserie.
+
+:::
+:::
+
+
+
+
+\begin{tabu} to \linewidth {X[1,l] | X[1,l]}
+
+\toprule
+\textbf{2.} Tracez le graphe des liaisons.
+  & 
+  \textbf{3.}
+  Tracez le schéma cinématique  \\
+
+  \vspace{3cm} &  \vspace{5cm} \\
+
+\bottomrule
+\end{tabu}
+
+
+\newpage
+
+
+

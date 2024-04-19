@@ -218,6 +218,14 @@ Nous admettrons que les pièces mécaniques peuvent être modélisées par
 des \textbf{solides indéformables}.
 \end{frame}
 
+\subsection{Conception en V}\label{conception-en-v}
+
+\begin{frame}{Conception en V}
+\begin{center}
+\includegraphics[width=0.8\textwidth,height=\textheight]{CM3/System-design.png}
+\end{center}
+\end{frame}
+
 \subsection{Solides Indeformables}\label{solides-indeformables}
 
 \begin{frame}{Solides Indeformables}
@@ -225,7 +233,7 @@ des \textbf{solides indéformables}.
 
 \begin{minipage}{0.70\linewidth}
 
-\begin{tcolorbox}[enhanced jigsaw, left=2mm, colframe=quarto-callout-note-color-frame, colback=white, opacityback=0, leftrule=.75mm, toptitle=1mm, opacitybacktitle=0.6, bottomrule=.15mm, breakable, rightrule=.15mm, arc=.35mm, bottomtitle=1mm, toprule=.15mm, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Conséquence géométrique}, colbacktitle=quarto-callout-note-color!10!white, titlerule=0mm, coltitle=black]
+\begin{tcolorbox}[enhanced jigsaw, colbacktitle=quarto-callout-note-color!10!white, bottomrule=.15mm, opacitybacktitle=0.6, leftrule=.75mm, colback=white, arc=.35mm, left=2mm, title=\textcolor{quarto-callout-note-color}{\faInfo}\hspace{0.5em}{Conséquence géométrique}, breakable, colframe=quarto-callout-note-color-frame, toprule=.15mm, coltitle=black, bottomtitle=1mm, opacityback=0, toptitle=1mm, titlerule=0mm, rightrule=.15mm]
 
 La distance entre deux points quelconques d'un solide indéformable est
 invariable dans un \textbf{Repère donneé}
@@ -300,40 +308,38 @@ référence, lié au solide 0 (le bâti)
 \end{figure}%
 \end{frame}
 
-\begin{frame}{Repère}
-\phantomsection\label{repuxe8re-2}
-Example 2
-\end{frame}
-
 \subsection{Degree de liberté}\label{degree-de-libertuxe9}
 
 \begin{frame}{Degree de liberté}
-Il existe deux mouvements élémentaires entre les solides :
+Il existe deux \emph{mouvements élémentaires} entre les solides :
+
+\begin{figure}
+
+\begin{minipage}{0.55\linewidth}
 
 \begin{enumerate}
 \tightlist
 \item
-  Le mouvement de \textbf{TRANSLATION (RECTILIGNE)} : les trajectoires
-  de tous les points du solide sont des droites parallèles.
+  \textbf{TRANSLATION (RECTILIGNE)} : les trajectoires de tous les
+  points du solide sont des droites parallèles.
 \item
-  Le mouvement de \textbf{ROTATION} : les trajectoires de chaque point
-  sont des cercles coaxiaux.
+  \textbf{ROTATION} : les trajectoires de chaque point sont des cercles
+  coaxiaux.
 \end{enumerate}
 
-\begin{figure}
-
-\begin{minipage}{0.70\linewidth}
-On appelle \emph{libertés} d'un solide par rapport à un référentiel, les
-mouvements indépendants de ce solide pour passer d'une position à une
-autre.\end{minipage}%
+\end{minipage}%
 %
-\begin{minipage}{0.30\linewidth}
+\begin{minipage}{0.46\linewidth}
 \begin{center}
 \includegraphics[width=1\textwidth,height=\textheight]{CM3/Repere-02.png}
 \end{center}
 \end{minipage}%
 
 \end{figure}%
+
+On appelle \emph{libertés} d'un solide par rapport à un référentiel, les
+mouvements indépendants de ce solide pour passer d'une position à une
+autre.
 \end{frame}
 
 \begin{frame}{Degree de Liberté}
@@ -341,8 +347,8 @@ autre.\end{minipage}%
 \begin{enumerate}
 \tightlist
 \item
-  Le mouvement de \textbf{TRANSLATION (RECTILIGNE)} : les trajectoires
-  de tous les points du solide sont des droites parallèles.
+  \textbf{TRANSLATION (RECTILIGNE)} : les trajectoires de tous les
+  points du solide sont des droites parallèles.
 
   \begin{itemize}
   \tightlist
@@ -350,8 +356,8 @@ autre.\end{minipage}%
     \(T_x, T_y, T_z\) selon \((x,y,z)\)
   \end{itemize}
 \item
-  Le mouvement de \textbf{ROTATION} : les trajectoires de chaque point
-  sont des cercles coaxiaux.
+  \textbf{ROTATION} : les trajectoires de chaque point sont des cercles
+  coaxiaux.
 
   \begin{itemize}
   \tightlist
@@ -387,6 +393,10 @@ Les \emph{degrés de liberté d'une liaison} sont \textbf{les déplacements
 
 \subsection{Les Liaisons Mécaniques
 Elementaires}\label{les-liaisons-muxe9caniques-elementaires}
+
+\begin{frame}{Les Liaisons Mécaniques Elementaires}
+Selon la norme NF EN ISO 3952-1
+\end{frame}
 
 \begin{frame}{Encastrement}
 \phantomsection\label{encastrement}
@@ -464,11 +474,10 @@ Elementaires}\label{les-liaisons-muxe9caniques-elementaires}
 \subsection{Pour quoi faire?}\label{pour-quoi-faire}
 
 \begin{frame}{Pour quoi faire?}
-git a
+. . . Construire un schéma cinématique, une représentation simplifiée
+d'un mécanisme permettant \textbf{une meilleure compréhension du
+fonctionnement}.
 \end{frame}
-
-\subsection{Example 1: Mécanisme
-Bielle-Manivelle}\label{example-1-muxe9canisme-bielle-manivelle}
 
 \section{Élaboration d'un schéma
 cinématique}\label{uxe9laboration-dun-schuxe9ma-cinuxe9matique}
@@ -476,18 +485,461 @@ cinématique}\label{uxe9laboration-dun-schuxe9ma-cinuxe9matique}
 \subsection{Définition}\label{duxe9finition}
 
 \begin{frame}{Définition}
-Le schéma cinématique d'un mécanisme est un **modèle filaire du
-mécanisme utilisant les symboles normalisés des liaisons.
+Le schéma cinématique d'un mécanisme est un modèle filaire du mécanisme
+utilisant les symboles normalisés des liaisons.
 
 Ce modèle est utile tant au niveau de la conception que de l'analyse à
 posteriori pour réaliser l'étude cinématique ou dynamique (trajectoire,
 vitesse, efforts, etc.)
 \end{frame}
 
-\section{Exemple}\label{exemple}
+\subsection{Example 1}\label{example-1}
 
-\begin{frame}{Exemple}
+\begin{frame}{Example 1}
+\textbf{Modélisation cinématique d'un micromoteur de modélisme}
 \end{frame}
+
+\begin{frame}{Etapes}
+\phantomsection\label{etapes}
+\begin{enumerate}
+\tightlist
+\item
+  Regroupement des pièces en ensembles solides
+\item
+  Élaboration du graphe des liaisons
+\item
+  Construction du schéma cinématique
+\end{enumerate}
+\end{frame}
+
+\begin{frame}{Etapes}
+\phantomsection\label{etapes-1}
+\begin{enumerate}
+\tightlist
+\item
+  \textbf{Regroupement des pièces en ensembles solides}
+\item
+  {Élaboration du graphe des liaisons}
+\item
+  {Construction du schéma cinématique}
+\end{enumerate}
+
+\begin{figure}
+
+\begin{minipage}{0.70\linewidth}
+🔎 On regroupe les pièces dans des ensembles (appelés classes
+d'équivalence cinématique)✍️ Un nom (un numéro par exemple)🔵 Une
+couleur\end{minipage}%
+
+\end{figure}%
+\end{frame}
+
+\begin{frame}{Etapes}
+\phantomsection\label{etapes-2}
+\begin{enumerate}
+\tightlist
+\item
+  {Regroupement des pièces en ensembles solides}
+\item
+  \textbf{Élaboration du graphe des liaisons}
+\item
+  {Construction du schéma cinématique}
+\end{enumerate}
+
+\begin{figure}
+
+\begin{minipage}{0.70\linewidth}
+✓ Choix d'une base pour le solide de référence (bâti) ✓ Recherche des
+contacts entre les solides ✓ Étude des liaisons entre les
+solides\end{minipage}%
+%
+\begin{minipage}{0.30\linewidth}
+\begin{center}
+\includegraphics[width=0.5\textwidth,height=\textheight]{CM3/Graphe-des-liaisons.png}
+\end{center}
+\end{minipage}%
+
+\end{figure}%
+\end{frame}
+
+\begin{frame}{Etapes}
+\phantomsection\label{etapes-3}
+\begin{enumerate}
+\tightlist
+\item
+  {Regroupement des pièces en ensembles solides}
+\item
+  \textbf{Élaboration du graphe des liaisons}
+\item
+  {Construction du schéma cinématique}
+\end{enumerate}
+
+\begin{figure}
+
+\begin{minipage}{0.80\linewidth}
+Analyser pour \textbf{\emph{chaque laiaison}}✓ Surfaces en contact →
+(plan/plan, sphère/cylindre, \ldots) ✓ Degrés de liberté ✓
+Identification de composants\end{minipage}%
+
+\end{figure}%
+\end{frame}
+
+\begin{frame}{Etapes}
+\phantomsection\label{etapes-4}
+\begin{enumerate}
+\tightlist
+\item
+  {Regroupement des pièces en ensembles solides}
+\item
+  \textbf{Élaboration du graphe des liaisons}
+\item
+  {Construction du schéma cinématique}
+\end{enumerate}
+
+\begin{figure}
+
+\begin{minipage}{0.80\linewidth}
+Analyser pour \textbf{\emph{chaque laiaison}}\(L_{0-1}\) : Pivot d'axe
+\((𝐴,\vec{z})\) \(L_{1-2}\) : Pivot d'axe \((𝐵,\vec{z})\) \(L_{2-3}\) :
+Pivot glissant d'axe \((𝐶,\vec{z})\) \(L_{3-0}\) : Pivot glissant d'axe
+\((𝐴,\vec{y})\)\end{minipage}%
+
+\end{figure}%
+\end{frame}
+
+\begin{frame}{Etapes}
+\phantomsection\label{etapes-5}
+\begin{enumerate}
+\tightlist
+\item
+  {Regroupement des pièces en ensembles solides}
+\item
+  {Élaboration du graphe des liaisons}
+\item
+  \textbf{Construction du schéma cinématique}
+\end{enumerate}
+
+\begin{figure}
+
+\begin{minipage}{0.80\linewidth}
+✓ Tracé des éléments de situation des liaisons {✓ Dessin des symboles
+des liaisons} {✓ Simuler}\end{minipage}%
+
+\end{figure}%
+\end{frame}
+
+\begin{frame}{Etapes}
+\phantomsection\label{etapes-6}
+\begin{enumerate}
+\tightlist
+\item
+  {Regroupement des pièces en ensembles solides}
+\item
+  {Élaboration du graphe des liaisons}
+\item
+  \textbf{Construction du schéma cinématique}
+\end{enumerate}
+
+\begin{figure}
+
+\begin{minipage}{0.80\linewidth}
+{✓ Tracé des éléments de situation des liaisons} ✓ Dessin des symboles
+des liaisons {✓ Simuler}\end{minipage}%
+
+\end{figure}%
+\end{frame}
+
+\begin{frame}{Etapes}
+\phantomsection\label{etapes-7}
+\begin{enumerate}
+\tightlist
+\item
+  {Regroupement des pièces en ensembles solides}
+\item
+  {Élaboration du graphe des liaisons}
+\item
+  \textbf{Construction du schéma cinématique}
+\end{enumerate}
+
+\begin{figure}
+
+\begin{minipage}{0.80\linewidth}
+{✓ Tracé des éléments de situation des liaisons} {✓ Dessin des symboles
+des liaisons} ✓ Simuler\end{minipage}%
+
+\end{figure}%
+\end{frame}
+
+\subsection{💻 Simuler pour mieux
+comprendre.}\label{simuler-pour-mieux-comprendre.}
+
+\begin{frame}{💻 Simuler pour mieux comprendre.}
+\begin{figure}
+
+\begin{minipage}{0.56\linewidth}
+Introduction to Mechanism Design Source:
+\url{http://www.mechdes.net/}\end{minipage}%
+%
+\begin{minipage}{0.44\linewidth}
+\begin{center}
+\includegraphics[width=0.8\textwidth,height=\textheight]{CM3/Mechanism-design.png}
+\end{center}
+\end{minipage}%
+
+\end{figure}%
+\end{frame}
+
+\subsection{Example 2: Vélo elliptique
+VE680}\label{example-2-vuxe9lo-elliptique-ve680}
+
+\subsection{Example 2: Vélo elliptique
+VE680}\label{example-2-vuxe9lo-elliptique-ve680-1}
+
+\begin{frame}{Example 2: Vélo elliptique VE680}
+\begin{block}{Contexte}
+\begin{figure}
+
+\begin{minipage}{0.80\linewidth}
+Société Décathlon commercialise le système du vélo elliptique de marque
+Domyos, modèle VE 680.\begin{center}
+\includegraphics[width=0.4\textwidth,height=\textheight]{CM3/Velo-fonctionnelle.png}
+\end{center}
+\end{minipage}%
+%
+\begin{minipage}{0.20\linewidth}
+\begin{center}
+\includegraphics[width=0.7\textwidth,height=\textheight]{CM3/Velo.png}
+\end{center}
+\end{minipage}%
+
+\end{figure}%
+\end{block}
+
+\begin{block}{Analyse du besoin}
+\begin{figure}
+
+\begin{minipage}{0.50\linewidth}
+\begin{center}
+\includegraphics[width=1\textwidth,height=\textheight]{CM3/Velo-fonctionnelle-01.png}
+\end{center}
+\end{minipage}%
+%
+\begin{minipage}{0.50\linewidth}
+\begin{center}
+\includegraphics[width=1\textwidth,height=\textheight]{CM3/Velo-fonctionnelle-03.png}
+\end{center}
+\end{minipage}%
+
+\end{figure}%
+\end{block}
+
+\begin{block}{Chaîne d'Energie}
+\begin{figure}
+
+\begin{minipage}{0.55\linewidth}
+\begin{center}
+\includegraphics[width=1\textwidth,height=\textheight]{CM3/Velo-fonctionnelle-04.png}
+\end{center}
+\end{minipage}%
+%
+\begin{minipage}{0.46\linewidth}
+\begin{center}
+\includegraphics[width=1\textwidth,height=\textheight]{CM3/Velo-fonctionnelle-02.png}
+\end{center}
+\end{minipage}%
+
+\end{figure}%
+\end{block}
+\end{frame}
+
+\subsection{Example 2}\label{example-2}
+
+\begin{frame}{Example 2}
+\textbf{Modélisation cinématique d'une Vélo elliptique}
+\end{frame}
+
+\begin{frame}{Etapes}
+\phantomsection\label{etapes-8}
+\begin{enumerate}
+\tightlist
+\item
+  Regroupement des pièces en ensembles solides
+\item
+  Élaboration du graphe des liaisons
+\item
+  Construction du schéma cinématique
+\end{enumerate}
+\end{frame}
+
+\begin{frame}{Etapes}
+\phantomsection\label{etapes-9}
+\begin{enumerate}
+\tightlist
+\item
+  \textbf{Regroupement des pièces en ensembles solides}
+\item
+  {Élaboration du graphe des liaisons}
+\item
+  {Construction du schéma cinématique}
+\end{enumerate}
+
+\begin{figure}
+
+\begin{minipage}{0.70\linewidth}
+🔎 On regroupe les pièces dans des ensembles (appelés classes
+d'équivalence cinématique)✍️ Un nom (un numéro par exemple)🔵 Une
+couleur\end{minipage}%
+%
+\begin{minipage}{0.30\linewidth}
+⬛ 1 bâti 🟥 2 bras 🟩 2 pédales 🟦 2 articulations 🟨 1 pédalier
+\end{minipage}%
+
+\end{figure}%
+\end{frame}
+
+\begin{frame}{Etapes}
+\phantomsection\label{etapes-10}
+\begin{enumerate}
+\tightlist
+\item
+  {Regroupement des pièces en ensembles solides}
+\item
+  \textbf{Élaboration du graphe des liaisons}
+\item
+  {Construction du schéma cinématique}
+\end{enumerate}
+
+\begin{figure}
+
+\begin{minipage}{0.70\linewidth}
+✓ Choix d'une base pour le solide de référence (bâti) ✓ Recherche des
+contacts entre les solides ✓ Étude des liaisons entre les
+solides\end{minipage}%
+
+\end{figure}%
+\end{frame}
+
+\begin{frame}{Etapes}
+\phantomsection\label{etapes-11}
+\begin{enumerate}
+\tightlist
+\item
+  {Regroupement des pièces en ensembles solides}
+\item
+  \textbf{Élaboration du graphe des liaisons}
+\item
+  {Construction du schéma cinématique}
+\end{enumerate}
+
+\begin{figure}
+
+\begin{minipage}{0.80\linewidth}
+Analyser pour \textbf{\emph{chaque laiaison}}✓ Surfaces en contact →
+(plan/plan, sphère/cylindre, \ldots) ✓ Degrés de liberté ✓
+Identification de composants\end{minipage}%
+
+\end{figure}%
+\end{frame}
+
+\begin{frame}{Etapes}
+\phantomsection\label{etapes-12}
+\begin{enumerate}
+\tightlist
+\item
+  {Regroupement des pièces en ensembles solides}
+\item
+  \textbf{Élaboration du graphe des liaisons}
+\item
+  {Construction du schéma cinématique}
+\end{enumerate}
+
+\begin{figure}
+
+\begin{minipage}{0.80\linewidth}
+Analyser pour \textbf{\emph{chaque laiaison}}\(L_{0-2}\) : Pivot d'axe
+\((𝐴,\vec{z})\) \(L_{0-3}\) : Pivot d'axe \((𝐵,\vec{z})\) \(L_{2-1}\) :
+Pivot d'axe \((𝐶,\vec{y})\) \(L_{1-4}\) : Pivot glissant d'axe
+\((𝐴,\vec{y})\) \(L_{3-4}\) : Pivot d'axe \((E,\vec{z})\)\end{minipage}%
+
+\end{figure}%
+\end{frame}
+
+\begin{frame}{Etapes}
+\phantomsection\label{etapes-13}
+\begin{enumerate}
+\tightlist
+\item
+  {Regroupement des pièces en ensembles solides}
+\item
+  {Élaboration du graphe des liaisons}
+\item
+  \textbf{Construction du schéma cinématique}
+\end{enumerate}
+
+\begin{figure}
+
+\begin{minipage}{0.80\linewidth}
+✓ Tracé des éléments de situation des liaisons ✓ Dessin des symboles des
+liaisons {✓ Simuler}\end{minipage}%
+
+\end{figure}%
+\end{frame}
+
+\begin{frame}{Etapes}
+\phantomsection\label{etapes-14}
+\begin{enumerate}
+\tightlist
+\item
+  {Regroupement des pièces en ensembles solides}
+\item
+  {Élaboration du graphe des liaisons}
+\item
+  \textbf{Construction du schéma cinématique}
+\end{enumerate}
+
+\begin{figure}
+
+\begin{minipage}{0.80\linewidth}
+{✓ Tracé des éléments de situation des liaisons} {✓ Dessin des symboles
+des liaisons} ✓ Simuler\end{minipage}%
+
+\end{figure}%
+\end{frame}
+
+\subsection{💻 Simuler pour mieux
+comprendre.}\label{simuler-pour-mieux-comprendre.-1}
+
+\begin{frame}{💻 Simuler pour mieux comprendre.}
+\begin{figure}
+
+\begin{minipage}{0.50\linewidth}
+✓ Simuler par example:
+
+\begin{itemize}
+\tightlist
+\item
+  Vitesses
+\end{itemize}
+
+\end{minipage}%
+%
+\begin{minipage}{0.50\linewidth}
+
+\end{minipage}%
+\newline
+\begin{minipage}{0.50\linewidth}
+
+\end{minipage}%
+
+\end{figure}%
+\end{frame}
+
+\subsection{Message clé de cette
+séance}\label{message-cluxe9-de-cette-suxe9ance}
+
+\subsection{Questions?}\label{questions}
+
+\subsection{References.}\label{references.}
 
 
 

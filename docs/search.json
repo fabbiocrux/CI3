@@ -97,12 +97,12 @@
   {
     "objectID": "TD/TD2.html",
     "href": "TD/TD2.html",
-    "title": "TD 2:",
+    "title": "TD 2: Schéma Cinématique",
     "section": "",
-    "text": "Back to top",
+    "text": "L’hémomixer est un automate permettant de superviser automatiquement le prélèvement de sang lors de collectes mobiles.\n\n\n\n\nIl effectue simultanément la pesée (volume) et l’agitation des poches de sang.\n\n\n\n:::",
     "crumbs": [
       "Travaux Dirigés",
-      "TD 2:"
+      "TD 2: Schéma Cinématique"
     ]
   },
   {
@@ -527,6 +527,39 @@
     "crumbs": [
       "Cours Magistraux",
       "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TD/TD2.html#objective-td",
+    "href": "TD/TD2.html#objective-td",
+    "title": "TD 2: Schéma Cinématique",
+    "section": "",
+    "text": "L’hémomixer est un automate permettant de superviser automatiquement le prélèvement de sang lors de collectes mobiles.\n\n\n\n\nIl effectue simultanément la pesée (volume) et l’agitation des poches de sang.\n\n\n\n:::",
+    "crumbs": [
+      "Travaux Dirigés",
+      "TD 2: Schéma Cinématique"
+    ]
+  },
+  {
+    "objectID": "TD/TD2.html#mise-en-situation-1",
+    "href": "TD/TD2.html#mise-en-situation-1",
+    "title": "TD 2: Schéma Cinématique",
+    "section": "2 Mise en Situation 1 :",
+    "text": "2 Mise en Situation 1 :",
+    "crumbs": [
+      "Travaux Dirigés",
+      "TD 2: Schéma Cinématique"
+    ]
+  },
+  {
+    "objectID": "TD/TD2.html#mise-en-situation-2",
+    "href": "TD/TD2.html#mise-en-situation-2",
+    "title": "TD 2: Schéma Cinématique",
+    "section": "3 Mise en Situation:",
+    "text": "3 Mise en Situation:\nLa société Bourgeois fabrique et commercialise des hayons élévateurs permettant l’accès d’un véhicule à toute personne se déplaçant en fauteuil roulant, sans modification de la carrosserie.\nLe hayon étudié est de type « mono-bras » HBC 300. Compact, il est facilement adaptable sur la majorité des véhicules de type « fourgon » ou « monospace ».",
+    "crumbs": [
+      "Travaux Dirigés",
+      "TD 2: Schéma Cinématique"
     ]
   }
 ]

@@ -1,0 +1,46 @@
+\usepackage{tikz}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}          
+\fancyhead[R]{ENSGSI 2AI - 2023/2024}
+\fancyhead[L]{\includegraphics[width=2cm]{../assets/img/ENSGSI.png}}
+\fancyfoot[L]{TD CI3 - 2AI}
+\fancyfoot[C]{\thepage}
+\fancyfoot[R]{ENSGSI}
+
+\renewcommand{\footrulewidth}{0.3pt}% default is 0pt
+\renewcommand{\abstractname}{\vspace{-2.5cm} Objectif}
+
+% Font ENSGSI
+%\usepackage[sfdefault]{roboto}  %% Option 'sfdefault' only if the base font of the document is to be sans serif\usepackage[T1]{fontenc}
+%\usepackage[urw-garamond]{mathdesign}
+%\usepackage{mathdesign}
+%\usepackage[T1]{fontenc}
+\usepackage{siunitx}
+\sisetup{range-phrase=\,-\,}  
+
+% For boxes
+\usepackage[most]{tcolorbox}
+\newtcolorbox{mytextbox}[1][]{%
+  sharp corners,
+  enhanced,
+  colback=white,
+  height=7cm,
+  attach title to upper,
+  #1
+}
+
+
+\usepackage{tabu}
+
+
+% left align title
+\makeatletter
+\renewcommand{\maketitle}{\bgroup\setlength{\parindent}{0pt}
+\begin{flushleft}
+  {\sffamily\huge\textbf{\MakeUppercase{\@title}}} \vspace{0.3cm} \newline
+  {\Large {\@subtitle}} \newline
+%  \@author
+\end{flushleft}\egroup
+}
+\makeatother
