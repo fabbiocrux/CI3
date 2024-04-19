@@ -56,7 +56,10 @@ La réalisation d'un schéma cinématique respecte concerne les étapes suivante
 :::
 
 
-# Identification des Liaisons
+
+\newpage
+
+
 
 # Réalisations des schémas cinématiques
 
@@ -95,11 +98,11 @@ Ce mouvement est provoqué par un motoréducteur qui entraine en rotation un bra
 
 \multicolumn{2}{l} { \textbf{3. Schéma Cinématique} 
 Réaliser le schéma cinématique dans le plan de l’animation précédente. } 
-\vspace{4cm} \\
+\vspace{5cm} \\
 
 
 
-\bottomrule
+
 \end{tabu}
 
 
@@ -129,7 +132,7 @@ Réaliser le schéma cinématique dans le plan de l’animation précédente. }
  
  \\
 
-\bottomrule
+
 \end{tabu}
 
 
@@ -153,7 +156,7 @@ Réaliser le schéma cinématique dans le plan de l’animation précédente. }
 
   \vspace{3cm} &  \vspace{5cm} \\
 
-\bottomrule
+
 \end{tabu}
 
 
@@ -163,31 +166,30 @@ Réaliser le schéma cinématique dans le plan de l’animation précédente. }
 
 
 
-:::{layout="[50,50]" layout-valign="center"}
+:::{layout="[[50,50], [40,60] ]" layout-valign="center"}
 
 ![](TD2/Hayon-00.png){width="100%" fig-align="center"}
 
 :::{}
+
 ### Contexte
 La société Bourgeois fabrique et commercialise des hayons élévateurs permettant l’accès d’un véhicule à toute personne se déplaçant en fauteuil roulant, sans modification de la carrosserie.
-
-:::
 :::
 
+:::
+
+![](TD2/Hayon-01.png){width="50%" fig-align="center"}
+
+![](TD2/Hayon-02.png){width="100%" fig-align="center"}
 
 
 
 \begin{tabu} to \linewidth {X[1,l] | X[1,l]}
 
 \toprule
-\textbf{2.} Tracez le graphe des liaisons.
-  & 
-  \textbf{3.}
-  Tracez le schéma cinématique  \\
+\textbf{1.} Réaliser le graphe des liaisons de ce mécanisme, en phase de montée (en décrivant complètement les différentes liaisons).   &  \textbf{3.} Réaliser le schéma cinématique  \\
+         &  \vspace{5cm} \\
 
-  \vspace{3cm} &  \vspace{5cm} \\
-
-\bottomrule
 \end{tabu}
 
 

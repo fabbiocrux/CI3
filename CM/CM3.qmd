@@ -576,4 +576,22 @@ $L_{3-4}$ : Pivot d’axe $(E,\vec{z})$<br>
 ## Questions?
 
 
-## References.
+## TD
+
+### Exercise 1
+
+
+![](CM3/Hemomixer-simulation.gif){width="50%" fig-align="center"}
+
+
+### Exercise 2
+
+![](CM3/Perforatrice.png){width="50%" fig-align="center"}
+
+### Exercise 3
+
+![](CM3/Borne-00.jpg){width="50%" fig-align="center"}
+
+### Exercise 4
+
+![](CM3/Hayon-01.png){width="30%" fig-align="center"}
