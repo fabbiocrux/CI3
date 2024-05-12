@@ -141,7 +141,6 @@ countdown(minutes = 45, font_size = "2em", color_background="#AED6F1")
 **But**: 
 Réaliser un modèle ***CAO Pièce*** à partir d'un dessin technique. 
 
-Niveau facile.
 
 ## Exercise 2
 
@@ -158,7 +157,7 @@ Niveau facile.
 ![](TP1/Ex2.svg){width="90%" fig-align="center"} 
 :::
 ::: {}
-![](TP1/Ex3.png){width="80%" fig-align="center"} 
+
 :::
 :::
 
@@ -172,7 +171,7 @@ countdown(minutes = 45, font_size = "2em", color_background="#AED6F1")
 **But**: 
 Réaliser le modèle ***CAO Pièce*** à partir du dessin technique **fait de un de vos collèges**. 
 
-Niveau moyen.
+
 
 ## Exercise 3
 
@@ -186,7 +185,7 @@ Niveau moyen.
 :::
 
 ::: {}
-![](TP1/Ex2.svg){width="90%" fig-align="center"} 
+![](TP1/Ex1.svg){width="90%" fig-align="center"} 
 :::
 ::: {}
 ![](TP1/Ex3.png){width="80%" fig-align="center"} 
@@ -201,28 +200,17 @@ countdown(minutes = 45, font_size = "2em", color_background="#AED6F1")
 # Exercise 4
 
 **But**: 
-Réaliser le modèle ***CAO Pièce*** et le dessin technique à partir d'un pièce imprimé. 
+Réaliser le modèle ***CAO Pièce*** et le **dessin technique de definition** à partir d'un pièce imprimé. 
 
-Niveau difficile.
+
 
 ## Exercise 4
 
-**But:** À partir de l'exercice 1, utilisez le logiciel *Onshape* pour faire les modèle proposé. 
+**But:** Choisisez une pièce imprimer et fait le modèle CAO et le dessin technique sous onshape.
+
+![](TP1/Ex4.jpeg){width="80%" fig-align="center"} 
 
 
-
-::: {layout="[50, 25, 25]"}
-::: {}
-1. Identifiez tout les erreurs de cotation que votre collège à fait. 
-:::
-
-::: {}
-![](TP1/Ex2.svg){width="90%" fig-align="center"} 
-:::
-::: {}
-![](TP1/Ex3.png){width="80%" fig-align="center"} 
-:::
-:::
 
 ```{r echo=FALSE}
 countdown(minutes = 45, font_size = "2em", color_background="#AED6F1")
@@ -245,9 +233,10 @@ countdown(minutes = 45, font_size = "2em", color_background="#AED6F1")
 1. [Mise en plan](#drawing)
 
 
-### Dessin technique {#dessin}
+## Dessin technique {#dessin}
 
 
+### Historique sur Dessin technique 
 [Capsule sur le dessin technique par l'Université Numerique](https://moodle.luniversitenumerique.fr/mod/h5pactivity/view.php?id=10179)
 
 
@@ -258,6 +247,17 @@ countdown(minutes = 45, font_size = "2em", color_background="#AED6F1")
 </iframe><script src="https://moodle.luniversitenumerique.fr/h5p/h5plib/v124/joubel/core/js/h5p-resizer.js"></script>
 :::
 
+
+### Comment réaliser un dessin de définition conformément aux normes ISO?
+
+Capsule sur le dessin technique par l'Université Numerique
+
+::: {layout="[50, 25]"}
+<iframe src="https://moodle.luniversitenumerique.fr/h5p/embed.php?url=https%3A%2F%2Fmoodle.luniversitenumerique.fr%2Fpluginfile.php%2F17715%2Fmod_h5pactivity%2Fpackage%2F0%2FComment-r%25C3%25A9aliser-dessin-d%25C3%25A9finition-conform%25C3%25A9ment-normes-ISO.h5p&amp;component=mod_h5pactivity" name="h5player" width="983" height="614"
+   allowfullscreen="allowfullscreen" class="h5p-player w-100 border-0"
+   style="height: 0px;" id="66413cc85649e66413cc8564a31-h5player">
+</iframe><script src="https://moodle.luniversitenumerique.fr/h5p/h5plib/v124/joubel/core/js/h5p-resizer.js"></script>
+:::
 
 ## Introduction à Onshape {#interface} 
 ### Compte Onshape {background-image="TP1/onshape/00-Installation.jpg" background-size="50%" background-position="100% 20%"}
