@@ -238,12 +238,25 @@ countdown(minutes = 45, font_size = "2em", color_background="#AED6F1")
 # Ressources / tutoriels 
 
 
-
+1. [Introduction au dessin technique](#dessin)
 1. [Introduction à Onshape](#interface)
-2. [L'Esquisse](#esquisse)
-3. [Extrusion](#features)
-4. [Mise en plan](#drawing)
+1. [L'Esquisse](#esquisse)
+1. [Extrusion](#features)
+1. [Mise en plan](#drawing)
 
+
+### Dessin technique {#dessin}
+
+
+[Capsule sur le dessin technique par l'Université Numerique](https://moodle.luniversitenumerique.fr/mod/h5pactivity/view.php?id=10179)
+
+
+::: {layout="[50, 25]"}
+<iframe src="https://moodle.luniversitenumerique.fr/h5p/embed.php?url=https%3A%2F%2Fmoodle.luniversitenumerique.fr%2Fpluginfile.php%2F17711%2Fmod_h5pactivity%2Fpackage%2F0%2FD%25C3%25A9couvrir-diff%25C3%25A9rents-types-repr%25C3%25A9sentations-techniques.h5p&amp;component=mod_h5pactivity" name="h5player" width="983" height="614"
+   allowfullscreen="allowfullscreen" class="h5p-player w-100 border-0"
+   style="height: 0px;" id="66413a6c4ad1666413a6c4ad1a1-h5player">
+</iframe><script src="https://moodle.luniversitenumerique.fr/h5p/h5plib/v124/joubel/core/js/h5p-resizer.js"></script>
+:::
 
 
 ## Introduction à Onshape {#interface} 
