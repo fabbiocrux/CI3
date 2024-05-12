@@ -599,3 +599,5 @@ $L_{3-4}$ : Pivot d’axe $(E,\vec{z})$<br>
 ---
 
 ![](CM3/Hayon-02.png){width="100%" fig-align="center"}
+
+

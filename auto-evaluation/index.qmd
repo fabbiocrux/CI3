@@ -1,0 +1,47 @@
+---
+title: "Untitled"
+editor_options: 
+  chunk_output_type: console
+---
+
+
+```{r}
+library(tidyverse)
+
+data <- 
+   read_csv(file = "auto-evaluation/data.csv") %>% 
+   set_names("Time", "Prenom", "Nom", 
+                 "Chaine_Cinematique",
+                 "Imaginer_mouvement",
+                 "Dimensionner",
+                 "CAO",
+                 "Assamblage",
+                 "Simulation",
+                 "Laser",
+                 "Impression_3D",
+                 "Mécanisme",
+                 "Arduino") %>% 
+   mutate( CAO =
+              case_when(
+                 CAO == "Tout à fait d'accord" ~ 5,
+                 CAO == "D'accord" ~ 4,
+                 CAO == "Ni en désaccord ni d'accord" ~ 3,
+                 CAO == "Pas d'accord" ~ 2,
+                 CAO == "Pas du tout d'accord" ~ 1,
+              )
+      
+   )
+
+
+test <- 
+data %>% arrange(CAO) %>% mutate(Orden = paste(Nom, Prenom)) %>% 
+   mutate(Orden = factor(Orden, levels = Orden)) %>% 
+ggplot(aes(x=Orden, y=CAO)) +
+   geom_point() +
+   coord_flip()
+
+
+
+
+```
+

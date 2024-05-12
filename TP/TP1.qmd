@@ -1,4 +1,193 @@
 ---
-title: "TP 1: "
-subtitle: "Objectif:"
+title: "Conception et Innovation -- CI3"
+subtitle: "TP1: Introduction à conception et dessin assistés par ordinateur (CDAO)"
+author: 
+  - "MCF. Fabio Cruz"
+date: 20-Mar-2023
+#metadata-files:
+#  - _metadata.yml
+email: "fabio.cruz@univ-lorraine.fr"
+institute: "Université de Lorraine | ENSGSI"
+link-citations: true
+format:
+  revealjs:
+    slide-number: c/t
+    slide-level: 2
+    controls: true
+    transition: none
+    #margin: 10
+    width: 1600
+    height: 900
+    theme: [default, ../assets/custom.scss]
+    logo: "../assets/img/ENSGSI.png"
+    #embed-resources: false
+    echo: false
+    pdf-separate-fragments: true
+    toc: false
+    #toc-title: Agenda for today
+    toc-depth: 1
+    center: false
+    number-sections: false
+    fig-align: center
+    code-copy: true        
+    header-logo: "../assets/img/ENSGSI.png"    
+    #subtitle-as-header: true
+    sc-sb-title: false
+    chalkboard: true
+    multiplex: true
+editor_options: 
+  chunk_output_type: console
 ---
+
+
+```{r, include=FALSE}
+#install.packages("countdown")
+library(countdown)
+```
+
+
+
+# 🎯 But de la Séance de TP {.unummered}
+
+1. Concevoir un ***dessin techniques*** à partir d'un pièce donne. 
+2. Réaliser un modèle ***CAO Pièce*** à partir d'un dessin technique. 
+2. Réaliser un ***plan technique*** à partir du modèle CAO. 
+
+
+## Exercices
+
+::: {layout="[[25,25, 25, 25], [20, 30, 50]]"}
+
+::: {}
+🔅 **Ex. 1**
+![](TP1/Ex1.svg){width="90%" fig-align="center"} 
+:::
+::: {}
+**Ex. 2**
+![](TP1/Ex2.svg){width="90%" fig-align="center"} 
+:::
+::: {}
+**Ex. 4**
+
+![](TP1/Ex3.png){width="50%" fig-align="center"} 
+![](TP1/Ex3-01.png){width="80%" fig-align="center"} 
+:::
+::: {}
+🔥 **Ex. 4**
+![](TP1/Ex4.jpeg){width="100%" fig-align="center"} 
+:::
+::: {}
+:::
+::: {}
+**Logiciel**:
+:::
+::: {}
+![[https://www.onshape.com/](https://www.onshape.com/)](TP1/Onshape-logo.png){width="40%" fig-align="left"}
+:::
+:::
+
+## Timming
+
+📆 Mai 13, 2024 - 13:45 - 17:45 <br>
+
+
+| Temps          | Activité         |
+|:--------------|:------------------------|
+| 13:45 - 14:00 | Explication du TP   |
+| 14:00 - 14:45 | Exercice 1  |
+| 14:45 - 15:15 | Exercice 2  |
+| 15:15 - 15:30 | *Break*  🍎|
+| 15:30 - 16:30 | Exercice 3 |
+| 16:30 - 17:30 | Exercice 4 |
+| 17:30 - 17:45 | Questions |
+
+
+
+# Exercice 1
+
+**But**: 
+Concevoir une ***dessin techniques*** à partir d'un pièce donne. 
+
+
+## Exercice 1
+
+**But:** Faire le dessin technique sur le papier de la pièce que donné. 
+
+::: {.callout-important}
+Le document de l'Ex 1 va être dans  l'exercice 3 car vous allez  entre vous-les documents pour vérifier la qualité de votre dessin.
+:::
+
+
+::: {layout="[50, 25, 25]"}
+::: {}
+
+1. Notéz le code de la pièce et votre prenom dans le cartouche
+2. Notez votre Prenom et Nom en tant que dessinateur
+:::
+
+::: {}
+![](TP1/Ex1.svg){width="90%" fig-align="center"} 
+:::
+::: {}
+![](TP1/Ex3.png){width="80%" fig-align="center"} 
+:::
+:::
+
+```{r echo=FALSE}
+countdown(minutes = 45, font_size = "2em", color_background="#AED6F1")
+```
+
+
+## Ressources
+
+
+
+# Exercise 2
+
+**But**: 
+Réaliser un modèle ***CAO Pièce*** à partir d'un dessin technique. 
+
+Niveau facile.
+
+# Exercise 2
+
+
+**But:** À partir des exercices du TD1 (Vues isometriques), utiliser le logiciel *Onshape* pour faire les 6 pièces proposés. 
+**Chaque carré** equivaut à $10mm$
+
+
+
+::: {layout="[50, 25, 25]"}
+::: {}
+1. Telechargez la feuille sur [ARCHE](https://arche.univ-lorraine.fr/pluginfile.php/4201663/mod_resource/content/1/Correction.pdf)
+:::
+
+::: {}
+![](TP1/Ex2.svg){width="90%" fig-align="center"} 
+:::
+::: {}
+![](TP1/Ex3.png){width="80%" fig-align="center"} 
+:::
+:::
+
+```{r echo=FALSE}
+countdown(minutes = 45, font_size = "2em", color_background="#AED6F1")
+```
+
+
+## Ressources
+
+1. Introduction à Onshape
+2. Esquisse
+3. Extrusion
+4. Mise en plan
+
+## Introduction à la interface
+
+### Réalisation d'un modèle CAO à partir d'un dessin technique. 
+
+## Introduction à la interface
+
+
+# Exercice 
+
