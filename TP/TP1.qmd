@@ -3,7 +3,7 @@ title: "Conception et Innovation -- CI3"
 subtitle: "TP1: Introduction à conception et dessin assistés par ordinateur (CDAO)"
 author: 
   - "MCF. Fabio Cruz"
-date: 20-Mar-2023
+date: 2023/05/13
 #metadata-files:
 #  - _metadata.yml
 email: "fabio.cruz@univ-lorraine.fr"
@@ -106,7 +106,7 @@ library(countdown)
 # Exercice 1
 
 **But**: 
-Concevoir une ***dessin techniques*** à partir d'un pièce donne. 
+Concevoir un ***dessin technique*** à partir d'un pièce donne. 
 
 
 ## Exercice 1
@@ -240,9 +240,9 @@ countdown(minutes = 45, font_size = "2em", color_background="#AED6F1")
 
 
 1. [Introduction à Onshape](#interface)
-2. [Esquisse]
-3. [Extrusion]
-4. [Mise en plan]
+2. [L'Esquisse](#esquisse)
+3. [Extrusion](#features)
+4. [Mise en plan](#drawing)
 
 
 
@@ -268,7 +268,7 @@ Cela permmetra d'avoir la configuration "**Student**"
 :::
 :::
 
-## Introduction <br> à la interface {background-image="TP1/onshape/01-environnement.jpeg" background-size="60%" background-position="100% 20%"}
+### Introduction <br> à la interface {background-image="TP1/onshape/01-environnement.jpeg" background-size="60%" background-position="100% 20%"}
 
 ::: {layout="[40, 60]"}
 ::: {}
@@ -277,12 +277,12 @@ Cela permmetra d'avoir la configuration "**Student**"
 - Button *Create* afin de un document 
 
 
-[🎥 Tutorial sur l'interface](https://learn.onshape.com/learn/course/navigating-onshape/onshape-interface/trash)
+[🎥 Tutoriel sur l'interface](https://learn.onshape.com/learn/course/navigating-onshape/onshape-interface/the-documents-page?page=1)
 :::
 :::
 
 
-## Interface <br> à la interface {background-image="TP1/onshape/01-environnement.jpeg" background-size="60%" background-position="100% 20%"}
+### Creation d'un <br> document {background-image="TP1/onshape/02-document-creation.jpeg" background-size="60%" background-position="100% 20%"}
 
 ::: {layout="[40, 60]"}
 ::: {}
@@ -291,3 +291,51 @@ Cela permmetra d'avoir la configuration "**Student**"
 - Button *Create* afin de un document 
 :::
 :::
+
+[🎥 Tutoriel pour creer un document](https://learn.onshape.com/learn/course/navigating-onshape/getting-started/creating-a-document?page=1)
+
+
+
+## L'Esquisse <br> {#esquisse background-image="TP1/onshape/03-Esquisse.jpg" background-size="60%" background-position="100% 20%"}
+
+::: {layout="[40, 60]"}
+::: {}
+- Esquisse (***Sketch*** en anglais) est le premiers pas vers la modélisation
+
+⚠️ **Regardez les sections 01, 02, 03 et 05 du tutoriel suivant:**
+
+[🎥 Tutoriel pour l'Esquisse](https://learn.onshape.com/learn/course/introduction-to-sketching/starting-a-sketch/starting-a-sketch)
+:::
+:::
+
+## Part <br> {#features background-image="TP1/onshape/04-Part.jpg" background-size="60%" background-position="100% 20%"}
+
+
+::: {layout="[40, 60]"}
+::: {}
+- Création volumique (***Features*** en anglais)
+
+![](TP1/onshape/04-Part-01.png)
+
+:::
+:::
+[🎥 Tutoriel pour la Création voluminique basique](https://learn.onshape.com/learn/course/introduction-to-part-design/feature-creation/basic-features?page=1)
+
+
+
+## Dessin technique {#drawing background-image="TP1/onshape/05-Dessin.jpg" background-size="60%" background-position="100% 20%"}
+
+::: {layout="[40, 60]"}
+::: {}
+- Création volumique (***Drawing*** en anglais)
+
+Attention:
+
+- Utilisez la projection '***Third Angle (ANSI)***' 
+- Format A4.
+:::
+:::
+[🎥 Tutoriel pour la Création d'un dessin technique sous onshape](https://learn.onshape.com/learn/course/introduction-to-2d-drawings/drawings-interface/introduction-to-drawings?page=1)
+
+⚠️ **Regardez les sections 01, et 02 du tutoriel**
+
