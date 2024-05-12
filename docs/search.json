@@ -577,8 +577,8 @@
     "objectID": "TP/TP1.html#introduction-à-la-interface",
     "href": "TP/TP1.html#introduction-à-la-interface",
     "title": "Conception et Innovation – CI3",
-    "section": "Introduction à la interface",
-    "text": "Introduction à la interface\nRéalisation d’un modèle CAO à partir d’un dessin technique.",
+    "section": "Introduction  à la interface",
+    "text": "Introduction  à la interface\n\n\n\n\nVoilà aperçue de l’interface\nButton Create afin de un document\n\n🎥 Tutorial sur l’interface",
     "crumbs": [
       "Travaux Pratiques",
       "Conception et Innovation -- CI3"
@@ -677,7 +677,7 @@
     "href": "TP/TP1.html#ressources-1",
     "title": "Conception et Innovation – CI3",
     "section": "Ressources",
-    "text": "Ressources\n\nIntroduction à Onshape\nEsquisse\nExtrusion\nMise en plan",
+    "text": "Ressources\n\nIntroduction à Onshape\n[Esquisse]\n[Extrusion]\n[Mise en plan]",
     "crumbs": [
       "Travaux Pratiques",
       "Conception et Innovation -- CI3"
@@ -721,7 +721,7 @@
     "href": "TP/TP1.html#exercice-1-1",
     "title": "Conception et Innovation – CI3",
     "section": "Exercice 1",
-    "text": "Exercice 1\nBut: Faire le dessin technique sur le papier de la pièce que donné.\n\n\n\n\n\n\nImportant\n\n\nLe document de l’Ex 1 va être dans l’exercice 3 car vous allez entre vous-les documents pour vérifier la qualité de votre dessin.\n\n\n\n\n\n\n\nNotéz le code de la pièce et votre prenom dans le cartouche\nNotez votre Prenom et Nom en tant que dessinateur\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n−+\n45:00",
+    "text": "Exercice 1\nBut: Faire le dessin technique sur le papier de la pièce que donné.\n\n\n\n\n\n\nImportant\n\n\nLe document de l’Ex 1 va être dans l’exercice 3 car vous allez entre vous-les documents pour vérifier la qualité de votre dessin.\n\n\n\n\n\n\n\nNotéz le code de la pièce et votre prenom dans le cartouche\nNotez votre Prenom et Nom en tant que dessinateur\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n−+\n45:00",
     "crumbs": [
       "Travaux Pratiques",
       "Conception et Innovation -- CI3"
@@ -733,6 +733,101 @@
     "title": "Conception et Innovation – CI3",
     "section": "Introduction à la interface",
     "text": "Introduction à la interface",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "auto-evaluation/index.html",
+    "href": "auto-evaluation/index.html",
+    "title": "Untitled",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "TP/TP1.html#interface",
+    "href": "TP/TP1.html#interface",
+    "title": "Conception et Innovation – CI3",
+    "section": "Introduction à Onshape",
+    "text": "Introduction à Onshape",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#ressources-tutorials",
+    "href": "TP/TP1.html#ressources-tutorials",
+    "title": "Conception et Innovation – CI3",
+    "section": "Ressources / Tutorials",
+    "text": "Ressources / Tutorials\n\nIntroduction à Onshape\n[Esquisse]\n[Extrusion]\n[Mise en plan]",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#ressources-tutorials-1",
+    "href": "TP/TP1.html#ressources-tutorials-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Ressources / Tutorials",
+    "text": "Ressources / Tutorials\n\nIntroduction à Onshape\n[Esquisse]\n[Extrusion]\n[Mise en plan]",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#exercise-2-1",
+    "href": "TP/TP1.html#exercise-2-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercise 2",
+    "text": "Exercise 2\nBut: À partir des exercices du TD1 (Vues isometriques), utiliser le logiciel Onshape pour faire les 6 pièces proposés. Chaque carré equivaut à \\(10mm\\)\n\n\n\n\nTelechargez la feuille sur ARCHE\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n−+\n45:00",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#exercise-3-1",
+    "href": "TP/TP1.html#exercise-3-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercise 3",
+    "text": "Exercise 3\nBut: À partir de l’exercice 1, utilisez le logiciel Onshape pour faire les modèle proposé.\n\n\n\n\nIdentifiez tout les erreurs de cotation que votre collège à fait.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n−+\n45:00",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#exercise-3-2",
+    "href": "TP/TP1.html#exercise-3-2",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercise 3",
+    "text": "Exercise 3\nBut: À partir de l’exercice 1, utilisez le logiciel Onshape pour faire les modèle proposé.\n\n\n\n\nIdentifiez tout les erreurs de cotation que votre collège à fait.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n−+\n45:00",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#exercise-4-1",
+    "href": "TP/TP1.html#exercise-4-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercise 4",
+    "text": "Exercise 4\nBut: À partir de l’exercice 1, utilisez le logiciel Onshape pour faire les modèle proposé.\n\n\n\n\nIdentifiez tout les erreurs de cotation que votre collège à fait.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n−+\n45:00",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#interface-à-la-interface",
+    "href": "TP/TP1.html#interface-à-la-interface",
+    "title": "Conception et Innovation – CI3",
+    "section": "Interface  à la interface",
+    "text": "Interface  à la interface\n\n\n\n\nVoilà aperçue de l’interface\nButton Create afin de un document",
     "crumbs": [
       "Travaux Pratiques",
       "Conception et Innovation -- CI3"

@@ -12,7 +12,7 @@ link-citations: true
 format:
   revealjs:
     slide-number: c/t
-    slide-level: 2
+    slide-level: 3
     controls: true
     transition: none
     #margin: 10
@@ -118,7 +118,7 @@ Le document de l'Ex 1 va être dans  l'exercice 3 car vous allez  entre vous-les
 :::
 
 
-::: {layout="[50, 25, 25]"}
+::: {layout="[50, 50]"}
 ::: {}
 
 1. Notéz le code de la pièce et votre prenom dans le cartouche
@@ -126,19 +126,13 @@ Le document de l'Ex 1 va être dans  l'exercice 3 car vous allez  entre vous-les
 :::
 
 ::: {}
-![](TP1/Ex1.svg){width="90%" fig-align="center"} 
-:::
-::: {}
-![](TP1/Ex3.png){width="80%" fig-align="center"} 
+![](TP1/Ex3.png){width="40%" fig-align="center"} 
 :::
 :::
 
 ```{r echo=FALSE}
 countdown(minutes = 45, font_size = "2em", color_background="#AED6F1")
 ```
-
-
-## Ressources
 
 
 
@@ -149,12 +143,10 @@ Réaliser un modèle ***CAO Pièce*** à partir d'un dessin technique.
 
 Niveau facile.
 
-# Exercise 2
-
+## Exercise 2
 
 **But:** À partir des exercices du TD1 (Vues isometriques), utiliser le logiciel *Onshape* pour faire les 6 pièces proposés. 
 **Chaque carré** equivaut à $10mm$
-
 
 
 ::: {layout="[50, 25, 25]"}
@@ -175,19 +167,127 @@ countdown(minutes = 45, font_size = "2em", color_background="#AED6F1")
 ```
 
 
-## Ressources
+# Exercise 3
 
-1. Introduction à Onshape
-2. Esquisse
-3. Extrusion
-4. Mise en plan
+**But**: 
+Réaliser le modèle ***CAO Pièce*** à partir du dessin technique **fait de un de vos collèges**. 
 
-## Introduction à la interface
+Niveau moyen.
 
-### Réalisation d'un modèle CAO à partir d'un dessin technique. 
+## Exercise 3
 
-## Introduction à la interface
+**But:** À partir de l'exercice 1, utilisez le logiciel *Onshape* pour faire les modèle proposé. 
 
 
-# Exercice 
 
+::: {layout="[50, 25, 25]"}
+::: {}
+1. Identifiez tout les erreurs de cotation que votre collège à fait. 
+:::
+
+::: {}
+![](TP1/Ex2.svg){width="90%" fig-align="center"} 
+:::
+::: {}
+![](TP1/Ex3.png){width="80%" fig-align="center"} 
+:::
+:::
+
+```{r echo=FALSE}
+countdown(minutes = 45, font_size = "2em", color_background="#AED6F1")
+```
+
+
+# Exercise 4
+
+**But**: 
+Réaliser le modèle ***CAO Pièce*** et le dessin technique à partir d'un pièce imprimé. 
+
+Niveau difficile.
+
+## Exercise 4
+
+**But:** À partir de l'exercice 1, utilisez le logiciel *Onshape* pour faire les modèle proposé. 
+
+
+
+::: {layout="[50, 25, 25]"}
+::: {}
+1. Identifiez tout les erreurs de cotation que votre collège à fait. 
+:::
+
+::: {}
+![](TP1/Ex2.svg){width="90%" fig-align="center"} 
+:::
+::: {}
+![](TP1/Ex3.png){width="80%" fig-align="center"} 
+:::
+:::
+
+```{r echo=FALSE}
+countdown(minutes = 45, font_size = "2em", color_background="#AED6F1")
+```
+
+
+
+
+
+
+
+
+# Ressources / tutoriels 
+
+
+
+1. [Introduction à Onshape](#interface)
+2. [Esquisse]
+3. [Extrusion]
+4. [Mise en plan]
+
+
+
+## Introduction à Onshape {#interface} 
+### Compte Onshape {background-image="TP1/onshape/00-Installation.jpg" background-size="50%" background-position="100% 20%"}
+
+::: {layout="[40, 60]"}
+::: {}
+1. Ouvrez une compte sur [https://www.onshape.com/fr/](https://www.onshape.com/fr/)
+2. Utilisez votre **email de l'Université de Lorraine**
+
+Cela permmetra d'avoir la configuration "**Student**"
+:::
+:::
+
+### Configuration {background-image="TP1/onshape/01-configuration.png" background-size="60%" background-position="100% 20%"}
+
+::: {layout="[40, 60]"}
+::: {}
+1. Click on '*votre nom*' > *my account*
+1. Configurez votre compte en langue '*Français*' 
+1. Utilisez l'unité par défaut de Longueur en **Millimèters: $mm$**
+:::
+:::
+
+## Introduction <br> à la interface {background-image="TP1/onshape/01-environnement.jpeg" background-size="60%" background-position="100% 20%"}
+
+::: {layout="[40, 60]"}
+::: {}
+- Voilà aperçue de l'interface
+
+- Button *Create* afin de un document 
+
+
+[🎥 Tutorial sur l'interface](https://learn.onshape.com/learn/course/navigating-onshape/onshape-interface/trash)
+:::
+:::
+
+
+## Interface <br> à la interface {background-image="TP1/onshape/01-environnement.jpeg" background-size="60%" background-position="100% 20%"}
+
+::: {layout="[40, 60]"}
+::: {}
+- Voilà aperçue de l'interface
+
+- Button *Create* afin de un document 
+:::
+:::

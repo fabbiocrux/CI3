@@ -6,6 +6,10 @@ editor_options:
 
 
 ```{r}
+#| eval: false
+#| include: false
+
+
 library(tidyverse)
 
 data <- 
