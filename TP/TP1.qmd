@@ -169,7 +169,7 @@ countdown(minutes = 45, font_size = "2em", color_background="#AED6F1")
 # Exercise 3
 
 **But**: 
-Réaliser le modèle ***CAO Pièce*** à partir du dessin technique **fait de un de vos collèges**. 
+Réaliser le modèle ***CAO Pièce*** à partir du dessin technique **fait d'un.e de vos collèges**. 
 
 
 
