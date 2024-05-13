@@ -178,7 +178,6 @@ Réaliser le modèle ***CAO Pièce*** à partir du dessin technique **fait d'un.
 **But:** À partir de l'exercice 1, utilisez le logiciel *Onshape* pour faire les modèle proposé. 
 
 
-
 ::: {layout="[50, 25, 25]"}
 ::: {}
 1. Identifiez tout les erreurs de cotation que votre collège à fait. 
@@ -206,9 +205,21 @@ Réaliser le modèle ***CAO Pièce*** et le **dessin technique de definition** �
 
 ## Exercise 4
 
-**But:** Choisisez une pièce imprimer et fait le modèle CAO et le dessin technique sous onshape.
+**But:** Choisisez une pièce imprimé et faites **le modèle CAO** et **le dessin technique** sous onshape.
 
-![](TP1/Ex4.jpeg){width="80%" fig-align="center"} 
+
+::: {layout="[65, 35]"}
+::: {}
+![](TP1/Ex4.jpeg){width="70%" fig-align="center"} 
+:::
+
+::: {}
+![](TP1/Ex3-01.png){width="80%" fig-align="center"} 
+:::
+:::
+
+
+
 
 
 
@@ -352,3 +363,5 @@ Attention:
 
 ⚠️ **Regardez les sections 01, et 02 du tutoriel**
 
+
+## Questions? 
