@@ -63,21 +63,24 @@ library(countdown)
 
 ::: {}
 🔅 **Ex. 1**
-![](TP3/Ex1.png){width="90%" fig-align="center"} 
+
+![](TP3/Ex0/Ex0.jpeg){width="90%" fig-align="center"} 
+
+Tutoriel de base
 :::
 ::: {}
 **Ex. 2**
-![](TP1/Ex2.svg){width="90%" fig-align="center"} 
+![](TP3/Ex1/Ex1.png){width="90%" fig-align="center"} 
 :::
 ::: {}
 **Ex. 4**
 
-![](TP1/Ex3.png){width="50%" fig-align="center"} 
-![](TP1/Ex3-01.png){width="80%" fig-align="center"} 
+![](TP3/Ex2/Ex2.png){width="50%" fig-align="center"} 
+
 :::
 ::: {}
 🔥 **Ex. 4**
-![](TP1/Ex4.jpeg){width="100%" fig-align="center"} 
+![](TP3/Ex3/Ex3.png){width="100%" fig-align="center"} 
 :::
 ::: {}
 :::
@@ -88,22 +91,6 @@ library(countdown)
 ![[https://www.onshape.com/](https://www.onshape.com/)](TP1/Onshape-logo.png){width="40%" fig-align="left"}
 :::
 :::
-
-## Timming
-
-📆 Mai 13, 2024 - 13:45 - 17:45 <br>
-
-
-| Temps          | Activité         |
-|:--------------|:------------------------|
-| 13:45 - 14:00 | Explication du TP   |
-| 14:00 - 14:45 | Exercice 1  |
-| 14:45 - 15:15 | Exercice 2  |
-| 15:15 - 15:30 | *Break*  🍎|
-| 15:30 - 16:30 | Exercice 3 |
-| 16:30 - 17:30 | Exercice 4 |
-| 17:30 - 17:45 | Questions |
-
 
 
 
@@ -153,6 +140,8 @@ Concevoir un ***modèle d'assemblage***.
 **But:** Faire les differents pièces et après faire la simulation de mouvement. 
 
 ![](TP3/Ex1/Ex1-1.png){width="65%" fig-align="center"} 
+
+
 
 
 
