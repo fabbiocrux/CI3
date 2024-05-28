@@ -1,4 +1,0 @@
----
-title: "TP 8: "
-subtitle: "Objectif:"
----

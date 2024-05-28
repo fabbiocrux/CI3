@@ -51,7 +51,7 @@ library(countdown)
 
 1. Concevoir un ***dessin techniques*** à partir d'un pièce donne. 
 2. Réaliser un modèle ***CAO Pièce*** à partir d'un dessin technique. 
-2. Réaliser un ***plan technique*** à partir du modèle CAO. 
+3. Réaliser un ***plan technique*** à partir du modèle CAO. 
 
 
 ## Exercices
@@ -114,7 +114,7 @@ Concevoir un ***dessin technique*** à partir d'un pièce donne.
 **But:** Faire le dessin technique sur le papier de la pièce que donné. 
 
 ::: {.callout-important}
-Le document de l'Ex 1 va être dans  l'exercice 3 car vous allez  entre vous-les documents pour vérifier la qualité de votre dessin.
+Le document de l'Ex 1 va être utilisé dans l'exercice 3, car vous allez comparer les documents entre vous pour vérifier la qualité de votre dessin.
 :::
 
 

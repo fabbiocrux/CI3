@@ -1,4 +1,162 @@
 ---
-title: "TP 3: "
-subtitle: "Objectif:"
+title: "Conception et Innovation -- CI3"
+subtitle: "TP3: Modélisation et assamblage des pièces par ordinateur"
+author: 
+  - "MCF. Fabio Cruz"
+date: 2023/05/13
+#metadata-files:
+#  - _metadata.yml
+email: "fabio.cruz@univ-lorraine.fr"
+institute: "Université de Lorraine | ENSGSI"
+link-citations: true
+format:
+  revealjs:
+    slide-number: c/t
+    slide-level: 3
+    controls: true
+    transition: none
+    #margin: 10
+    width: 1600
+    height: 900
+    theme: [default, ../assets/custom.scss]
+    logo: "../assets/img/ENSGSI.png"
+    #embed-resources: false
+    echo: false
+    pdf-separate-fragments: true
+    toc: false
+    #toc-title: Agenda for today
+    toc-depth: 1
+    center: false
+    number-sections: false
+    fig-align: center
+    code-copy: true        
+    header-logo: "../assets/img/ENSGSI.png"    
+    #subtitle-as-header: true
+    sc-sb-title: false
+    chalkboard: true
+    multiplex: true
+editor_options: 
+  chunk_output_type: console
 ---
+
+
+```{r, include=FALSE}
+#install.packages("countdown")
+library(countdown)
+```
+
+
+
+# 🎯 But de la Séance de TP {.unummered}
+
+1. Concevoir un ***modèle d'assemblage***.  
+2. Faire une **simulation de mouvement** d'un modèle CAO Pièce. 
+3. Réaliser un ***plan technique*** à partir du modèle CAO. 
+
+
+
+
+
+## Exercices
+
+::: {layout="[[25,25, 25, 25], [20, 30, 50]]"}
+
+::: {}
+🔅 **Ex. 1**
+![](TP3/Ex1.png){width="90%" fig-align="center"} 
+:::
+::: {}
+**Ex. 2**
+![](TP1/Ex2.svg){width="90%" fig-align="center"} 
+:::
+::: {}
+**Ex. 4**
+
+![](TP1/Ex3.png){width="50%" fig-align="center"} 
+![](TP1/Ex3-01.png){width="80%" fig-align="center"} 
+:::
+::: {}
+🔥 **Ex. 4**
+![](TP1/Ex4.jpeg){width="100%" fig-align="center"} 
+:::
+::: {}
+:::
+::: {}
+**Logiciel**:
+:::
+::: {}
+![[https://www.onshape.com/](https://www.onshape.com/)](TP1/Onshape-logo.png){width="40%" fig-align="left"}
+:::
+:::
+
+## Timming
+
+📆 Mai 13, 2024 - 13:45 - 17:45 <br>
+
+
+| Temps          | Activité         |
+|:--------------|:------------------------|
+| 13:45 - 14:00 | Explication du TP   |
+| 14:00 - 14:45 | Exercice 1  |
+| 14:45 - 15:15 | Exercice 2  |
+| 15:15 - 15:30 | *Break*  🍎|
+| 15:30 - 16:30 | Exercice 3 |
+| 16:30 - 17:30 | Exercice 4 |
+| 17:30 - 17:45 | Questions |
+
+
+
+
+# Exercice 1
+
+**But**: 
+Tutorial sur la construction des ***modèles d'assemblage***. 
+
+
+## Exercice 1
+
+**But:** Faire le tutoriel proposé par onshape sur comment créer des assemblages et à travailleur avec eux. 
+
+
+::: {layout="[30, 70]" layout-valign="center"}
+::: {}
+
+[Lien pour le tutoriel](https://learn.onshape.com/courses/fundamentals-onshape-assemblies)
+
+:::
+
+![](TP3/Ex0.jpeg){width="100%" fig-align="center"} 
+:::
+
+
+# Exercice 2
+
+**But**: 
+Concevoir un ***modèle d'assemblage***. 
+
+
+## Exercice 2
+
+**But:** Faire les differents pièces et après faire la simulation de mouvement. 
+
+![](TP3/Ex1/Ex1-1.png){width="65%" fig-align="center"} 
+
+
+# Exercice 3
+
+**But**: 
+Concevoir un ***modèle d'assemblage***. 
+
+
+## Exercice 3
+
+**But:** Faire les differents pièces et après faire la simulation de mouvement. 
+
+![](TP3/Ex1/Ex1-1.png){width="65%" fig-align="center"} 
+
+
+
+
+
+
+
