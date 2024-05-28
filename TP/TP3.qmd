@@ -129,6 +129,12 @@ Concevoir un ***modèle d'assemblage***.
 ![](TP3/Ex1/Ex1-1.png){width="65%" fig-align="center"} 
 
 
+### Simulation Exercice 1
+
+{{< video TP3/Ex1/Simulation.mp4 >}}
+
+
+
 # Exercice 2
 
 **But**: 
@@ -140,11 +146,8 @@ Concevoir un ***modèle d'assemblage***.
 **But:** Faire les differents pièces et après faire la simulation de mouvement. 
 
 
-
-
 ::: {layout="[30, 70]" layout-valign="center"}
 ::: {}
-
 
 [⬇️ Téléchargez le dessin technique](TP3/Ex2/Ex2.pdf){width="65%" fig-align="center"} 
 
@@ -153,6 +156,30 @@ Concevoir un ***modèle d'assemblage***.
 ![](TP3/Ex2/Ex2.png){width="100%" fig-align="center"} 
 :::
 
+
+
+
+
+# Exercice 3
+
+**But**: 
+Concevoir un ***modèle d'assemblage***. 
+
+
+## Exercice 3
+
+**But:** Faire les differents pièces et après faire la simulation de mouvement. 
+
+
+::: {layout="[30, 70]" layout-valign="center"}
+::: {}
+
+[⬇️ Téléchargez le dessin technique](TP3/Ex2/Ex2.pdf)
+
+:::
+![](TP3/Ex3/Ex3.png){width="50%" fig-align="center"} 
+
+:::
 
 
 
