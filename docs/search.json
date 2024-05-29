@@ -95,69 +95,207 @@
     ]
   },
   {
-    "objectID": "TD/TD2.html",
-    "href": "TD/TD2.html",
-    "title": "TD 2: Schéma Cinématique",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\n             Introduction à la conception de système mécatronique\n         ",
     "section": "",
-    "text": "L’hémomixer est un automate permettant de superviser automatiquement le prélèvement de sang lors de collectes mobiles.\n\n\n\n\nIl effectue simultanément la pesée (volume) et l’agitation des poches de sang.\n\n\n\n:::",
+    "text": "Conception et Innovation\n         \n         \n             “Think with your hands, build something or ty something, then talk about it, NOT the Reverse.” David Kelly, Founder IDEO & Standford Deisgn School\n         \n         \n         \n            Cours Magistraux            \n            Guide de Travaux Dirigés"
+  },
+  {
+    "objectID": "index.html#instructors",
+    "href": "index.html#instructors",
+    "title": "\n             Introduction à la conception de système mécatronique\n         ",
+    "section": "1 Instructors",
+    "text": "1 Instructors\n\n   MdC. Alaa Hassan\n   Dr. Fabio A Cruz\n   ENSGSI\n   Schedule an appointment"
+  },
+  {
+    "objectID": "index.html#course-details",
+    "href": "index.html#course-details",
+    "title": "\n             Introduction à la conception de système mécatronique\n         ",
+    "section": "2 Course details",
+    "text": "2 Course details\n\n   Thursdays\n   January 9–May 2, 2023\n   7:15–9:45 PM\n   ENSGSI"
+  },
+  {
+    "objectID": "index.html#contactez-nous",
+    "href": "index.html#contactez-nous",
+    "title": "\n             Introduction à la conception de système mécatronique\n         ",
+    "section": "3 Contactez nous",
+    "text": "3 Contactez nous\nL’e-mail et Microsoft teams sont les meilleurs moyens de nous contacter. On essai de répondre à tous les courriels et messages liés au cours dans les XX heures (vraiment), mais rappelez-vous aussi que la vie peut être occupée et chaotique pour tout le monde (y compris nous !), alors si je ne réponds pas tout de suite, ne vous inquiétez pas !"
+  },
+  {
+    "objectID": "TP/TP1.html#exercices",
+    "href": "TP/TP1.html#exercices",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercices",
+    "text": "Exercices\n\n\n\n🔅 Ex. 1 \n\n\nEx. 2 \n\n\nEx. 4\n \n\n\n🔥 Ex. 4 \n\n\n\n\n\n\n\nLogiciel:\n\n\n\n\n\nhttps://www.onshape.com/",
     "crumbs": [
-      "Travaux Dirigés",
-      "TD 2: Schéma Cinématique"
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
     ]
   },
   {
-    "objectID": "TP/TP7.html",
-    "href": "TP/TP7.html",
-    "title": "TP 7:",
-    "section": "",
-    "text": "Back to top",
+    "objectID": "TP/TP1.html#timming",
+    "href": "TP/TP1.html#timming",
+    "title": "Conception et Innovation – CI3",
+    "section": "Timming",
+    "text": "Timming\n📆 Mai 13, 2024 - 13:45 - 17:45 \n\n\n\nTemps\nActivité\n\n\n\n\n13:45 - 14:00\nExplication du TP\n\n\n14:00 - 14:45\nExercice 1\n\n\n14:45 - 15:15\nExercice 2\n\n\n15:15 - 15:30\nBreak 🍎\n\n\n15:30 - 16:30\nExercice 3\n\n\n16:30 - 17:30\nExercice 4\n\n\n17:30 - 17:45\nQuestions",
     "crumbs": [
       "Travaux Pratiques",
-      "TP 7:"
+      "Conception et Innovation -- CI3"
     ]
   },
   {
-    "objectID": "TP/TP4.html",
-    "href": "TP/TP4.html",
-    "title": "TP 4:",
-    "section": "",
-    "text": "Back to top",
+    "objectID": "TP/TP1.html#exercice-1-1",
+    "href": "TP/TP1.html#exercice-1-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercice 1",
+    "text": "Exercice 1\nBut: Faire le dessin technique sur le papier de la pièce que donné.\n\n\n\n\n\n\nImportant\n\n\nLe document de l’Ex 1 va être utilisé dans l’exercice 3, car vous allez comparer les documents entre vous pour vérifier la qualité de votre dessin.\n\n\n\n\n\n\n\nNotéz le code de la pièce et votre prenom dans le cartouche\nNotez votre Prenom et Nom en tant que dessinateur\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n−+\n45:00",
     "crumbs": [
       "Travaux Pratiques",
-      "TP 4:"
+      "Conception et Innovation -- CI3"
     ]
   },
   {
-    "objectID": "TP/TP1.html",
-    "href": "TP/TP1.html",
-    "title": "TP 1:",
-    "section": "",
-    "text": "Back to top",
+    "objectID": "TP/TP1.html#exercise-2-1",
+    "href": "TP/TP1.html#exercise-2-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercise 2",
+    "text": "Exercise 2\nBut: À partir des exercices du TD1 (Vues isometriques), utiliser le logiciel Onshape pour faire les 6 pièces proposés. Chaque carré equivaut à \\(10mm\\)\n\n\n\n\nTelechargez la feuille sur ARCHE\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n−+\n45:00",
     "crumbs": [
       "Travaux Pratiques",
-      "TP 1:"
+      "Conception et Innovation -- CI3"
     ]
   },
   {
-    "objectID": "TP/TP3.html",
-    "href": "TP/TP3.html",
-    "title": "TP 3:",
-    "section": "",
-    "text": "Back to top",
+    "objectID": "TP/TP1.html#exercise-3-1",
+    "href": "TP/TP1.html#exercise-3-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercise 3",
+    "text": "Exercise 3\nBut: À partir de l’exercice 1, utilisez le logiciel Onshape pour faire les modèle proposé.\n\n\n\n\nIdentifiez tout les erreurs de cotation que votre collège à fait.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n−+\n45:00",
     "crumbs": [
       "Travaux Pratiques",
-      "TP 3:"
+      "Conception et Innovation -- CI3"
     ]
   },
   {
-    "objectID": "TP/TP9.html",
-    "href": "TP/TP9.html",
-    "title": "TP 9:",
-    "section": "",
-    "text": "Back to top",
+    "objectID": "TP/TP1.html#exercise-4-1",
+    "href": "TP/TP1.html#exercise-4-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercise 4",
+    "text": "Exercise 4\nBut: Choisisez une pièce imprimé et faites le modèle CAO et le dessin technique sous onshape.",
     "crumbs": [
       "Travaux Pratiques",
-      "TP 9:"
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#exercise-4-pièce-1",
+    "href": "TP/TP1.html#exercise-4-pièce-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercise 4: Pièce 1",
+    "text": "Exercise 4: Pièce 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n⬇️ Téléchargez le dessin technique",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#exercise-4-pièce-2",
+    "href": "TP/TP1.html#exercise-4-pièce-2",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercise 4: Pièce 2",
+    "text": "Exercise 4: Pièce 2\n\n\n\n\n\n\n\n\n\n\n  ⬇️ Téléchargez le dessin technique",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#exercise-4-pièce-3",
+    "href": "TP/TP1.html#exercise-4-pièce-3",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercise 4: Pièce 3",
+    "text": "Exercise 4: Pièce 3\n\n\n\n\n\n\n\n\n\n\n  ⬇️ Téléchargez le dessin technique",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#exercise-4-pièce-3-1",
+    "href": "TP/TP1.html#exercise-4-pièce-3-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercise 4: Pièce 3",
+    "text": "Exercise 4: Pièce 3\n\n\n\n\n\n\n\n\n\n\n  ⬇️ Téléchargez le dessin technique",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#dessin",
+    "href": "TP/TP1.html#dessin",
+    "title": "Conception et Innovation – CI3",
+    "section": "Dessin technique",
+    "text": "Dessin technique",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#interface",
+    "href": "TP/TP1.html#interface",
+    "title": "Conception et Innovation – CI3",
+    "section": "Introduction à Onshape",
+    "text": "Introduction à Onshape",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#esquisse",
+    "href": "TP/TP1.html#esquisse",
+    "title": "Conception et Innovation – CI3",
+    "section": "L’Esquisse ",
+    "text": "L’Esquisse \n\n\n\n\nEsquisse (Sketch en anglais) est le premiers pas vers la modélisation\n\n⚠️ Regardez les sections 01, 02, 03 et 05 du tutoriel suivant:\n🎥 Tutoriel pour l’Esquisse",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#features",
+    "href": "TP/TP1.html#features",
+    "title": "Conception et Innovation – CI3",
+    "section": "Part ",
+    "text": "Part \n\n\n\n\nCréation volumique (Features en anglais)\n\n\n\n\n\n🎥 Tutoriel pour la Création voluminique basique",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#drawing",
+    "href": "TP/TP1.html#drawing",
+    "title": "Conception et Innovation – CI3",
+    "section": "Dessin technique",
+    "text": "Dessin technique\n\n\n\n\nCréation volumique (Drawing en anglais)\n\nAttention:\n\nUtilisez la projection ‘Third Angle (ANSI)’\nFormat A4.\n\n\n\n\n🎥 Tutoriel pour la Création d’un dessin technique sous onshape\n⚠️ Regardez les sections 01, et 02 du tutoriel",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#questions",
+    "href": "TP/TP1.html#questions",
+    "title": "Conception et Innovation – CI3",
+    "section": "Questions?",
+    "text": "Questions?",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
     ]
   },
   {
@@ -194,76 +332,88 @@
     ]
   },
   {
-    "objectID": "TP/TP8.html",
-    "href": "TP/TP8.html",
-    "title": "TP 8:",
-    "section": "",
-    "text": "Back to top",
+    "objectID": "TP/TP3.html#exercices",
+    "href": "TP/TP3.html#exercices",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercices",
+    "text": "Exercices\n\n\n\nEx. 0\n\n\n\n\n\nTutoriel de base\n\n\nEx. 1 \n\n\nEx. 2\n\n\n\n\n\n\n\nEx. 3 \n\n\n\n\n\n\n\nLogiciel:\n\n\n\n\n\nhttps://www.onshape.com/",
     "crumbs": [
       "Travaux Pratiques",
-      "TP 8:"
+      "Conception et Innovation -- CI3"
     ]
   },
   {
-    "objectID": "TP/TP2.html",
-    "href": "TP/TP2.html",
-    "title": "TP 2:",
-    "section": "",
-    "text": "Back to top",
+    "objectID": "TP/TP3.html#exercice-0-1",
+    "href": "TP/TP3.html#exercice-0-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercice 0",
+    "text": "Exercice 0\nBut: Faire le tutoriel proposé par onshape sur comment créer des assemblages et à travailleur avec eux.\n\n\n\nLien pour le tutoriel",
     "crumbs": [
       "Travaux Pratiques",
-      "TP 2:"
+      "Conception et Innovation -- CI3"
     ]
   },
   {
-    "objectID": "TP/TP5.html",
-    "href": "TP/TP5.html",
-    "title": "TP 5:",
-    "section": "",
-    "text": "Back to top",
+    "objectID": "TP/TP3.html#exercice-1-1",
+    "href": "TP/TP3.html#exercice-1-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercice 1",
+    "text": "Exercice 1\nBut: Faire les differents pièces et après faire la simulation de mouvement.",
     "crumbs": [
       "Travaux Pratiques",
-      "TP 5:"
+      "Conception et Innovation -- CI3"
     ]
   },
   {
-    "objectID": "TP/TP6.html",
-    "href": "TP/TP6.html",
-    "title": "TP 6:",
-    "section": "",
-    "text": "Back to top",
+    "objectID": "TP/TP3.html#exercice-2-1",
+    "href": "TP/TP3.html#exercice-2-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercice 2",
+    "text": "Exercice 2\nBut: Faire les differents pièces et après faire la simulation de mouvement.\n\n\n\n⬇️ Téléchargez le dessin technique",
     "crumbs": [
       "Travaux Pratiques",
-      "TP 6:"
+      "Conception et Innovation -- CI3"
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "\n             Introduction à la conception de système mécatronique\n         ",
+    "objectID": "TP/TP3.html#exercice-3-1",
+    "href": "TP/TP3.html#exercice-3-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercice 3",
+    "text": "Exercice 3\nBut: Faire les differents pièces et après faire la simulation de mouvement.\n\n\n\n⬇️ Téléchargez le dessin technique",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP3.html#exercice-bonus",
+    "href": "TP/TP3.html#exercice-bonus",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercice Bonus",
+    "text": "Exercice Bonus\n\n\n\n⬇️ Téléchargez le dessin technique",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP3.html#exercice-bonus-ii",
+    "href": "TP/TP3.html#exercice-bonus-ii",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercice Bonus II",
+    "text": "Exercice Bonus II",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "auto-evaluation/index.html",
+    "href": "auto-evaluation/index.html",
+    "title": "Untitled",
     "section": "",
-    "text": "Conception et Innovation\n         \n         \n             “Think with your hands, build something or ty something, then talk about it, NOT the Reverse.” David Kelly, Founder IDEO & Standford Deisgn School\n         \n         \n         \n            Cours Magistraux            \n            Guide de Travaux Dirigés"
-  },
-  {
-    "objectID": "index.html#instructors",
-    "href": "index.html#instructors",
-    "title": "\n             Introduction à la conception de système mécatronique\n         ",
-    "section": "1 Instructors",
-    "text": "1 Instructors\n\n   MdC. Alaa Hassan\n   Dr. Fabio A Cruz\n   ENSGSI\n   Schedule an appointment"
-  },
-  {
-    "objectID": "index.html#course-details",
-    "href": "index.html#course-details",
-    "title": "\n             Introduction à la conception de système mécatronique\n         ",
-    "section": "2 Course details",
-    "text": "2 Course details\n\n   Thursdays\n   January 9–May 2, 2023\n   7:15–9:45 PM\n   ENSGSI"
-  },
-  {
-    "objectID": "index.html#contactez-nous",
-    "href": "index.html#contactez-nous",
-    "title": "\n             Introduction à la conception de système mécatronique\n         ",
-    "section": "3 Contactez nous",
-    "text": "3 Contactez nous\nL’e-mail et Microsoft teams sont les meilleurs moyens de nous contacter. On essai de répondre à tous les courriels et messages liés au cours dans les XX heures (vraiment), mais rappelez-vous aussi que la vie peut être occupée et chaotique pour tout le monde (y compris nous !), alors si je ne réponds pas tout de suite, ne vous inquiétez pas !"
+    "text": "Back to top"
   },
   {
     "objectID": "CM/CM1.html#engineering-and-mechanics",
@@ -326,6 +476,17 @@
     "title": "Conception et Innovation – CI3",
     "section": "Mécanisme",
     "text": "Mécanisme\nDéfinition:\n\n\n\nOn appelle mécanisme, un ensemble de pièces mécaniques reliées entre elles par des liaisons, en vue de réaliser une fonction déterminée.\n\n\n\n\nNous admettrons que les pièces mécaniques peuvent être modélisées par des solides indéformables.",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#conception-en-v",
+    "href": "CM/CM3.html#conception-en-v",
+    "title": "Conception et Innovation – CI3",
+    "section": "Conception en V",
+    "text": "Conception en V",
     "crumbs": [
       "Cours Magistraux",
       "Conception et Innovation -- CI3"
@@ -508,61 +669,6 @@
     ]
   },
   {
-    "objectID": "CM/CM3.html#references.",
-    "href": "CM/CM3.html#references.",
-    "title": "Conception et Innovation – CI3",
-    "section": "References.",
-    "text": "References.",
-    "crumbs": [
-      "Cours Magistraux",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "CM/CM3.html#conception-en-v",
-    "href": "CM/CM3.html#conception-en-v",
-    "title": "Conception et Innovation – CI3",
-    "section": "Conception en V",
-    "text": "Conception en V",
-    "crumbs": [
-      "Cours Magistraux",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TD/TD2.html#objective-td",
-    "href": "TD/TD2.html#objective-td",
-    "title": "TD 2: Schéma Cinématique",
-    "section": "",
-    "text": "L’hémomixer est un automate permettant de superviser automatiquement le prélèvement de sang lors de collectes mobiles.\n\n\n\n\nIl effectue simultanément la pesée (volume) et l’agitation des poches de sang.\n\n\n\n:::",
-    "crumbs": [
-      "Travaux Dirigés",
-      "TD 2: Schéma Cinématique"
-    ]
-  },
-  {
-    "objectID": "TD/TD2.html#mise-en-situation-1",
-    "href": "TD/TD2.html#mise-en-situation-1",
-    "title": "TD 2: Schéma Cinématique",
-    "section": "2 Mise en Situation 1 :",
-    "text": "2 Mise en Situation 1 :",
-    "crumbs": [
-      "Travaux Dirigés",
-      "TD 2: Schéma Cinématique"
-    ]
-  },
-  {
-    "objectID": "TD/TD2.html#mise-en-situation-2",
-    "href": "TD/TD2.html#mise-en-situation-2",
-    "title": "TD 2: Schéma Cinématique",
-    "section": "3 Mise en Situation:",
-    "text": "3 Mise en Situation:\nLa société Bourgeois fabrique et commercialise des hayons élévateurs permettant l’accès d’un véhicule à toute personne se déplaçant en fauteuil roulant, sans modification de la carrosserie.\nLe hayon étudié est de type « mono-bras » HBC 300. Compact, il est facilement adaptable sur la majorité des véhicules de type « fourgon » ou « monospace ».",
-    "crumbs": [
-      "Travaux Dirigés",
-      "TD 2: Schéma Cinématique"
-    ]
-  },
-  {
     "objectID": "CM/CM3.html#td",
     "href": "CM/CM3.html#td",
     "title": "Conception et Innovation – CI3",
@@ -570,563 +676,6 @@
     "text": "TD",
     "crumbs": [
       "Cours Magistraux",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#introduction-à-la-interface",
-    "href": "TP/TP1.html#introduction-à-la-interface",
-    "title": "Conception et Innovation – CI3",
-    "section": "Introduction  à la interface",
-    "text": "Introduction  à la interface\n\n\n\n\nVoilà aperçue de l’interface\nButton Create afin de un document\n\n🎥 Tutoriel sur l’interface",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#plan-de-la-journée",
-    "href": "TP/TP1.html#plan-de-la-journée",
-    "title": "Conception et Innovation – CI3",
-    "section": "Plan de la journée",
-    "text": "Plan de la journée\n\n\n🔅 Dessiner\n\n\n\n\n\n\nNiveau 1\n\n\n\n\n\n\nNiveau 2\n\n\n\n\n\n\n\n\n\n\n\n🔥 Niveau 3\n\n\n\n\n\n\n\n\n\nhttps://www.onshape.com/\n\n\n\n\nhttps://www.onshape.com/",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#but-first-lets-esquisse",
-    "href": "TP/TP1.html#but-first-lets-esquisse",
-    "title": "TP1: Introduction à conception et dessin assistés par ordinateur (CDAO)",
-    "section": "but first, lets ‘esquisse’",
-    "text": "but first, lets ‘esquisse’\n\n\n\n\n−+\n10:00",
-    "crumbs": [
-      "Travaux Pratiques",
-      "TP1: Introduction à conception et dessin assistés par ordinateur (CDAO)"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#section",
-    "href": "TP/TP1.html#section",
-    "title": "TP1: Introduction à conception et dessin assistés par ordinateur (CDAO)",
-    "section": "",
-    "text": "−+\n10:00",
-    "crumbs": [
-      "Travaux Pratiques",
-      "TP1: Introduction à conception et dessin assistés par ordinateur (CDAO)"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#exercise-1",
-    "href": "TP/TP1.html#exercise-1",
-    "title": "TP1: Introduction à conception et dessin assistés par ordinateur (CDAO)",
-    "section": "Exercise 1",
-    "text": "Exercise 1",
-    "crumbs": [
-      "Travaux Pratiques",
-      "TP1: Introduction à conception et dessin assistés par ordinateur (CDAO)"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#ressources",
-    "href": "TP/TP1.html#ressources",
-    "title": "Conception et Innovation – CI3",
-    "section": "Ressources",
-    "text": "Ressources",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#exercice-1",
-    "href": "TP/TP1.html#exercice-1",
-    "title": "Conception et Innovation – CI3",
-    "section": "Exercice 1",
-    "text": "Exercice 1\nBut: Faire le dessin technique sur le papier de la pièce que donné.\n\n\n\n\n\n\nImportant\n\n\nLe document de l’Ex 1 va être dans l’exercice 3 car vous allez entre vous-les documents pour vérifier la qualité de votre dessin.\n\n\n\n\n\n\n\nNotéz le code de la pièce et votre prenom dans le cartouche\nNotez votre Prenom et Nom en tant que dessinateur\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n−+\n45:00",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#test",
-    "href": "TP/TP1.html#test",
-    "title": "Conception et Innovation – CI3",
-    "section": "test",
-    "text": "test\n\n\n\n🔅 Dessiner \n\n\nNiveau 1 \n\n\nNiveau 2  \n\n\n🔥 Niveau 3 \n\n\n\n\n\n\n\nLogiciel:\n\n\n\n\n\nhttps://www.onshape.com/",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#plan-de-la-séance",
-    "href": "TP/TP1.html#plan-de-la-séance",
-    "title": "Conception et Innovation – CI3",
-    "section": "Plan de la séance",
-    "text": "Plan de la séance\n\n\n\n🔅 Exercice 1 \n\n\nExercice 2 \n\n\nExercice 4  \n\n\n🔥 Exercice 4 \n\n\n\n\n\n\n\nLogiciel:\n\n\n\n\n\nhttps://www.onshape.com/",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#ressources-1",
-    "href": "TP/TP1.html#ressources-1",
-    "title": "Conception et Innovation – CI3",
-    "section": "Ressources",
-    "text": "Ressources\n\nIntroduction à Onshape\n[Esquisse]\n[Extrusion]\n[Mise en plan]",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#timming",
-    "href": "TP/TP1.html#timming",
-    "title": "Conception et Innovation – CI3",
-    "section": "Timming",
-    "text": "Timming\n📆 Mai 13, 2024 - 13:45 - 17:45 \n\n\n\nTemps\nActivité\n\n\n\n\n13:45 - 14:00\nExplication du TP\n\n\n14:00 - 14:45\nExercice 1\n\n\n14:45 - 15:15\nExercice 2\n\n\n15:15 - 15:30\nBreak 🍎\n\n\n15:30 - 16:30\nExercice 3\n\n\n16:30 - 17:30\nExercice 4\n\n\n17:30 - 17:45\nQuestions",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#exercices",
-    "href": "TP/TP1.html#exercices",
-    "title": "Conception et Innovation – CI3",
-    "section": "Exercices",
-    "text": "Exercices\n\n\n\n🔅 Ex. 1 \n\n\nEx. 2 \n\n\nEx. 4\n \n\n\n🔥 Ex. 4 \n\n\n\n\n\n\n\nLogiciel:\n\n\n\n\n\nhttps://www.onshape.com/",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#exercice-2",
-    "href": "TP/TP1.html#exercice-2",
-    "title": "Conception et Innovation – CI3",
-    "section": "Exercice 2",
-    "text": "Exercice 2",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#exercice-1-1",
-    "href": "TP/TP1.html#exercice-1-1",
-    "title": "Conception et Innovation – CI3",
-    "section": "Exercice 1",
-    "text": "Exercice 1\nBut: Faire le dessin technique sur le papier de la pièce que donné.\n\n\n\n\n\n\nImportant\n\n\nLe document de l’Ex 1 va être utilisé dans l’exercice 3, car vous allez comparer les documents entre vous pour vérifier la qualité de votre dessin.\n\n\n\n\n\n\n\nNotéz le code de la pièce et votre prenom dans le cartouche\nNotez votre Prenom et Nom en tant que dessinateur\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n−+\n45:00",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#introduction-à-la-interface-1",
-    "href": "TP/TP1.html#introduction-à-la-interface-1",
-    "title": "Conception et Innovation – CI3",
-    "section": "Introduction à la interface",
-    "text": "Introduction à la interface",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "auto-evaluation/index.html",
-    "href": "auto-evaluation/index.html",
-    "title": "Untitled",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "TP/TP1.html#interface",
-    "href": "TP/TP1.html#interface",
-    "title": "Conception et Innovation – CI3",
-    "section": "Introduction à Onshape",
-    "text": "Introduction à Onshape",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#ressources-tutorials",
-    "href": "TP/TP1.html#ressources-tutorials",
-    "title": "Conception et Innovation – CI3",
-    "section": "Ressources / Tutorials",
-    "text": "Ressources / Tutorials\n\nIntroduction à Onshape\n[Esquisse]\n[Extrusion]\n[Mise en plan]",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#ressources-tutorials-1",
-    "href": "TP/TP1.html#ressources-tutorials-1",
-    "title": "Conception et Innovation – CI3",
-    "section": "Ressources / Tutorials",
-    "text": "Ressources / Tutorials\n\nIntroduction à Onshape\n[Esquisse]\n[Extrusion]\n[Mise en plan]",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#exercise-2-1",
-    "href": "TP/TP1.html#exercise-2-1",
-    "title": "Conception et Innovation – CI3",
-    "section": "Exercise 2",
-    "text": "Exercise 2\nBut: À partir des exercices du TD1 (Vues isometriques), utiliser le logiciel Onshape pour faire les 6 pièces proposés. Chaque carré equivaut à \\(10mm\\)\n\n\n\n\nTelechargez la feuille sur ARCHE\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n−+\n45:00",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#exercise-3-1",
-    "href": "TP/TP1.html#exercise-3-1",
-    "title": "Conception et Innovation – CI3",
-    "section": "Exercise 3",
-    "text": "Exercise 3\nBut: À partir de l’exercice 1, utilisez le logiciel Onshape pour faire les modèle proposé.\n\n\n\n\nIdentifiez tout les erreurs de cotation que votre collège à fait.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n−+\n45:00",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#exercise-3-2",
-    "href": "TP/TP1.html#exercise-3-2",
-    "title": "Conception et Innovation – CI3",
-    "section": "Exercise 3",
-    "text": "Exercise 3\nBut: À partir de l’exercice 1, utilisez le logiciel Onshape pour faire les modèle proposé.\n\n\n\n\nIdentifiez tout les erreurs de cotation que votre collège à fait.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n−+\n45:00",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#exercise-4-1",
-    "href": "TP/TP1.html#exercise-4-1",
-    "title": "Conception et Innovation – CI3",
-    "section": "Exercise 4",
-    "text": "Exercise 4\nBut: Choisisez une pièce imprimé et faites le modèle CAO et le dessin technique sous onshape.",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#interface-à-la-interface",
-    "href": "TP/TP1.html#interface-à-la-interface",
-    "title": "Conception et Innovation – CI3",
-    "section": "Interface  à la interface",
-    "text": "Interface  à la interface\n\n\n\n\nVoilà aperçue de l’interface\nButton Create afin de un document",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#creation-dun-document",
-    "href": "TP/TP1.html#creation-dun-document",
-    "title": "Conception et Innovation – CI3",
-    "section": "Creation d’un  document",
-    "text": "Creation d’un  document\n\n\n\n\nVoilà aperçue de l’interface\nButton Create afin de un document\n\n\n\n\n🎥 Tutoriel pour creer un document",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#esquisse-document",
-    "href": "TP/TP1.html#esquisse-document",
-    "title": "Conception et Innovation – CI3",
-    "section": "Esquisse  document",
-    "text": "Esquisse  document\n\n\n\n\nVoilà aperçue de l’interface\nButton Create afin de un document\n\n\n\n\n🎥 Tutoriel pour creer un document",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#lesquisse-document",
-    "href": "TP/TP1.html#lesquisse-document",
-    "title": "Conception et Innovation – CI3",
-    "section": "L’Esquisse  document",
-    "text": "L’Esquisse  document\n\n\n\n\nVoilà aperçue de l’interface\nButton Create afin de un document\n\n\n\n\n🎥 Tutoriel pour creer un document",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#lesquisse",
-    "href": "TP/TP1.html#lesquisse",
-    "title": "Conception et Innovation – CI3",
-    "section": "L’Esquisse ",
-    "text": "L’Esquisse \n\n\n\n\nEsquisse (Sketch en anglais) est le premiers pas vers la modélisation\n\n\n\n\n🎥 Tutoriel pour creer un document",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#esquisse",
-    "href": "TP/TP1.html#esquisse",
-    "title": "Conception et Innovation – CI3",
-    "section": "L’Esquisse ",
-    "text": "L’Esquisse \n\n\n\n\nEsquisse (Sketch en anglais) est le premiers pas vers la modélisation\n\n⚠️ Regardez les sections 01, 02, 03 et 05 du tutoriel suivant:\n🎥 Tutoriel pour l’Esquisse",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#features",
-    "href": "TP/TP1.html#features",
-    "title": "Conception et Innovation – CI3",
-    "section": "Part ",
-    "text": "Part \n\n\n\n\nCréation volumique (Features en anglais)\n\n\n\n\n\n🎥 Tutoriel pour la Création voluminique basique",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#drawing",
-    "href": "TP/TP1.html#drawing",
-    "title": "Conception et Innovation – CI3",
-    "section": "Dessin technique",
-    "text": "Dessin technique\n\n\n\n\nCréation volumique (Drawing en anglais)\n\nAttention:\n\nUtilisez la projection ‘Third Angle (ANSI)’\nFormat A4.\n\n\n\n\n🎥 Tutoriel pour la Création d’un dessin technique sous onshape\n⚠️ Regardez les sections 01, et 02 du tutoriel",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#dessin",
-    "href": "TP/TP1.html#dessin",
-    "title": "Conception et Innovation – CI3",
-    "section": "Dessin technique",
-    "text": "Dessin technique",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#dessin-technique",
-    "href": "TP/TP1.html#dessin-technique",
-    "title": "Conception et Innovation – CI3",
-    "section": "Dessin technique",
-    "text": "Dessin technique",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#questions",
-    "href": "TP/TP1.html#questions",
-    "title": "Conception et Innovation – CI3",
-    "section": "Questions?",
-    "text": "Questions?",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP2.html#exercices",
-    "href": "TP/TP2.html#exercices",
-    "title": "Conception et Innovation – CI3",
-    "section": "Exercices",
-    "text": "Exercices\n\n\n\n🔅 Ex. 1 \n\n\nEx. 2 \n\n\nEx. 4\n \n\n\n🔥 Ex. 4 \n\n\n\n\n\n\n\nLogiciel:\n\n\n\n\n\nhttps://www.onshape.com/",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP2.html#timming",
-    "href": "TP/TP2.html#timming",
-    "title": "Conception et Innovation – CI3",
-    "section": "Timming",
-    "text": "Timming\n📆 Mai 13, 2024 - 13:45 - 17:45 \n\n\n\nTemps\nActivité\n\n\n\n\n13:45 - 14:00\nExplication du TP\n\n\n14:00 - 14:45\nExercice 1\n\n\n14:45 - 15:15\nExercice 2\n\n\n15:15 - 15:30\nBreak 🍎\n\n\n15:30 - 16:30\nExercice 3\n\n\n16:30 - 17:30\nExercice 4\n\n\n17:30 - 17:45\nQuestions",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP3.html#exercices",
-    "href": "TP/TP3.html#exercices",
-    "title": "Conception et Innovation – CI3",
-    "section": "Exercices",
-    "text": "Exercices\n\n\n\nEx. 0\n\n\n\n\n\nTutoriel de base\n\n\nEx. 1 \n\n\nEx. 2\n\n\n\n\n\n\n\nEx. 3 \n\n\n\n\n\n\n\nLogiciel:\n\n\n\n\n\nhttps://www.onshape.com/",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP3.html#timming",
-    "href": "TP/TP3.html#timming",
-    "title": "Conception et Innovation – CI3",
-    "section": "Timming",
-    "text": "Timming\n📆 Mai 13, 2024 - 13:45 - 17:45 \n\n\n\nTemps\nActivité\n\n\n\n\n13:45 - 14:00\nExplication du TP\n\n\n14:00 - 14:45\nExercice 1\n\n\n14:45 - 15:15\nExercice 2\n\n\n15:15 - 15:30\nBreak 🍎\n\n\n15:30 - 16:30\nExercice 3\n\n\n16:30 - 17:30\nExercice 4\n\n\n17:30 - 17:45\nQuestions",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP3.html#exercice-1-1",
-    "href": "TP/TP3.html#exercice-1-1",
-    "title": "Conception et Innovation – CI3",
-    "section": "Exercice 1",
-    "text": "Exercice 1\nBut: Faire les differents pièces et après faire la simulation de mouvement.",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP3.html#exercice-2-1",
-    "href": "TP/TP3.html#exercice-2-1",
-    "title": "Conception et Innovation – CI3",
-    "section": "Exercice 2",
-    "text": "Exercice 2\nBut: Faire les differents pièces et après faire la simulation de mouvement.\n\n\n\n⬇️ Téléchargez le dessin technique",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP3.html#exercice-3-1",
-    "href": "TP/TP3.html#exercice-3-1",
-    "title": "Conception et Innovation – CI3",
-    "section": "Exercice 3",
-    "text": "Exercice 3\nBut: Faire les differents pièces et après faire la simulation de mouvement.\n\n\n\n⬇️ Téléchargez le dessin technique",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP3.html#exercice-0-1",
-    "href": "TP/TP3.html#exercice-0-1",
-    "title": "Conception et Innovation – CI3",
-    "section": "Exercice 0",
-    "text": "Exercice 0\nBut: Faire le tutoriel proposé par onshape sur comment créer des assemblages et à travailleur avec eux.\n\n\n\nLien pour le tutoriel",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP3.html#simulation-exercice-1",
-    "href": "TP/TP3.html#simulation-exercice-1",
-    "title": "Conception et Innovation – CI3",
-    "section": "Simulation Exercice 1",
-    "text": "Simulation Exercice 1",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP3.html#exercice-bonus",
-    "href": "TP/TP3.html#exercice-bonus",
-    "title": "Conception et Innovation – CI3",
-    "section": "Exercice Bonus",
-    "text": "Exercice Bonus\n\n\n\n⬇️ Téléchargez le dessin technique",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP3.html#exercice-bonus-1",
-    "href": "TP/TP3.html#exercice-bonus-1",
-    "title": "Conception et Innovation – CI3",
-    "section": "Exercice Bonus",
-    "text": "Exercice Bonus",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP3.html#exercice-bonus-2",
-    "href": "TP/TP3.html#exercice-bonus-2",
-    "title": "Conception et Innovation – CI3",
-    "section": "Exercice Bonus",
-    "text": "Exercice Bonus",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP3.html#exercice-bonus-ii",
-    "href": "TP/TP3.html#exercice-bonus-ii",
-    "title": "Conception et Innovation – CI3",
-    "section": "Exercice Bonus II",
-    "text": "Exercice Bonus II",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#exercise-4-pièce-1",
-    "href": "TP/TP1.html#exercise-4-pièce-1",
-    "title": "Conception et Innovation – CI3",
-    "section": "Exercise 4: Pièce 1",
-    "text": "Exercise 4: Pièce 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n⬇️ Téléchargez le dessin technique",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#exercise-4-pièce-2",
-    "href": "TP/TP1.html#exercise-4-pièce-2",
-    "title": "Conception et Innovation – CI3",
-    "section": "Exercise 4: Pièce 2",
-    "text": "Exercise 4: Pièce 2\n\n\n\n\n\n\n\n\n\n\n  ⬇️ Téléchargez le dessin technique",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#exercise-4-pièce-3",
-    "href": "TP/TP1.html#exercise-4-pièce-3",
-    "title": "Conception et Innovation – CI3",
-    "section": "Exercise 4: Pièce 3",
-    "text": "Exercise 4: Pièce 3\n\n\n\n\n\n\n\n\n\n\n  ⬇️ Téléchargez le dessin technique",
-    "crumbs": [
-      "Travaux Pratiques",
-      "Conception et Innovation -- CI3"
-    ]
-  },
-  {
-    "objectID": "TP/TP1.html#exercise-4-pièce-3-1",
-    "href": "TP/TP1.html#exercise-4-pièce-3-1",
-    "title": "Conception et Innovation – CI3",
-    "section": "Exercise 4: Pièce 3",
-    "text": "Exercise 4: Pièce 3\n\n\n\n\n\n\n\n\n\n\n  ⬇️ Téléchargez le dessin technique",
-    "crumbs": [
-      "Travaux Pratiques",
       "Conception et Innovation -- CI3"
     ]
   }
