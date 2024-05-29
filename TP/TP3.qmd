@@ -138,7 +138,6 @@ Concevoir un ***modèle d'assemblage***.
 **But**: 
 Concevoir un ***modèle d'assemblage***. 
 
-
 ## Exercice 2
 
 **But:** Faire les differents pièces et après faire la simulation de mouvement. 
