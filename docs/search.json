@@ -1,0 +1,682 @@
+[
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "References\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "CM/CM2.html#projet-de-conception",
+    "href": "CM/CM2.html#projet-de-conception",
+    "title": "Conception et Innovation – CI3",
+    "section": "Projet de Conception",
+    "text": "Projet de Conception",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM2.html#cycle-de-vie-dun-projet",
+    "href": "CM/CM2.html#cycle-de-vie-dun-projet",
+    "title": "Conception et Innovation – CI3",
+    "section": "Cycle de vie d’un projet",
+    "text": "Cycle de vie d’un projet\nUn projet comporte globalement 3 phases, connues sous la désignation «3C» : Cadrer - Conduire - Conclure.\n\n\nPhase de préparation : il s’agit de l’analyse des besoins et de l’analyse de l’opportunité de mener à bien ce projet. Appelée également avant-projet, cette phase aboutit à la rédaction du cahier des charges.\nPhase de réalisation : elle débute par la réception du cahier des charges et s’achève à la livraison du produit. C’est la phase opérationnelle du projet.\nPhase de fin de projet : le produit est mis en situation de production, et il s’agit dans cette phase de s’assurer de son adéquation avec les besoins attendus.",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM2.html#le-prototypage-une-vue-densemble",
+    "href": "CM/CM2.html#le-prototypage-une-vue-densemble",
+    "title": "Conception et Innovation – CI3",
+    "section": "Le prototypage : Une vue d’ensemble",
+    "text": "Le prototypage : Une vue d’ensemble\n\nQu’est-ce que le prototypage ?\nQu’est-ce qu’un prototype ?\nQuel type et quel rôle pour le prototype ?\nQuel benefices du processus ?\nLa fidélité et les dimensions des prototypes",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM2.html#quest-ce-quun-prototype",
+    "href": "CM/CM2.html#quest-ce-quun-prototype",
+    "title": "Conception et Innovation – CI3",
+    "section": "Qu’est-ce qu’un prototype ?",
+    "text": "Qu’est-ce qu’un prototype ?\nUn prototype est un artefact tangible qui nécessite une interprétation.",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM2.html#quel-type-de-prototype",
+    "href": "CM/CM2.html#quel-type-de-prototype",
+    "title": "Conception et Innovation – CI3",
+    "section": "Quel type de prototype ?",
+    "text": "Quel type de prototype ?\n\n\n\nProduct\nProcessus\nService prototype (?)",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM2.html#structure-des-systèmes-chaîne-denergie-et-dinformation",
+    "href": "CM/CM2.html#structure-des-systèmes-chaîne-denergie-et-dinformation",
+    "title": "Conception et Innovation – CI3",
+    "section": "Structure des systèmes : Chaîne d’Energie et d’Information",
+    "text": "Structure des systèmes : Chaîne d’Energie et d’Information",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM2.html#la-chaîne-dénergie-1",
+    "href": "CM/CM2.html#la-chaîne-dénergie-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "La chaîne d’énergie",
+    "text": "La chaîne d’énergie\n\nChaque objet technique a besoin d’une énergie pour fonctionner.\n\nLes fonctions:\n\nAlimenter : constituants permettant l’énergie nécessaire au système\nStocker : certains objets doivent pouvoir stocker de L’énergie en vue de la restituer\nDistribuer : commander, contrôler et répartir la quantité d’énergie nécessaire\nConvertir : transformer une énergie en une autre nécessaire à l’effet attendu\nTransmettre : acheminer cette énergie convertie de façon à la rendre disponible pour l’action à réaliser.",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM2.html#la-chaîne-dinformation",
+    "href": "CM/CM2.html#la-chaîne-dinformation",
+    "title": "Conception et Innovation – CI3",
+    "section": "La Chaîne d’Information",
+    "text": "La Chaîne d’Information",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\n             Introduction à la conception de système mécatronique\n         ",
+    "section": "",
+    "text": "Conception et Innovation\n         \n         \n             “Think with your hands, build something or ty something, then talk about it, NOT the Reverse.” David Kelly, Founder IDEO & Standford Deisgn School\n         \n         \n         \n            Cours Magistraux            \n            Guide de Travaux Dirigés"
+  },
+  {
+    "objectID": "index.html#instructors",
+    "href": "index.html#instructors",
+    "title": "\n             Introduction à la conception de système mécatronique\n         ",
+    "section": "1 Instructors",
+    "text": "1 Instructors\n\n   MdC. Alaa Hassan\n   Dr. Fabio A Cruz\n   ENSGSI\n   Schedule an appointment"
+  },
+  {
+    "objectID": "index.html#course-details",
+    "href": "index.html#course-details",
+    "title": "\n             Introduction à la conception de système mécatronique\n         ",
+    "section": "2 Course details",
+    "text": "2 Course details\n\n   Thursdays\n   January 9–May 2, 2023\n   7:15–9:45 PM\n   ENSGSI"
+  },
+  {
+    "objectID": "index.html#contactez-nous",
+    "href": "index.html#contactez-nous",
+    "title": "\n             Introduction à la conception de système mécatronique\n         ",
+    "section": "3 Contactez nous",
+    "text": "3 Contactez nous\nL’e-mail et Microsoft teams sont les meilleurs moyens de nous contacter. On essai de répondre à tous les courriels et messages liés au cours dans les XX heures (vraiment), mais rappelez-vous aussi que la vie peut être occupée et chaotique pour tout le monde (y compris nous !), alors si je ne réponds pas tout de suite, ne vous inquiétez pas !"
+  },
+  {
+    "objectID": "TP/TP1.html#exercices",
+    "href": "TP/TP1.html#exercices",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercices",
+    "text": "Exercices\n\n\n\n🔅 Ex. 1 \n\n\nEx. 2 \n\n\nEx. 4\n \n\n\n🔥 Ex. 4 \n\n\n\n\n\n\n\nLogiciel:\n\n\n\n\n\nhttps://www.onshape.com/",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#timming",
+    "href": "TP/TP1.html#timming",
+    "title": "Conception et Innovation – CI3",
+    "section": "Timming",
+    "text": "Timming\n📆 Mai 13, 2024 - 13:45 - 17:45 \n\n\n\nTemps\nActivité\n\n\n\n\n13:45 - 14:00\nExplication du TP\n\n\n14:00 - 14:45\nExercice 1\n\n\n14:45 - 15:15\nExercice 2\n\n\n15:15 - 15:30\nBreak 🍎\n\n\n15:30 - 16:30\nExercice 3\n\n\n16:30 - 17:30\nExercice 4\n\n\n17:30 - 17:45\nQuestions",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#exercice-1-1",
+    "href": "TP/TP1.html#exercice-1-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercice 1",
+    "text": "Exercice 1\nBut: Faire le dessin technique sur le papier de la pièce que donné.\n\n\n\n\n\n\nImportant\n\n\nLe document de l’Ex 1 va être utilisé dans l’exercice 3, car vous allez comparer les documents entre vous pour vérifier la qualité de votre dessin.\n\n\n\n\n\n\n\nNotéz le code de la pièce et votre prenom dans le cartouche\nNotez votre Prenom et Nom en tant que dessinateur\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n−+\n45:00",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#exercise-2-1",
+    "href": "TP/TP1.html#exercise-2-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercise 2",
+    "text": "Exercise 2\nBut: À partir des exercices du TD1 (Vues isometriques), utiliser le logiciel Onshape pour faire les 6 pièces proposés. Chaque carré equivaut à \\(10mm\\)\n\n\n\n\nTelechargez la feuille sur ARCHE\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n−+\n45:00",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#exercise-3-1",
+    "href": "TP/TP1.html#exercise-3-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercise 3",
+    "text": "Exercise 3\nBut: À partir de l’exercice 1, utilisez le logiciel Onshape pour faire les modèle proposé.\n\n\n\n\nIdentifiez tout les erreurs de cotation que votre collège à fait.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n−+\n45:00",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#exercise-4-1",
+    "href": "TP/TP1.html#exercise-4-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercise 4",
+    "text": "Exercise 4\nBut: Choisisez une pièce imprimé et faites le modèle CAO et le dessin technique sous onshape.",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#exercise-4-pièce-1",
+    "href": "TP/TP1.html#exercise-4-pièce-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercise 4: Pièce 1",
+    "text": "Exercise 4: Pièce 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n⬇️ Téléchargez le dessin technique",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#exercise-4-pièce-2",
+    "href": "TP/TP1.html#exercise-4-pièce-2",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercise 4: Pièce 2",
+    "text": "Exercise 4: Pièce 2\n\n\n\n\n\n\n\n\n\n\n  ⬇️ Téléchargez le dessin technique",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#exercise-4-pièce-3",
+    "href": "TP/TP1.html#exercise-4-pièce-3",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercise 4: Pièce 3",
+    "text": "Exercise 4: Pièce 3\n\n\n\n\n\n\n\n\n\n\n  ⬇️ Téléchargez le dessin technique",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#exercise-4-pièce-3-1",
+    "href": "TP/TP1.html#exercise-4-pièce-3-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercise 4: Pièce 3",
+    "text": "Exercise 4: Pièce 3\n\n\n\n\n\n\n\n\n\n\n  ⬇️ Téléchargez le dessin technique",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#dessin",
+    "href": "TP/TP1.html#dessin",
+    "title": "Conception et Innovation – CI3",
+    "section": "Dessin technique",
+    "text": "Dessin technique",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#interface",
+    "href": "TP/TP1.html#interface",
+    "title": "Conception et Innovation – CI3",
+    "section": "Introduction à Onshape",
+    "text": "Introduction à Onshape",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#esquisse",
+    "href": "TP/TP1.html#esquisse",
+    "title": "Conception et Innovation – CI3",
+    "section": "L’Esquisse ",
+    "text": "L’Esquisse \n\n\n\n\nEsquisse (Sketch en anglais) est le premiers pas vers la modélisation\n\n⚠️ Regardez les sections 01, 02, 03 et 05 du tutoriel suivant:\n🎥 Tutoriel pour l’Esquisse",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#features",
+    "href": "TP/TP1.html#features",
+    "title": "Conception et Innovation – CI3",
+    "section": "Part ",
+    "text": "Part \n\n\n\n\nCréation volumique (Features en anglais)\n\n\n\n\n\n🎥 Tutoriel pour la Création voluminique basique",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#drawing",
+    "href": "TP/TP1.html#drawing",
+    "title": "Conception et Innovation – CI3",
+    "section": "Dessin technique",
+    "text": "Dessin technique\n\n\n\n\nCréation volumique (Drawing en anglais)\n\nAttention:\n\nUtilisez la projection ‘Third Angle (ANSI)’\nFormat A4.\n\n\n\n\n🎥 Tutoriel pour la Création d’un dessin technique sous onshape\n⚠️ Regardez les sections 01, et 02 du tutoriel",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#questions",
+    "href": "TP/TP1.html#questions",
+    "title": "Conception et Innovation – CI3",
+    "section": "Questions?",
+    "text": "Questions?",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM.html",
+    "href": "CM.html",
+    "title": "Syllabus du Cours",
+    "section": "",
+    "text": "Ce cours vise les étudiants de \\(1^{ère}\\) année de cycle d’Ingénierie de l’ENSGSI.\nLa conception de systèmes mécatroniques repose sur un ensemble de technologies (incluant notamment l’impression 3D, l’usinage à commande numérique et l’électronique programmable) permettant la production de systèmes fonctionnels (maquettes, preuves de concepts) en un temps et un coût réduit. La maitrise de ces technologies est primordiale afin d’être capable de choisir les outils les plus adaptés en prenant en compte les contraintes spécifiques à chaque technologie ainsi qu’au prototype à réaliser.\nL’objectif du cours est de donner aux élèves les compétences de base afin de pouvoir matérialiser une idée conceptuelle vers un objet de conception intermédiaire mécatronique pour un concept donné. Ce module utilisera les technologies disponibles au Lorraine Fab Living Lab. A l’issue du cours, les élèves auront acquis la culture scientifique et technique nécessaire à la conception et à la réalisation, en autonomie, d’un prototype de système mécanique fonctionnel comportant une partie commande.",
+    "crumbs": [
+      "Cours Magistraux",
+      "Syllabus du Cours"
+    ]
+  },
+  {
+    "objectID": "CM.html#notes",
+    "href": "CM.html#notes",
+    "title": "Syllabus du Cours",
+    "section": "3.1 Notes",
+    "text": "3.1 Notes",
+    "crumbs": [
+      "Cours Magistraux",
+      "Syllabus du Cours"
+    ]
+  },
+  {
+    "objectID": "CM.html#bibliographie",
+    "href": "CM.html#bibliographie",
+    "title": "Syllabus du Cours",
+    "section": "3.2 Bibliographie",
+    "text": "3.2 Bibliographie",
+    "crumbs": [
+      "Cours Magistraux",
+      "Syllabus du Cours"
+    ]
+  },
+  {
+    "objectID": "TP/TP3.html#exercices",
+    "href": "TP/TP3.html#exercices",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercices",
+    "text": "Exercices\n\n\n\nEx. 0\n\n\n\n\n\nTutoriel de base\n\n\nEx. 1 \n\n\nEx. 2\n\n\n\n\n\n\n\nEx. 3 \n\n\n\n\n\n\n\nLogiciel:\n\n\n\n\n\nhttps://www.onshape.com/",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP3.html#exercice-0-1",
+    "href": "TP/TP3.html#exercice-0-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercice 0",
+    "text": "Exercice 0\nBut: Faire le tutoriel proposé par onshape sur comment créer des assemblages et à travailleur avec eux.\n\n\n\nLien pour le tutoriel",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP3.html#exercice-1-1",
+    "href": "TP/TP3.html#exercice-1-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercice 1",
+    "text": "Exercice 1\nBut: Faire les differents pièces et après faire la simulation de mouvement.",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP3.html#exercice-2-1",
+    "href": "TP/TP3.html#exercice-2-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercice 2",
+    "text": "Exercice 2\nBut: Faire les differents pièces et après faire la simulation de mouvement.\n\n\n\n⬇️ Téléchargez le dessin technique",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP3.html#exercice-3-1",
+    "href": "TP/TP3.html#exercice-3-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercice 3",
+    "text": "Exercice 3\nBut: Faire les differents pièces et après faire la simulation de mouvement.\n\n\n\n⬇️ Téléchargez le dessin technique",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP3.html#exercice-bonus",
+    "href": "TP/TP3.html#exercice-bonus",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercice Bonus",
+    "text": "Exercice Bonus\n\n\n\n⬇️ Téléchargez le dessin technique",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "TP/TP3.html#exercice-bonus-ii",
+    "href": "TP/TP3.html#exercice-bonus-ii",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercice Bonus II",
+    "text": "Exercice Bonus II",
+    "crumbs": [
+      "Travaux Pratiques",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "auto-evaluation/index.html",
+    "href": "auto-evaluation/index.html",
+    "title": "Untitled",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "CM/CM1.html#engineering-and-mechanics",
+    "href": "CM/CM1.html#engineering-and-mechanics",
+    "title": "Design and Innovation - CI3-",
+    "section": "Engineering and Mechanics",
+    "text": "Engineering and Mechanics",
+    "crumbs": [
+      "Cours Magistraux",
+      "Design and Innovation - CI3-"
+    ]
+  },
+  {
+    "objectID": "CM/CM1.html#challenge",
+    "href": "CM/CM1.html#challenge",
+    "title": "Design and Innovation - CI3-",
+    "section": "Challenge",
+    "text": "Challenge\nFormez des équipes de quatre/cinq personnes\n\nDe préférence, avec vos voisins entre les rangs.",
+    "crumbs": [
+      "Cours Magistraux",
+      "Design and Innovation - CI3-"
+    ]
+  },
+  {
+    "objectID": "CM/CM1.html#reflecting-on-the-design-process",
+    "href": "CM/CM1.html#reflecting-on-the-design-process",
+    "title": "Design and Innovation - CI3-",
+    "section": "Reflecting on the design process",
+    "text": "Reflecting on the design process\n\n\n\nWhat strategies did you use to maker your towers?\nHow many towers did you make?\nHow did you learn?",
+    "crumbs": [
+      "Cours Magistraux",
+      "Design and Innovation - CI3-"
+    ]
+  },
+  {
+    "objectID": "CM/CM1.html#why-is-it-important",
+    "href": "CM/CM1.html#why-is-it-important",
+    "title": "Design and Innovation - CI3-",
+    "section": "Why is it important?",
+    "text": "Why is it important?",
+    "crumbs": [
+      "Cours Magistraux",
+      "Design and Innovation - CI3-"
+    ]
+  },
+  {
+    "objectID": "CM/CM1.html#learning-goals-of-the-module",
+    "href": "CM/CM1.html#learning-goals-of-the-module",
+    "title": "Design and Innovation - CI3-",
+    "section": "Learning goals of the module",
+    "text": "Learning goals of the module\n\n\nGive you the basic skills to be able to materialize a conceptual idea into an intermediate mechatronic design object for a given concept.\nLearn the prototyping technologies available at the Lorraine Fab Living Lab.\nA scientific and technical baseline to independently design and build a prototype. –Do-It-Yourself-",
+    "crumbs": [
+      "Cours Magistraux",
+      "Design and Innovation - CI3-"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#mécanisme",
+    "href": "CM/CM3.html#mécanisme",
+    "title": "Conception et Innovation – CI3",
+    "section": "Mécanisme",
+    "text": "Mécanisme\nDéfinition:\n\n\n\nOn appelle mécanisme, un ensemble de pièces mécaniques reliées entre elles par des liaisons, en vue de réaliser une fonction déterminée.\n\n\n\n\nNous admettrons que les pièces mécaniques peuvent être modélisées par des solides indéformables.",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#conception-en-v",
+    "href": "CM/CM3.html#conception-en-v",
+    "title": "Conception et Innovation – CI3",
+    "section": "Conception en V",
+    "text": "Conception en V",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#solides-indeformables",
+    "href": "CM/CM3.html#solides-indeformables",
+    "title": "Conception et Innovation – CI3",
+    "section": "Solides Indeformables",
+    "text": "Solides Indeformables\n\n\n\n\n\n\n\n\n\nConséquence géométrique\n\n\nLa distance entre deux points quelconques d’un solide indéformable est invariable dans un Repère donneé\n\n\n\n\n\n\n\n\nBielle d’un micromoteur de modélisme",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#repère",
+    "href": "CM/CM3.html#repère",
+    "title": "Conception et Innovation – CI3",
+    "section": "Repère",
+    "text": "Repère\n\n\n\nPour connaitre la position de tous ses points dans l’espace, il suffit de connaitre la position d’un repère lié à ce solide.  Repère de référence: \\(R(O, \\vec{x}, \\vec{y}, \\vec{z})\\)  Repère de lié au solide.: \\(R(O_1, \\vec{x_1}, \\vec{y_1}, \\vec{z_1})\\)\n\n\n\n\n\n\n\n\n\n\n\nLa position du solide dans l’espace, est déterminée par 6 paramètres indépendants\n\nPosition du point \\(O_1\\) → 3 Coordonnées\nOrientation de \\(\\vec{x_1}, \\vec{y_1}, \\vec{z_1})\\) par rapport à \\(R(O, \\vec{x}, \\vec{y}, \\vec{z})\\) → 3 Angles",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#degree-de-liberté",
+    "href": "CM/CM3.html#degree-de-liberté",
+    "title": "Conception et Innovation – CI3",
+    "section": "Degree de liberté",
+    "text": "Degree de liberté\nIl existe deux mouvements élémentaires entre les solides :\n\n\n\n\nTRANSLATION (RECTILIGNE) : les trajectoires de tous les points du solide sont des droites parallèles.\nROTATION : les trajectoires de chaque point sont des cercles coaxiaux.\n\n\n\n\n\n\n\n\n\n\n\nOn appelle libertés d’un solide par rapport à un référentiel, les mouvements indépendants de ce solide pour passer d’une position à une autre.",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#notion-de-liaison",
+    "href": "CM/CM3.html#notion-de-liaison",
+    "title": "Conception et Innovation – CI3",
+    "section": "Notion de liaison",
+    "text": "Notion de liaison\nOn appelle liaison entre deux solides l’ensemble des couples de surfaces en contact entre ces deux solides, visant à diminuer la mobilité entre ces deux solides.\nZones de Contacts",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#degrés-de-liberté-dune-liaison",
+    "href": "CM/CM3.html#degrés-de-liberté-dune-liaison",
+    "title": "Conception et Innovation – CI3",
+    "section": "Degrés de liberté d’une liaison",
+    "text": "Degrés de liberté d’une liaison\nLes degrés de liberté d’une liaison sont les déplacements élémentaires indépendants autorisés par cette liaison.",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#les-liaisons-mécaniques-elementaires",
+    "href": "CM/CM3.html#les-liaisons-mécaniques-elementaires",
+    "title": "Conception et Innovation – CI3",
+    "section": "Les Liaisons Mécaniques Elementaires",
+    "text": "Les Liaisons Mécaniques Elementaires\nSelon la norme NF EN ISO 3952-1",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#pour-quoi-faire",
+    "href": "CM/CM3.html#pour-quoi-faire",
+    "title": "Conception et Innovation – CI3",
+    "section": "Pour quoi faire?",
+    "text": "Pour quoi faire?\n. . . Construire un schéma cinématique, une représentation simplifiée d’un mécanisme permettant une meilleure compréhension du fonctionnement.",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#définition",
+    "href": "CM/CM3.html#définition",
+    "title": "Conception et Innovation – CI3",
+    "section": "Définition",
+    "text": "Définition\nLe schéma cinématique d’un mécanisme est un modèle filaire du mécanisme utilisant les symboles normalisés des liaisons.\nCe modèle est utile tant au niveau de la conception que de l’analyse à posteriori pour réaliser l’étude cinématique ou dynamique (trajectoire, vitesse, efforts, etc.)",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#example-1",
+    "href": "CM/CM3.html#example-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Example 1",
+    "text": "Example 1\nModélisation cinématique d’un micromoteur de modélisme",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#simuler-pour-mieux-comprendre.",
+    "href": "CM/CM3.html#simuler-pour-mieux-comprendre.",
+    "title": "Conception et Innovation – CI3",
+    "section": "💻 Simuler pour mieux comprendre.",
+    "text": "💻 Simuler pour mieux comprendre.\n\n\n\nIntroduction to Mechanism Design  Source: http://www.mechdes.net/",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#example-2-vélo-elliptique-ve680",
+    "href": "CM/CM3.html#example-2-vélo-elliptique-ve680",
+    "title": "Conception et Innovation – CI3",
+    "section": "Example 2: Vélo elliptique VE680",
+    "text": "Example 2: Vélo elliptique VE680",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#example-2-vélo-elliptique-ve680-1",
+    "href": "CM/CM3.html#example-2-vélo-elliptique-ve680-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "Example 2: Vélo elliptique VE680",
+    "text": "Example 2: Vélo elliptique VE680\n\nContexteAnalyse du besoinChaîne d’Energie\n\n\n\n\n\nSociété Décathlon commercialise le système du vélo elliptique de marque Domyos, modèle VE 680.",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#example-2",
+    "href": "CM/CM3.html#example-2",
+    "title": "Conception et Innovation – CI3",
+    "section": "Example 2",
+    "text": "Example 2\nModélisation cinématique d’une Vélo elliptique",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#simuler-pour-mieux-comprendre.-1",
+    "href": "CM/CM3.html#simuler-pour-mieux-comprendre.-1",
+    "title": "Conception et Innovation – CI3",
+    "section": "💻 Simuler pour mieux comprendre.",
+    "text": "💻 Simuler pour mieux comprendre.\n\n\n\n✓ Simuler par example:\n\nVitesses\n\n\n\n\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=\"quarto-layout-row quarto-layout-valign-center\"&gt;\n&lt;div class=\"quarto-layout-cell\" style=\"flex-basis: 50.0%;justify-content: flex-start;\"&gt;",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#message-clé-de-cette-séance",
+    "href": "CM/CM3.html#message-clé-de-cette-séance",
+    "title": "Conception et Innovation – CI3",
+    "section": "Message clé de cette séance",
+    "text": "Message clé de cette séance",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#questions",
+    "href": "CM/CM3.html#questions",
+    "title": "Conception et Innovation – CI3",
+    "section": "Questions?",
+    "text": "Questions?",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM3.html#td",
+    "href": "CM/CM3.html#td",
+    "title": "Conception et Innovation – CI3",
+    "section": "TD",
+    "text": "TD",
+    "crumbs": [
+      "Cours Magistraux",
+      "Conception et Innovation -- CI3"
+    ]
+  }
+]
