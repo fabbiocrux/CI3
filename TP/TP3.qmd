@@ -126,7 +126,7 @@ Concevoir un ***modèle d'assemblage***.
 
 **But:** Faire les differents pièces et après faire la simulation de mouvement. 
 
-![](TP3/Ex1/Ex1-1.png){width="65%" fig-align="center"} 
+![](TP3/Ex1/Ex1.png){width="65%" fig-align="center"} 
 
 
 ### Simulation Exercice 1
