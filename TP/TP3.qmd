@@ -110,7 +110,7 @@ Tutoriel sur la construction des ***modèles d'assemblage***.
 
 :::
 
-![](TP3/Ex0.jpeg){width="100%" fig-align="center"} 
+![](TP3/Ex0/Ex0.jpeg){width="100%" fig-align="center"} 
 :::
 
 
@@ -195,8 +195,6 @@ Concevoir un ***modèle d'assemblage***.
 :::
 ![](TP3/Ex6/Ex.6.png){width="60%" fig-align="center"}
 :::
-
-
 
 ## Exercice Bonus II
 
