@@ -50,8 +50,7 @@ library(countdown)
 # 🎯 But de la Séance de TP {.unummered}
 
 1. Concevoir un ***modèle d'assemblage***.  
-2. Faire une **simulation de mouvement** d'un modèle CAO Pièce. 
-3. Réaliser un ***plan technique*** à partir du modèle CAO. 
+2. Faire une **simulation de mouvement** d'un modèle CAO
 
 
 
@@ -62,7 +61,7 @@ library(countdown)
 ::: {layout="[[25,25, 25, 25], [20, 30, 50]]"}
 
 ::: {}
-🔅 **Ex. 0**
+**Ex. 0**
 
 ![](TP3/Ex0/Ex0.jpeg){width="90%" fig-align="center"} 
 
@@ -79,7 +78,7 @@ Tutoriel de base
 
 :::
 ::: {}
-🔥 **Ex. 3**
+**Ex. 3**
 ![](TP3/Ex3/Ex3.png){width="100%" fig-align="center"} 
 :::
 ::: {}
@@ -92,9 +91,6 @@ Tutoriel de base
 :::
 :::
 
-## Exercice Bonus
-
-![](TP3/Bonus.gif){width="40%" fig-align="Center"}
 
 # Exercice 0
 
@@ -184,6 +180,27 @@ Concevoir un ***modèle d'assemblage***.
 ![](TP3/Ex3/Ex3.png){width="50%" fig-align="center"} 
 :::
 
+
+# Bonus
+
+## Exercice Bonus
+
+::: {layout="[30, 70]" layout-valign="center"}
+::: {}
+
+[⬇️ Téléchargez le dessin technique](TP3/Ex6/Ex.6.png)
+
+{{< video TP3/Ex6/Simulation.mp4 >}}
+
+:::
+![](TP3/Ex6/Ex.6.png){width="60%" fig-align="center"}
+:::
+
+
+
+## Exercice Bonus II
+
+![](TP3/Bonus.gif){width="40%" fig-align="center"}
 
 
 
