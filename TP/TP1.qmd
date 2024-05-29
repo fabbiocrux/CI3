@@ -220,17 +220,57 @@ Réaliser le modèle ***CAO Pièce*** et le **dessin technique de definition** �
 
 
 
+## Exercise 4: Pièce 1
 
 
+::: {layout="[65, 35]"}
+::: {}
+![](TP1/Piece-1.png){width="70%" fig-align="center"} 
+:::
 
-```{r echo=FALSE}
-countdown(minutes = 45, font_size = "2em", color_background="#AED6F1")
-```
+::: {}
+![](TP1/Ex3-01.png){width="80%" fig-align="center"} 
 
+[⬇️ Téléchargez le dessin technique](TP1/Piece-1.pdf)
 
+:::
+:::
 
+## Exercise 4: Pièce 2
 
+::: {layout="[65, 35]"}
 
+![](TP1/Piece-2.png){width="100%" fig-align="center"} 
+
+![](TP1/Ex3-01.png){width="80%" fig-align="center"} 
+<br>
+[⬇️ Téléchargez le dessin technique](TP1/Piece-2.pdf)
+
+:::
+
+## Exercise 4: Pièce 3
+
+::: {layout="[65, 35]"}
+
+![](TP1/Piece-3.png){width="100%" fig-align="center"} 
+
+![](TP1/Ex3-01.png){width="80%" fig-align="center"} 
+<br>
+[⬇️ Téléchargez le dessin technique](TP1/Piece-3.pdf)
+
+:::
+
+## Exercise 4: Pièce 3
+
+::: {layout="[65, 35]"}
+
+![](TP1/Piece-4.png){width="100%" fig-align="center"} 
+
+![](TP1/Ex3-01.png){width="80%" fig-align="center"} 
+<br>
+[⬇️ Téléchargez le dessin technique](TP1/Piece-4.pdf)
+
+:::
 
 
 
