@@ -92,7 +92,9 @@ Tutoriel de base
 :::
 :::
 
+## Exercice Bonus
 
+![](TP3/Bonus.gif){width="40%" fig-align="Center"}
 
 # Exercice 0
 
@@ -174,11 +176,12 @@ Concevoir un ***modèle d'assemblage***.
 ::: {layout="[30, 70]" layout-valign="center"}
 ::: {}
 
-[⬇️ Téléchargez le dessin technique](TP3/Ex2/Ex2.pdf)
+[⬇️ Téléchargez le dessin technique](TP3/Ex3/Ex3.pdf)
+
+{{< video TP3/Ex3/Simulation.mp4 >}}
 
 :::
 ![](TP3/Ex3/Ex3.png){width="50%" fig-align="center"} 
-
 :::
 
 
