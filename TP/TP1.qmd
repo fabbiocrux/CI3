@@ -219,7 +219,7 @@ Réaliser le modèle ***CAO Pièce*** et le **dessin technique de definition** �
 :::
 
 
-
+<!-- 
 ## Exercise 4: Pièce 1
 
 
@@ -271,7 +271,7 @@ Réaliser le modèle ***CAO Pièce*** et le **dessin technique de definition** �
 [⬇️ Téléchargez le dessin technique](TP1/Piece-4.pdf)
 
 :::
-
+ -->
 
 
 # Ressources / tutoriels 
