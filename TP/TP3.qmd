@@ -178,6 +178,7 @@ Concevoir un ***modèle d'assemblage***.
 
 {{< video TP3/Ex3/Simulation.mp4 >}}
 
+
 :::
 ![](TP3/Ex3/Ex3.png){width="50%" fig-align="center"} 
 :::
