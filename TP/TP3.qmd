@@ -114,8 +114,6 @@ Tutoriel sur la construction des ***modèles d'assemblage***.
 :::
 
 
-
-
 # Exercice 1
 
 **But**: 
@@ -132,6 +130,7 @@ Concevoir un ***modèle d'assemblage***.
 ### Simulation Exercice 1
 
 {{< video TP3/Ex1/Simulation.mp4 >}}
+
 
 # Exercice 2
 
