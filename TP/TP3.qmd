@@ -183,7 +183,6 @@ Concevoir un ***modèle d'assemblage***.
 ![](TP3/Ex3/Ex3.png){width="50%" fig-align="center"} 
 :::
 
-
 # Bonus
 
 ## Exercice Bonus
