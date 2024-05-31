@@ -173,7 +173,7 @@ Concevoir un ***modèle d'assemblage***.
 ::: {layout="[30, 70]" layout-valign="center"}
 ::: {}
 
-[⬇️ Téléchargez le dessin technique](https://raw.githubusercontent.com/fabbiocrux/CI3/master/TP/TP3/Ex3/Ex3.pdf)
+[⬇️ Téléchargez le dessin technique](TP3/Ex3/Ex3.pdf)
 
 
 {{< video TP3/Ex3/Simulation.mp4 >}}
