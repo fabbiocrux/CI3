@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>lec09_parts.zip</title>
+      <link>/resources/lec09_parts/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec09_parts/data.json</guid>
+      <description>This resource is a supporting file for CAD parts.</description>
+    </item>
+    
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description>Lecture slides are available for most sessions. Some contain additional notes by the professor inserted after the class was taught.
+SES # TOPICS NOTES 1 Course introduction, contest overview (PDF 1 - 1.5MB)
+(PDF 2) (Courtesy of MIT Electric Vehicle Team. Used with permission.)
+(PDF 3) (Courtesy of Justin Negrete. Used with permission.)
+2 Problem definition and design (PDF - 4.6MB) 3 Actuators – DC motors, servomotors, pneumatics (PDF) 4 Creating CAD components 1 (PDF - 1.</description>
+    </item>
+    
+    <item>
+      <title>MIT2_007s09_lec01_EVT.pdf</title>
+      <link>/resources/mit2_007s09_lec01_evt/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit2_007s09_lec01_evt/data.json</guid>
+      <description>This resource contains information about potential 2.007-EVT projects are important for both vehicles and outreach and hands-on demonstration.</description>
+    </item>
+    
+    <item>
+      <title>MIT2_007s09_lec01_FSAE.pdf</title>
+      <link>/resources/mit2_007s09_lec01_fsae/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit2_007s09_lec01_fsae/data.json</guid>
+      <description>This resource contains information about international collegiate design, design, fabricate, and test a subsystem of the car.</description>
+    </item>
+    
+    <item>
+      <title>MIT2_007s09_lec01.pdf</title>
+      <link>/resources/mit2_007s09_lec01/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit2_007s09_lec01/data.json</guid>
+      <description>This resource contains information about today?s agenda, mechanical design and history of engineering design.</description>
+    </item>
+    
+    <item>
+      <title>MIT2_007s09_lec02.pdf</title>
+      <link>/resources/mit2_007s09_lec02/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit2_007s09_lec02/data.json</guid>
+      <description>This resource contains information about a 2.670 concept, what is a design notebook?, the design process: as a flow chart and three components of creativity.</description>
+    </item>
+    
+    <item>
+      <title>MIT2_007s09_lec03.pdf</title>
+      <link>/resources/mit2_007s09_lec03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit2_007s09_lec03/data.json</guid>
+      <description>This resource contains information about Actuators ? DC motors, servomotors, pneumatics.</description>
+    </item>
+    
+    <item>
+      <title>MIT2_007s09_lec04.pdf</title>
+      <link>/resources/mit2_007s09_lec04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit2_007s09_lec04/data.json</guid>
+      <description>This resource contains information about creating CAD components 1, terminology and isometric sketching.</description>
+    </item>
+    
+    <item>
+      <title>MIT2_007s09_lec05.pdf</title>
+      <link>/resources/mit2_007s09_lec05/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit2_007s09_lec05/data.json</guid>
+      <description>This resource contains information about creating CAD components 2, key concept and sketch feature types.</description>
+    </item>
+    
+    <item>
+      <title>MIT2_007s09_lec06.pdf</title>
+      <link>/resources/mit2_007s09_lec06/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit2_007s09_lec06/data.json</guid>
+      <description>This resource contains information about mechanisms (2D kinematic analysis).</description>
+    </item>
+    
+    <item>
+      <title>MIT2_007s09_lec07.pdf</title>
+      <link>/resources/mit2_007s09_lec07/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit2_007s09_lec07/data.json</guid>
+      <description>This resource contains information about on spline, belt and gear, case study and mirror feature.</description>
+    </item>
+    
+    <item>
+      <title>MIT2_007s09_lec08.pdf</title>
+      <link>/resources/mit2_007s09_lec08/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit2_007s09_lec08/data.json</guid>
+      <description>This resource contains information about mechanisms (synthesis of 4 bar mechanisms).</description>
+    </item>
+    
+    <item>
+      <title>MIT2_007s09_lec12_note.pdf</title>
+      <link>/resources/mit2_007s09_lec12_note/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit2_007s09_lec12_note/data.json</guid>
+      <description>This resource contains information about gears ? basics, terminology, involute curve.</description>
+    </item>
+    
+    <item>
+      <title>MIT2_007s09_lec12.pdf</title>
+      <link>/resources/mit2_007s09_lec12/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit2_007s09_lec12/data.json</guid>
+      <description>This resource contains information about gears ? basics, terminology, involute curve.</description>
+    </item>
+    
+    <item>
+      <title>MIT2_007s09_lec13_note.pdf</title>
+      <link>/resources/mit2_007s09_lec13_note/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit2_007s09_lec13_note/data.json</guid>
+      <description>This resource contains information about Gears, strength and gear trains.</description>
+    </item>
+    
+    <item>
+      <title>MIT2_007s09_lec13.pdf</title>
+      <link>/resources/mit2_007s09_lec13/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit2_007s09_lec13/data.json</guid>
+      <description>This resource contains information about gears, strength and gear trains.</description>
+    </item>
+    
+    <item>
+      <title>MIT2_007s09_lec14_note.pdf</title>
+      <link>/resources/mit2_007s09_lec14_note/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit2_007s09_lec14_note/data.json</guid>
+      <description>This resource contains information about the homework board, the basic stamp editor, make an LED flash and memory and variable types.</description>
+    </item>
+    
+    <item>
+      <title>MIT2_007s09_lec14.pdf</title>
+      <link>/resources/mit2_007s09_lec14/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit2_007s09_lec14/data.json</guid>
+      <description>This resource contains information about the homework board, the basic stamp editor, make an LED flash and memory and variable types.</description>
+    </item>
+    
+    <item>
+      <title>MIT2_007s09_lec16_note.pdf</title>
+      <link>/resources/mit2_007s09_lec16_note/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit2_007s09_lec16_note/data.json</guid>
+      <description>This resource contains information about sensors and batteries, low-dropout regulator and force measurement.</description>
+    </item>
+    
+    <item>
+      <title>MIT2_007s09_lec16.pdf</title>
+      <link>/resources/mit2_007s09_lec16/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit2_007s09_lec16/data.json</guid>
+      <description>This resource contains information about sensors and batteries, low-dropout regulator and force measurement.</description>
+    </item>
+    
+    <item>
+      <title>MIT2_007s09_lec18.pdf</title>
+      <link>/resources/mit2_007s09_lec18/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit2_007s09_lec18/data.json</guid>
+      <description>This resource contains information about belts / chains / cams.</description>
+    </item>
+    
+    <item>
+      <title>MIT2_007s09_lec21.pdf</title>
+      <link>/resources/mit2_007s09_lec21/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit2_007s09_lec21/data.json</guid>
+      <description>This resource contains information about seeding, impounding, linear systems and newton-raphson method.</description>
+    </item>
+    
+    <item>
+      <title>MIT2_007s09_lec22.pdf</title>
+      <link>/resources/mit2_007s09_lec22/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit2_007s09_lec22/data.json</guid>
+      <description>This resource contains information about radios and format of the radio receiver communications: pulse width modulation.</description>
+    </item>
+    
+    <item>
+      <title>servomount.SLDPRT</title>
+      <link>/resources/servomount/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/servomount/data.json</guid>
+      <description>This resource is a supporting file for creating CAD drawings.</description>
+    </item>
+    
+    <item>
+      <title>SW2007</title>
+      <link>/resources/lec09_parts07/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec09_parts07/data.json</guid>
+      <description>CAD Parts (to assemble) provided in support of a lecture on creating CAD assemblies. This ZIP file contains: 5 .sldprt files and 1 .sldasm file</description>
+    </item>
+    
+  </channel>
+</rss>

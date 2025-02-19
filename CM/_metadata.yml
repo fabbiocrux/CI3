@@ -2,7 +2,6 @@ email: "fabio.cruz@univ-lorraine.fr"
 institute: "Université de Lorraine | ENSGSI"
 author: 
   - "MdC. Fabio Cruz"
-  - "MdC Alaa Hassan"
 link-citations: true
 format:
   revealjs:
@@ -38,20 +37,20 @@ format:
 #  heading: Agenda for today
 #  
 
-  beamer: 
-    linkcolor: Blue
-    urlcolor: Blue
-    keep-tex: false
-    classoption: c
-    aspectratio: 169
-    navigation: horizontal
-    theme: Luebeck #AnnArbor
-    toc: true
-    toc-title: "Organisation de la presentation"    
-    colortheme: beaver  #seahorse
-    slide-level: 3
-    toc-depth: 4
-    fig-align: center
+  # beamer: 
+  #   linkcolor: Blue
+  #   urlcolor: Blue
+  #   keep-tex: false
+  #   classoption: c
+  #   aspectratio: 169
+  #   navigation: horizontal
+  #   theme: Luebeck #AnnArbor
+  #   toc: true
+  #   toc-title: "Organisation de la presentation"    
+  #   colortheme: beaver  #seahorse
+  #   slide-level: 3
+  #   toc-depth: 4
+  #   fig-align: center
     #header-includes:
     #  - \titlegraphic{\includegraphics[width=0.6\paperwidth]{Figures/logos/UL-ENSGSI-ERPI.png}}
 #      - \date{Thisis test }

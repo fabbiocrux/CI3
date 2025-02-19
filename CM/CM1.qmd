@@ -1,16 +1,36 @@
 ---
 title: "Design and Innovation - CI3-"
 subtitle: "Introduction to the design of mechatronic systems"
-date: 16-Feb-2023
+date: 16-Feb-2025
 metadata-files:
   - _metadata.yml
 ---
 
-
-
 # Introduction
 
-## Engineering and Mechanics
+## Design and Innovation (Conception et Innovation - CI3)?
+
+- What is this course about?
+- Who are the instructors?
+- Course structure, expectations, policy, etc.
+
+
+### Continuation 
+
+:::{layout="[20,20,20]"}
+
+:::{}
+CI1 - Creativity
+:::
+
+:::{}
+CI2 Ingénierie de l'innovation I
+:::
+
+
+:::
+
+### Engineering and Mechanics
 
 ### What is the meaning of "Engineer" for you ?
 
@@ -20,18 +40,25 @@ The word **Engineer** (Latin *Ingeniator*) is derived from the Latin words **Ing
 
 ![](figures/engineers.png){width="70%" fig-align="center"}
 
+
+
 ### What is the meaning of "Mechanics" for you ?
 
 . . .
 
 **Mathematics + Physics** → Force, Matter, and *Motion*.
 
-
 ![](figures/Mechanics.jpeg){width="60%" fig-align="center"}
 
-
-
 Image source: [engineer4free](https://www.engineer4free.com/uploads/1/0/2/9/10296972/free-online-engineering-dynamics-course_orig.jpg)
+
+
+### What is Engineering design?
+
+Engineering design is a **systematic process** in which designers **generate**, evaluate, and specify devices, systems, or processes whose form and function achieve objectives while satisfying constraints
+
+
+
 
 
 
@@ -39,89 +66,58 @@ Image source: [engineer4free](https://www.engineer4free.com/uploads/1/0/2/9/1029
 
 **Formez des équipes de quatre/cinq personnes**
 
-- De préférence, avec vos voisins entre les rangs.
+-   De préférence, avec vos voisins entre les rangs.
 
 ### Challenge {.center}
 
-::: {.columns}
-::: {.column width="60%"}
+:::{layout="[60,35]"}
+:::{}
 
-<br><br><br>
-
-Vous avez 18 minutes pour construire une **tour autoportante** qui supporte des poids calibrés avec les matériaux listées ici →
-
-Nous noterons les tours en fonction de:
-
-
-1. Il résiste à au moins un poids: Oui / Non 
-2. $Score=heigth_{weigth} * weigth$
-
+- Vous avez 18 minutes pour construire une **tour autoportante** qui supporte des poids calibrés.
+- Utiliser **seulement** les matériaux listées ici →
+- Nous noterons les tours en fonction de:
+  1.  Il résiste à au moins un poids: Oui / Non
+  2.  $Score=heigth_{weigth} * weigth$
 :::
-::: {.column width="30%"}
+
+::: {}
 ![](figures/Challege.png)
 :::
 :::
 
-### 18 Minutes 
+### 18 Minutes
 
-![[Timer](https://www.youtube.com/watch?v=tJan3T4h5ok)](figures/Timer.png){width="60%" fig-align="center"}
+```{=html}
+<iframe width="90%" height="800" src="https://www.youtube.com/embed/tJan3T4h5ok?si=_DO5eNTg1XUmk4Pf" title="timer 18 min"></iframe>
+```
 
 
+## Reflecting on the design process
 
+:::{layout="[80,35]"}
+:::{}
 
-## Reflecting on the design process 
-
-::: {.columns}
-::: {.column width="60%"}
-
-- What strategies did you use to maker your towers?
-- How many towers did you make?
-- How did you learn?
-
+-   What strategies did you use to maker your towers?
+-   How many towers did you make?
+-   How many teams sketched out ideas first before starting to build?
+-   How many teams tried multiple ideas before settling on a final design?
+-   How many teams tried to use the weights during the prototyping process?
+-   How many teams used parts in unintentional ways (took apart clothespins)?
 :::
-::: {.column width="30%"}
 
 ![](figures/Challege.png)
 
 :::
-:::
 
-### Reflecting on the design process 
-
-::: {.columns}
-::: {.column width="60%"}
-
-- How many teams sketched out ideas first before starting to build?
-- How many teams tried multiple ideas before settling on a final design?
-- How many teams tried to use the weights during the prototyping process?
-- How many teams used parts in unintentional ways (took apart
-clothespins)?
-
-:::
-
-::: {.column width="30%"}
-
-![](figures/Challege.png)
-
-:::
-:::
-
-
-### Reflecting on the design process 
-
+### Reflecting on the design process
 
 ![](figures/Proto-process-01.png){width="65%" fig-align="center"}
 
-
-
 ### Prototyping is about failure !
-
-Having the audacity to dream, experiment, and fail - is required.
 
 ![](figures/Proto-process-02.png){width="65%" fig-align="center"}
 
-
-
+**Having the audacity to dream, experiment, and fail - is required.**
 
 
 # CI3 -- design of mechatronic systems
@@ -132,30 +128,28 @@ Having the audacity to dream, experiment, and fail - is required.
 
 . . .
 
-::: {.columns .fragment}
-::: {.column width="70%"}
-"Humans are really interesting. If you show them your idea in a prototype form, **very few people will tell you what’s right about it. But everybody will tell you what’s wrong with it**." 
+:::{layout="[80,35]"}
+:::{}
+
+"Humans are really interesting. If you show them your idea in a prototype form, **very few people will tell you what’s right about it. But everybody will tell you what’s wrong with it**."
 :::
-::: {.column width="30%"}
+
+::: {}
 ![](figures/David-kelley.jpeg)
 
 David Kelly, IDEO
 :::
 :::
 
-
 ### Why is it important for you as futur Engineers in Innovation?
 
 ::: incremental
 1.  Idea → Mock-up → Proof-of-Concept → Prototype
-
 2.  To be able to **choose the most appropriate** design tools.
-
-3.  Fail as soon as possible. 
+3.  Fail as soon as possible.
 :::
 
 ![](figures/OIC-00.png){width="70%" fig-align="center"}
-
 
 ### Fail with purpose !!
 
@@ -163,11 +157,9 @@ Validation of the design hypothesis
 
 ![](figures/Fail.png){width="60%" fig-align="center"}
 
-
-
 ## Learning goals of the module
 
-::: incremental
+:::{.incremental}
 1.  Give you the basic skills to be able to materialize a conceptual idea into an intermediate mechatronic design object for a given concept.
 
 2.  Learn the prototyping technologies available at the Lorraine Fab Living Lab.
@@ -175,77 +167,64 @@ Validation of the design hypothesis
 3.  A scientific and technical baseline to independently design and build a prototype. --**Do-It-Yourself**-
 :::
 
+
+
+
 ### Specific learning goals
 
-::: columns
-::: column
+:::{layout="[50,50]"}
+:::{}
+
 1.  Prototyping phases and techniques.
-1.  Mechatronics design:
+2.  Mechatronics design:
     -   CAD Modeling
     -   Description of a Kinematic chain
     -   Control
-    -   Simulation of a simple movement transformation system 
-1.  Fablabs and the social innovation approach.
+    -   Simulation of a simple movement transformation system
+3.  Fablabs and the social innovation approach.
 :::
 
-::: column
-::: callout-tip
-#### Learning by Doing !
+:::{}
+**Learning by Doing !**
 
 ![](figures/People.jpeg)
+:::
+:::
 
-:::
-:::
-:::
 
 ### Organization of the Module Planning
 
-| **Time**      | **Activity**                          |
-|:--------------|:--------------------------------------|
-| 7 CM | Introduction to Mechatronic Design |
-| 2 TD | Application of theory |
-| TP 1-4 | **Learn Design Tools**: CAD, Laser Cut, 3D Printing                            |
-| TP 5-9 | Projet developed by you 🍏                            |
-
+- 7 CM  Introduction to Mechatronic design   
+- 2 TD Application of theory                               
+- TP 1-4  **Learn Design Tools**: CAD, Laser Cut, 3D Printing  
+- TP 5-9   Projet developed by you 
 
 ### Technologies at LF2L.
 
+::: {layout="[25,25, 25, 25]"}
+![](figures/Tools-00.png){width="100%"}
 
-::: {layout="[[25,25, 25, 25 ]]"}
-![](figures/Tools-00.png){width="100%" }
+![](figures/Tools-03.png){width="100%"}
 
-![](figures/Tools-03.png){width="100%" }
+![](figures/Tools-04.png){width="100%"}
 
-![](figures/Tools-04.png){width="100%" }
-
-![](figures/Tools-01.png){width="100%" }
+![](figures/Tools-01.png){width="100%"}
 :::
 
-
-
-Documentation: [https://fabmanager.lf2l.fr/](https://fabmanager.lf2l.fr/)
-
+Documentation: <https://fabmanager.lf2l.fr/>
 
 
 ### Evaluation of the Module
 
-::: {.columns}
-::: {.column}
 
-#### Individual
+**Individual**
 
-- Individual test (**Weight: 2/3**) 
+-   Individual test (**Weight: 2/3**)
 
-:::
-::: {.column}
-#### Group
+**Group**
 
-- Presentation of the mechanism
-- Documentation of the mechanism on [https://fabmanager.lf2l.fr/](https://fabmanager.lf2l.fr/) 
-
-:::
-:::
-
+-   Presentation of the mechanism
+-   Documentation of the mechanism on <https://fabmanager.lf2l.fr/>
 
 ### Compromises
 
@@ -253,9 +232,6 @@ Documentation: [https://fabmanager.lf2l.fr/](https://fabmanager.lf2l.fr/)
 
 **What do you expect from us**
 
-
-
 ### Thanks
-
 
 **Next time: 11/03/2024**

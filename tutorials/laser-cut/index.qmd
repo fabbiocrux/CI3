@@ -1,0 +1,166 @@
+---
+title: "Tutoriel: Utilisation de la Découpe Laser"
+subtitle: "Conception et Innovation -- CI3"
+author: 
+  - "Mcf. Fabio Cruz"
+date: 2023/05/13
+#metadata-files:
+#  - _metadata.yml
+email: "fabio.cruz@univ-lorraine.fr"
+institute: "Université de Lorraine | ENSGSI"
+link-citations: true
+format:
+  revealjs:
+    slide-number: c/t
+    slide-level: 2
+    controls: true
+    transition: none
+    #margin: 10
+    width: 1600
+    height: 900
+    theme: [default, ../../assets/custom.scss]
+    logo: "../../assets/img/ENSGSI.png"
+    #embed-resources: false
+    echo: false
+    pdf-separate-fragments: true
+    toc: false
+    #toc-title: Agenda for today
+    toc-depth: 1
+    center: false
+    number-sections: false
+    fig-align: center
+    code-copy: true        
+    header-logo: "../assets/img/ENSGSI.png"    
+    #subtitle-as-header: true
+    sc-sb-title: false
+    chalkboard: true
+    multiplex: true
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+# 🎯 But {.unummered}
+
+1. Utiliser la *découpeuse laser trotec* pour fabriquer une pièce depuis le logiciel *Onshape*.  
+
+**Etapes:**
+
+1. Onshape → fichier `.dxf`
+2. Fichier `.dxf` → Logiciel Trotec Ruby
+
+
+# Onshape → fichier `.dxf`
+
+
+:::: {layout="[ 40, 60 ]"}
+::: {#first-column}
+1. Depuis Onshape, utilisez l'espace de conception de pièce pour identifier la surface a découper.
+:::
+
+![Pièce](1.png)
+::::
+
+## Onshape → fichier `.dxf`
+:::: {layout="[ 40, 60 ]"}
+::: {#first-column}
+1. Seleccionez la surface à découper
+2. Click droite pour seleccioner: 
+
+  `Èxporter comme fichier DXF/DWG`  
+
+:::
+
+![Pièce](2.png)
+::::
+
+## Onshape → fichier `.dxf`
+:::: {layout="[ 40, 60 ]"}
+::: {#first-column}
+1. Donner un nom au fichier
+1. Format: `DXF`  
+1. Version: `2018`  
+1. Telecharger
+:::
+
+![Pièce](3.png)
+::::
+
+#   Fichier `.dxf` → Trotec Ruby
+
+1. Se connecter aux adresses des découpeuses:
+
+:::: {layout="[ 40, 40 ]"}
+
+![Pièce](decoupe1.png){width="80%" fig-align="center"}
+<br>
+[Découpe Laser blue S4-5555: https://193.55.236.243:2402/login](https://193.55.236.243:2402/login)
+
+[![](decoupe2.png){width="80%" fig-align="center"}](https://193.55.236.243:2402/login)
+<br>
+[Découpe Laser rose S4-5719: https://193.55.236.243:2402/login](https://193.55.236.243:2402/login)
+::::
+
+
+##   Fichier `.dxf` → Trotec Ruby
+
+:::: {layout="[ 40, 60 ]"}
+::: {#first-column}
+1. Click on:
+
+`Continuer vers le site`
+:::
+
+![](5.png)
+::::
+
+##   Fichier `.dxf` → Trotec Ruby
+
+:::: {layout="[ 40, 60 ]"}
+::: {#first-column}
+1. Utilisez les identifiants du cours
+
+:::
+
+![](6.png)
+::::
+
+
+
+##   Fichier `.dxf` → Trotec Ruby
+
+:::: {layout="[ 40, 60 ]"}
+::: {#first-column}
+1. Importez le modèle telechargé
+:::
+
+![](7.png)
+::::
+
+
+
+## Fichier `.dxf` → Trotec Ruby
+
+:::: {layout="[ 40, 60 ]"}
+::: {#first-column}
+1. Selectionnez `Millimètres`
+:::
+
+![](8.png)
+::::
+
+
+## Fichier `.dxf` → Trotec Ruby
+
+:::: {layout="[ 40, 60 ]"}
+::: {#first-column}
+1. Selectionnez la couleur
+
+`Rouge`→ Découper
+
+`Noir`→ Graver
+:::
+
+![](9.png)
+::::

@@ -1,9 +1,0 @@
----
-title: "Travaux Pratiques"
-subtitle: "Introduction à la conception de système mécatronique"
-#page-layout: full
-toc: true
----
-
-## Presentations
-

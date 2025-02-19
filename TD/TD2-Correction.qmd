@@ -1,9 +1,9 @@
 ---
 title: "TD 2: Conception et Innovation"
-subtitle: "Réalisation d'un Schéma Cinématique"
+subtitle: "Correction - Réalisation d'un Schéma Cinématique"
 date: 18/04/2024
 format:
-  #docx: default
+  docx: default
   pdf:
     #documentclass: article
     block-headings: false
@@ -55,14 +55,12 @@ Ce mouvement est provoqué par un motoréducteur qui entraine en rotation un bra
 
 
 
-
-
 \newpage
 
 ## Exercise 2
 
 
-![](TD2/Correction-02.png){width="50%" fig-align="center"}
+![](TD2/Performatrice-correction.jpg){width="70%" fig-align="center"}
 
 
 \newpage
@@ -70,19 +68,19 @@ Ce mouvement est provoqué par un motoréducteur qui entraine en rotation un bra
 
 1. Colorier les pièces en fonction de leur classe d’équivalence
 
-![](TD2/Borne-00.jpg){width="80%" fig-align="center"}
+![](TD2/E3-correction-1.png){width="80%" fig-align="center"}
 
 
 
 \begin{tabu} to \linewidth {X[1,l] | X[1,l]}
 
 \toprule
-\textbf{2.} Tracez le graphe des liaisons.
-  & 
-  \textbf{3.}
-  Tracez le schéma cinématique  \\
+\textbf{2.} Tracez le graphe des liaisons. & 
+  \textbf{3.} Tracez le schéma cinématique  \\
 
-  \vspace{3cm} &  \vspace{5cm} \\
+\includegraphics[width=8cm]{TD2/E3-correction-2.png}
+  \vspace{1cm} &  \includegraphics[width=8cm]{TD2/E3-correction-3.png} \\
+  
 
 
 \end{tabu}
@@ -97,3 +95,12 @@ Ce mouvement est provoqué par un motoréducteur qui entraine en rotation un bra
 ![](TD2/Hayon-correction.png){width="60%" fig-align="center"}
 
 ![](TD2/Hayon-correction-01.png){width="50%" fig-align="center"}
+
+
+::: {.callout-caution}
+## Note de précaution:
+
+Nous vous rappelons que le partage de documents via Onshape est strictement interdit pour cet examen. Cet examen est un exercice individuel. Nous avons les moyens de détecter si un modèle a été importé dans votre travail. En conséquence, tout manquement à cette règle entraînera l'attribution de 0 point pour cette partie de l'examen.
+
+Merci de votre compréhension et bon courage pour votre examen.
+:::

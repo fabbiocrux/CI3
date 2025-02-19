@@ -1,0 +1,71 @@
+---
+title: "Travail Pratique : Conception et Fabrication du logo de votre projet"
+#subtitle: "TP1: Introduction à l'Âge du faire et DIY"
+#abstract-title: 'Objectif'
+#abstract: "Concevoir et fabriquer un objet totem unique à l'aide de techniques de dessin à la main et de conception assistée par ordinateur, puis fabriquer un moule à l'aide de la découpe laser pour être utilisé avec la machine Holipresse."
+format:
+  pdf:
+    #documentclass: article
+    block-headings: false
+    toc: false 
+    geometry:
+     - top=25mm
+     - left=20mm
+     - bottom=25mm
+     - right=20mm     
+    number-sections: true
+    colorlinks: true    
+    include-in-header:
+      - text: |
+          \usepackage{tikz}
+          \usepackage{fancyhdr}
+          \pagestyle{fancy}          
+          \fancyhead[R]{ENSGSI - 2023/2024}
+          \fancyhead[L]{\includegraphics[width=2cm]{ENSGSI.png}}
+          \fancyfoot[L]{Fabio CRUZ}
+          \fancyfoot[C]{\thepage}
+          \fancyfoot[R]{ENSGSI}
+          \renewcommand{\footrulewidth}{0.3pt}% default is 0pt
+          \renewcommand{\abstractname}{\vspace{-1.5cm} Objectif}
+---
+
+
+\thispagestyle{fancy}
+
+
+\vspace{-2cm}
+::: {.callout-tip}
+## **Objectif**
+**Vous êtes entrepreneur.e**. Donc, L'objectif de cet exercice est de concevoir un logo créatif et professionnel pour votre projet.
+Le logo doit être distinctif et mémorable. 
+:::
+
+# Instructions :
+
+Définir: 
+
+1. Nom de l'Entreprise: ___
+1. Les valeurs de l'entreprise: ______
+1. Spécialisée dans les solutions du: ______
+1. Characteristiques que le font unique dans le marche: ____
+
+
+**1. Dessinez le logo à la main** 
+
+\begin{center}
+\begin{tikzpicture}
+\draw (0,0) rectangle (10,5) node[pos=.5] {};
+\end{tikzpicture}
+\end{center}
+
+
+2. **Conception Numérique :** Utilisez un logiciel de dessin vectoriel tel que [*Inkscape*(https://inkscape.org/)](https://inkscape.org/) (Ou bien autre logiciel vectoriel de même type) pour numériser votre dessin. Assurez-vous de respecter les dimensions et les proportions de votre dessin manuel.
+
+3. **Demarrage de la documentation du Projet** Connectez-vous au portail [https://fabmanager.lf2l.fr](https://fabmanager.lf2l.fr) avec votre email de l'Université de Lorraine. 
+
+Vous allez mettre les avancés de votre projet sur cette plateforme. 
+   1. Ajouter un projet 
+   1. Les differents logos de chaque membre et choissisez le logo pour l'équipe.
+   1. **Étape 1**: Fabriquer et expliquer le prototypes (basse fidélité) pour présenter les différents concepts du mécanisme que vous avez travaillé pendant la journée.
+
+

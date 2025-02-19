@@ -1,0 +1,28 @@
+{
+  "course_title":"Design and Manufacturing I",
+  "course_description":"Welcome to 2.007! This course is a first subject in engineering design. With your help, this course will be a great learning experience exposing you to interesting material, challenging you to think deeply, and providing skills useful in professional practice. A major element of the course is design of a robot to participate in a challenge that changes from year to year. This year, the theme is cleaning up the planet as inspired by the movie _Wall-E_.\n\nFrom its beginnings in 1970, the 2.007 final project competition has grown into an Olympics of engineering.  See this [MIT News story](http://web.mit.edu/newsoffice/2011/timeline-2007-0209.html) for more background, a photo gallery, and videos about this course.\n",
+  "course_description_html":"<p>Welcome to 2.007! This course is a first subject in engineering design. With your help, this course will be a great learning experience exposing you to interesting material, challenging you to think deeply, and providing skills useful in professional practice. A major element of the course is design of a robot to participate in a challenge that changes from year to year. This year, the theme is cleaning up the planet as inspired by the movie <em>Wall-E</em>.</p>\n<p>From its beginnings in 1970, the 2.007 final project competition has grown into an Olympics of engineering.  See this <a href=\"http://web.mit.edu/newsoffice/2011/timeline-2007-0209.html\" target=\"_blank\" rel=\"noopener\">MIT News story</a> for more background, a photo gallery, and videos about this course.</p>\n",
+  "site_uid":"63a60b9f-277e-4cbb-bce4-7a901d79e26d",
+  "legacy_uid":"544c9de4-c256-0a9a-8188-de7e5c714925","instructors": [{
+    "first_name":"Daniel",
+    "last_name":"Frey",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Daniel Frey"},{
+    "first_name":"David",
+    "last_name":"Gossard",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. David Gossard"}],"department_numbers":["2"],
+  "learning_resource_types":["Problem Sets with Solutions","Competition Videos","Exams with Solutions","Lecture Notes","Projects with Examples"],
+  "topics":[["Engineering","Mechanical Engineering","Mechanical Design"],["Engineering","Electrical Engineering","Robotics and Control Systems"]],
+  "mit_learn_topics":null,
+  "primary_course_number":"2.007",
+  "extra_course_numbers":"",
+  "term":"Spring",
+  "year":"2009",
+  "level":["Undergraduate"],
+  "hide_download":null,
+  "image_src":"./static_resources/40036a167620d5dbd099a55e242f542b_2-007s09.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"The challenge for this year's 2.007 robots is to clean up the environment. (Courtesy Dan Frey.)","draft":false,"file":"/courses/2-007-design-and-manufacturing-i-spring-2009/40036a167620d5dbd099a55e242f542b_2-007s09.jpg","file_size":24985,"file_type":"image/jpeg","image_metadata":{"caption":"The challenge for this year's 2.007 robots is to clean up the environment. (Image by Daniel Frey.)","credit":"","image-alt":"A photo of the 2009 competition table, with a row of skyscrapers dividing it into an area for each robot containing cans and bales of trash to be crushed and stacked in the appropriate target area."},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"2-007s09.jpg","uid":"40036a16-7620-d5db-d099-a55e242f542b","video_files":{"video_thumbnail_file":null},"video_metadata":{"youtube_id":null}}}
+
