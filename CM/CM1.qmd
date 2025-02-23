@@ -1,63 +1,63 @@
 ---
-title: "Design and Innovation - CI3-"
-subtitle: "Introduction to the design of mechatronic systems"
+title: "Conception et Innovation - CI3-"
+subtitle: "Introduction à la conception des systèmes mécatroniques"
 date: 16-Feb-2025
 metadata-files:
   - _metadata.yml
 ---
 
 # Introduction
+## Conception et Innovation - CI3?
 
-## Design and Innovation (Conception et Innovation - CI3)?
-
-- What is this course about?
-- Who are the instructors?
-- Course structure, expectations, policy, etc.
+- De quoi parle ce cours ?
+- Qui sont les enseignants ?
+- Structure du cours, des attendus, les engagements
 
 
-### Continuation 
+### Ligné de la Conception et Innovation du ENSGSI 
 
-:::{layout="[20,20,20]"}
 
-:::{}
-CI1 - Creativity
+
+::: {.panel-tabset}
+
+#### CI1 - Créativité
+
+![](figures/CM1/Raphael.png){fig-align="center" width="55%"}
+
+#### CI2 Ingénierie de l'innovation I
+
+![](figures/CM1/Manon.png){fig-align="center" width="80%"}
+
+
 :::
 
-:::{}
-CI2 Ingénierie de l'innovation I
-:::
 
-
-:::
-
-### Engineering and Mechanics
-
-### What is the meaning of "Engineer" for you ?
+### Ingénierie et Mécanique
+### Quelle est la signification du mot "Ingénieur" pour vous ?
 
 . . .
 
-The word **Engineer** (Latin *Ingeniator*) is derived from the Latin words **Ingeniare** ("to contrive, devise") and **Ingenium** ("cleverness").
+Le mot Ingénieur (latin **Ingeniator**) est dérivé des mots latins **Ingeniare** ("concevoir, inventer") et **Ingenium** ("ingéniosité").
 
 ![](figures/engineers.png){width="70%" fig-align="center"}
 
 
 
-### What is the meaning of "Mechanics" for you ?
+### Quelle est la signification du mot « Mécanique » pour vous ?
 
 . . .
 
-**Mathematics + Physics** → Force, Matter, and *Motion*.
+**Mathématiques + Physique** → Force, Masse, et *Mouvement*.
 
 ![](figures/Mechanics.jpeg){width="60%" fig-align="center"}
 
-Image source: [engineer4free](https://www.engineer4free.com/uploads/1/0/2/9/10296972/free-online-engineering-dynamics-course_orig.jpg)
+:::footer
+Source: [engineer4free](https://www.engineer4free.com/uploads/1/0/2/9/10296972/free-online-engineering-dynamics-course_orig.jpg)
+:::
 
+### Qu'est-ce que la conception en ingénierie ?
 
-### What is Engineering design?
-
-Engineering design is a **systematic process** in which designers **generate**, evaluate, and specify devices, systems, or processes whose form and function achieve objectives while satisfying constraints
-
-
+La conception en ingénierie est un **processus systématique** dans lequel les concepteurs **génèrent**, **évaluent** et **spécifient** des dispositifs, systèmes ou processus dont la forme et la fonction atteignent des *objectifs tout en respectant des contraintes*
 
 
 
@@ -68,65 +68,117 @@ Engineering design is a **systematic process** in which designers **generate**, 
 
 -   De préférence, avec vos voisins entre les rangs.
 
-### Challenge {.center}
+### Challenge Tour autoportante { background-color="aquamarine"}
 
-:::{layout="[60,35]"}
+:::{layout="[70,30]"}
 :::{}
+- 🎯 Construire une **tour** qui supporte des poids calibrés.
 
-- Vous avez 18 minutes pour construire une **tour autoportante** qui supporte des poids calibrés.
-- Utiliser **seulement** les matériaux listées ici →
-- Nous noterons les tours en fonction de:
+- 🛠️ Utiliser **seulement** les matériaux listées ici →
+- 🏆 Critères:
+
   1.  Il résiste à au moins un poids: Oui / Non
-  2.  $Score=heigth_{weigth} * weigth$
+  2. $Hauteur > 2cm$
+  2. Coefficients → $Vis = 0.6$ $Ecrou = 0.1$
+  
+ $$ Score= \text{Hauteur} * (\text{# Vis}*0.6 + \text{# Ecrous}*0.6 )  $$ 
 :::
 
 ::: {}
 ![](figures/Challege.png)
+
+- ⌛  18 minutes. 
 :::
 :::
 
-### 18 Minutes
+
+
+### 18 Minutes {.center background-color="aquamarine"}
 
 ```{=html}
-<iframe width="90%" height="800" src="https://www.youtube.com/embed/tJan3T4h5ok?si=_DO5eNTg1XUmk4Pf" title="timer 18 min"></iframe>
+<iframe width="90%" height="750" src="https://www.youtube.com/embed/xrxQY3DJn88?si=Bq-NHFp16HWBatwm" title="timer 18 min"></iframe>
 ```
 
 
-## Reflecting on the design process
+### [Résultats](https://docs.google.com/spreadsheets/d/1oNOUSItc2kMMvZk9POYV5DZyuCpTbPGLpeVAJU-wxz0/edit?gid=634347005#gid=634347005)
+
+
+```{=html}
+<iframe width="90%" height="750"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ2P-xWITO-DxgSfXuiVI-Or5feXUBGm5ivWh0JZuzjA3TjWtOahrW369jJiZDofVRPigt0zEU1Cvda/pubhtml?gid=634347005&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+```
+
+[Document](https://docs.google.com/spreadsheets/d/1oNOUSItc2kMMvZk9POYV5DZyuCpTbPGLpeVAJU-wxz0/edit?gid=634347005#gid=634347005)
+
+## Réflexion sur le processus de conception
 
 :::{layout="[80,35]"}
 :::{}
-
--   What strategies did you use to maker your towers?
--   How many towers did you make?
--   How many teams sketched out ideas first before starting to build?
--   How many teams tried multiple ideas before settling on a final design?
--   How many teams tried to use the weights during the prototyping process?
--   How many teams used parts in unintentional ways (took apart clothespins)?
+- Quelles stratégies avez-vous utilisées pour construire vos tours ?
+- Combien de tours avez-vous construites ?
+- Combien d'équipes ont esquissé des idées avant de commencer à construire ?
+- Combien d'équipes ont essayé plusieurs idées avant de s'arrêter sur une conception finale ?
+- Combien d'équipes ont essayé d'utiliser les poids pendant le processus de prototypage ?
+- Combien d'équipes ont utilisé des pièces de manière inattendue (ont démonté des pinces à linge) ?
 :::
 
 ![](figures/Challege.png)
 
 :::
 
-### Reflecting on the design process
-
-![](figures/Proto-process-01.png){width="65%" fig-align="center"}
-
-### Prototyping is about failure !
-
-![](figures/Proto-process-02.png){width="65%" fig-align="center"}
-
-**Having the audacity to dream, experiment, and fail - is required.**
 
 
-# CI3 -- design of mechatronic systems
+# CI3 -- Introduction à la conception des systèmes mécatroniques {.center background-color="orange"}
 
-## Why is it important?
 
-### Why is it important for you as futur Engineers in Innovation ?
+## Le rôle cette module ?
+
+:::{layout= "[30, 70]"}
+![](figures/CM1/Design-process-01.png){width="65%" fig-align="center"}
+
+:::{.incremental}
+- Processus de sélection heuristique subjective.
+- Éxploration d'un varieté de en faisant des hypothèses (implicites/explicites).
+- Donner forme à une idée.
+- Implementer un cadre cohérent de test.
+- **Avoir l'audace d'échouer est indispensable.**
+:::
+:::
+
+:::footer
+Source: Cross, N. (2021). Engineering design methods: strategies for product design. John Wiley & Sons.
+:::
+
+
+
+## Pourquoi est-ce important pour vous, futurs ingénieurs en innovation ?
 
 . . .
+
+- **Concevoir un produit/service est une activité complexe** 
+  - mobiliser de multiples partenaires de différentes disciplines, 
+  - Imaginer des solutions créatives et pratiques, 
+  - de tester et vériﬁer mille problèmes avant soit trop tard
+
+
+## Le rôle cette module ?{background-image="figures/CM1/Design-process-02.png" background-size="30%" background-position="70% 20%"}
+
+:::{layout="[30, 70]" layout-valign="center"}
+
+:::{}
+![](figures/CM1/Design-process-01.png){width="65%" fig-align="center"}
+:::
+
+
+:::
+
+:::footer
+Source: Cross, N. (2021). Engineering design methods: strategies for product design. John Wiley & Sons.
+:::
+
+
+
+## Le rôle du prototypage et la conception mécatronique?
 
 :::{layout="[80,35]"}
 :::{}
@@ -134,54 +186,53 @@ Engineering design is a **systematic process** in which designers **generate**, 
 "Humans are really interesting. If you show them your idea in a prototype form, **very few people will tell you what’s right about it. But everybody will tell you what’s wrong with it**."
 :::
 
-::: {}
+:::{}
 ![](figures/David-kelley.jpeg)
 
 David Kelly, IDEO
 :::
 :::
 
-### Why is it important for you as futur Engineers in Innovation?
+### Ce qu'on attends de Vous à la fin de ce module?
 
 ::: incremental
-1.  Idea → Mock-up → Proof-of-Concept → Prototype
-2.  To be able to **choose the most appropriate** design tools.
-3.  Fail as soon as possible.
+1.  Idée → Maquette → Preuve de concept → Prototype
+2.  Être capable de **choisir les outils de conception** les plus appropriés.
+3.  **Échouer le plus tôt possible**.
 :::
 
 ![](figures/OIC-00.png){width="70%" fig-align="center"}
 
-### Fail with purpose !!
 
-Validation of the design hypothesis
+### Échouer avec Enthousiasme et Détermination !
+
+Pour valider des hypothèses de conception.
 
 ![](figures/Fail.png){width="60%" fig-align="center"}
 
-## Learning goals of the module
+
+## Objectifs d'apprentissage du module
 
 :::{.incremental}
-1.  Give you the basic skills to be able to materialize a conceptual idea into an intermediate mechatronic design object for a given concept.
 
-2.  Learn the prototyping technologies available at the Lorraine Fab Living Lab.
-
-3.  A scientific and technical baseline to independently design and build a prototype. --**Do-It-Yourself**-
+1. Vous donner les compétences de base pour pouvoir matérialiser une idée conceptuelle en un objet de conception mécatronique intermédiaire pour un concept donné.
+2.  Apprendre les technologies de prototypage disponibles au Lorraine Fab Living Lab.
+3.  Une base scientifique et technique pour concevoir et construire un prototype de façon autonome. --**Do-It-Yourself**-
 :::
 
 
-
-
-### Specific learning goals
+### Objectifs d'apprentissage spécifiques
 
 :::{layout="[50,50]"}
 :::{}
 
-1.  Prototyping phases and techniques.
-2.  Mechatronics design:
-    -   CAD Modeling
-    -   Description of a Kinematic chain
-    -   Control
-    -   Simulation of a simple movement transformation system
-3.  Fablabs and the social innovation approach.
+1.  Phases et techniques de prototypage.
+2.  Conception mécatronique :
+    - Modélisation CAO
+    - Description d'une chaîne cinématique
+    - Contrôle
+    - Simulation d'un système simple de transformation du mouvement
+3.  Les Fablabs et l'approche de l'innovation sociale.
 :::
 
 :::{}
@@ -192,16 +243,17 @@ Validation of the design hypothesis
 :::
 
 
-### Organization of the Module Planning
+### Planification
 
-- 7 CM  Introduction to Mechatronic design   
-- 2 TD Application of theory                               
-- TP 1-4  **Learn Design Tools**: CAD, Laser Cut, 3D Printing  
-- TP 5-9   Projet developed by you 
+- 7 CM Introduction à la conception mécatronique   
+- 2 TD Application de la théorie                               
+- TP 1-4 **Apprentissage des outils de conception** : CAO, découpe laser, impression 3D  
+- TP 5-9 Projet développé par vous 
+
 
 ### Technologies at LF2L.
 
-::: {layout="[25,25, 25, 25]"}
+:::{layout="[25,25, 25, 25]"}
 ![](figures/Tools-00.png){width="100%"}
 
 ![](figures/Tools-03.png){width="100%"}
@@ -214,24 +266,24 @@ Validation of the design hypothesis
 Documentation: <https://fabmanager.lf2l.fr/>
 
 
-### Evaluation of the Module
 
+### Evaluation du Module
 
-**Individual**
+:::{layout="[50, 50]"}
+:::{}
+**Individuel**
 
--   Individual test (**Weight: 2/3**)
+Test sous PC (**Weight: 2/3**)
+:::
 
-**Group**
+:::{}
+**Challenge par Groups**
 
--   Presentation of the mechanism
--   Documentation of the mechanism on <https://fabmanager.lf2l.fr/>
+Presentation of the mechanism
+Documentation of the mechanism on <https://fabmanager.lf2l.fr/>
+:::
+:::
 
-### Compromises
+### Merci
 
-**What We expect from you**
-
-**What do you expect from us**
-
-### Thanks
-
-**Next time: 11/03/2024**
+**Prochaine fois: 11/03/2024**

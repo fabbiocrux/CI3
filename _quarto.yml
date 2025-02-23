@@ -133,5 +133,5 @@ execute:
 #freeze: true
 bibliography: references.bib
 
-editor: visual
+#editor: visual
 

@@ -1,0 +1,85 @@
+---
+title: "Projet de Conception CI3"
+format:
+  docx: default
+  pdf:
+    toc: false 
+    documentclass: exam
+    geometry:
+     - top=25mm
+     - left=20mm
+     - bottom=25mm
+     - right=20mm             
+    number-sections: true
+    colorlinks: true
+    classoption:
+     - 12pt 
+#     - answers 
+    keep-tex: false
+    include-in-header:
+     - ../assets/examen.tex
+    template-partials: 
+     - ../assets/before-body.tex
+  
+#filters:
+#  - latex-environment
+#commands: [question, part, choice ]
+#environments: [center, parts, questions, checkboxes, solutionbox, minipage]
+#filters: [remove_title.lua]
+#callout-appearance: simple
+#license: CC BY-SA
+---
+
+
+# Défi de Conception Mécanique
+
+
+![](projet-2025.png){width="80%" fig-align="center"}
+
+Cette année le projet de CI3 consistera dans un **Challenge** conception mécatronique où chaque équipe doit **concevoir**, **simuler** et **réaliser** un mécanisme capable de saisir un verre posé sur une table et de le repositionner précisément au centre de celle-ci. *Ce projet met à l’épreuve la créativité, les compétences en ingénierie et l’ingéniosité des participants*.
+
+## Objectifs
+
+- Concevoir un mécanisme fonctionnel.
+- Le prototype devra être inscrit dans une surface de $lo \times la = 30 x 30cm$ **max**.
+- Favoriser l’innovation et la créativité en ingénierie.
+- Travailler en équipe pour résoudre un problème technique.
+- Appliquer des concepts de conception, cinématique et automatisation.
+
+## Contraintes (A defirnir)
+
+- à Definir: Max 2 moteurs? //
+- Un critere d'evaluation sera le poids ?
+- Utilisation des elements recycles/upcycles?
+- 
+
+## Critères d’évaluation
+
+La soutenance prendra la forme d’un **tournoi par élimination,** où les équipes s’affronteront en plusieurs phases : premier tour, quarts de finale, demi-finales et finale, afin de déterminer le mécanisme le plus performant et le grand gagnant du challenge.
+
+Independenment du résultat du challenge, toutes les solutions proposées seront évaluées selon plusieurs critères :
+
+- **Efficacité** : Précision et fiabilité du mécanisme
+- **Originalité** : Ingéniosité et créativité de la solution
+- **Simplicité et robustesse** : Facilité de fabrication et résistance
+- **Positionnment** : Explication claire du concept et démonstration du fonctionnement.
+
+
+En complement de ce compétition, chaque groupe devra: 
+
+1. Rapport complémentaire : synthèse avec notes de calcul, références bibliographiques (entre 15 et 20 pages)
+1. Maquette CAO (onshape)- Simulation du fonctionnement.
+1. Prototype physique fonctionnel pour le jours
+1. Documentation complète du projet sur Fabmanager (https://fabmanager.lf2l.fr/)
+
+
+
+## Ressources
+- Lorraine Fab Living Lab (LF2L)
+- Composants électroniques Arduino (?)
+
+
+::: {.callout title=""}
+L’Ensemble des rendus de concernant le rapport CI3  sont à rendre par un fichier sous ARCHE (Un seul dossier par groupe). 
+:::
+

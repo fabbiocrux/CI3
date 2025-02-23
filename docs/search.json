@@ -12,41 +12,41 @@
   {
     "objectID": "CM/CM1.html#challenge",
     "href": "CM/CM1.html#challenge",
-    "title": "Design and Innovation - CI3-",
+    "title": "Conception et Innovation - CI3-",
     "section": "Challenge",
     "text": "Challenge\nFormez des équipes de quatre/cinq personnes\n\nDe préférence, avec vos voisins entre les rangs.",
     "crumbs": [
-      "Design and Innovation - CI3-"
+      "Conception et Innovation - CI3-"
     ]
   },
   {
     "objectID": "CM/CM1.html#reflecting-on-the-design-process",
     "href": "CM/CM1.html#reflecting-on-the-design-process",
-    "title": "Design and Innovation - CI3-",
+    "title": "Conception et Innovation - CI3-",
     "section": "Reflecting on the design process",
     "text": "Reflecting on the design process\n\n\n\n\n\n\n\nWhat strategies did you use to maker your towers?\nHow many towers did you make?\nHow many teams sketched out ideas first before starting to build?\nHow many teams tried multiple ideas before settling on a final design?\nHow many teams tried to use the weights during the prototyping process?\nHow many teams used parts in unintentional ways (took apart clothespins)?",
     "crumbs": [
-      "Design and Innovation - CI3-"
+      "Conception et Innovation - CI3-"
     ]
   },
   {
     "objectID": "CM/CM1.html#why-is-it-important",
     "href": "CM/CM1.html#why-is-it-important",
-    "title": "Design and Innovation - CI3-",
+    "title": "Conception et Innovation - CI3-",
     "section": "Why is it important?",
     "text": "Why is it important?",
     "crumbs": [
-      "Design and Innovation - CI3-"
+      "Conception et Innovation - CI3-"
     ]
   },
   {
     "objectID": "CM/CM1.html#learning-goals-of-the-module",
     "href": "CM/CM1.html#learning-goals-of-the-module",
-    "title": "Design and Innovation - CI3-",
+    "title": "Conception et Innovation - CI3-",
     "section": "Learning goals of the module",
     "text": "Learning goals of the module\n\n\nGive you the basic skills to be able to materialize a conceptual idea into an intermediate mechatronic design object for a given concept.\nLearn the prototyping technologies available at the Lorraine Fab Living Lab.\nA scientific and technical baseline to independently design and build a prototype. –Do-It-Yourself-",
     "crumbs": [
-      "Design and Innovation - CI3-"
+      "Conception et Innovation - CI3-"
     ]
   },
   {
@@ -570,6 +570,118 @@
     "text": "TD",
     "crumbs": [
       "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM1.html#conception-et-innovation---ci3",
+    "href": "CM/CM1.html#conception-et-innovation---ci3",
+    "title": "Conception et Innovation - CI3-",
+    "section": "Conception et Innovation - CI3?",
+    "text": "Conception et Innovation - CI3?\n\nDe quoi parle ce cours ?\nQui sont les enseignants ?\nStructure du cours, des attendus, les engagements",
+    "crumbs": [
+      "Conception et Innovation - CI3-"
+    ]
+  },
+  {
+    "objectID": "CM/CM1.html#réflexion-sur-le-processus-de-conception",
+    "href": "CM/CM1.html#réflexion-sur-le-processus-de-conception",
+    "title": "Conception et Innovation - CI3-",
+    "section": "Réflexion sur le processus de conception",
+    "text": "Réflexion sur le processus de conception\n\n\n\n\n\n\n\nQuelles stratégies avez-vous utilisées pour construire vos tours ?\nCombien de tours avez-vous construites ?\nCombien d’équipes ont esquissé des idées avant de commencer à construire ?\nCombien d’équipes ont essayé plusieurs idées avant de s’arrêter sur une conception finale ?\nCombien d’équipes ont essayé d’utiliser les poids pendant le processus de prototypage ?\nCombien d’équipes ont utilisé des pièces de manière inattendue (ont démonté des pinces à linge) ?",
+    "crumbs": [
+      "Conception et Innovation - CI3-"
+    ]
+  },
+  {
+    "objectID": "CM/CM1.html#pourquoi-est-ce-important-pour-vous-futurs-ingénieurs-en-innovation",
+    "href": "CM/CM1.html#pourquoi-est-ce-important-pour-vous-futurs-ingénieurs-en-innovation",
+    "title": "Conception et Innovation - CI3-",
+    "section": "Pourquoi est-ce important pour vous, futurs ingénieurs en innovation ?",
+    "text": "Pourquoi est-ce important pour vous, futurs ingénieurs en innovation ?\n\n\nConcevoir un produit/service est une activité complexe\n\nmobiliser de multiples partenaires de différentes disciplines,\nImaginer des solutions créatives et pratiques,\nde tester et vériﬁer mille problèmes avant soit trop tard",
+    "crumbs": [
+      "Conception et Innovation - CI3-"
+    ]
+  },
+  {
+    "objectID": "CM/CM1.html#le-rôle-du-prototypage-et-la-conception-mécatronique",
+    "href": "CM/CM1.html#le-rôle-du-prototypage-et-la-conception-mécatronique",
+    "title": "Conception et Innovation - CI3-",
+    "section": "Le rôle du prototypage et la conception mécatronique?",
+    "text": "Le rôle du prototypage et la conception mécatronique?\n\n\n\n\n\n\n“Humans are really interesting. If you show them your idea in a prototype form, very few people will tell you what’s right about it. But everybody will tell you what’s wrong with it.”\n\n\n\nDavid Kelly, IDEO",
+    "crumbs": [
+      "Conception et Innovation - CI3-"
+    ]
+  },
+  {
+    "objectID": "CM/CM1.html#objectifs-dapprentissage-du-module",
+    "href": "CM/CM1.html#objectifs-dapprentissage-du-module",
+    "title": "Conception et Innovation - CI3-",
+    "section": "Objectifs d’apprentissage du module",
+    "text": "Objectifs d’apprentissage du module\n\n\nVous donner les compétences de base pour pouvoir matérialiser une idée conceptuelle en un objet de conception mécatronique intermédiaire pour un concept donné.\nApprendre les technologies de prototypage disponibles au Lorraine Fab Living Lab.\nUne base scientifique et technique pour concevoir et construire un prototype de façon autonome. –Do-It-Yourself-",
+    "crumbs": [
+      "Conception et Innovation - CI3-"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\n             Introduction à la conception de système mécatronique\n         ",
+    "section": "",
+    "text": "Conception et Innovation\n         \n         \n             “Think with your hands, build something or ty something, then talk about it, NOT the Reverse.” David Kelly, Founder IDEO & Standford Deisgn School\n         \n         \n         \n            Cours Magistraux            \n            Guide de Travaux Dirigés"
+  },
+  {
+    "objectID": "index.html#instructors",
+    "href": "index.html#instructors",
+    "title": "\n             Introduction à la conception de système mécatronique\n         ",
+    "section": "0.1 Instructors",
+    "text": "0.1 Instructors\n\n   MdC. Alaa Hassan\n   Dr. Fabio A Cruz\n   ENSGSI\n   Schedule an appointment"
+  },
+  {
+    "objectID": "index.html#course-details",
+    "href": "index.html#course-details",
+    "title": "\n             Introduction à la conception de système mécatronique\n         ",
+    "section": "0.2 Course details",
+    "text": "0.2 Course details\n\n   Thursdays\n   January 9–May 2, 2023\n   7:15–9:45 PM\n   ENSGSI"
+  },
+  {
+    "objectID": "index.html#contactez-nous",
+    "href": "index.html#contactez-nous",
+    "title": "\n             Introduction à la conception de système mécatronique\n         ",
+    "section": "0.3 Contactez nous",
+    "text": "0.3 Contactez nous\nL’e-mail et Microsoft teams sont les meilleurs moyens de nous contacter. On essai de répondre à tous les courriels et messages liés au cours dans les XX heures (vraiment), mais rappelez-vous aussi que la vie peut être occupée et chaotique pour tout le monde (y compris nous !), alors si je ne réponds pas tout de suite, ne vous inquiétez pas !"
+  },
+  {
+    "objectID": "index.html#notes",
+    "href": "index.html#notes",
+    "title": "\n             Introduction à la conception de système mécatronique\n         ",
+    "section": "3.1 Notes",
+    "text": "3.1 Notes"
+  },
+  {
+    "objectID": "index.html#bibliographie",
+    "href": "index.html#bibliographie",
+    "title": "\n             Introduction à la conception de système mécatronique\n         ",
+    "section": "3.2 Bibliographie",
+    "text": "3.2 Bibliographie"
+  },
+  {
+    "objectID": "CM/CM1.html#le-rôle-cette-module",
+    "href": "CM/CM1.html#le-rôle-cette-module",
+    "title": "Conception et Innovation - CI3-",
+    "section": "Le rôle cette module ?",
+    "text": "Le rôle cette module ?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProcessus de sélection heuristique subjective.\nÉxploration d’un varieté de en faisant des hypothèses (implicites/explicites).\nDonner forme à une idée.\nImplementer un cadre cohérent de test.\nAvoir l’audace d’échouer est indispensable.\n\n\n\n\n\nSource: Cross, N. (2021). Engineering design methods: strategies for product design. John Wiley & Sons.",
+    "crumbs": [
+      "Conception et Innovation - CI3-"
+    ]
+  },
+  {
+    "objectID": "CM/CM1.html#le-rôle-cette-module-1",
+    "href": "CM/CM1.html#le-rôle-cette-module-1",
+    "title": "Conception et Innovation - CI3-",
+    "section": "Le rôle cette module ?",
+    "text": "Le rôle cette module ?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Cross, N. (2021). Engineering design methods: strategies for product design. John Wiley & Sons.",
+    "crumbs": [
+      "Conception et Innovation - CI3-"
     ]
   }
 ]
