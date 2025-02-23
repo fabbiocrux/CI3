@@ -1,6 +1,0 @@
-
-{
-  "title":"Parts and Equipment",
-  "content":"All images courtesy of Alex Slocum.\nProject Kit List This page contains the 2.007 kit parts. Consult this list if you ever have any questions. Students get to keep their machines intact. We only ask that students recycle unused components after the contest, especially motors! (PDF)\nControl System Information This section will lead you through how to use the 2.007 control box on your machine. You should read through each step and make sure you understand everything.\nHandy Handouts Quick Debug Sheet (PDF)\nControl System Summary Presentation (PDF) (Courtesy of Hongshen Ma. Used with permission.)\nSystem Overview The picture below is a schematic overview of the whole system. A battery supplies power to the control box. The control box distributes that power to the four actuators based on commands it receives from the transmitter. The transmitter receives commands from joysticks/throttles via the microprocessor. For the details of each sub-system, please consult the appropriate sub-section of Using the Control System.\nSystem schematic.\n"}
-
-
