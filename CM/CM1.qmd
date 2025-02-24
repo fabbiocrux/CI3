@@ -10,7 +10,6 @@ metadata-files:
 ## Conception et Innovation - CI3?
 
 - De quoi parle ce cours ?
-- Qui sont les enseignants ?
 - Structure du cours, des attendus, les engagements
 
 
@@ -79,7 +78,7 @@ La conception en ingénierie est un **processus systématique** dans lequel les 
 
   1.  Il résiste à au moins un poids: Oui / Non
   2. $Hauteur > 2cm$
-  2. Coefficients → $Vis = 0.6$ $Ecrou = 0.1$
+  2. Coefficients → 🔩 $Vis = 0.6$ $Ecrou = 0.1$
   
  $$ Score= \text{Hauteur} * (\text{# Vis}*0.6 + \text{# Ecrous}*0.6 )  $$ 
 :::
