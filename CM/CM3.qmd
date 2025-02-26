@@ -116,7 +116,6 @@ Il existe deux *mouvements élémentaires* entre les solides :
 On appelle *libertés* d’un solide par rapport à un référentiel, les mouvements indépendants de ce solide pour passer d’une position à une autre.
 
 
-
 ### Degree de Liberté {background-image="CM3/Degrees-liberte.png" background-size="20%" background-position="85% 85%"}
 
 1.  **TRANSLATION (RECTILIGNE)** : les trajectoires de tous les points du solide sont des droites parallèles.

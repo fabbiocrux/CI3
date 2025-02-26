@@ -11,13 +11,6 @@ format:
     toc-depth: 1
 ---
 
-# Conception Inventive
-
-## Projet de Conception
-
-![](../Photos/Seance%201/CI3-Introduction.jpg){width="70%" fig-align="center"}
-
-
 ### Auto-évaluation des compétences {.center}
 
 \LARGE
@@ -26,7 +19,24 @@ https://forms.gle/oUqpJMmzPNX2Ax268
 
 ![](figures/brave.png){width="40%" fig-align="center"}
 
-### Métier d’ingénieur
+
+# Metiér de l'Ingénieur.e
+
+## Ingénieur.e
+
+Le mot Ingénieur (latin **Ingeniator**) est dérivé des mots latins **Ingeniare** ("concevoir, inventer") et **Ingenium** ("ingéniosité").
+
+::: {.callout-note}
+
+- **Analyser** → Analyser les fonctions et la structure des systèmes complexes pluritechnologiques rencontrés.
+- **Modéliser** → Proposer une représentation équationnelle d’un système en vue d’une simulation.
+- **Résoudre** → Réaliser une simulation manuelle (calculs) ou assistée par logiciel pour pouvoir prévoir le comportement d’un système.
+- **Experimenter** → Réaliser des mesures sur un système réel pour valider le comportement anticipé par simulation.
+- **Concevoir** → Proposer une évolution matérielle ou logicielle pour améliorer le comportement d’un système et la réaliser.
+- **Communiquer** → Traiter des informations et mettre en œuvre une communication.
+:::
+
+## Métier d’ingénieur
 
 "Le métier de base de l'ingénieur consiste à *poser et résoudre de manière toujours plus performante* des 
 **problèmes** souvent complexes, liés à **la conception, à la réalisation et à la mise en oeuvre**, 
@@ -35,6 +45,19 @@ financement et à leur commercialisation.
 
 <br> À ce titre un ingénieur doit posséder un ensemble de savoirs techniques, économiques, sociaux et humains, reposant sur une solide culture scientifique. 
 -- **Commission des Titres d’Ingénieur**.
+
+## Referentiel Compétence ENSGSI
+
+1. C2: **MAITRISER LES SCIENCES POUR L’INGENIEUR NECESSAIRES AUX METIERS DE L’INNOVATION**
+
+   - Analyser les besoins, définir les exigences de conception aux niveaux mécanique et énergétique en amont de la phase d'industrialisation d'un produit, les intégrer à un CDC et réaliser une première ébauche du dimensionnement et de l'optimisation du produit/procédé
+   
+   - Matérialiser des concepts (réalisation de prototypes ou maquettes, plans numériques, avatars numériques), élaborer des protocoles d’essais
+
+1. C3 : **ELABORER ET IMPLEMENTER DES PROCESSUS D’INNOVATION**
+   - Créer les conditions de l’émergence et l’enrichissement de concepts de nouveaux produits (services/procédés/…), à l’aide d’outils collaboratifs de co-innovation (Objets Intermédiaires de Conception, Proof of Concept, …).
+
+
 
 
 ### Vocabulaire 
@@ -63,7 +86,8 @@ pas une solution unique.
 :::
 :::
 
-### Projet de Conception
+
+# Processus de Conception
 
 L’agence française de normalisation (AFNOR) définit le projet de la façon suivante :
 
@@ -72,6 +96,9 @@ L’agence française de normalisation (AFNOR) définit le projet de la façon s
 
 ![](figures/CM2/AFNOR.png)
 :::
+
+
+
 
 ### Projet de Conception $\rightarrow$ Vision partagé.
 
@@ -84,40 +111,20 @@ L’agence française de normalisation (AFNOR) définit le projet de la façon s
 
 
 
-
-
-
-### Ecarts en conception
-
-![](figures/CM2/Ecarts-00.png){width="80%" fig-align="center"}
-
-### Ecarts en conception
-
-![](figures/CM2/Ecarts-01.png){width="80%" fig-align="center"}
-
-### Ecarts en conception
-
-![](figures/CM2/Ecarts-02.png){width="80%" fig-align="center"}
-
 ### Ecarts en conception
 
 ![](figures/CM2/Ecarts-03.png){width="80%" fig-align="center"}
 
 ### Ecarts en conception
 
-::::: columns
-::: {.column width="50%" align="top"}
--   **Système souhaité** $\rightarrow$ fonctions du système et de quantifier ses performances.
-
--   **Système simulé** $\rightarrow$ modélisé par des lois comportementales, de façon à estimer ses capacités à répondre aux attentes du système souhaité.
-
--   **Système réel** est la conséquence des choix effectués lors des simulations. Il est alors possible de mesurer les performances réelles et de les comparer aux performances attendues.
-:::
-
-::: {.column width="50%" align="top"}
 ![](figures/CM2/Ecarts-04.png){width="100%" fig-align="center"}
-:::
-:::::
+
+### Ecarts en conception
+
+-   **Système souhaité** $\rightarrow$ fonctions du système et de quantifier ses performances.
+-   **Système simulé** $\rightarrow$ modélisé par des lois comportementales, de façon à estimer ses capacités à répondre aux attentes du système souhaité.
+-   **Système réel** est la conséquence des choix effectués lors des simulations. Il est alors possible de mesurer les performances réelles et de les comparer aux performances attendues.
+
 
 **Les écarts entre chaque système font l’objet d’analyses et, le cas échéant, d’une reconfiguration.**
 
@@ -133,11 +140,11 @@ L’agence française de normalisation (AFNOR) définit le projet de la façon s
 
 Un projet comporte globalement 3 phases, connues sous la désignation «3C» : Cadrer - Conduire - Conclure.
 
-::: incremental
+
 -   **Phase de préparation** : il s’agit de l’analyse des besoins et de l’analyse de l’opportunité de mener à bien ce projet. Appelée également avant-projet, cette phase aboutit à la rédaction du cahier des charges.
 -   **Phase de réalisation** : elle débute par la réception du cahier des charges et s’achève à la livraison du produit. C’est la phase opérationnelle du projet.
 -   **Phase de fin de projet** : le produit est mis en situation de production, et il s’agit dans cette phase de s’assurer de son adéquation avec les besoins attendus.
-:::
+
 
 ### Cycle en V
 
@@ -152,8 +159,6 @@ Un projet comporte globalement 3 phases, connues sous la désignation «3C» : C
 ![Cycle en V d'un projet](figures/CM2/Cycle-projet-012.png){width="80%" fig-align="center"}
 
 ### oui, mais comment on peut faire cela au ENSGSI? {.center .plain}
-
-. . .
 
 ![Cycle en V d'un projet](figures/CM2/Cycle-projet-01-proto.png){width="80%" fig-align="center"}
 
@@ -294,17 +299,11 @@ Un projet comporte globalement 3 phases, connues sous la désignation «3C» : C
 
 ### Système a besoin de ...
 
-#### La **chaîne d’énergie**
+La **chaîne d’énergie**
 
 Tout système est constitué d’une succession d’éléments permettant de *transmettre l’énergie* depuis la source vers les actionneurs (éléments du système agissant sur la matière d’œuvre).
 
-. . .
-
-\noindent
-
-\rule{\textwidth}{1pt}
-
-#### La **chaîne d’information**.
+La **chaîne d’information**.
 
 Le système adapte son comportement en fonction d’informations sur l’état du système.
 

@@ -61,7 +61,7 @@
     "href": "CM/CM2.html#projet-de-conception",
     "title": "Conception et Innovation – CI3",
     "section": "Projet de Conception",
-    "text": "Projet de Conception",
+    "text": "Projet de Conception\nLe mot Ingénieur (latin Ingeniator) est dérivé des mots latins Ingeniare (“concevoir, inventer”) et Ingenium (“ingéniosité”).",
     "crumbs": [
       "Conception et Innovation -- CI3"
     ]
@@ -71,7 +71,7 @@
     "href": "CM/CM2.html#cycle-de-vie-dun-projet",
     "title": "Conception et Innovation – CI3",
     "section": "Cycle de vie d’un projet",
-    "text": "Cycle de vie d’un projet\nUn projet comporte globalement 3 phases, connues sous la désignation «3C» : Cadrer - Conduire - Conclure.\n\n\nPhase de préparation : il s’agit de l’analyse des besoins et de l’analyse de l’opportunité de mener à bien ce projet. Appelée également avant-projet, cette phase aboutit à la rédaction du cahier des charges.\nPhase de réalisation : elle débute par la réception du cahier des charges et s’achève à la livraison du produit. C’est la phase opérationnelle du projet.\nPhase de fin de projet : le produit est mis en situation de production, et il s’agit dans cette phase de s’assurer de son adéquation avec les besoins attendus.",
+    "text": "Cycle de vie d’un projet\nUn projet comporte globalement 3 phases, connues sous la désignation «3C» : Cadrer - Conduire - Conclure.\n\nPhase de préparation : il s’agit de l’analyse des besoins et de l’analyse de l’opportunité de mener à bien ce projet. Appelée également avant-projet, cette phase aboutit à la rédaction du cahier des charges.\nPhase de réalisation : elle débute par la réception du cahier des charges et s’achève à la livraison du produit. C’est la phase opérationnelle du projet.\nPhase de fin de projet : le produit est mis en situation de production, et il s’agit dans cette phase de s’assurer de son adéquation avec les besoins attendus.",
     "crumbs": [
       "Conception et Innovation -- CI3"
     ]
@@ -682,6 +682,56 @@
     "text": "Le rôle cette module ?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Cross, N. (2021). Engineering design methods: strategies for product design. John Wiley & Sons.",
     "crumbs": [
       "Conception et Innovation - CI3-"
+    ]
+  },
+  {
+    "objectID": "CM/CM2.html#métier-dingénieur",
+    "href": "CM/CM2.html#métier-dingénieur",
+    "title": "Conception et Innovation – CI3",
+    "section": "Métier d’ingénieur",
+    "text": "Métier d’ingénieur\n“Le métier de base de l’ingénieur consiste à poser et résoudre de manière toujours plus performante des problèmes souvent complexes, liés à la conception, à la réalisation et à la mise en oeuvre, au sein d’une organisation compétitive, de produits, de systèmes ou de services, éventuellement à leur financement et à leur commercialisation.\n À ce titre un ingénieur doit posséder un ensemble de savoirs techniques, économiques, sociaux et humains, reposant sur une solide culture scientifique. – Commission des Titres d’Ingénieur.",
+    "crumbs": [
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM2.html#referentiel-compétence-ensgsi",
+    "href": "CM/CM2.html#referentiel-compétence-ensgsi",
+    "title": "Conception et Innovation – CI3",
+    "section": "Referentiel Compétence ENSGSI",
+    "text": "Referentiel Compétence ENSGSI\n\nC2: MAITRISER LES SCIENCES POUR L’INGENIEUR NECESSAIRES AUX METIERS DE L’INNOVATION\n\nAnalyser les besoins, définir les exigences de conception aux niveaux mécanique et énergétique en amont de la phase d’industrialisation d’un produit, les intégrer à un CDC et réaliser une première ébauche du dimensionnement et de l’optimisation du produit/procédé\nMatérialiser des concepts (réalisation de prototypes ou maquettes, plans numériques, avatars numériques), élaborer des protocoles d’essais\n\nC3 : ELABORER ET IMPLEMENTER DES PROCESSUS D’INNOVATION\n\nCréer les conditions de l’émergence et l’enrichissement de concepts de nouveaux produits (services/procédés/…), à l’aide d’outils collaboratifs de co-innovation (Objets Intermédiaires de Conception, Proof of Concept, …).",
+    "crumbs": [
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM2.html#ingénieur",
+    "href": "CM/CM2.html#ingénieur",
+    "title": "Conception et Innovation – CI3",
+    "section": "Ingénieur",
+    "text": "Ingénieur\nLe mot Ingénieur (latin Ingeniator) est dérivé des mots latins Ingeniare (“concevoir, inventer”) et Ingenium (“ingéniosité”).\n\n\n\n\n\n\nNote\n\n\n\nAnalyser → Analyser les fonctions et la structure des systèmes complexes pluritechnologiques rencontrés.\nModéliser → Proposer une représentation équationnelle d’un système en vue d’une simulation.\nRésoudre → Réaliser une simulation manuelle (calculs) ou assistée par logiciel pour pouvoir prévoir le comportement d’un système.\nExperimenter → Réaliser des mesures sur un système réel pour valider le comportement anticipé par simulation.\nConcevoir → Proposer une évolution matérielle ou logicielle pour améliorer le comportement d’un système et la réaliser.\nCommuniquer → Traiter des informations et mettre en œuvre une communication.",
+    "crumbs": [
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM2.html#ingénieur.e",
+    "href": "CM/CM2.html#ingénieur.e",
+    "title": "Conception et Innovation – CI3",
+    "section": "Ingénieur.e",
+    "text": "Ingénieur.e\nLe mot Ingénieur (latin Ingeniator) est dérivé des mots latins Ingeniare (“concevoir, inventer”) et Ingenium (“ingéniosité”).\n\n\n\n\n\n\nNote\n\n\n\nAnalyser → Analyser les fonctions et la structure des systèmes complexes pluritechnologiques rencontrés.\nModéliser → Proposer une représentation équationnelle d’un système en vue d’une simulation.\nRésoudre → Réaliser une simulation manuelle (calculs) ou assistée par logiciel pour pouvoir prévoir le comportement d’un système.\nExperimenter → Réaliser des mesures sur un système réel pour valider le comportement anticipé par simulation.\nConcevoir → Proposer une évolution matérielle ou logicielle pour améliorer le comportement d’un système et la réaliser.\nCommuniquer → Traiter des informations et mettre en œuvre une communication.",
+    "crumbs": [
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "CM/CM2.html#la-chaîne-dénergie",
+    "href": "CM/CM2.html#la-chaîne-dénergie",
+    "title": "Conception et Innovation – CI3",
+    "section": "La chaîne d’énergie",
+    "text": "La chaîne d’énergie\n\nChaque objet technique a besoin d’une énergie pour fonctionner.\n\nLes fonctions:\n\nAlimenter : constituants permettant l’énergie nécessaire au système\nStocker : certains objets doivent pouvoir stocker de L’énergie en vue de la restituer\nDistribuer : commander, contrôler et répartir la quantité d’énergie nécessaire\nConvertir : transformer une énergie en une autre nécessaire à l’effet attendu\nTransmettre : acheminer cette énergie convertie de façon à la rendre disponible pour l’action à réaliser.",
+    "crumbs": [
+      "Conception et Innovation -- CI3"
     ]
   }
 ]
