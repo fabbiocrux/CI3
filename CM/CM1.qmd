@@ -15,8 +15,6 @@ metadata-files:
 
 ### Ligné de la Conception et Innovation du ENSGSI 
 
-
-
 ::: {.panel-tabset}
 
 #### CI1 - Créativité
@@ -26,9 +24,14 @@ metadata-files:
 #### CI2 Ingénierie de l'innovation I
 
 ![](figures/CM1/Manon.png){fig-align="center" width="80%"}
-
-
 :::
+
+## LIen Pédagogiques GSI
+
+(Voir les diapos de Fefe) 
+
+![](figures/CM1/Manon.png){fig-align="center" width="80%"}
+
 
 
 ### Ingénierie et Mécanique

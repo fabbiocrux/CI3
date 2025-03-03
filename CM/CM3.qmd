@@ -89,16 +89,15 @@ La position du solide dans l’espace, est déterminée par *6 paramètres indé
 1.  Position du point $O_1$ → **3 Coordonnées**
 2.  Orientation de $\vec{x_1}, \vec{y_1}, \vec{z_1})$ par rapport à $R(O, \vec{x}, \vec{y}, \vec{z})$ → **3 Angles**
 
-### Repère
+### Repère {background-image="CM3/Repere-02.gif" background-size="30%" background-position="90% 20%"}
 
-*Exemple* : Repère local lié au Solide 2 (la bielle) et Repère de référence, lié au solide 0 (le bâti)
+::: {layout="[50,50]" layout-valign="top"}
+![](CM3/Repere-01.png){width="50%" fig-align="center"}
 
-::: {layout="[50,50]" layout-valign="center"}
-![](CM3/Repere-01.png){width="70%" fig-align="center"}
 
-![](CM3/Repere-02.gif){width="70%" fig-align="center"}
 :::
 
+*Exemple* : Repère local lié au Solide 2 (la bielle) et Repère de référence, lié au solide 0 (le bâti)
 
 
 ## Degree de liberté
@@ -385,12 +384,13 @@ Source: [http://www.mechdes.net/](http://www.mechdes.net/)
 
 #### Contexte
 
+
 ::: {layout="[80,20]" layout-valign="center"}
 
-:::.{}
+:::{}
 Société Décathlon commercialise le système du vélo elliptique de marque Domyos, modèle VE 680.
 
-![](CM3/Velo-fonctionnelle.png){width="40%" fig-align="center"}
+![](CM3/Velo-fonctionnelle.png){width="500px" fig-align="center"}
 :::
 
 ![](CM3/Velo.png){width="70%" fig-align="center"}
@@ -425,7 +425,6 @@ Société Décathlon commercialise le système du vélo elliptique de marque Dom
 ## Example 2 {.top}
 
 **Modélisation cinématique d’une Vélo elliptique**
-
 
 
 ### Etapes  {background-image="CM3/turbina.gif" background-size="30%" background-position="95% 30%"} 
