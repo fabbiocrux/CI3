@@ -3,7 +3,6 @@ title: "Conception et Innovation -- CI3"
 subtitle: "Schema Cinématique"
 author: 
   - "MdC. Fabio Cruz"
-  - "MdC Alaa Hassan"
 date: 20-Mar-2023
 #metadata-files:
 #  - _metadata.yml
@@ -427,7 +426,7 @@ Société Décathlon commercialise le système du vélo elliptique de marque Dom
 **Modélisation cinématique d’une Vélo elliptique**
 
 
-### Etapes  {background-image="CM3/turbina.gif" background-size="30%" background-position="95% 30%"} 
+### Etapes  {background-image="CM3/Velo-00.gif" background-size="30%" background-position="95% 30%"} 
 
 1. Regroupement des pièces en ensembles solides
 2. Élaboration du graphe des liaisons
