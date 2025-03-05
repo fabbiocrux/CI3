@@ -1,34 +1,38 @@
 ---
 title: "TD 2: Conception et Innovation"
 subtitle: "Réalisation d'un Schéma Cinématique"
-date: 18/04/2024
+date: 2025-03-05 
 format:
   #docx: default
   pdf:
-    #documentclass: article
+    documentclass: exam
+    classoption:
+     - 12pt 
+#     - answers 
     block-headings: false
     toc: false 
     geometry:
-     - top=25mm
-     - left=20mm
-     - bottom=25mm
-     - right=20mm     
+     - top=20mm
+     - left=18mm
+     - bottom=20mm
+     - right=18mm     
     number-sections: true
+    keep-tex: false
     colorlinks: true    
     include-in-header:
-      - file: ../assets/packages.tex
+     - ../assets/examen.tex
+    template-partials: 
+     - ../assets/before-body.tex
 #reference-location: margin
 #citation-location: margin
 callout-appearance: simple
+filters:
+  - latex-environment
+commands: [question, part, choice, CorrectChoice]
+environments: [center, parts, questions, checkboxes, solutionbox, minipage]
+
 ---
 
-1. Prenom NOM: \hrulefill 
-1. Prenom NOM: \hrulefill
-
-
-\thispagestyle{fancy}
-\let\olditshape\itshape 
-\def\itshape{\color{blue}\olditshape}
 
 ::: {.callout-tip}
 ## Objectifs de la séance :
@@ -59,105 +63,156 @@ La réalisation d'un schéma cinématique respecte concerne les étapes suivante
 
 \newpage
 
-
-
 # Réalisations des schémas cinématiques
 
 ## Exercice 1
 
-:::{layout="[40,60]" layout-valign="center"}
+:::{layout="[30,70]" layout-valign="center"}
 
 ![](TD2/Hemomixer_1.png){width="100%" fig-align="center"}
 
 :::{}
-
-### Contexte
-
 Cet automate permet de superviser le prélèvement de sang lors de collectes mobiles. Il effectue simultanément la pesée (volume) et l’agitation des poches de sang. 
 \newline
 Le plateau d’agitation est animé d’un mouvement de rotation alternative autour d’un axe horizontal.
 Ce mouvement est provoqué par un motoréducteur qui entraine en rotation un bras, puis transmis au plateau via une bielle.
-\newline
+:::
+:::
+
+
+
 **Questions:**
+
+::: {.questions}
+
+[]{.question} 
+Nommez et identifiez les classes d’equivalence et les liaisons.
+
+:::{layout="[[45,-5,45],[-15],[45,-5,45]]" layout-valign="top"}
+
+:::{}
+![](TD2/Hemomixer-00.jpg){fig-align="center" width="80%"}
+
+\vspace{10pt}
+:::
+
+:::{.solutionbox arguments="5cm"}
+![](TD2/Hemomixer-Correction-01.png){fig-align="center" width="80%"}
+
+:::
+
+
+:::{}
+[]{.question} 
+Déterminer le graphe des liaisons du mécanisme (choisir la base pour orienter l’espace, et les différents points nécessaires à la description des liaisons)
+
+
+:::{.solutionbox arguments="5cm"}
+
 :::
 :::
 
+:::{ }
+[]{.question} 
+Réaliser le schéma cinématique dans le plan de l’animation précédente.
 
+:::{.solutionbox arguments="6cm"}
+:::
 
-\begin{tabu} to \linewidth {X[1,c] | X[1,l]}
-
-\toprule
-\textbf{1.}
- Nommez et identifiez les classes d’equivalence et les liaisons 
-  & 
-  \textbf{2.}
-  Déterminer le graphe des liaisons du mécanisme (choisir la base pour orienter l’espace, et les différents points nécessaires à la description des liaisons)  \\
-
-\includegraphics[width=8cm]{TD2/Hemomixer-00.jpg} &  \vspace{3cm} \\
-\midrule
-
-\multicolumn{2}{l} { \textbf{3. Schéma Cinématique} 
-Réaliser le schéma cinématique dans le plan de l’animation précédente. } 
-\vspace{5cm} \\
-
-
-
-
-\end{tabu}
-
+:::
+:::
+:::
 
 
 \newpage
 
-## Exercise 2
+
+## Exercice 2
+
+::: {.questions}
+[]{.question} 
+Colorier les pièces en fonction de leur classe d’équivalence
+
+:::{layout="[[30,70],[45,-5,45]]" layout-valign="center"}
+
+:::{}
+![](TD2/Perforatrice-00.jpeg){fig-align="center" width="80%"}
+:::
+
+:::{}
+![](TD2/Perforatrice.png){fig-align="center" width="400px"}
+\vspace{10pt}
+
+:::
 
 
-\begin{tabu} to \linewidth {X[1,c] | X[1,l]}
-
-\toprule
-\textbf{1.}
- Colorier les pièces en fonction de leur classe d’équivalence
-&   \textbf{2.}
- Déterminer le graphe des liaisons du mécanisme  \\
-
-\includegraphics[width=2cm]{TD2/Perforatrice-00.jpeg} 
-\includegraphics[width=8cm]{TD2/Perforatrice.png} 
-
-\vspace{1cm}
-&  \\ \midrule
-
-\multicolumn{2}{l} { \textbf{3. Schéma Cinématique} } 
-
-\vspace{4cm}
- 
- \\
 
 
-\end{tabu}
+:::{}
+[]{.question} 
+Déterminer le graphe des liaisons du mécanisme
+
+:::{.solutionbox arguments="9cm"}
+
+![](TD2/Perforatrice-Correction-02.png){fig-align="center" width="100%"}
+
+
+:::
+:::
+
+:::{}
+[]{.question} 
+**Tracez le schéma cinématique**
+
+:::{.solutionbox arguments="9cm"}
+
+![](TD2/Performatrice-correction.jpg){fig-align="center" width="100%"}
+
+:::
+:::
+
+:::
+
+:::
 
 
 \newpage
-## Exercise 3
 
-1. Colorier les pièces en fonction de leur classe d’équivalence
+## Exercice 3
+
+::: {.questions}
+[]{.question} 
+Colorier les pièces en fonction de leur classe d’équivalence
 
 ![](TD2/Borne-00.jpg){width="80%" fig-align="center"}
 
+:::{layout="[[45,-5,45]]" layout-valign="center"}
 
 
 
-\begin{tabu} to \linewidth {X[1,l] | X[1,l]}
+:::{}
+[]{.question} 
+Tracez le graphe des liaisons.
 
-\toprule
-\textbf{2.} Tracez le graphe des liaisons.
-  & 
-  \textbf{3.}
-  Tracez le schéma cinématique  \\
+:::{.solutionbox arguments="9cm"}
+![](TD2/Borne-correction-1.png){width="80%" fig-align="center"}
+:::
+:::
 
-  \vspace{3cm} &  \vspace{5cm} \\
+:::{}
+[]{.question} 
+**Tracez le schéma cinématique**
 
+:::{.solutionbox arguments="9cm"}
+![](TD2/Borne-correction-2.png){width="80%" fig-align="center"}
 
-\end{tabu}
+![](TD2/Borne-correction-3.png){width="80%" fig-align="center"}
+:::
+:::
+
+:::
+
+:::
 
 
 \newpage
@@ -165,35 +220,86 @@ Réaliser le schéma cinématique dans le plan de l’animation précédente. }
 ## Exercice 4
 
 
+:::{layout="[30,70]" layout-valign="center"}
 
-:::{layout="[[50,50], [40,60] ]" layout-valign="center"}
-
-![](TD2/Hayon-00.png){width="100%" fig-align="center"}
+![](TD2/Bride-00.png){width="150px" fig-align="top"}
 
 :::{}
+Cette bride a pour fonction le matine d'une pièce pendant une opération d'usinage. Le fluide sous préssion est injecté dans l'orifice d'admision. 
 
-### Contexte
-La société Bourgeois fabrique et commercialise des hayons élévateurs permettant l’accès d’un véhicule à toute personne se déplaçant en fauteuil roulant, sans modification de la carrosserie.
+![](TD2/Bride-01.png){width="300px" fig-align="center"}
+:::
+:::
+
+
+:::{.questions}
+
+[]{.question} 
+Identifier les classes d'equivalence à l'aide de couleurs distintes.Tracé le Graphe des Liaisons et le schéma cinématique.
+
+![](TD2/Bride-02.png){width="80%" fig-align="center"}
+
+:::{layout="[30,-5,70]"}
+
+![](TD2/Bride-03.png){width="100%" fig-align="center"}
+
+:::{.solutionbox arguments="5cm"}
+
 :::
 
 :::
 
-![](TD2/Hayon-01.png){width="50%" fig-align="center"}
-
-![](TD2/Hayon-02.png){width="100%" fig-align="center"}
 
 
 
-\begin{tabu} to \linewidth {X[1,l] | X[1,l]}
+:::{.solutionbox arguments="9cm"}
 
-\toprule
-\textbf{1.} Réaliser le graphe des liaisons de ce mécanisme, en phase de montée (en décrivant complètement les différentes liaisons).   &  \textbf{3.} Réaliser le schéma cinématique  \\
-         &  \vspace{5cm} \\
+:::
+:::
 
-\end{tabu}
+
+
+
 
 
 \newpage
 
+
+## Exercice 5
+
+:::{layout="[45,-5,50]" layout-valign="center"}
+
+:::{}
+![](TD2/Hayon-01.png){fig-align="center"}
+:::
+
+:::{}
+
+![](TD2/Hayon-00.png){width="100%" fig-align="center"}
+
+La société Bourgeois fabrique et commercialise des hayons élévateurs permettant l’accès d’un véhicule à toute personne se déplaçant en fauteuil roulant, sans modification de la carrosserie.
+
+![](TD2/Hayon-02.png){width="100%" fig-align="center"}
+:::
+:::
+
+
+::: {.questions}
+
+[]{.question} 
+Réaliser le graphe des liaisons de ce mécanisme, en phase de montée (en décrivant complètement les différentes liaisons).   
+
+:::{.solutionbox arguments="7cm"}
+![](TD2/Hayon-correction-00.png){width="70%" fig-align="center"}
+:::
+
+[]{.question}
+Réaliser le schéma cinématique 
+
+:::{.solutionbox arguments="9cm"}
+![](TD2/Hayon-correction-01.png){width="40%" fig-align="center"}
+:::
+
+:::
 
 

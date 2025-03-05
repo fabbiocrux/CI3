@@ -9,37 +9,22 @@ date: 20-Mar-2023
 email: "fabio.cruz@univ-lorraine.fr"
 institute: "Université de Lorraine | ENSGSI"
 link-citations: true
+metadata-files:
+  - _metadata.yml  
 format:
   revealjs:
-    slide-number: c/t
-    slide-level: 3
-    controls: true
-    transition: none
-    #margin: 10
-    width: 1600
-    height: 900
-    theme: [default, ../assets/custom.scss]
-    logo: "../assets/img/ENSGSI.png"
-    #embed-resources: false
-    echo: false
-    pdf-separate-fragments: true
-    toc: true
-    #toc-title: Agenda for today
     toc-depth: 1
-    center: false
-    number-sections: false
-    fig-align: center
-    code-copy: true        
-    header-logo: "../assets/img/ENSGSI.png"    
-    #subtitle-as-header: true
-    sc-sb-title: false
-    chalkboard: true
-    multiplex: true
 editor_options: 
   chunk_output_type: console
 ---
 
 # Modélisation des liaisons mécaniques
+
+
+## Conception en V
+
+![](CM3/System-design.png){width="80%" fig-align="center"}
+
 
 ## Mécanisme {background-image="CM3/turbina.gif" background-size="30%" background-position="95% 30%"}
 
@@ -47,17 +32,11 @@ editor_options:
 
 ::: {layout="[65,30]" layout-valign="top"}
 On appelle mécanisme, un *ensemble de pièces mécaniques* reliées entre elles par des *liaisons*, en vue de réaliser une fonction déterminée.
-
 :::
 
 . . .
 
 Nous admettrons que les pièces mécaniques peuvent être modélisées par des **solides indéformables**.
-
-## Conception en V
-
-![](CM3/System-design.png){width="80%" fig-align="center"}
-
 
 ## Solides Indeformables
 
@@ -476,22 +455,37 @@ Société Décathlon commercialise le système du vélo elliptique de marque Dom
 :::
 
 
-### Etapes  {background-image="CM3/Velo-fonctionnelle-11.png" background-size="40%" background-position="100% 35%"} 
+### Etapes  
 
+::: {layout="[80,20]" layout-valign="top"}
+::: {}
 1. [Regroupement des pièces en ensembles solides]{.grey}
 2. **Élaboration du graphe des liaisons**
 3. [Construction du schéma cinématique]{.grey}
+:::
 
-::: {layout="[80,20]" layout-valign="center"}
+:::{}
+![](CM3/Velo-fonctionnelle-13.png)
+:::
+:::
 
+::: {layout="[80,20]" layout-valign="top"}
 :::.{}
-Analyser pour ***chaque laiaison***
+Analyser pour ***chaque liaison***
 
 ✓ Surfaces en contact → (plan/plan, sphère/cylindre, ...)<br>
 ✓ Degrés de liberté<br>
 ✓ Identification de composants
 :::
+
+::: {}
+![](CM3/Velo-fonctionnelle-14.png)
+![](CM3/Velo-fonctionnelle-15.png)
 :::
+
+
+:::
+
 
 ### Etapes  {background-image="CM3/Velo-fonctionnelle-10.png" background-size="40%" background-position="95% 10%"} 
 
@@ -502,13 +496,13 @@ Analyser pour ***chaque laiaison***
 ::: {layout="[80,20]" layout-valign="center"}
 
 :::.{}
-Analyser pour ***chaque laiaison***
+Analyser pour ***chaque liaison***
 
 $L_{0-2}$ : Pivot d’axe $(𝐴,\vec{z})$<br>
-$L_{0-3}$ : Pivot d’axe $(𝐵,\vec{z})$<br>
-$L_{2-1}$ : Pivot d’axe $(𝐶,\vec{y})$<br>
-$L_{1-4}$ : Pivot glissant d’axe $(𝐴,\vec{y})$<br>
-$L_{3-4}$ : Pivot d’axe $(E,\vec{z})$<br>
+$L_{1-2}$ : Pivot d’axe $(B,\vec{z})$<br>
+$L_{1-4}$ : Pivot glissant d’axe $(C,\vec{v})$<br>
+$L_{3-4}$ : pivot glissant d’axe $(D,\vec{z})$<br>
+$L_{3-0}$ : Pivot d’axe $(E,\vec{z})$<br>
 :::
 :::
 

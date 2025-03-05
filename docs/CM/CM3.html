@@ -149,8 +149,31 @@ MdC. Fabio Cruz
 <nav role="doc-toc"> 
 <h2 id="toc-title">Table of contents</h2>
 <ul>
-<li><a href="#/modélisation-des-liaisons-mécaniques" id="/toc-modélisation-des-liaisons-mécaniques">Modélisation des liaisons mécaniques</a></li>
-<li><a href="#/élaboration-dun-schéma-cinématique" id="/toc-élaboration-dun-schéma-cinématique">Élaboration d’un schéma cinématique</a></li>
+<li><a href="#/modélisation-des-liaisons-mécaniques" id="/toc-modélisation-des-liaisons-mécaniques">Modélisation des liaisons mécaniques</a>
+<ul>
+<li><a href="#/conception-en-v" id="/toc-conception-en-v">Conception en V</a></li>
+<li><a href="#/mécanisme" id="/toc-mécanisme">Mécanisme</a></li>
+<li><a href="#/solides-indeformables" id="/toc-solides-indeformables">Solides Indeformables</a></li>
+<li><a href="#/repère" id="/toc-repère">Repère</a></li>
+<li><a href="#/degree-de-liberté" id="/toc-degree-de-liberté">Degree de liberté</a></li>
+<li><a href="#/notion-de-liaison" id="/toc-notion-de-liaison">Notion de liaison</a></li>
+<li><a href="#/degrés-de-liberté-dune-liaison" id="/toc-degrés-de-liberté-dune-liaison">Degrés de liberté d’une liaison</a></li>
+<li><a href="#/les-liaisons-mécaniques-elementaires" id="/toc-les-liaisons-mécaniques-elementaires">Les Liaisons Mécaniques Elementaires</a></li>
+<li><a href="#/pour-quoi-faire" id="/toc-pour-quoi-faire">Pour quoi faire?</a></li>
+</ul></li>
+<li><a href="#/élaboration-dun-schéma-cinématique" id="/toc-élaboration-dun-schéma-cinématique">Élaboration d’un schéma cinématique</a>
+<ul>
+<li><a href="#/définition" id="/toc-définition">Définition</a></li>
+<li><a href="#/example-1" id="/toc-example-1">Example 1</a></li>
+<li><a href="#/simuler-pour-mieux-comprendre." id="/toc-simuler-pour-mieux-comprendre.">💻 Simuler pour mieux comprendre.</a></li>
+<li><a href="#/example-2-vélo-elliptique-ve680" id="/toc-example-2-vélo-elliptique-ve680">Example 2: Vélo elliptique VE680</a></li>
+<li><a href="#/example-2-vélo-elliptique-ve680-1" id="/toc-example-2-vélo-elliptique-ve680-1">Example 2: Vélo elliptique VE680</a></li>
+<li><a href="#/example-2" id="/toc-example-2">Example 2</a></li>
+<li><a href="#/simuler-pour-mieux-comprendre.-1" id="/toc-simuler-pour-mieux-comprendre.-1">💻 Simuler pour mieux comprendre.</a></li>
+<li><a href="#/message-clé-de-cette-séance" id="/toc-message-clé-de-cette-séance">Message clé de cette séance</a></li>
+<li><a href="#/questions" id="/toc-questions">Questions?</a></li>
+<li><a href="#/td" id="/toc-td">TD</a></li>
+</ul></li>
 </ul>
 </nav>
 </section>
@@ -159,6 +182,11 @@ MdC. Fabio Cruz
 <h1>Modélisation des liaisons mécaniques</h1>
 
 </section>
+<section id="conception-en-v" class="title-slide slide level2 center">
+<h2>Conception en V</h2>
+
+<img data-src="CM3/System-design.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
+
 <section id="mécanisme" class="title-slide slide level2 center" data-background-image="CM3/turbina.gif" data-background-size="30%" data-background-position="95% 30%">
 <h2>Mécanisme</h2>
 <p><strong>Définition</strong>:</p>
@@ -176,11 +204,6 @@ MdC. Fabio Cruz
 <p>Nous admettrons que les pièces mécaniques peuvent être modélisées par des <strong>solides indéformables</strong>.</p>
 </div>
 </section>
-
-<section id="conception-en-v" class="title-slide slide level2 center">
-<h2>Conception en V</h2>
-
-<img data-src="CM3/System-design.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
 
 <section id="solides-indeformables" class="title-slide slide level2 center">
 <h2>Solides Indeformables</h2>
@@ -722,21 +745,36 @@ MdC. Fabio Cruz
 </div>
 </div>
 </section>
-<section id="etapes-11" class="slide level3" data-background-image="CM3/Velo-fonctionnelle-11.png" data-background-size="40%" data-background-position="100% 35%">
+<section id="etapes-11" class="slide level3">
 <h3>Etapes</h3>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[80,20]">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 80.0%;justify-content: flex-start;">
 <ol type="1">
 <li><span class="grey">Regroupement des pièces en ensembles solides</span></li>
 <li><strong>Élaboration du graphe des liaisons</strong></li>
 <li><span class="grey">Construction du schéma cinématique</span></li>
 </ol>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 20.0%;justify-content: center;">
+<p><img data-src="CM3/Velo-fonctionnelle-13.png"></p>
+</div>
+</div>
+</div>
 <div>
 
 </div>
 <div class="quarto-layout-panel" data-layout="[80,20]">
-<div class="quarto-layout-row quarto-layout-valign-center">
+<div class="quarto-layout-row quarto-layout-valign-top">
 <div class=".{} quarto-layout-cell" style="flex-basis: 80.0%;justify-content: flex-start;">
-<p>Analyser pour <strong><em>chaque laiaison</em></strong></p>
+<p>Analyser pour <strong><em>chaque liaison</em></strong></p>
 <p>✓ Surfaces en contact → (plan/plan, sphère/cylindre, …)<br> ✓ Degrés de liberté<br> ✓ Identification de composants</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 20.0%;justify-content: flex-start;">
+<p><img data-src="CM3/Velo-fonctionnelle-14.png"> <img data-src="CM3/Velo-fonctionnelle-15.png"></p>
 </div>
 </div>
 </div>
@@ -754,8 +792,8 @@ MdC. Fabio Cruz
 <div class="quarto-layout-panel" data-layout="[80,20]">
 <div class="quarto-layout-row quarto-layout-valign-center">
 <div class=".{} quarto-layout-cell" style="flex-basis: 80.0%;justify-content: flex-start;">
-<p>Analyser pour <strong><em>chaque laiaison</em></strong></p>
-<p><span class="math inline">\(L_{0-2}\)</span> : Pivot d’axe <span class="math inline">\((𝐴,\vec{z})\)</span><br> <span class="math inline">\(L_{0-3}\)</span> : Pivot d’axe <span class="math inline">\((𝐵,\vec{z})\)</span><br> <span class="math inline">\(L_{2-1}\)</span> : Pivot d’axe <span class="math inline">\((𝐶,\vec{y})\)</span><br> <span class="math inline">\(L_{1-4}\)</span> : Pivot glissant d’axe <span class="math inline">\((𝐴,\vec{y})\)</span><br> <span class="math inline">\(L_{3-4}\)</span> : Pivot d’axe <span class="math inline">\((E,\vec{z})\)</span><br></p>
+<p>Analyser pour <strong><em>chaque liaison</em></strong></p>
+<p><span class="math inline">\(L_{0-2}\)</span> : Pivot d’axe <span class="math inline">\((𝐴,\vec{z})\)</span><br> <span class="math inline">\(L_{1-2}\)</span> : Pivot d’axe <span class="math inline">\((B,\vec{z})\)</span><br> <span class="math inline">\(L_{1-4}\)</span> : Pivot glissant d’axe <span class="math inline">\((C,\vec{v})\)</span><br> <span class="math inline">\(L_{3-4}\)</span> : pivot glissant d’axe <span class="math inline">\((D,\vec{z})\)</span><br> <span class="math inline">\(L_{3-0}\)</span> : Pivot d’axe <span class="math inline">\((E,\vec{z})\)</span><br></p>
 </div>
 </div>
 </div>
@@ -875,8 +913,6 @@ MdC. Fabio Cruz
   <script src="../site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
   <script src="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
   <script src="../site_libs/revealjs/plugin/reveal-chalkboard/plugin.js"></script>
-  <script src="../site_libs/revealjs/plugin/multiplex/socket.io.js"></script>
-  <script src="../site_libs/revealjs/plugin/multiplex/multiplex.js"></script>
   <script src="../site_libs/revealjs/plugin/quarto-support/support.js"></script>
   
 
@@ -900,7 +936,6 @@ MdC. Fabio Cruz
 'jumpToSlide': true,
 'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleChalkboard(event)\"><kbd>b</kbd> Toggle Chalkboard</a></li>\n<li class=\"slide-tool-item\" data-item=\"6\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleNotesCanvas(event)\"><kbd>c</kbd> Toggle Notes Canvas</a></li>\n<li class=\"slide-tool-item\" data-item=\"7\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.downloadDrawings(event)\"><kbd>d</kbd> Download Drawings</a></li>\n<li class=\"slide-tool-item\" data-item=\"8\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
 'chalkboard': {"buttons":true},
-'multiplex': {"secret":null,"id":"5b8173a3d08abd44","url":"https://reveal-multiplex.glitch.me/"},
 'smaller': false,
  
         // Display controls in the bottom right corner
@@ -1074,7 +1109,7 @@ MdC. Fabio Cruz
         plugins: [QuartoLineHighlight, PdfExport, RevealMenu, RevealChalkboard, QuartoSupport,
 
           RevealMath,
-          
+          RevealNotes,
           RevealSearch,
           RevealZoom
         ]
