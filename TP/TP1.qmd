@@ -233,11 +233,12 @@ Cela permmetra d'avoir la configuration "**Student**"
 ::: {}
 - Esquisse (***Sketch*** en anglais) est le premiers pas vers la modélisation
 
-⚠️ **Regardez les sections 01, 02, 03 et 05 du tutoriel suivant:**
+⚠️ **Regardez:**
 
-[🎥 Tutoriel pour l'Esquisse](https://learn.onshape.com/learn/course/introduction-to-sketching/starting-a-sketch/starting-a-sketch)
+[🎥 Tutoriel pour l'Esquisse](https://learn.onshape.com/learn/course/fundamentals-sketching/creating-a-sketch/starting-a-sketch?page=1)
 :::
 :::
+
 
 ## Part <br> {#features background-image="TP1/onshape/04-Part.jpg" background-size="60%" background-position="100% 20%"}
 
@@ -247,10 +248,13 @@ Cela permmetra d'avoir la configuration "**Student**"
 - Création volumique (***Features*** en anglais)
 
 ![](TP1/onshape/04-Part-01.png)
+:::
+:::
+⚠️ **Regardez: Sections 1, 2 et 3**
 
-:::
-:::
-[🎥 Tutoriel pour la Création voluminique basique](https://learn.onshape.com/learn/course/introduction-to-part-design/feature-creation/basic-features?page=1)
+[🎥 Tutoriel pour la Création voluminique basique](https://learn.onshape.com/learn/course/introduction-to-part-studios/introduction/start-a-part?page=1)
+
+
 
 
 
@@ -269,9 +273,6 @@ Attention:
 [🎥 Tutoriel pour la Création d'un dessin technique sous onshape](https://learn.onshape.com/learn/course/introduction-to-2d-drawings/drawings-interface/introduction-to-drawings?page=1)
 
 ⚠️ **Regardez les sections 01, et 02 du tutoriel**
-
-
-
 
 
 # Exercise 3
@@ -380,9 +381,9 @@ Réaliser le modèle ***CAO Pièce*** et le **dessin technique de definition** �
 
 1. [Introduction au dessin technique](#dessin)
 1. [Introduction à Onshape](#interface)
-1. [L'Esquisse](#esquisse)
-1. [Extrusion](#features)
-1. [Mise en plan](#drawing)
+   1. [L'Esquisse](#esquisse)
+   1. [Extrusion](#features)
+   1. [Mise en plan](#drawing)
 
 
 
