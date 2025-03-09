@@ -108,59 +108,170 @@ Le document de l'Ex 1 va être utilisé dans l'exercice 3, car vous allez compar
 
 ## Ressources sur le Dessin technique {#dessin}
 
+### ⚠️ Comment réaliser un dessin de définition?
 
-### Historique sur Dessin technique 
+::: {layout="[15,-5, 85]"}
+::: {}
+[Capsule par l'Université Numerique](https://moodle.luniversitenumerique.fr/mod/h5pactivity/view.php?id=10183)
+:::
+::: {}
 
-[Capsule sur le dessin technique par l'Université Numerique](https://moodle.luniversitenumerique.fr/mod/h5pactivity/view.php?id=10179)
-```{=html}
-<iframe
-    src="https://moodle.luniversitenumerique.fr/h5p/embed.php?url=https%3A%2F%2Fmoodle.luniversitenumerique.fr%2Fpluginfile.php%2F17711%2Fmod_h5pactivity%2Fpackage%2F0%2FD%25C3%25A9couvrir-diff%25C3%25A9rents-types-repr%25C3%25A9sentations-techniques.h5p&amp;component=mod_h5pactivity"
-    name="h5player"
-    width="60%"
-    height="800"
-    allowfullscreen="allowfullscreen"
-    class="h5p-player w-100 border-0"
-    id="67cd7df85b14d67cd7df85b14e1-h5player"
-></iframe>
-```
-
-
-
-
-
-### Comment réaliser un dessin de définition?
-
-[Capsule sur le dessin technique par l'Université Numerique](https://moodle.luniversitenumerique.fr/mod/h5pactivity/view.php?id=10183)
 
 
 ```{=html}
 <iframe
     src="https://moodle.luniversitenumerique.fr/h5p/embed.php?url=https%3A%2F%2Fmoodle.luniversitenumerique.fr%2Fpluginfile.php%2F17715%2Fmod_h5pactivity%2Fpackage%2F0%2FComment-r%25C3%25A9aliser-dessin-d%25C3%25A9finition-conform%25C3%25A9ment-normes-ISO.h5p&amp;component=mod_h5pactivity"
     name="h5player"
-    width="80%"
+    width="100%"
     height="700"
     allowfullscreen="allowfullscreen"
     id="67cd84ca2c5a467cd84ca2c5a51-h5player"
 ></iframe>
 ```
 
+:::
+:::
+
+### [Optionnel 💡] Historique sur Dessin technique 
+
+::: {layout="[15,-5, 85]"}
+::: {}
+[Capsule sur le dessin technique par l'Université Numerique](https://moodle.luniversitenumerique.fr/mod/h5pactivity/view.php?id=10179)
+:::
+::: {}
+```{=html}
+<iframe
+    src="https://moodle.luniversitenumerique.fr/h5p/embed.php?url=https%3A%2F%2Fmoodle.luniversitenumerique.fr%2Fpluginfile.php%2F17711%2Fmod_h5pactivity%2Fpackage%2F0%2FD%25C3%25A9couvrir-diff%25C3%25A9rents-types-repr%25C3%25A9sentations-techniques.h5p&amp;component=mod_h5pactivity"
+    name="h5player"
+    width="95%"
+    height="800"
+    allowfullscreen="allowfullscreen"
+    class="h5p-player w-100 border-0"
+    id="67cd7df85b14d67cd7df85b14e1-h5player"
+></iframe>
+```
+:::
+:::
+
+
+
+
 # Exercise 2
 
-**But**: 
-Réaliser un modèle ***CAO Pièce*** à partir d'un dessin technique. 
+**But**:  Réaliser un modèle ***CAO Pièce*** à partir d'un dessin technique. 
 
 
-## Exercise 2 {background-image="TP1/Ex2.svg" background-size="35%" background-position="98% 50%"}
+## Exercise 2 {background-image="TP1/2025-TD-1-Correction.png" background-size="35%" background-position="98% 50%"}
 
 ::: {layout="[65, 30]"}
 ::: {}
 **But:** À partir des exercices du TD1 (Vues isometriques), utiliser le logiciel *Onshape* pour faire les 6 pièces proposés. 
+
 **Chaque carré** equivaut à $10mm$
 
-1. Telechargez la feuille sur [ARCHE](https://arche.univ-lorraine.fr/pluginfile.php/4201663/mod_resource/content/1/Correction.pdf)
+1. ⬇️ [Telechargez la Correction du TD 1](TP1/2025-TD-1-Correction.jpg)
 :::
 
 :::
+
+
+
+## Ressources sur Onshape {#onshape}
+
+### Compte Onshape {background-image="TP1/onshape/00-Installation.jpg" background-size="50%" background-position="100% 20%"}
+
+::: {layout="[40, 60]"}
+::: {}
+1. Ouvrez une compte sur [https://www.onshape.com/fr/](https://www.onshape.com/fr/)
+2. Utilisez votre **email de l'Université de Lorraine**
+
+Cela permmetra d'avoir la configuration "**Student**"
+:::
+:::
+
+### Configuration {background-image="TP1/onshape/01-configuration.png" background-size="60%" background-position="100% 20%"}
+
+::: {layout="[40, 60]"}
+::: {}
+1. Click on '*votre nom*' > *my account*
+1. Configurez votre compte en langue '*Français*' 
+1. Utilisez l'unité par défaut de Longueur en **Millimèters: $mm$**
+:::
+:::
+
+### Introduction <br> à la interface {background-image="TP1/onshape/01-environnement.jpeg" background-size="50%" background-position="90% 20%"}
+
+::: {layout="[40, 60]"}
+::: {}
+- Voilà aperçue de l'interface
+
+- Button *Create* afin de un document 
+
+
+[🎥 Tutoriel sur l'interface](https://learn.onshape.com/learn/course/navigating-onshape/onshape-interface/the-documents-page?page=1)
+:::
+:::
+
+
+### Creation d'un <br> document {background-image="TP1/onshape/02-document-creation.jpeg" background-size="60%" background-position="100% 20%"}
+
+::: {layout="[40, 60]"}
+::: {}
+- Voilà aperçue de l'interface
+
+- Button *Create* afin de un document 
+:::
+:::
+
+[🎥 Tutoriel pour creer un document](https://learn.onshape.com/learn/course/navigating-onshape/getting-started/creating-a-document?page=1)
+
+
+
+## L'Esquisse <br> {#esquisse background-image="TP1/onshape/03-Esquisse.jpg" background-size="60%" background-position="100% 20%"}
+
+::: {layout="[40, 60]"}
+::: {}
+- Esquisse (***Sketch*** en anglais) est le premiers pas vers la modélisation
+
+⚠️ **Regardez les sections 01, 02, 03 et 05 du tutoriel suivant:**
+
+[🎥 Tutoriel pour l'Esquisse](https://learn.onshape.com/learn/course/introduction-to-sketching/starting-a-sketch/starting-a-sketch)
+:::
+:::
+
+## Part <br> {#features background-image="TP1/onshape/04-Part.jpg" background-size="60%" background-position="100% 20%"}
+
+
+::: {layout="[40, 60]"}
+::: {}
+- Création volumique (***Features*** en anglais)
+
+![](TP1/onshape/04-Part-01.png)
+
+:::
+:::
+[🎥 Tutoriel pour la Création voluminique basique](https://learn.onshape.com/learn/course/introduction-to-part-design/feature-creation/basic-features?page=1)
+
+
+
+## Dessin technique {#drawing background-image="TP1/onshape/05-Dessin.jpg" background-size="60%" background-position="100% 20%"}
+
+::: {layout="[40, 60]"}
+::: {}
+- Création volumique (***Drawing*** en anglais)
+
+Attention:
+
+- Utilisez la projection '***Third Angle (ANSI)***' 
+- Format A4.
+:::
+:::
+[🎥 Tutoriel pour la Création d'un dessin technique sous onshape](https://learn.onshape.com/learn/course/introduction-to-2d-drawings/drawings-interface/introduction-to-drawings?page=1)
+
+⚠️ **Regardez les sections 01, et 02 du tutoriel**
+
+
+
 
 
 # Exercise 3
@@ -275,98 +386,6 @@ Réaliser le modèle ***CAO Pièce*** et le **dessin technique de definition** �
 
 
 
-## Introduction à Onshape {#interface} 
-### Compte Onshape {background-image="TP1/onshape/00-Installation.jpg" background-size="50%" background-position="100% 20%"}
-
-::: {layout="[40, 60]"}
-::: {}
-1. Ouvrez une compte sur [https://www.onshape.com/fr/](https://www.onshape.com/fr/)
-2. Utilisez votre **email de l'Université de Lorraine**
-
-Cela permmetra d'avoir la configuration "**Student**"
-:::
-:::
-
-### Configuration {background-image="TP1/onshape/01-configuration.png" background-size="60%" background-position="100% 20%"}
-
-::: {layout="[40, 60]"}
-::: {}
-1. Click on '*votre nom*' > *my account*
-1. Configurez votre compte en langue '*Français*' 
-1. Utilisez l'unité par défaut de Longueur en **Millimèters: $mm$**
-:::
-:::
-
-### Introduction <br> à la interface {background-image="TP1/onshape/01-environnement.jpeg" background-size="60%" background-position="100% 20%"}
-
-::: {layout="[40, 60]"}
-::: {}
-- Voilà aperçue de l'interface
-
-- Button *Create* afin de un document 
-
-
-[🎥 Tutoriel sur l'interface](https://learn.onshape.com/learn/course/navigating-onshape/onshape-interface/the-documents-page?page=1)
-:::
-:::
-
-
-### Creation d'un <br> document {background-image="TP1/onshape/02-document-creation.jpeg" background-size="60%" background-position="100% 20%"}
-
-::: {layout="[40, 60]"}
-::: {}
-- Voilà aperçue de l'interface
-
-- Button *Create* afin de un document 
-:::
-:::
-
-[🎥 Tutoriel pour creer un document](https://learn.onshape.com/learn/course/navigating-onshape/getting-started/creating-a-document?page=1)
-
-
-
-## L'Esquisse <br> {#esquisse background-image="TP1/onshape/03-Esquisse.jpg" background-size="60%" background-position="100% 20%"}
-
-::: {layout="[40, 60]"}
-::: {}
-- Esquisse (***Sketch*** en anglais) est le premiers pas vers la modélisation
-
-⚠️ **Regardez les sections 01, 02, 03 et 05 du tutoriel suivant:**
-
-[🎥 Tutoriel pour l'Esquisse](https://learn.onshape.com/learn/course/introduction-to-sketching/starting-a-sketch/starting-a-sketch)
-:::
-:::
-
-## Part <br> {#features background-image="TP1/onshape/04-Part.jpg" background-size="60%" background-position="100% 20%"}
-
-
-::: {layout="[40, 60]"}
-::: {}
-- Création volumique (***Features*** en anglais)
-
-![](TP1/onshape/04-Part-01.png)
-
-:::
-:::
-[🎥 Tutoriel pour la Création voluminique basique](https://learn.onshape.com/learn/course/introduction-to-part-design/feature-creation/basic-features?page=1)
-
-
-
-## Dessin technique {#drawing background-image="TP1/onshape/05-Dessin.jpg" background-size="60%" background-position="100% 20%"}
-
-::: {layout="[40, 60]"}
-::: {}
-- Création volumique (***Drawing*** en anglais)
-
-Attention:
-
-- Utilisez la projection '***Third Angle (ANSI)***' 
-- Format A4.
-:::
-:::
-[🎥 Tutoriel pour la Création d'un dessin technique sous onshape](https://learn.onshape.com/learn/course/introduction-to-2d-drawings/drawings-interface/introduction-to-drawings?page=1)
-
-⚠️ **Regardez les sections 01, et 02 du tutoriel**
 
 
 ## Questions? 
