@@ -218,7 +218,7 @@
     "href": "TP/TP1.html#exercices",
     "title": "Conception et Innovation – CI3",
     "section": "Exercices",
-    "text": "Exercices\n\n\n\n\n\n\n🔅 Ex. 1 \n\n\nEx. 2 \n\n\nEx. 4\n \n\n\n🔥 Ex. 4 \n\n\n\n\n\n\n\nLogiciel:\n\n\n\n\n\nhttps://www.onshape.com/",
+    "text": "Exercices\n\n\n\n\n\n\n🔅 Ex. 1 \n\n\nEx. 2\n\n\n\n\n\n\n\nEx. 4\n \n\n\n🔥 Ex. 4 \n\n\n\n\n\n\n\nLogiciel:\n\n\n\n\n\nhttps://www.onshape.com/",
     "crumbs": [
       "Conception et Innovation -- CI3"
     ]
@@ -238,7 +238,7 @@
     "href": "TP/TP1.html#exercice-1-1",
     "title": "Conception et Innovation – CI3",
     "section": "Exercice 1",
-    "text": "Exercice 1\nBut: Faire le dessin technique sur le papier de la pièce que donné.\n\n\n\n\n\n\nImportant\n\n\nLe document de l’Ex 1 va être utilisé dans l’exercice 3, car vous allez comparer les documents entre vous pour vérifier la qualité de votre dessin.\n\n\n\n\n\n\n\n\n\n\nNotéz le code de la pièce et votre prenom dans le cartouche\nNotez votre Prenom et Nom en tant que dessinateur\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n−+\n45:00",
+    "text": "Exercice 1\nBut: Faire le dessin technique sur le papier de la pièce que donné.\n\n\n\n\n\n\n\n\n\n\n\n\nImportant\n\n\nLe document de l’Ex 1 va être utilisé dans l’exercice 3, car vous allez comparer les documents entre vous pour vérifier la qualité de votre dessin.\n\n\n\n\nNotéz le code de la pièce et votre Prenom dans le cartouche en tant que dessinateur",
     "crumbs": [
       "Conception et Innovation -- CI3"
     ]
@@ -248,7 +248,7 @@
     "href": "TP/TP1.html#exercise-2-1",
     "title": "Conception et Innovation – CI3",
     "section": "Exercise 2",
-    "text": "Exercise 2\nBut: À partir des exercices du TD1 (Vues isometriques), utiliser le logiciel Onshape pour faire les 6 pièces proposés. Chaque carré equivaut à \\(10mm\\)\n\n\n\n\n\n\n\nTelechargez la feuille sur ARCHE\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n−+\n45:00",
+    "text": "Exercise 2\n\n\n\n\n\n\nBut: À partir des exercices du TD1 (Vues isometriques), utiliser le logiciel Onshape pour faire les 6 pièces proposés. Chaque carré equivaut à \\(10mm\\)\n\nTelechargez la feuille sur ARCHE",
     "crumbs": [
       "Conception et Innovation -- CI3"
     ]
@@ -258,7 +258,7 @@
     "href": "TP/TP1.html#exercise-3-1",
     "title": "Conception et Innovation – CI3",
     "section": "Exercise 3",
-    "text": "Exercise 3\nBut: À partir de l’exercice 1, utilisez le logiciel Onshape pour faire les modèle proposé.\n\n\n\n\n\n\n\nIdentifiez tout les erreurs de cotation que votre collège à fait.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n−+\n45:00",
+    "text": "Exercise 3\n\n\n\n\n\n\nBut: À partir de l’exercice 1, utilisez le logiciel Onshape pour faire les modèle proposé.\n\nIdentifiez tout les erreurs de cotation que votre collège à fait.",
     "crumbs": [
       "Conception et Innovation -- CI3"
     ]
@@ -268,7 +268,7 @@
     "href": "TP/TP1.html#exercise-4-1",
     "title": "Conception et Innovation – CI3",
     "section": "Exercise 4",
-    "text": "Exercise 4\nBut: Choisisez une pièce imprimé et faites le modèle CAO et le dessin technique sous onshape.",
+    "text": "Exercise 4\n\n\n\n\n\n\nBut: Choisisez une pièce imprimé et faites le modèle CAO et le dessin technique sous onshape.",
     "crumbs": [
       "Conception et Innovation -- CI3"
     ]
@@ -277,8 +277,8 @@
     "objectID": "TP/TP1.html#dessin",
     "href": "TP/TP1.html#dessin",
     "title": "Conception et Innovation – CI3",
-    "section": "Dessin technique",
-    "text": "Dessin technique",
+    "section": "Ressources sur le Dessin technique",
+    "text": "Ressources sur le Dessin technique",
     "crumbs": [
       "Conception et Innovation -- CI3"
     ]
@@ -742,6 +742,16 @@
     "text": "LIen Pédagogiques GSI\n(Voir les diapos de Fefe)",
     "crumbs": [
       "Conception et Innovation - CI3-"
+    ]
+  },
+  {
+    "objectID": "TP/TP1.html#exercise-4-2",
+    "href": "TP/TP1.html#exercise-4-2",
+    "title": "Conception et Innovation – CI3",
+    "section": "Exercise 4",
+    "text": "Exercise 4\nBut: Choisisez une pièce imprimé et faites le modèle CAO et le dessin technique sous onshape.",
+    "crumbs": [
+      "Conception et Innovation -- CI3"
     ]
   }
 ]

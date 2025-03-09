@@ -8,7 +8,7 @@ format:
     documentclass: exam
     classoption:
      - 12pt 
-#     - answers 
+     - answers 
     block-headings: false
     toc: false 
     geometry:
