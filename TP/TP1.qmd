@@ -232,6 +232,9 @@ Cela permmetra d'avoir la configuration "**Student**"
 ::: {layout="[40, 60]"}
 ::: {}
 - Esquisse (***Sketch*** en anglais) est le premiers pas vers la modélisation
+   1. **Entités** 
+   2. **Contraintes** 
+   2. **Outils** 
 
 ⚠️ **Regardez:**
 
@@ -384,9 +387,6 @@ Réaliser le modèle ***CAO Pièce*** et le **dessin technique de definition** �
    1. [L'Esquisse](#esquisse)
    1. [Extrusion](#features)
    1. [Mise en plan](#drawing)
-
-
-
 
 
 ## Questions? 
