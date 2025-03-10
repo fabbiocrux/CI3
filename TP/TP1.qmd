@@ -205,7 +205,7 @@ Cela permmetra d'avoir la configuration "**Student**"
 ::: {}
 - Voilà aperçue de l'interface
 
-- Button *Create* afin de un document 
+- Button *Create* afin de créer un document 
 
 
 [🎥 Tutoriel sur l'interface](https://learn.onshape.com/learn/course/navigating-onshape/onshape-interface/the-documents-page?page=1)
@@ -219,7 +219,7 @@ Cela permmetra d'avoir la configuration "**Student**"
 ::: {}
 - Voilà aperçue de l'interface
 
-- Button *Create* afin de un document 
+- Button *Create* afin de créer un document 
 :::
 :::
 
