@@ -284,7 +284,6 @@ Attention:
 Réaliser le modèle ***CAO Pièce*** à partir du dessin technique **fait d'un.e de vos collèges**. 
 
 
-
 ## Exercise 3 {background-image="TP1/Ex1.svg" background-size="35%" background-position="98% 50%"}
 
 ::: {layout="[70, 30]"}
@@ -302,6 +301,12 @@ Réaliser le modèle ***CAO Pièce*** à partir du dessin technique **fait d'un.
 :::
 
 
+## Exercise 3
+::: {layout="[50, 50]" layout-valign="center"}
+[https://forms.gle/f9KKMk35FSnWdSSz5](https://forms.gle/f9KKMk35FSnWdSSz5)
+
+![](TP1/Encuesta.png)
+:::
 # Exercise 4
 
 **But**: 
