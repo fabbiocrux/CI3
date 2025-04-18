@@ -2,12 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.42">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Fabio CRUZ">
+<meta name="dcterms.date" content="2021-05-22">
 
-<title>Introduction à la conception de système mécatronique – CI3:</title>
+<title>Data analysis of the auto-evaluation of CI3</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,256 +22,101 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-bad1e243997c984197f0015b196c58b2.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-f8fadf4e23cea44f945dc1f79f354601.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
-<script id="quarto-search-options" type="application/json">{
-  "location": "navbar",
-  "copy-button": false,
-  "collapse-after": 3,
-  "panel-placement": "end",
-  "type": "overlay",
-  "limit": 50,
-  "keyboard-shortcut": [
-    "f",
-    "/",
-    "s"
-  ],
-  "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
-    "search-text-placeholder": "",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
-  }
-}</script>
-<script>
-window.MathJax = {
-  loader: {
-    load: ['[tex]/physics']
-  },
-  tex: {
-    packages: {'[+]': ['physics']}
-  }
-};
-</script>    
+<script src="Groupes-autoevaluation_files/libs/clipboard/clipboard.min.js"></script>
+<script src="Groupes-autoevaluation_files/libs/quarto-html/quarto.js"></script>
+<script src="Groupes-autoevaluation_files/libs/quarto-html/popper.min.js"></script>
+<script src="Groupes-autoevaluation_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="Groupes-autoevaluation_files/libs/quarto-html/anchor.min.js"></script>
+<link href="Groupes-autoevaluation_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="Groupes-autoevaluation_files/libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="Groupes-autoevaluation_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="Groupes-autoevaluation_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="Groupes-autoevaluation_files/libs/bootstrap/bootstrap-973236bd072d72a04ee9cd82dcc9cb29.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
-<body class="nav-fixed">
+<body class="fullcontent">
 
-<div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
-      <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./logo.png" alt="" class="navbar-logo">
-    </a>
-    <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">CI3:</span>
-    </a>
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Data analysis of the auto-evaluation of CI3</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Fabio CRUZ </p>
+          </div>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-  <span class="navbar-toggler-icon"></span>
-</button>
-          <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll me-auto">
-  <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
-<span class="menu-text">Home</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./CM.qmd"> 
-<span class="menu-text">Cours Magistraux</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./TD.qmd"> 
-<span class="menu-text">Travaux Dirigés</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./TP.qmd"> 
-<span class="menu-text">Travaux Pratiques</span></a>
-  </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-aide" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Aide</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-aide">    
-        <li class="dropdown-header">Report un Erreur</li>
-        <li class="dropdown-header">Demandez une Question</li>
-        <li class="dropdown-header">FAQ</li>
-    </ul>
-  </li>
-</ul>
-          </div> <!-- /navcollapse -->
-            <div class="quarto-navbar-tools">
-    <a href="https://twitter.com/fabbiocrux" title="Quarto Twitter" class="quarto-navigation-tool px-1" aria-label="Quarto Twitter"><i class="bi bi-twitter"></i></a>
-    <a href="https://github.com/fabbiocrux/MdP" title="MdP GitHub" class="quarto-navigation-tool px-1" aria-label="MdP GitHub"><i class="bi bi-github"></i></a>
-</div>
-      </div> <!-- /container-fluid -->
-    </nav>
-</header>
-<!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
-<!-- sidebar -->
-<!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#objectif-du-module" id="toc-objectif-du-module" class="nav-link active" data-scroll-target="#objectif-du-module"><span class="header-section-number">1</span> Objectif du Module</a></li>
-  <li><a href="#mind-mapping-conceptuel-du-cours" id="toc-mind-mapping-conceptuel-du-cours" class="nav-link" data-scroll-target="#mind-mapping-conceptuel-du-cours"><span class="header-section-number">2</span> Mind Mapping Conceptuel du Cours</a></li>
-  <li><a href="#planning-des-séances" id="toc-planning-des-séances" class="nav-link" data-scroll-target="#planning-des-séances"><span class="header-section-number">3</span> Planning des Séances</a>
-  <ul class="collapse">
-  <li><a href="#notes" id="toc-notes" class="nav-link" data-scroll-target="#notes"><span class="header-section-number">3.1</span> Notes</a></li>
-  <li><a href="#bibliographie" id="toc-bibliographie" class="nav-link" data-scroll-target="#bibliographie"><span class="header-section-number">3.2</span> Bibliographie</a></li>
-  </ul></li>
-  </ul>
-</nav>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 22, 2021</p>
     </div>
-<!-- main -->
-<main class="content column-page-left" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"><h1 class="course-title title display-7">
-             Introduction à la conception de système mécatronique
-         </h1></header>
-
-<div class="grid title-block">
-     <div class="course-details-title-block g-col-12 g-col-sm-8 order-2 order-sm-1 text-center text-sm-start">
-         
-         <div class="course-subtitle">
-             <p>Conception et Innovation</p>
-         </div>
-         <div class="course-meta">
-             <p></p><p>“Think with your hands, build something or ty something, then talk about it, NOT the Reverse.” <em>David Kelly, Founder IDEO &amp; Standford Deisgn School</em></p><p></p>
-         </div>
-         
-         <p>
-            <a href="CM/CM.html" class="btn-action-primary btn-action btn btn-success btn-lg" role="button">Cours Magistraux</a>            
-            <a href="TD/TD.html" id="btn-guide" class="btn-action btn btn-info btn-lg" role="button">Guide de Travaux Dirigés</a>
-         </p>
-         
-     </div>
-     <div class="g-col-12 g-col-sm-4 order-1 order-sm-2">
-       <div class="grid" style="--bs-columns: 5;">
-         <div class="g-col-1 g-col-sm-0"></div>
-         <div class="g-col-3 g-col-sm-5"><img src="./assets/img/logo-mdp.png" class="img-fluid"></div>
-         <div class="g-col-1 g-col-sm-0"></div>
-       </div>
-     </div>
- </div>
+  </div>
+  
+    
+  </div>
+  
 
 
-<div class="hero-banner">
-<div class="content-block">
-<div class="hero-text">
-<div class="grid course-details">
-<section id="instructors" class="level2 g-col-12 g-col-sm-6 g-col-md-4" data-number="0.1">
-<h2 data-number="0.1" class="anchored" data-anchor-id="instructors"><span class="header-section-number">0.1</span> Instructors</h2>
-<ul>
-<li><i class="fa-solid fa-user" aria-label="user"></i> &nbsp; <a href="https://erpi.univ-lorraine.fr/people/Fabio-Cruz/">MdC. Alaa Hassan</a></li>
-<li><i class="fa-solid fa-user" aria-label="user"></i> &nbsp; <a href="https://erpi.univ-lorraine.fr/people/Fabio-Cruz/">Dr.&nbsp;Fabio A Cruz</a></li>
-<li><i class="fa-solid fa-university" aria-label="university"></i> &nbsp; ENSGSI</li>
-<li><i class="fa-solid fa-calendar-check" aria-label="calendar-check"></i> &nbsp; <a href="https://calendly.com/">Schedule an appointment</a></li>
-</ul>
-</section>
-<section id="course-details" class="level2 g-col-12 g-col-sm-6 g-col-md-4" data-number="0.2">
-<h2 data-number="0.2" class="anchored" data-anchor-id="course-details"><span class="header-section-number">0.2</span> Course details</h2>
-<ul>
-<li><i class="fa-solid fa-calendar" aria-label="calendar"></i> &nbsp; Thursdays</li>
-<li><i class="fa-solid fa-calendar-alt" aria-label="calendar-alt"></i> &nbsp; January 9–May 2, 2023</li>
-<li><i class="fa-solid fa-clock" aria-label="clock"></i> &nbsp; 7:15–9:45 PM</li>
-<li><i class="fa-solid fa-location-dot" aria-label="location-dot"></i> &nbsp; ENSGSI</li>
-</ul>
-</section>
-<section id="contactez-nous" class="level2 g-col-12 g-col-md-4 contact-policy" data-number="0.3">
-<h2 data-number="0.3" class="anchored" data-anchor-id="contactez-nous"><span class="header-section-number">0.3</span> Contactez nous</h2>
-<p>L’e-mail et Microsoft teams sont les meilleurs moyens de nous contacter. On essai de répondre à tous les courriels et messages liés au cours dans les XX heures (<em>vraiment</em>), mais rappelez-vous aussi que la vie peut être occupée et chaotique pour tout le monde (y compris nous !), alors si je ne réponds pas tout de suite, ne vous inquiétez pas !</p>
-</section>
-</div>
-</div>
-<div class="hero-animation">
-
-</div>
-</div>
-</div>
-<section id="objectif-du-module" class="level1" data-number="1">
-<h1 data-number="1"><span class="header-section-number">1</span> Objectif du Module</h1>
-<p>Ce cours vise les étudiants de <span class="math inline">\(1^{ère}\)</span> année de cycle d’Ingénierie de l’ENSGSI.</p>
-<p>La conception de systèmes mécatroniques repose sur un ensemble de technologies (incluant notamment l’impression 3D, l’usinage à commande numérique et l’électronique programmable) permettant la production de systèmes fonctionnels (maquettes, preuves de concepts) en un temps et un coût réduit. La maitrise de ces technologies est primordiale afin d’être capable de choisir les outils les plus adaptés en prenant en compte les contraintes spécifiques à chaque technologie ainsi qu’au prototype à réaliser.</p>
-<p>L’objectif du cours est de donner aux élèves les compétences de base afin de pouvoir matérialiser une idée conceptuelle vers un objet de conception intermédiaire mécatronique pour un concept donné. Ce module utilisera les technologies disponibles au Lorraine Fab Living Lab. A l’issue du cours, les élèves auront acquis la culture scientifique et technique nécessaire à la conception et à la réalisation, en autonomie, d’un prototype de système mécanique fonctionnel comportant une partie commande.</p>
-</section>
-<section id="mind-mapping-conceptuel-du-cours" class="level1" data-number="2">
-<h1 data-number="2"><span class="header-section-number">2</span> Mind Mapping Conceptuel du Cours</h1>
-</section>
-<section id="planning-des-séances" class="level1" data-number="3">
-<h1 data-number="3"><span class="header-section-number">3</span> Planning des Séances</h1>
-<section id="notes" class="level2" data-number="3.1">
-<h2 data-number="3.1" class="anchored" data-anchor-id="notes"><span class="header-section-number">3.1</span> Notes</h2>
-</section>
-<section id="bibliographie" class="level2" data-number="3.2">
-<h2 data-number="3.2" class="anchored" data-anchor-id="bibliographie"><span class="header-section-number">3.2</span> Bibliographie</h2>
+</header>
 
 
-</section>
+<section id="data" class="level1">
+<h1>Data</h1>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </section>
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+</main>
+<!-- /main column -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -688,49 +535,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<footer class="footer">
-  <div class="nav-footer">
-    <div class="nav-footer-left">
-<p>Développé par <a href="https://www.ensgsi.univ-lorraine.fr/"><img src="https://raw.githubusercontent.com/fabbiocrux/Figures/main/Logos/ENSGSI/2022/Lorraine%20INP%20ENSGSI%20RS%20(couleur%2C%20CMJN).png" class="img-fluid" alt="ENSGSI" width="65"></a></p>
-</div>   
-    <div class="nav-footer-center">
-      <ul class="footer-items list-unstyled">
-    <li class="nav-item">
- About
-  </li>  
-    <li class="nav-item">
- FAQ
-  </li>  
-    <li class="nav-item">
- License
-  </li>  
-    <li class="nav-item">
- Trademark
-  </li>  
-</ul>
-    </div>
-    <div class="nav-footer-right">
-      <ul class="footer-items list-unstyled">
-    <li class="nav-item compact">
-      <i class="bi bi-twitter" role="img" aria-label="Quarto Twitter">
-</i> 
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/fabbiocrux/CI3">
-      <i class="bi bi-github" role="img" aria-label="Quarto GitHub">
-</i> 
-    </a>
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://quarto.org/docs/blog/index.xml">
-      <i class="bi bi-rss" role="img" aria-label="Quarto Blog RSS">
-</i> 
-    </a>
-  </li>  
-</ul>
-    </div>
-  </div>
-</footer>
 
 
 

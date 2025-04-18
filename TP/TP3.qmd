@@ -53,13 +53,66 @@ library(countdown)
 2. Faire une **simulation de mouvement** d'un modèle CAO
 
 
+## Rapelle téorique
+
+### Notion de Liasons
+
+::: {layout="[30,70]"}
+:::{}
+![Liaison fixe](TP3/theory/Liaison-00.png) liasion fxe
+
+- 0 degrees de liberté
+- Selectioner entr
+
+:::
+
+:::{}
+
+<p><a href="https://cad.onshape.com/help/Content/mate-fastened.htm?wvideo=w8fodmuokg#video-example"><img src="https://embed-ssl.wistia.com/deliveries/dc7daa240dd350697f4b1f47cc03c2697d87ecb2.jpg?image_play_button_size=2x&image_crop_resized=960x544&image_play_button_rounded=1&image_play_button_color=1b5faae0" width="600" height="226.25" style="width: 90%; height: auto;"></a></p><p><a href="https://cad.onshape.com/help/Content/mate-fastened.htm?wvideo=w8fodmuokg#video-example">Plus de détails</a></p>
+
+:::
+:::
 
 
 
-## Exercices
+
+
+
+
+
+## Exercices Individueles des Liasons.
+
+::: {layout="[30,70]"}
+:::{}
+![Liaison fixe](TP3/theory/Liaison-00.png) liasion fxe
+
+- 0 degrees de liberté
+- Selectioner entr
+
+:::
+
+:::{}
+
+{{< video https://fast.wistia.net/embed/iframe/w8fodmuokg?videoFoam=true&amp;qualityMin=540 >}}
+
+:::
+:::
+
+
+## Exercices Liason Pivot
+
+
+
+## Exercice 0/
+
+
+
+
+
+
+
 
 ::: {layout="[[25,25, 25, 25], [20, 30, 50]]"}
-
 ::: {}
 **Ex. 0**
 
