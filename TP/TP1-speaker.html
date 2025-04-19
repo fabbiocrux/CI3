@@ -9,9 +9,9 @@
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.6.42">
 
-  <meta name="author" content="MdC. Fabio Cruz">
-  <meta name="dcterms.date" content="2025-04-19">
-  <title>CI3: – CM1: Introduction à la conception des systèmes mécatroniques</title>
+  <meta name="author" content="MCF. Fabio Cruz">
+  <meta name="dcterms.date" content="2023-05-13">
+  <title>CI3: – Conception et Innovation – CI3</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -130,13 +130,13 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block center">
-  <h1 class="title">CM1: Introduction à la conception des systèmes mécatroniques</h1>
-  <p class="subtitle">Conception et Innovation -CI3-</p>
+  <h1 class="title">Conception et Innovation – CI3</h1>
+  <p class="subtitle">TP1: Introduction à conception et dessin assistés par ordinateur (CDAO)</p>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
 <div class="quarto-title-author-name">
-MdC. Fabio Cruz 
+MCF. Fabio Cruz 
 </div>
         <p class="quarto-title-affiliation">
             Université de Lorraine | ENSGSI
@@ -144,357 +144,445 @@ MdC. Fabio Cruz
     </div>
 </div>
 
-  <p class="date">April 19, 2025</p>
-</section><section id="TOC">
-<nav role="doc-toc"> 
-<h2 id="toc-title">But de la Séance</h2>
-<ul>
-<li><a href="#/introduction" id="/toc-introduction">Introduction</a></li>
-<li><a href="#/ci3-introduction-à-la-conception-des-systèmes-mécatroniques" id="/toc-ci3-introduction-à-la-conception-des-systèmes-mécatroniques">CI3 – Introduction à la conception des systèmes mécatroniques</a></li>
-</ul>
-</nav>
+  <p class="date">2023-05-13</p>
 </section>
 <section>
-<section id="introduction" class="title-slide slide level1 center">
-<h1>Introduction</h1>
-
-</section>
-<section id="conception-et-innovation---ci3" class="title-slide slide level2 center">
-<h2>Conception et Innovation - CI3?</h2>
-<ul>
-<li>De quoi parle ce cours ?</li>
-<li>Structure du cours, des attendus, les engagements</li>
-</ul>
-</section>
-<section id="ligné-de-la-conception-et-innovation-du-ensgsi" class="slide level3">
-<h3>Ligné de la Conception et Innovation du ENSGSI</h3>
-<div class="panel-tabset">
-<ul id="tabset-1" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-1-1">CI1 - Créativité</a></li><li><a href="#tabset-1-2">CI2 Ingénierie de l’innovation I</a></li></ul>
-<div class="tab-content">
-<div id="tabset-1-1">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="CM1/Raphael.png" class="quarto-figure quarto-figure-center" style="width:55.0%"></p>
-</figure>
-</div>
-</div>
-<div id="tabset-1-2">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="CM1/Manon.png" class="quarto-figure quarto-figure-center" style="width:80.0%"></p>
-</figure>
-</div>
-</div>
-</div>
-</div>
-</section>
-
-<section id="lien-pédagogiques-gsi" class="title-slide slide level2 center">
-<h2>LIen Pédagogiques GSI</h2>
-<p>(Voir les diapos de Fefe)</p>
-
-<img data-src="CM1/Manon.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-<section id="ingénierie-et-mécanique" class="slide level3">
-<h3>Ingénierie et Mécanique</h3>
-</section>
-<section id="quelle-est-la-signification-du-mot-ingénieur-pour-vous" class="slide level3">
-<h3>Quelle est la signification du mot “Ingénieur” pour vous ?</h3>
-<div class="fragment">
-<p>Le mot Ingénieur (latin <strong>Ingeniator</strong>) est dérivé des mots latins <strong>Ingeniare</strong> (“concevoir, inventer”) et <strong>Ingenium</strong> (“ingéniosité”).</p>
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="engineers.png" class="quarto-figure quarto-figure-center" style="width:70.0%"></p>
-</figure>
-</div>
-</div>
-</section>
-<section id="quelle-est-la-signification-du-mot-mécanique-pour-vous" class="slide level3">
-<h3>Quelle est la signification du mot « Mécanique » pour vous ?</h3>
-<div class="fragment">
-<p><strong>Mathématiques + Physique</strong> → Force, Masse, et <em>Mouvement</em>.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="Mechanics.jpeg" class="quarto-figure quarto-figure-center" style="width:60.0%"></p>
-</figure>
-</div>
-<div class="footer">
-<p>Source: <a href="https://www.engineer4free.com/uploads/1/0/2/9/10296972/free-online-engineering-dynamics-course_orig.jpg">engineer4free</a></p>
-</div>
-</div>
-</section>
-<section id="quest-ce-que-la-conception-en-ingénierie" class="slide level3">
-<h3>Qu’est-ce que la conception en ingénierie ?</h3>
-<p>La conception en ingénierie est un <strong>processus systématique</strong> dans lequel les concepteurs <strong>génèrent</strong>, <strong>évaluent</strong> et <strong>spécifient</strong> des dispositifs, systèmes ou processus dont la forme et la fonction atteignent des <em>objectifs tout en respectant des contraintes</em></p>
-</section>
-
-<section id="challenge" class="title-slide slide level2 center" data-background-color="aquamarine">
-<h2>Challenge</h2>
-<p><strong>Formez des équipes de quatre/cinq personnes</strong></p>
-<ul>
-<li>De préférence, avec vos voisins entre les rangs.</li>
-</ul>
-</section>
-<section id="challenge-tour-autoportante" class="slide level3" data-background-color="aquamarine">
-<h3>Challenge Tour autoportante</h3>
-<div>
-
-</div>
-<div class="quarto-layout-panel" data-layout="[70,30]">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: flex-start;">
-<ul>
-<li><p>🎯 Construire une <strong>tour</strong> qui supporte des poids calibrés.</p></li>
-<li><p>🛠️ Utiliser <strong>seulement</strong> les matériaux listées ici →</p></li>
-<li><p>🏆 Critères:</p>
+<section id="but-de-la-séance-de-tp" class="title-slide slide level1 unummered center">
+<h1>🎯 But de la Séance de TP</h1>
 <ol type="1">
-<li>Il résiste à au moins un poids: Oui / Non</li>
-<li><span class="math inline">\(Hauteur &gt; 2cm\)</span></li>
-<li>Coefficients → 🔩 <span class="math inline">\(Vis = 0.6\)</span> <span class="math inline">\(Ecrou = 0.1\)</span></li>
-</ol></li>
-</ul>
-<p><span class="math display">\[ Score= \text{Hauteur} * (\text{# Vis}*0.6 + \text{# Ecrous}*0.6 )  \]</span></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: center;">
-<p><img data-src="CM1/Challege.png"></p>
-<ul>
-<li>⌛ 18 minutes.</li>
-</ul>
-</div>
-</div>
-</div>
-</section>
-<section id="minutes" class="slide level3 center" data-background-color="aquamarine">
-<h3>18 Minutes</h3>
-<iframe width="90%" height="750" src="https://www.youtube.com/embed/xrxQY3DJn88?si=Bq-NHFp16HWBatwm" title="timer 18 min"></iframe>
-</section>
-<section id="résultats" class="slide level3">
-<h3><a href="https://docs.google.com/spreadsheets/d/1oNOUSItc2kMMvZk9POYV5DZyuCpTbPGLpeVAJU-wxz0/edit?gid=634347005#gid=634347005">Résultats</a></h3>
-<iframe width="90%" height="750" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ2P-xWITO-DxgSfXuiVI-Or5feXUBGm5ivWh0JZuzjA3TjWtOahrW369jJiZDofVRPigt0zEU1Cvda/pubhtml?gid=634347005&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-
-<p><a href="https://docs.google.com/spreadsheets/d/1oNOUSItc2kMMvZk9POYV5DZyuCpTbPGLpeVAJU-wxz0/edit?gid=634347005#gid=634347005">Document</a></p>
-</section>
-
-<section id="réflexion-sur-le-processus-de-conception" class="title-slide slide level2 center">
-<h2>Réflexion sur le processus de conception</h2>
-<div>
-
-</div>
-<div class="quarto-layout-panel" data-layout="[80,35]">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 69.6%;justify-content: flex-start;">
-<ul>
-<li>Quelles stratégies avez-vous utilisées pour construire vos tours ?</li>
-<li>Combien de tours avez-vous construites ?</li>
-<li>Combien d’équipes ont esquissé des idées avant de commencer à construire ?</li>
-<li>Combien d’équipes ont essayé plusieurs idées avant de s’arrêter sur une conception finale ?</li>
-<li>Combien d’équipes ont essayé d’utiliser les poids pendant le processus de prototypage ?</li>
-<li>Combien d’équipes ont utilisé des pièces de manière inattendue (ont démonté des pinces à linge) ?</li>
-</ul>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 30.4%;justify-content: center;">
-<p><img data-src="CM1/Challege.png"></p>
-</div>
-</div>
-</div>
-</section>
-</section>
-<section>
-<section id="ci3-introduction-à-la-conception-des-systèmes-mécatroniques" class="title-slide slide level1 center" data-background-color="orange">
-<h1>CI3 – Introduction à la conception des systèmes mécatroniques</h1>
-
-</section>
-<section id="le-rôle-cette-module" class="title-slide slide level2 center">
-<h2>Le rôle cette module ?</h2>
-<div>
-
-</div>
-<div class="quarto-layout-panel" data-layout="[30, 70]">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="CM1/Design-process-01.png" class="quarto-figure quarto-figure-center"></p>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: flex-start;">
-<ul>
-<li class="fragment">Processus de sélection heuristique subjective.</li>
-<li class="fragment">Éxploration d’un varieté de en faisant des hypothèses (implicites/explicites).</li>
-<li class="fragment">Donner forme à une idée.</li>
-<li class="fragment">Implementer un cadre cohérent de test.</li>
-<li class="fragment"><strong>Avoir l’audace d’échouer est indispensable.</strong></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="footer">
-<p>Source: Cross, N. (2021). Engineering design methods: strategies for product design. John Wiley &amp; Sons.</p>
-</div>
-</section>
-
-<section id="pourquoi-est-ce-important-pour-vous-futurs-ingénieurs-en-innovation" class="title-slide slide level2 center">
-<h2>Pourquoi est-ce important pour vous, futurs ingénieurs en innovation ?</h2>
-<div class="fragment">
-<ul>
-<li><strong>Concevoir un produit/service est une activité complexe</strong>
-<ul>
-<li>mobiliser de multiples partenaires de différentes disciplines,</li>
-<li>Imaginer des solutions créatives et pratiques,</li>
-<li>de tester et vériﬁer mille problèmes avant soit trop tard</li>
-</ul></li>
-</ul>
-</div>
-</section>
-
-<section id="le-rôle-cette-module-1" class="title-slide slide level2 center" data-background-image="CM1/Design-process-02.png" data-background-size="30%" data-background-position="70% 20%">
-<h2>Le rôle cette module ?</h2>
-<div>
-
-</div>
-<div class="quarto-layout-panel" data-layout="[30, 70]">
-<div class="quarto-layout-row quarto-layout-valign-center">
-<div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="CM1/Design-process-01.png" class="quarto-figure quarto-figure-center"></p>
-</figure>
-</div>
-</div>
-</div>
-</div>
-<div class="footer">
-<p>Source: Cross, N. (2021). Engineering design methods: strategies for product design. John Wiley &amp; Sons.</p>
-</div>
-</section>
-
-<section id="le-rôle-du-prototypage-et-la-conception-mécatronique" class="title-slide slide level2 center">
-<h2>Le rôle du prototypage et la conception mécatronique?</h2>
-<div>
-
-</div>
-<div class="quarto-layout-panel" data-layout="[80,35]">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 69.6%;justify-content: flex-start;">
-<p>“Humans are really interesting. If you show them your idea in a prototype form, <strong>very few people will tell you what’s right about it. But everybody will tell you what’s wrong with it</strong>.”</p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 30.4%;justify-content: center;">
-<p><img data-src="CM1/David-kelley.jpeg"></p>
-<p>David Kelly, IDEO</p>
-</div>
-</div>
-</div>
-</section>
-<section id="ce-quon-attends-de-vous-à-la-fin-de-ce-module" class="slide level3">
-<h3>Ce qu’on attends de Vous à la fin de ce module?</h3>
-<div>
-<ol type="1">
-<li class="fragment">Idée → Maquette → Preuve de concept → Prototype</li>
-<li class="fragment">Être capable de <strong>choisir les outils de conception</strong> les plus appropriés.</li>
-<li class="fragment"><strong>Échouer le plus tôt possible</strong>.</li>
+<li>Concevoir un <strong>dessin technique</strong> à partir d’une pièce donnée.</li>
+<li>Réaliser un <strong>modèle CAO de la pièce</strong> à partir d’un dessin technique.</li>
+<li>Réaliser un <strong>plan technique</strong> à partir du modèle CAO.</li>
 </ol>
-</div>
-
-<img data-src="OIC-00.png" class="quarto-figure quarto-figure-center r-stretch" style="width:70.0%"></section>
-<section id="échouer-avec-enthousiasme-et-détermination" class="slide level3">
-<h3>Échouer avec Enthousiasme et Détermination !</h3>
-<p>Pour valider des hypothèses de conception.</p>
-
-<img data-src="CM/Fail.png" class="quarto-figure quarto-figure-center r-stretch" style="width:60.0%"></section>
-
-<section id="objectifs-dapprentissage-du-module" class="title-slide slide level2 center">
-<h2>Objectifs d’apprentissage du module</h2>
-<div>
-<ol type="1">
-<li class="fragment">Vous donner les compétences de base pour pouvoir matérialiser une idée conceptuelle en un objet de conception mécatronique intermédiaire pour un concept donné.</li>
-<li class="fragment">Apprendre les technologies de prototypage disponibles au Lorraine Fab Living Lab.</li>
-<li class="fragment">Une base scientifique et technique pour concevoir et construire un prototype de façon autonome. –<strong>Do-It-Yourself</strong>-</li>
-</ol>
-</div>
 </section>
-<section id="objectifs-dapprentissage-spécifiques" class="slide level3">
-<h3>Objectifs d’apprentissage spécifiques</h3>
+<section id="exercices" class="title-slide slide level2 center">
+<h2>Exercices</h2>
 <div>
 
 </div>
-<div class="quarto-layout-panel" data-layout="[50,50]">
+<div class="quarto-layout-panel" data-layout="[[25,25, 25, 25], [20, 30, 50]]">
 <div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: flex-start;">
+<p>🔅 <strong>Ex. 1</strong> <img data-src="TP1/Ex1.svg" class="quarto-figure quarto-figure-center" style="width:90.0%"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
+<p><strong>Ex. 2</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="TP1/Ex2.svg" class="quarto-figure quarto-figure-center" width="300"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: flex-start;">
+<p><strong>Ex. 4</strong></p>
+<p><img data-src="TP1/Ex3.png" class="quarto-figure quarto-figure-center" style="width:50.0%"> <img data-src="TP1/Ex3-01.png" class="quarto-figure quarto-figure-center" style="width:80.0%"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: flex-start;">
+<p>🔥 <strong>Ex. 4</strong> <img data-src="TP1/Ex4.jpeg" class="quarto-figure quarto-figure-center" style="width:100.0%"></p>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 20.0%;justify-content: flex-start;">
+
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: flex-start;">
+<p><strong>Logiciel</strong>:</p>
+</div>
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<ol type="1">
-<li>Phases et techniques de prototypage.</li>
-<li>Conception mécatronique :
-<ul>
-<li>Modélisation CAO</li>
-<li>Description d’une chaîne cinématique</li>
-<li>Contrôle</li>
-<li>Simulation d’un système simple de transformation du mouvement</li>
-</ul></li>
-<li>Les Fablabs et l’approche de l’innovation sociale.</li>
-</ol>
+<div class="quarto-figure quarto-figure-left">
+<figure>
+<p><img data-src="TP1/Onshape-logo.png" style="width:40.0%"></p>
+<figcaption><a href="https://www.onshape.com/">https://www.onshape.com/</a></figcaption>
+</figure>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><strong>Learning by Doing !</strong></p>
-<p><img data-src="CM1/People.jpeg"></p>
 </div>
 </div>
 </div>
 </section>
-<section id="planification" class="slide level3">
-<h3>Planification</h3>
-<ul>
-<li>7 CM Introduction à la conception mécatronique<br>
-</li>
-<li>2 TD Application de la théorie<br>
-</li>
-<li>TP 1-4 <strong>Apprentissage des outils de conception</strong> : CAO, découpe laser, impression 3D<br>
-</li>
-<li>TP 5-9 Projet développé par vous</li>
-</ul>
 </section>
-<section id="technologies-at-lf2l." class="slide level3">
-<h3>Technologies at LF2L.</h3>
-<div>
-
-</div>
-<div class="quarto-layout-panel" data-layout="[25,25, 25, 25]">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
-<p><img data-src="CM1/Tools-00.png"></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
-<p><img data-src="CM1/Tools-03.png"></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
-<p><img data-src="CM1/Tools-04.png"></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
-<p><img data-src="CM1/Tools-01.png"></p>
-</div>
-</div>
-</div>
-<p>Documentation: <a href="https://fabmanager.lf2l.fr/" class="uri">https://fabmanager.lf2l.fr/</a></p>
+<section>
+<section id="exercice-1" class="title-slide slide level1 center">
+<h1>Exercice 1</h1>
+<p><strong>But</strong>: Faire les<strong><em>dessin technique</em></strong> à partir d’une pièce donnée.</p>
 </section>
-<section id="evaluation-du-module" class="slide level3">
-<h3>Evaluation du Module</h3>
+<section id="exercice-1-1" class="title-slide slide level2 center">
+<h2>Exercice 1</h2>
+<p><strong>But:</strong> Faire le dessin technique sur le papier de la pièce que donné.</p>
 <div>
 
 </div>
 <div class="quarto-layout-panel" data-layout="[50, 50]">
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<p><strong>Individuel</strong></p>
-<p>Test sous PC (<strong>Weight: 2/3</strong>)</p>
+<div class="callout callout-important callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<p><strong>Challenge par Groups</strong></p>
-<p>Presentation of the mechanism Documentation of the mechanism on <a href="https://fabmanager.lf2l.fr/" class="uri">https://fabmanager.lf2l.fr/</a></p>
+<p><strong>Important</strong></p>
+</div>
+<div class="callout-content">
+<p>Le document de l’Ex 1 va être utilisé dans l’exercice 3, car vous allez comparer les documents entre vous pour vérifier la qualité de votre dessin.</p>
+</div>
+</div>
+</div>
+<ol type="1">
+<li>Notéz le code de la pièce et votre <em>Prenom</em> dans le cartouche en tant que dessinateur</li>
+</ol>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="TP1/Ex3.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
 </div>
 </div>
 </div>
 </section>
-<section id="merci" class="slide level3">
-<h3>Merci</h3>
-<p><strong>Prochaine fois: 11/03/2024</strong></p>
+
+<section id="dessin" class="title-slide slide level2 center">
+<h2>Ressources sur le Dessin technique</h2>
+
+</section>
+<section id="comment-réaliser-un-dessin-de-définition" class="slide level3">
+<h3>⚠️ Comment réaliser un dessin de définition?</h3>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[15,-5, 85]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 14.3%;justify-content: flex-start;">
+<p><a href="https://moodle.luniversitenumerique.fr/mod/h5pactivity/view.php?id=10183">Capsule par l’Université Numerique</a></p>
+</div>
+<div class="quarto-figure-spacer quarto-layout-cell" style="flex-basis: 4.8%;justify-content: flex-start;">
+<p>&nbsp;</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 81.0%;justify-content: flex-start;">
+<iframe src="https://moodle.luniversitenumerique.fr/h5p/embed.php?url=https%3A%2F%2Fmoodle.luniversitenumerique.fr%2Fpluginfile.php%2F17715%2Fmod_h5pactivity%2Fpackage%2F0%2FComment-r%25C3%25A9aliser-dessin-d%25C3%25A9finition-conform%25C3%25A9ment-normes-ISO.h5p&amp;component=mod_h5pactivity" name="h5player" width="100%" height="700" allowfullscreen="allowfullscreen" id="67cd84ca2c5a467cd84ca2c5a51-h5player"></iframe>
+</div>
+</div>
+</div>
+</section>
+<section id="optionnel-historique-sur-dessin-technique" class="slide level3">
+<h3>[Optionnel 💡] Historique sur Dessin technique</h3>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[15,-5, 85]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 14.3%;justify-content: flex-start;">
+<p><a href="https://moodle.luniversitenumerique.fr/mod/h5pactivity/view.php?id=10179">Capsule sur le dessin technique par l’Université Numerique</a></p>
+</div>
+<div class="quarto-figure-spacer quarto-layout-cell" style="flex-basis: 4.8%;justify-content: flex-start;">
+<p>&nbsp;</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 81.0%;justify-content: flex-start;">
+<iframe src="https://moodle.luniversitenumerique.fr/h5p/embed.php?url=https%3A%2F%2Fmoodle.luniversitenumerique.fr%2Fpluginfile.php%2F17711%2Fmod_h5pactivity%2Fpackage%2F0%2FD%25C3%25A9couvrir-diff%25C3%25A9rents-types-repr%25C3%25A9sentations-techniques.h5p&amp;component=mod_h5pactivity" name="h5player" width="95%" height="800" allowfullscreen="allowfullscreen" class="h5p-player w-100 border-0" id="67cd7df85b14d67cd7df85b14e1-h5player"></iframe>
+</div>
+</div>
+</div>
+</section>
+</section>
+<section>
+<section id="exercise-2" class="title-slide slide level1 center">
+<h1>Exercise 2</h1>
+<p><strong>But</strong>: Réaliser un modèle <strong><em>CAO Pièce</em></strong> à partir d’un dessin technique.</p>
+</section>
+<section id="exercise-2-1" class="title-slide slide level2 center" data-background-image="TP1/2025-TD-1-Correction.png" data-background-size="35%" data-background-position="98% 50%">
+<h2>Exercise 2</h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[65, 30]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 68.4%;justify-content: flex-start;">
+<p><strong>But:</strong> À partir des exercices du TD1 (Vues isometriques), utiliser le logiciel <em>Onshape</em> pour faire les 6 pièces proposés.</p>
+<p><strong>Chaque carré</strong> equivaut à <span class="math inline">\(10mm\)</span></p>
+<ol type="1">
+<li>⬇️ <a href="TP1/2025-TD-1-Correction.jpg">Telechargez la Correction du TD 1</a></li>
+</ol>
+</div>
+</div>
+</div>
+</section>
+
+<section id="onshape" class="title-slide slide level2 center">
+<h2>Ressources sur Onshape</h2>
+
+</section>
+<section id="compte-onshape" class="slide level3" data-background-image="TP1/onshape/00-Installation.jpg" data-background-size="50%" data-background-position="100% 20%">
+<h3>Compte Onshape</h3>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40, 60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
+<ol type="1">
+<li>Ouvrez une compte sur <a href="https://www.onshape.com/fr/">https://www.onshape.com/fr/</a></li>
+<li>Utilisez votre <strong>email de l’Université de Lorraine</strong></li>
+</ol>
+<p>Cela permmetra d’avoir la configuration “<strong>Student</strong>”</p>
+</div>
+</div>
+</div>
+</section>
+<section id="configuration" class="slide level3" data-background-image="TP1/onshape/01-configuration.png" data-background-size="60%" data-background-position="100% 20%">
+<h3>Configuration</h3>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40, 60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
+<ol type="1">
+<li>Click on ‘<em>votre nom</em>’ &gt; <em>my account</em></li>
+<li>Configurez votre compte en langue ‘<em>Français</em>’</li>
+<li>Utilisez l’unité par défaut de Longueur en <strong>Millimèters: <span class="math inline">\(mm\)</span></strong></li>
+</ol>
+</div>
+</div>
+</div>
+</section>
+<section id="introduction-à-la-interface" class="slide level3" data-background-image="TP1/onshape/01-environnement.jpeg" data-background-size="50%" data-background-position="90% 20%">
+<h3>Introduction <br> à la interface</h3>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40, 60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
+<ul>
+<li><p>Voilà aperçue de l’interface</p></li>
+<li><p>Button <em>Create</em> afin de créer un document</p></li>
+</ul>
+<p><a href="https://learn.onshape.com/learn/course/navigating-onshape/onshape-interface/the-documents-page?page=1">🎥 Tutoriel sur l’interface</a></p>
+</div>
+</div>
+</div>
+</section>
+<section id="creation-dun-document" class="slide level3" data-background-image="TP1/onshape/02-document-creation.jpeg" data-background-size="60%" data-background-position="100% 20%">
+<h3>Creation d’un <br> document</h3>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40, 60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
+<ul>
+<li><p>Voilà aperçue de l’interface</p></li>
+<li><p>Button <em>Create</em> afin de créer un document</p></li>
+</ul>
+</div>
+</div>
+</div>
+<p><a href="https://learn.onshape.com/learn/course/navigating-onshape/getting-started/creating-a-document?page=1">🎥 Tutoriel pour creer un document</a></p>
+</section>
+
+<section id="esquisse" class="title-slide slide level2 center" data-background-image="TP1/onshape/03-Esquisse.jpg" data-background-size="60%" data-background-position="100% 20%">
+<h2>L’Esquisse <br></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40, 60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
+<ul>
+<li>Esquisse (<strong><em>Sketch</em></strong> en anglais) est le premiers pas vers la modélisation
+<ol type="1">
+<li><strong>Entités</strong></li>
+<li><strong>Contraintes</strong></li>
+<li><strong>Outils</strong></li>
+</ol></li>
+</ul>
+<p>⚠️ <strong>Regardez:</strong></p>
+<p><a href="https://learn.onshape.com/learn/course/fundamentals-sketching/creating-a-sketch/starting-a-sketch?page=1">🎥 Tutoriel pour l’Esquisse</a></p>
+</div>
+</div>
+</div>
+</section>
+
+<section id="features" class="title-slide slide level2 center" data-background-image="TP1/onshape/04-Part.jpg" data-background-size="60%" data-background-position="100% 20%">
+<h2>Part <br></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40, 60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
+<ul>
+<li>Création volumique (<strong><em>Features</em></strong> en anglais)</li>
+</ul>
+<p><img data-src="TP1/onshape/04-Part-01.png"></p>
+</div>
+</div>
+</div>
+<p>⚠️ <strong>Regardez: Sections 1, 2 et 3</strong></p>
+<p><a href="https://learn.onshape.com/learn/course/introduction-to-part-studios/introduction/start-a-part?page=1">🎥 Tutoriel pour la Création voluminique basique</a></p>
+</section>
+
+<section id="drawing" class="title-slide slide level2 center" data-background-image="TP1/onshape/05-Dessin.jpg" data-background-size="60%" data-background-position="100% 20%">
+<h2>Dessin technique</h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40, 60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
+<ul>
+<li>Création volumique (<strong><em>Drawing</em></strong> en anglais)</li>
+</ul>
+<p>Attention:</p>
+<ul>
+<li>Utilisez la projection ‘<strong><em>Third Angle (ANSI)</em></strong>’</li>
+<li>Format A4.</li>
+</ul>
+</div>
+</div>
+</div>
+<p><a href="https://learn.onshape.com/learn/course/introduction-to-2d-drawings/drawings-interface/introduction-to-drawings?page=1">🎥 Tutoriel pour la Création d’un dessin technique sous onshape</a></p>
+<p>⚠️ <strong>Regardez les sections 01, et 02 du tutoriel</strong></p>
+</section>
+</section>
+<section>
+<section id="exercise-3" class="title-slide slide level1 center">
+<h1>Exercise 3</h1>
+<p><strong>But</strong>: Réaliser le modèle <strong><em>CAO Pièce</em></strong> à partir du dessin technique <strong>fait d’un.e de vos collèges</strong>.</p>
+</section>
+<section id="exercise-3-1" class="title-slide slide level2 center" data-background-image="TP1/Ex1.svg" data-background-size="35%" data-background-position="98% 50%">
+<h2>Exercise 3</h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[70, 30]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: center;">
+<p><strong>But:</strong> À partir de l’exercice 1, utilisez le logiciel <em>Onshape</em> pour faire les modèle proposé.</p>
+<ol type="1">
+<li>Identifiez tout les erreurs de cotation que votre collège à fait.</li>
+</ol>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="TP1/Ex3.png" class="quarto-figure quarto-figure-center" width="500"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: flex-start;">
+
+</div>
+</div>
+</div>
+</section>
+
+<section id="exercise-3-2" class="title-slide slide level2 center">
+<h2>Exercise 3</h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[50, 50]">
+<div class="quarto-layout-row quarto-layout-valign-center">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<p><a href="https://forms.gle/f9KKMk35FSnWdSSz5">https://forms.gle/f9KKMk35FSnWdSSz5</a></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><img data-src="TP1/Encuesta.png"></p>
+</div>
+</div>
+</div>
+</section>
+</section>
+<section>
+<section id="exercise-4" class="title-slide slide level1 center">
+<h1>Exercise 4</h1>
+<p><strong>But</strong>: Réaliser le modèle <strong><em>CAO Pièce</em></strong> et le <strong>dessin technique de definition</strong> à partir d’un pièce imprimé.</p>
+</section>
+<section id="exercise-4-1" class="title-slide slide level2 center" data-background-image="TP1/Ex3-01.png" data-background-size="35%" data-background-position="98% 50%">
+<h2>Exercise 4</h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[65, 35]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 65.0%;justify-content: flex-start;">
+<p><strong>But:</strong> Choisisez une pièce imprimé et faites <strong>le modèle CAO</strong> et <strong>le dessin technique</strong> sous onshape. <img data-src="TP1/Ex4.jpeg" class="quarto-figure quarto-figure-center" style="width:70.0%"></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 35.0%;justify-content: flex-start;">
+
+</div>
+</div>
+</div>
+<!-- 
+## Exercise 4: Pièce 1
+
+
+::: {layout="[65, 35]"}
+::: {}
+![](TP1/Piece-1.png){width="70%" fig-align="center"} 
+:::
+
+::: {}
+![](TP1/Ex3-01.png){width="80%" fig-align="center"} 
+
+[⬇️ Téléchargez le dessin technique](TP1/Piece-1.pdf)
+
+:::
+:::
+
+## Exercise 4: Pièce 2
+
+::: {layout="[65, 35]"}
+
+![](TP1/Piece-2.png){width="100%" fig-align="center"} 
+
+![](TP1/Ex3-01.png){width="80%" fig-align="center"} 
+<br>
+[⬇️ Téléchargez le dessin technique](TP1/Piece-2.pdf)
+
+:::
+
+## Exercise 4: Pièce 3
+
+::: {layout="[65, 35]"}
+
+![](TP1/Piece-3.png){width="100%" fig-align="center"} 
+
+![](TP1/Ex3-01.png){width="80%" fig-align="center"} 
+<br>
+[⬇️ Téléchargez le dessin technique](TP1/Piece-3.pdf)
+
+:::
+
+## Exercise 4: Pièce 3
+
+::: {layout="[65, 35]"}
+
+![](TP1/Piece-4.png){width="100%" fig-align="center"} 
+
+![](TP1/Ex3-01.png){width="80%" fig-align="center"} 
+<br>
+[⬇️ Téléchargez le dessin technique](TP1/Piece-4.pdf)
+
+:::
+ -->
+</section>
+</section>
+<section>
+<section id="ressources-tutoriels" class="title-slide slide level1 center">
+<h1>Ressources / tutoriels</h1>
+<ol type="1">
+<li><a href="#/dessin">Introduction au dessin technique</a></li>
+<li><a href="#/interface">Introduction à Onshape</a>
+<ol type="1">
+<li><a href="#/esquisse">L’Esquisse</a></li>
+<li><a href="#/features">Extrusion</a></li>
+<li><a href="#/drawing">Mise en plan</a></li>
+</ol></li>
+</ol>
+</section>
+<section id="questions" class="title-slide slide level2 center">
+<h2>Questions?</h2>
 
 
 </section>
@@ -515,6 +603,8 @@ MdC. Fabio Cruz
   <script src="../site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
   <script src="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
   <script src="../site_libs/revealjs/plugin/reveal-chalkboard/plugin.js"></script>
+  <script src="../site_libs/revealjs/plugin/multiplex/socket.io.js"></script>
+  <script src="../site_libs/revealjs/plugin/multiplex/multiplex.js"></script>
   <script src="../site_libs/revealjs/plugin/quarto-support/support.js"></script>
   
 
@@ -538,6 +628,7 @@ MdC. Fabio Cruz
 'jumpToSlide': true,
 'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleChalkboard(event)\"><kbd>b</kbd> Toggle Chalkboard</a></li>\n<li class=\"slide-tool-item\" data-item=\"6\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleNotesCanvas(event)\"><kbd>c</kbd> Toggle Notes Canvas</a></li>\n<li class=\"slide-tool-item\" data-item=\"7\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.downloadDrawings(event)\"><kbd>d</kbd> Download Drawings</a></li>\n<li class=\"slide-tool-item\" data-item=\"8\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
 'chalkboard': {"buttons":true},
+'multiplex': {"secret":"17450528336754239714","id":"d01ba621189822a1","url":"https://reveal-multiplex.glitch.me/"},
 'smaller': false,
  
         // Display controls in the bottom right corner
