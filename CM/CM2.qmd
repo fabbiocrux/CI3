@@ -1,9 +1,7 @@
 ---
-title: "Conception et Innovation -- CI3"
-subtitle: "Introduction à la conception des systèmes mécatroniques"
-author: 
-  - "MdC. Fabio Cruz"
-date: 11-Mar-2023
+title: "CM2: Introduction à la conception des systèmes mécatroniques"
+subtitle: "Conception et Innovation -CI3-"
+image: figures/CM2/systeme.png
 metadata-files:
   - _metadata.yml  
 format:

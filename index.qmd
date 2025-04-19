@@ -10,6 +10,14 @@ format:
   html:
     template-partials:
       - assets/html/title-block.html
+
+listing:
+  id: cms
+  contents:
+    - "CM/*.qmd"
+  sort: "date desc"
+  type: grid
+
 ---
 
 :::::::::: hero-banner
@@ -61,6 +69,9 @@ L'objectif du cours est de donner aux élèves les compétences de base afin de 
 
 # Planning des Séances
 
-## Notes
+## Cours Magistraux{#cm}
+
+::: {#cms}
+:::
 
 ## Bibliographie

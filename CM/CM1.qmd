@@ -1,7 +1,7 @@
 ---
-title: "Conception et Innovation - CI3-"
-subtitle: "Introduction à la conception des systèmes mécatroniques"
-date: 16-Feb-2025
+title: "CM1: Introduction à la conception des systèmes mécatroniques"
+subtitle: "Conception et Innovation -CI3-"
+image: CM1/Mechanics.jpeg
 metadata-files:
   - _metadata.yml
 ---
@@ -19,18 +19,18 @@ metadata-files:
 
 #### CI1 - Créativité
 
-![](figures/CM1/Raphael.png){fig-align="center" width="55%"}
+![](CM1/Raphael.png){fig-align="center" width="55%"}
 
 #### CI2 Ingénierie de l'innovation I
 
-![](figures/CM1/Manon.png){fig-align="center" width="80%"}
+![](CM1/Manon.png){fig-align="center" width="80%"}
 :::
 
 ## LIen Pédagogiques GSI
 
 (Voir les diapos de Fefe) 
 
-![](figures/CM1/Manon.png){fig-align="center" width="80%"}
+![](CM1/Manon.png){fig-align="center" width="80%"}
 
 
 
@@ -41,7 +41,7 @@ metadata-files:
 
 Le mot Ingénieur (latin **Ingeniator**) est dérivé des mots latins **Ingeniare** ("concevoir, inventer") et **Ingenium** ("ingéniosité").
 
-![](figures/engineers.png){width="70%" fig-align="center"}
+![](engineers.png){width="70%" fig-align="center"}
 
 
 
@@ -51,7 +51,7 @@ Le mot Ingénieur (latin **Ingeniator**) est dérivé des mots latins **Ingeniar
 
 **Mathématiques + Physique** → Force, Masse, et *Mouvement*.
 
-![](figures/Mechanics.jpeg){width="60%" fig-align="center"}
+![](Mechanics.jpeg){width="60%" fig-align="center"}
 
 :::footer
 Source: [engineer4free](https://www.engineer4free.com/uploads/1/0/2/9/10296972/free-online-engineering-dynamics-course_orig.jpg)
@@ -87,7 +87,7 @@ La conception en ingénierie est un **processus systématique** dans lequel les 
 :::
 
 ::: {}
-![](figures/Challege.png)
+![](CM1/Challege.png)
 
 - ⌛  18 minutes. 
 :::
@@ -124,7 +124,7 @@ La conception en ingénierie est un **processus systématique** dans lequel les 
 - Combien d'équipes ont utilisé des pièces de manière inattendue (ont démonté des pinces à linge) ?
 :::
 
-![](figures/Challege.png)
+![](CM1/Challege.png)
 
 :::
 
@@ -136,7 +136,7 @@ La conception en ingénierie est un **processus systématique** dans lequel les 
 ## Le rôle cette module ?
 
 :::{layout= "[30, 70]"}
-![](figures/CM1/Design-process-01.png){width="65%" fig-align="center"}
+![](CM1/Design-process-01.png){width="65%" fig-align="center"}
 
 :::{.incremental}
 - Processus de sélection heuristique subjective.
@@ -163,12 +163,12 @@ Source: Cross, N. (2021). Engineering design methods: strategies for product des
   - de tester et vériﬁer mille problèmes avant soit trop tard
 
 
-## Le rôle cette module ?{background-image="figures/CM1/Design-process-02.png" background-size="30%" background-position="70% 20%"}
+## Le rôle cette module ?{background-image="CM1/Design-process-02.png" background-size="30%" background-position="70% 20%"}
 
 :::{layout="[30, 70]" layout-valign="center"}
 
 :::{}
-![](figures/CM1/Design-process-01.png){width="65%" fig-align="center"}
+![](CM1/Design-process-01.png){width="65%" fig-align="center"}
 :::
 
 
@@ -189,7 +189,7 @@ Source: Cross, N. (2021). Engineering design methods: strategies for product des
 :::
 
 :::{}
-![](figures/David-kelley.jpeg)
+![](CM1/David-kelley.jpeg)
 
 David Kelly, IDEO
 :::
@@ -203,14 +203,14 @@ David Kelly, IDEO
 3.  **Échouer le plus tôt possible**.
 :::
 
-![](figures/OIC-00.png){width="70%" fig-align="center"}
+![](OIC-00.png){width="70%" fig-align="center"}
 
 
 ### Échouer avec Enthousiasme et Détermination !
 
 Pour valider des hypothèses de conception.
 
-![](figures/Fail.png){width="60%" fig-align="center"}
+![](CM/Fail.png){width="60%" fig-align="center"}
 
 
 ## Objectifs d'apprentissage du module
@@ -240,7 +240,7 @@ Pour valider des hypothèses de conception.
 :::{}
 **Learning by Doing !**
 
-![](figures/People.jpeg)
+![](CM1/People.jpeg)
 :::
 :::
 
@@ -256,13 +256,13 @@ Pour valider des hypothèses de conception.
 ### Technologies at LF2L.
 
 :::{layout="[25,25, 25, 25]"}
-![](figures/Tools-00.png){width="100%"}
+![](CM1/Tools-00.png){width="100%"}
 
-![](figures/Tools-03.png){width="100%"}
+![](CM1/Tools-03.png){width="100%"}
 
-![](figures/Tools-04.png){width="100%"}
+![](CM1/Tools-04.png){width="100%"}
 
-![](figures/Tools-01.png){width="100%"}
+![](CM1/Tools-01.png){width="100%"}
 :::
 
 Documentation: <https://fabmanager.lf2l.fr/>

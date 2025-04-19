@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -67,6 +69,35 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-cms .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-cms'] = new List('listing-cms', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script>
 window.MathJax = {
   loader: {
@@ -135,27 +166,9 @@ window.Quarto = {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./CM.qmd"> 
+    <a class="nav-link" href="./#cm"> 
 <span class="menu-text">Cours Magistraux</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./TD.qmd"> 
-<span class="menu-text">Travaux Dirigés</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./TP.qmd"> 
-<span class="menu-text">Travaux Pratiques</span></a>
-  </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-aide" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Aide</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-aide">    
-        <li class="dropdown-header">Report un Erreur</li>
-        <li class="dropdown-header">Demandez une Question</li>
-        <li class="dropdown-header">FAQ</li>
-    </ul>
-  </li>
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -178,7 +191,7 @@ window.Quarto = {
   <li><a href="#mind-mapping-conceptuel-du-cours" id="toc-mind-mapping-conceptuel-du-cours" class="nav-link" data-scroll-target="#mind-mapping-conceptuel-du-cours"><span class="header-section-number">2</span> Mind Mapping Conceptuel du Cours</a></li>
   <li><a href="#planning-des-séances" id="toc-planning-des-séances" class="nav-link" data-scroll-target="#planning-des-séances"><span class="header-section-number">3</span> Planning des Séances</a>
   <ul class="collapse">
-  <li><a href="#notes" id="toc-notes" class="nav-link" data-scroll-target="#notes"><span class="header-section-number">3.1</span> Notes</a></li>
+  <li><a href="#cm" id="toc-cm" class="nav-link" data-scroll-target="#cm"><span class="header-section-number">3.1</span> Cours Magistraux</a></li>
   <li><a href="#bibliographie" id="toc-bibliographie" class="nav-link" data-scroll-target="#bibliographie"><span class="header-section-number">3.2</span> Bibliographie</a></li>
   </ul></li>
   </ul>
@@ -259,11 +272,94 @@ window.Quarto = {
 </section>
 <section id="planning-des-séances" class="level1" data-number="3">
 <h1 data-number="3"><span class="header-section-number">3</span> Planning des Séances</h1>
-<section id="notes" class="level2" data-number="3.1">
-<h2 data-number="3.1" class="anchored" data-anchor-id="notes"><span class="header-section-number">3.1</span> Notes</h2>
+<section id="cm" class="level2" data-number="3.1">
+<h2 data-number="3.1" class="anchored" data-anchor-id="cm"><span class="header-section-number">3.1</span> Cours Magistraux</h2>
+<div id="listing-cms" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1745013600000" data-listing-file-modified-sort="1745043404874" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="767">
+<a href="./CM/CM1.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./CM/figures/Mechanics.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+CM1: Introduction à la conception des systèmes mécatroniques
+</h5>
+<div class="card-text listing-description">
+
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+MdC. Fabio Cruz
+</div>
+<div class="listing-date">
+Apr 19, 2025
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-date-sort="1745013600000" data-listing-file-modified-sort="1745043751616" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1517">
+<a href="./CM/CM2.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./CM/figures/CM2/systeme.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+CM2: Introduction à la conception des systèmes mécatroniques
+</h5>
+<div class="card-text listing-description">
+
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+MdC. Fabio Cruz
+</div>
+<div class="listing-date">
+Apr 19, 2025
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-date-sort="1745013600000" data-listing-file-modified-sort="1745043996416" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1193">
+<a href="./CM/CM3.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./CM/CM3/Liaisons.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+CM3: Schema Cinématique
+</h5>
+<div class="card-text listing-description">
+
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+MdC. Fabio Cruz
+</div>
+<div class="listing-date">
+Apr 19, 2025
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
 </section>
 <section id="bibliographie" class="level2" data-number="3.2">
 <h2 data-number="3.2" class="anchored" data-anchor-id="bibliographie"><span class="header-section-number">3.2</span> Bibliographie</h2>
+
 
 
 </section>

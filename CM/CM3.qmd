@@ -1,25 +1,14 @@
 ---
-title: "Conception et Innovation -- CI3"
-subtitle: "Schema Cinématique"
+title: "CM3: Schema Cinématique"
+subtitle: "Conception et Innovation -CI3-"
 author: 
   - "MdC. Fabio Cruz"
-date: 20-Mar-2023
-#metadata-files:
-#  - _metadata.yml
-email: "fabio.cruz@univ-lorraine.fr"
-institute: "Université de Lorraine | ENSGSI"
-link-citations: true
+image: CM3/Liaisons.png
 metadata-files:
   - _metadata.yml  
-format:
-  revealjs:
-    toc-depth: 1
-editor_options: 
-  chunk_output_type: console
 ---
 
 # Modélisation des liaisons mécaniques
-
 
 ## Conception en V
 
@@ -118,11 +107,9 @@ Les *degrés de liberté d’une liaison* sont **les déplacements élémentaire
 
 ## Les Liaisons Mécaniques Elementaires
 
-
 Selon la norme NF EN ISO 3952-1
 
 ### Encastrement
-
 
 ![](CM3/Liaison-Encastrement.png){width="80%" fig-align="center"}
 

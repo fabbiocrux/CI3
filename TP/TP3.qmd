@@ -55,23 +55,116 @@ library(countdown)
 
 ## Rapelle téorique
 
-### Notion de Liasons
+
+### 0 Degres de Liberté: Encastrement
+
+::: {.panel-tabset}
+
+#### Liaison Encastrement
+
+![](../CM/CM3/Liaison-Encastrement.png){width="80%" fig-align="center"}
+
+
+#### Encastrement sous Onshape
 
 ::: {layout="[30,70]"}
 :::{}
-![Liaison fixe](TP3/theory/Liaison-00.png) liasion fxe
+![](TP3/onshape/L0-encastrement.png)
 
-- 0 degrees de liberté
-- Selectioner entr
-
+::: {.callout-tip}
+📢 Regardes l'aide du logiciel Onshape pour mieux comprendre !
 :::
 
+
+:::
 :::{}
 
 <p><a href="https://cad.onshape.com/help/Content/mate-fastened.htm?wvideo=w8fodmuokg#video-example"><img src="https://embed-ssl.wistia.com/deliveries/dc7daa240dd350697f4b1f47cc03c2697d87ecb2.jpg?image_play_button_size=2x&image_crop_resized=960x544&image_play_button_rounded=1&image_play_button_color=1b5faae0" width="600" height="226.25" style="width: 90%; height: auto;"></a></p><p><a href="https://cad.onshape.com/help/Content/mate-fastened.htm?wvideo=w8fodmuokg#video-example">Plus de détails</a></p>
+:::
+:::
+
+:::
+
+
+### 1 Degré de Liberté: Pivot & Glissière
+
+
+::: {.panel-tabset}
+
+#### Pivot 
+![](../CM/CM3/Liaison-Pivot.png){width="70%" fig-align="center"}
+
+
+#### Pivot sous Onshape
+
+::: {layout="[30,70]"}
+:::{}
+![](TP3/onshape/L1-pivot.png)
+:::
+:::{}
+
+<p><a href="https://cad.onshape.com/help/Content/mate-revolute.htm?TocPath=Assemblies%7CMates%7C_____2&wvideo=tfn8l3ci6y"><img src="https://embed-ssl.wistia.com/deliveries/a4965b7e5fe7b41ecb954563fa22fc6cd6430af1.jpg?image_play_button_size=2x&image_crop_resized=960x544&image_play_button_rounded=1&image_play_button_color=1b5faae0" width="400" height="226.25" style="width: 90%; height: auto;"></a></p><p><a href="https://cad.onshape.com/help/Content/mate-revolute.htm?TocPath=Assemblies%7CMates%7C_____2&wvideo=tfn8l3ci6y">Plus de détails</a></p>
 
 :::
 :::
+
+
+
+
+#### Glissière
+![](../CM/CM3/Liaison-Glissiere.png){width="70%" fig-align="center"}
+
+
+
+#### Glissière sous Onshape
+
+::: {layout="[30,70]"}
+:::{}
+![](TP3/onshape/L1-glissiere.png)
+:::
+:::{}
+
+<p><a href="https://cad.onshape.com/help/Content/mate-slider.htm?TocPath=Assemblies%7CMates%7C_____3&wvideo=c2kawndkjz"><img src="https://embed-ssl.wistia.com/deliveries/a68fcf05f0c706d47de33f5468c1cc389691d86a.jpg?image_play_button_size=2x&image_crop_resized=960x544&image_play_button_rounded=1&image_play_button_color=1b5faae0" width="400" height="226.25" style="width: 90%; height: auto;"></a></p><p><a href="https://cad.onshape.com/help/Content/mate-slider.htm?TocPath=Assemblies%7CMates%7C_____3&wvideo=c2kawndkjz">Slider-mate</a></p>
+
+:::
+:::
+
+
+
+:::
+
+
+### 2 Degrés de liberté 
+
+::: {.panel-tabset}
+
+#### Pivot glissant
+![](../CM/CM3/Liaison-Pivot-glissant-01.png){width="70%" fig-align="center"}
+
+#### Rotule à doigt
+![](../CM/CM3/Liaison-spherique.png){width="70%" fig-align="center"}
+:::
+
+
+### 3 Degrés de liberté 
+
+::: {.panel-tabset}
+
+#### Appui plan
+![](../CM/CM3/Liaison-Plan-01.png){width="70%" fig-align="center"}
+
+#### Rotule
+![](../CM/CM3/Liaison-rotule-01.png){width="70%" fig-align="center"}
+:::
+
+
+
+
+## Interface Onshape
+
+
+
+### Notion de Liasons
 
 
 

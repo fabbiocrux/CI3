@@ -12,11 +12,11 @@
   {
     "objectID": "CM/CM1.html#challenge",
     "href": "CM/CM1.html#challenge",
-    "title": "Conception et Innovation - CI3-",
+    "title": "CM1: Introduction à la conception des systèmes mécatroniques",
     "section": "Challenge",
     "text": "Challenge\nFormez des équipes de quatre/cinq personnes\n\nDe préférence, avec vos voisins entre les rangs.",
     "crumbs": [
-      "Conception et Innovation - CI3-"
+      "CM1: Introduction à la conception des systèmes mécatroniques"
     ]
   },
   {
@@ -69,51 +69,51 @@
   {
     "objectID": "CM/CM2.html#cycle-de-vie-dun-projet",
     "href": "CM/CM2.html#cycle-de-vie-dun-projet",
-    "title": "Conception et Innovation – CI3",
+    "title": "CM2: Introduction à la conception des systèmes mécatroniques",
     "section": "Cycle de vie d’un projet",
     "text": "Cycle de vie d’un projet\nUn projet comporte globalement 3 phases, connues sous la désignation «3C» : Cadrer - Conduire - Conclure.\n\nPhase de préparation : il s’agit de l’analyse des besoins et de l’analyse de l’opportunité de mener à bien ce projet. Appelée également avant-projet, cette phase aboutit à la rédaction du cahier des charges.\nPhase de réalisation : elle débute par la réception du cahier des charges et s’achève à la livraison du produit. C’est la phase opérationnelle du projet.\nPhase de fin de projet : le produit est mis en situation de production, et il s’agit dans cette phase de s’assurer de son adéquation avec les besoins attendus.",
     "crumbs": [
-      "Conception et Innovation -- CI3"
+      "CM2: Introduction à la conception des systèmes mécatroniques"
     ]
   },
   {
     "objectID": "CM/CM2.html#le-prototypage-une-vue-densemble",
     "href": "CM/CM2.html#le-prototypage-une-vue-densemble",
-    "title": "Conception et Innovation – CI3",
+    "title": "CM2: Introduction à la conception des systèmes mécatroniques",
     "section": "Le prototypage : Une vue d’ensemble",
     "text": "Le prototypage : Une vue d’ensemble\n\nQu’est-ce que le prototypage ?\nQu’est-ce qu’un prototype ?\nQuel type et quel rôle pour le prototype ?\nQuel benefices du processus ?\nLa fidélité et les dimensions des prototypes",
     "crumbs": [
-      "Conception et Innovation -- CI3"
+      "CM2: Introduction à la conception des systèmes mécatroniques"
     ]
   },
   {
     "objectID": "CM/CM2.html#quest-ce-quun-prototype",
     "href": "CM/CM2.html#quest-ce-quun-prototype",
-    "title": "Conception et Innovation – CI3",
+    "title": "CM2: Introduction à la conception des systèmes mécatroniques",
     "section": "Qu’est-ce qu’un prototype ?",
     "text": "Qu’est-ce qu’un prototype ?\nUn prototype est un artefact tangible qui nécessite une interprétation.",
     "crumbs": [
-      "Conception et Innovation -- CI3"
+      "CM2: Introduction à la conception des systèmes mécatroniques"
     ]
   },
   {
     "objectID": "CM/CM2.html#quel-type-de-prototype",
     "href": "CM/CM2.html#quel-type-de-prototype",
-    "title": "Conception et Innovation – CI3",
+    "title": "CM2: Introduction à la conception des systèmes mécatroniques",
     "section": "Quel type de prototype ?",
     "text": "Quel type de prototype ?\n\n\n\nProduct\nProcessus\nService prototype (?)",
     "crumbs": [
-      "Conception et Innovation -- CI3"
+      "CM2: Introduction à la conception des systèmes mécatroniques"
     ]
   },
   {
     "objectID": "CM/CM2.html#structure-des-systèmes-chaîne-denergie-et-dinformation",
     "href": "CM/CM2.html#structure-des-systèmes-chaîne-denergie-et-dinformation",
-    "title": "Conception et Innovation – CI3",
+    "title": "CM2: Introduction à la conception des systèmes mécatroniques",
     "section": "Structure des systèmes : Chaîne d’Energie et d’Information",
     "text": "Structure des systèmes : Chaîne d’Energie et d’Information",
     "crumbs": [
-      "Conception et Innovation -- CI3"
+      "CM2: Introduction à la conception des systèmes mécatroniques"
     ]
   },
   {
@@ -129,11 +129,11 @@
   {
     "objectID": "CM/CM2.html#la-chaîne-dinformation",
     "href": "CM/CM2.html#la-chaîne-dinformation",
-    "title": "Conception et Innovation – CI3",
+    "title": "CM2: Introduction à la conception des systèmes mécatroniques",
     "section": "La Chaîne d’Information",
     "text": "La Chaîne d’Information",
     "crumbs": [
-      "Conception et Innovation -- CI3"
+      "CM2: Introduction à la conception des systèmes mécatroniques"
     ]
   },
   {
@@ -385,241 +385,241 @@
   {
     "objectID": "CM/CM3.html#mécanisme",
     "href": "CM/CM3.html#mécanisme",
-    "title": "Conception et Innovation – CI3",
+    "title": "CM3: Schema Cinématique",
     "section": "Mécanisme",
     "text": "Mécanisme\nDéfinition:\n\n\n\n\n\n\nOn appelle mécanisme, un ensemble de pièces mécaniques reliées entre elles par des liaisons, en vue de réaliser une fonction déterminée.\n\n\n\n\nNous admettrons que les pièces mécaniques peuvent être modélisées par des solides indéformables.",
     "crumbs": [
-      "Conception et Innovation -- CI3"
+      "CM3: Schema Cinématique"
     ]
   },
   {
     "objectID": "CM/CM3.html#conception-en-v",
     "href": "CM/CM3.html#conception-en-v",
-    "title": "Conception et Innovation – CI3",
+    "title": "CM3: Schema Cinématique",
     "section": "Conception en V",
     "text": "Conception en V",
     "crumbs": [
-      "Conception et Innovation -- CI3"
+      "CM3: Schema Cinématique"
     ]
   },
   {
     "objectID": "CM/CM3.html#solides-indeformables",
     "href": "CM/CM3.html#solides-indeformables",
-    "title": "Conception et Innovation – CI3",
+    "title": "CM3: Schema Cinématique",
     "section": "Solides Indeformables",
     "text": "Solides Indeformables\n\n\n\n\n\n\n\n\n\n\n\n\nConséquence géométrique\n\n\nLa distance entre deux points quelconques d’un solide indéformable est invariable dans un Repère donneé\n\n\n\n\n\n\n\n\nBielle d’un micromoteur de modélisme",
     "crumbs": [
-      "Conception et Innovation -- CI3"
+      "CM3: Schema Cinématique"
     ]
   },
   {
     "objectID": "CM/CM3.html#repère",
     "href": "CM/CM3.html#repère",
-    "title": "Conception et Innovation – CI3",
+    "title": "CM3: Schema Cinématique",
     "section": "Repère",
     "text": "Repère\n\n\n\n\n\n\nPour connaitre la position de tous ses points dans l’espace, il suffit de connaitre la position d’un repère lié à ce solide.  Repère de référence: \\(R(O, \\vec{x}, \\vec{y}, \\vec{z})\\)  Repère de lié au solide.: \\(R(O_1, \\vec{x_1}, \\vec{y_1}, \\vec{z_1})\\)\n\n\n\n\n\n\n\n\n\n\n\nLa position du solide dans l’espace, est déterminée par 6 paramètres indépendants\n\nPosition du point \\(O_1\\) → 3 Coordonnées\nOrientation de \\(\\vec{x_1}, \\vec{y_1}, \\vec{z_1})\\) par rapport à \\(R(O, \\vec{x}, \\vec{y}, \\vec{z})\\) → 3 Angles",
     "crumbs": [
-      "Conception et Innovation -- CI3"
+      "CM3: Schema Cinématique"
     ]
   },
   {
     "objectID": "CM/CM3.html#degree-de-liberté",
     "href": "CM/CM3.html#degree-de-liberté",
-    "title": "Conception et Innovation – CI3",
+    "title": "CM3: Schema Cinématique",
     "section": "Degree de liberté",
     "text": "Degree de liberté\nIl existe deux mouvements élémentaires entre les solides :\n\n\n\n\n\n\n\nTRANSLATION (RECTILIGNE) : les trajectoires de tous les points du solide sont des droites parallèles.\nROTATION : les trajectoires de chaque point sont des cercles coaxiaux.\n\n\n\n\n\n\n\n\n\n\n\nOn appelle libertés d’un solide par rapport à un référentiel, les mouvements indépendants de ce solide pour passer d’une position à une autre.",
     "crumbs": [
-      "Conception et Innovation -- CI3"
+      "CM3: Schema Cinématique"
     ]
   },
   {
     "objectID": "CM/CM3.html#notion-de-liaison",
     "href": "CM/CM3.html#notion-de-liaison",
-    "title": "Conception et Innovation – CI3",
+    "title": "CM3: Schema Cinématique",
     "section": "Notion de liaison",
     "text": "Notion de liaison\nOn appelle liaison entre deux solides l’ensemble des couples de surfaces en contact entre ces deux solides, visant à diminuer la mobilité entre ces deux solides.\nZones de Contacts",
     "crumbs": [
-      "Conception et Innovation -- CI3"
+      "CM3: Schema Cinématique"
     ]
   },
   {
     "objectID": "CM/CM3.html#degrés-de-liberté-dune-liaison",
     "href": "CM/CM3.html#degrés-de-liberté-dune-liaison",
-    "title": "Conception et Innovation – CI3",
+    "title": "CM3: Schema Cinématique",
     "section": "Degrés de liberté d’une liaison",
     "text": "Degrés de liberté d’une liaison\nLes degrés de liberté d’une liaison sont les déplacements élémentaires indépendants autorisés par cette liaison.",
     "crumbs": [
-      "Conception et Innovation -- CI3"
+      "CM3: Schema Cinématique"
     ]
   },
   {
     "objectID": "CM/CM3.html#les-liaisons-mécaniques-elementaires",
     "href": "CM/CM3.html#les-liaisons-mécaniques-elementaires",
-    "title": "Conception et Innovation – CI3",
+    "title": "CM3: Schema Cinématique",
     "section": "Les Liaisons Mécaniques Elementaires",
     "text": "Les Liaisons Mécaniques Elementaires\nSelon la norme NF EN ISO 3952-1",
     "crumbs": [
-      "Conception et Innovation -- CI3"
+      "CM3: Schema Cinématique"
     ]
   },
   {
     "objectID": "CM/CM3.html#pour-quoi-faire",
     "href": "CM/CM3.html#pour-quoi-faire",
-    "title": "Conception et Innovation – CI3",
+    "title": "CM3: Schema Cinématique",
     "section": "Pour quoi faire?",
     "text": "Pour quoi faire?\n. . . Construire un schéma cinématique, une représentation simplifiée d’un mécanisme permettant une meilleure compréhension du fonctionnement.",
     "crumbs": [
-      "Conception et Innovation -- CI3"
+      "CM3: Schema Cinématique"
     ]
   },
   {
     "objectID": "CM/CM3.html#définition",
     "href": "CM/CM3.html#définition",
-    "title": "Conception et Innovation – CI3",
+    "title": "CM3: Schema Cinématique",
     "section": "Définition",
     "text": "Définition\nLe schéma cinématique d’un mécanisme est un modèle filaire du mécanisme utilisant les symboles normalisés des liaisons.\nCe modèle est utile tant au niveau de la conception que de l’analyse à posteriori pour réaliser l’étude cinématique ou dynamique (trajectoire, vitesse, efforts, etc.)",
     "crumbs": [
-      "Conception et Innovation -- CI3"
+      "CM3: Schema Cinématique"
     ]
   },
   {
     "objectID": "CM/CM3.html#example-1",
     "href": "CM/CM3.html#example-1",
-    "title": "Conception et Innovation – CI3",
+    "title": "CM3: Schema Cinématique",
     "section": "Example 1",
     "text": "Example 1\nModélisation cinématique d’un micromoteur de modélisme",
     "crumbs": [
-      "Conception et Innovation -- CI3"
+      "CM3: Schema Cinématique"
     ]
   },
   {
     "objectID": "CM/CM3.html#simuler-pour-mieux-comprendre.",
     "href": "CM/CM3.html#simuler-pour-mieux-comprendre.",
-    "title": "Conception et Innovation – CI3",
+    "title": "CM3: Schema Cinématique",
     "section": "💻 Simuler pour mieux comprendre.",
     "text": "💻 Simuler pour mieux comprendre.\n\n\n\n\n\n\nIntroduction to Mechanism Design  Source: http://www.mechdes.net/",
     "crumbs": [
-      "Conception et Innovation -- CI3"
+      "CM3: Schema Cinématique"
     ]
   },
   {
     "objectID": "CM/CM3.html#example-2-vélo-elliptique-ve680",
     "href": "CM/CM3.html#example-2-vélo-elliptique-ve680",
-    "title": "Conception et Innovation – CI3",
+    "title": "CM3: Schema Cinématique",
     "section": "Example 2: Vélo elliptique VE680",
     "text": "Example 2: Vélo elliptique VE680",
     "crumbs": [
-      "Conception et Innovation -- CI3"
+      "CM3: Schema Cinématique"
     ]
   },
   {
     "objectID": "CM/CM3.html#example-2-vélo-elliptique-ve680-1",
     "href": "CM/CM3.html#example-2-vélo-elliptique-ve680-1",
-    "title": "Conception et Innovation – CI3",
+    "title": "CM3: Schema Cinématique",
     "section": "Example 2: Vélo elliptique VE680",
     "text": "Example 2: Vélo elliptique VE680\n\nContexteAnalyse du besoinChaîne d’Energie\n\n\n\n\n\n\n\n\nSociété Décathlon commercialise le système du vélo elliptique de marque Domyos, modèle VE 680.",
     "crumbs": [
-      "Conception et Innovation -- CI3"
+      "CM3: Schema Cinématique"
     ]
   },
   {
     "objectID": "CM/CM3.html#example-2",
     "href": "CM/CM3.html#example-2",
-    "title": "Conception et Innovation – CI3",
+    "title": "CM3: Schema Cinématique",
     "section": "Example 2",
     "text": "Example 2\nModélisation cinématique d’une Vélo elliptique",
     "crumbs": [
-      "Conception et Innovation -- CI3"
+      "CM3: Schema Cinématique"
     ]
   },
   {
     "objectID": "CM/CM3.html#simuler-pour-mieux-comprendre.-1",
     "href": "CM/CM3.html#simuler-pour-mieux-comprendre.-1",
-    "title": "Conception et Innovation – CI3",
+    "title": "CM3: Schema Cinématique",
     "section": "💻 Simuler pour mieux comprendre.",
     "text": "💻 Simuler pour mieux comprendre.\n\n\n\n\n\n\n✓ Simuler par example:\n\nVitesses\n\n\n\n\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=\"quarto-layout-row quarto-layout-valign-center\"&gt;\n&lt;div class=\"quarto-layout-cell\" style=\"flex-basis: 50.0%;justify-content: flex-start;\"&gt;",
     "crumbs": [
-      "Conception et Innovation -- CI3"
+      "CM3: Schema Cinématique"
     ]
   },
   {
     "objectID": "CM/CM3.html#message-clé-de-cette-séance",
     "href": "CM/CM3.html#message-clé-de-cette-séance",
-    "title": "Conception et Innovation – CI3",
+    "title": "CM3: Schema Cinématique",
     "section": "Message clé de cette séance",
     "text": "Message clé de cette séance",
     "crumbs": [
-      "Conception et Innovation -- CI3"
+      "CM3: Schema Cinématique"
     ]
   },
   {
     "objectID": "CM/CM3.html#questions",
     "href": "CM/CM3.html#questions",
-    "title": "Conception et Innovation – CI3",
+    "title": "CM3: Schema Cinématique",
     "section": "Questions?",
     "text": "Questions?",
     "crumbs": [
-      "Conception et Innovation -- CI3"
+      "CM3: Schema Cinématique"
     ]
   },
   {
     "objectID": "CM/CM3.html#td",
     "href": "CM/CM3.html#td",
-    "title": "Conception et Innovation – CI3",
+    "title": "CM3: Schema Cinématique",
     "section": "TD",
     "text": "TD",
     "crumbs": [
-      "Conception et Innovation -- CI3"
+      "CM3: Schema Cinématique"
     ]
   },
   {
     "objectID": "CM/CM1.html#conception-et-innovation---ci3",
     "href": "CM/CM1.html#conception-et-innovation---ci3",
-    "title": "Conception et Innovation - CI3-",
+    "title": "CM1: Introduction à la conception des systèmes mécatroniques",
     "section": "Conception et Innovation - CI3?",
     "text": "Conception et Innovation - CI3?\n\nDe quoi parle ce cours ?\nStructure du cours, des attendus, les engagements",
     "crumbs": [
-      "Conception et Innovation - CI3-"
+      "CM1: Introduction à la conception des systèmes mécatroniques"
     ]
   },
   {
     "objectID": "CM/CM1.html#réflexion-sur-le-processus-de-conception",
     "href": "CM/CM1.html#réflexion-sur-le-processus-de-conception",
-    "title": "Conception et Innovation - CI3-",
+    "title": "CM1: Introduction à la conception des systèmes mécatroniques",
     "section": "Réflexion sur le processus de conception",
     "text": "Réflexion sur le processus de conception\n\n\n\n\n\n\n\nQuelles stratégies avez-vous utilisées pour construire vos tours ?\nCombien de tours avez-vous construites ?\nCombien d’équipes ont esquissé des idées avant de commencer à construire ?\nCombien d’équipes ont essayé plusieurs idées avant de s’arrêter sur une conception finale ?\nCombien d’équipes ont essayé d’utiliser les poids pendant le processus de prototypage ?\nCombien d’équipes ont utilisé des pièces de manière inattendue (ont démonté des pinces à linge) ?",
     "crumbs": [
-      "Conception et Innovation - CI3-"
+      "CM1: Introduction à la conception des systèmes mécatroniques"
     ]
   },
   {
     "objectID": "CM/CM1.html#pourquoi-est-ce-important-pour-vous-futurs-ingénieurs-en-innovation",
     "href": "CM/CM1.html#pourquoi-est-ce-important-pour-vous-futurs-ingénieurs-en-innovation",
-    "title": "Conception et Innovation - CI3-",
+    "title": "CM1: Introduction à la conception des systèmes mécatroniques",
     "section": "Pourquoi est-ce important pour vous, futurs ingénieurs en innovation ?",
     "text": "Pourquoi est-ce important pour vous, futurs ingénieurs en innovation ?\n\n\nConcevoir un produit/service est une activité complexe\n\nmobiliser de multiples partenaires de différentes disciplines,\nImaginer des solutions créatives et pratiques,\nde tester et vériﬁer mille problèmes avant soit trop tard",
     "crumbs": [
-      "Conception et Innovation - CI3-"
+      "CM1: Introduction à la conception des systèmes mécatroniques"
     ]
   },
   {
     "objectID": "CM/CM1.html#le-rôle-du-prototypage-et-la-conception-mécatronique",
     "href": "CM/CM1.html#le-rôle-du-prototypage-et-la-conception-mécatronique",
-    "title": "Conception et Innovation - CI3-",
+    "title": "CM1: Introduction à la conception des systèmes mécatroniques",
     "section": "Le rôle du prototypage et la conception mécatronique?",
     "text": "Le rôle du prototypage et la conception mécatronique?\n\n\n\n\n\n\n“Humans are really interesting. If you show them your idea in a prototype form, very few people will tell you what’s right about it. But everybody will tell you what’s wrong with it.”\n\n\n\nDavid Kelly, IDEO",
     "crumbs": [
-      "Conception et Innovation - CI3-"
+      "CM1: Introduction à la conception des systèmes mécatroniques"
     ]
   },
   {
     "objectID": "CM/CM1.html#objectifs-dapprentissage-du-module",
     "href": "CM/CM1.html#objectifs-dapprentissage-du-module",
-    "title": "Conception et Innovation - CI3-",
+    "title": "CM1: Introduction à la conception des systèmes mécatroniques",
     "section": "Objectifs d’apprentissage du module",
     "text": "Objectifs d’apprentissage du module\n\n\nVous donner les compétences de base pour pouvoir matérialiser une idée conceptuelle en un objet de conception mécatronique intermédiaire pour un concept donné.\nApprendre les technologies de prototypage disponibles au Lorraine Fab Living Lab.\nUne base scientifique et technique pour concevoir et construire un prototype de façon autonome. –Do-It-Yourself-",
     "crumbs": [
-      "Conception et Innovation - CI3-"
+      "CM1: Introduction à la conception des systèmes mécatroniques"
     ]
   },
   {
@@ -667,41 +667,41 @@
   {
     "objectID": "CM/CM1.html#le-rôle-cette-module",
     "href": "CM/CM1.html#le-rôle-cette-module",
-    "title": "Conception et Innovation - CI3-",
+    "title": "CM1: Introduction à la conception des systèmes mécatroniques",
     "section": "Le rôle cette module ?",
     "text": "Le rôle cette module ?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProcessus de sélection heuristique subjective.\nÉxploration d’un varieté de en faisant des hypothèses (implicites/explicites).\nDonner forme à une idée.\nImplementer un cadre cohérent de test.\nAvoir l’audace d’échouer est indispensable.\n\n\n\n\n\nSource: Cross, N. (2021). Engineering design methods: strategies for product design. John Wiley & Sons.",
     "crumbs": [
-      "Conception et Innovation - CI3-"
+      "CM1: Introduction à la conception des systèmes mécatroniques"
     ]
   },
   {
     "objectID": "CM/CM1.html#le-rôle-cette-module-1",
     "href": "CM/CM1.html#le-rôle-cette-module-1",
-    "title": "Conception et Innovation - CI3-",
+    "title": "CM1: Introduction à la conception des systèmes mécatroniques",
     "section": "Le rôle cette module ?",
     "text": "Le rôle cette module ?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Cross, N. (2021). Engineering design methods: strategies for product design. John Wiley & Sons.",
     "crumbs": [
-      "Conception et Innovation - CI3-"
+      "CM1: Introduction à la conception des systèmes mécatroniques"
     ]
   },
   {
     "objectID": "CM/CM2.html#métier-dingénieur",
     "href": "CM/CM2.html#métier-dingénieur",
-    "title": "Conception et Innovation – CI3",
+    "title": "CM2: Introduction à la conception des systèmes mécatroniques",
     "section": "Métier d’ingénieur",
     "text": "Métier d’ingénieur\n“Le métier de base de l’ingénieur consiste à poser et résoudre de manière toujours plus performante des problèmes souvent complexes, liés à la conception, à la réalisation et à la mise en oeuvre, au sein d’une organisation compétitive, de produits, de systèmes ou de services, éventuellement à leur financement et à leur commercialisation.\n À ce titre un ingénieur doit posséder un ensemble de savoirs techniques, économiques, sociaux et humains, reposant sur une solide culture scientifique. – Commission des Titres d’Ingénieur.",
     "crumbs": [
-      "Conception et Innovation -- CI3"
+      "CM2: Introduction à la conception des systèmes mécatroniques"
     ]
   },
   {
     "objectID": "CM/CM2.html#referentiel-compétence-ensgsi",
     "href": "CM/CM2.html#referentiel-compétence-ensgsi",
-    "title": "Conception et Innovation – CI3",
+    "title": "CM2: Introduction à la conception des systèmes mécatroniques",
     "section": "Referentiel Compétence ENSGSI",
     "text": "Referentiel Compétence ENSGSI\n\nC2: MAITRISER LES SCIENCES POUR L’INGENIEUR NECESSAIRES AUX METIERS DE L’INNOVATION\n\nAnalyser les besoins, définir les exigences de conception aux niveaux mécanique et énergétique en amont de la phase d’industrialisation d’un produit, les intégrer à un CDC et réaliser une première ébauche du dimensionnement et de l’optimisation du produit/procédé\nMatérialiser des concepts (réalisation de prototypes ou maquettes, plans numériques, avatars numériques), élaborer des protocoles d’essais\n\nC3 : ELABORER ET IMPLEMENTER DES PROCESSUS D’INNOVATION\n\nCréer les conditions de l’émergence et l’enrichissement de concepts de nouveaux produits (services/procédés/…), à l’aide d’outils collaboratifs de co-innovation (Objets Intermédiaires de Conception, Proof of Concept, …).",
     "crumbs": [
-      "Conception et Innovation -- CI3"
+      "CM2: Introduction à la conception des systèmes mécatroniques"
     ]
   },
   {
@@ -717,31 +717,31 @@
   {
     "objectID": "CM/CM2.html#ingénieur.e",
     "href": "CM/CM2.html#ingénieur.e",
-    "title": "Conception et Innovation – CI3",
+    "title": "CM2: Introduction à la conception des systèmes mécatroniques",
     "section": "Ingénieur.e",
     "text": "Ingénieur.e\nLe mot Ingénieur (latin Ingeniator) est dérivé des mots latins Ingeniare (“concevoir, inventer”) et Ingenium (“ingéniosité”).\n\n\n\n\n\n\nNote\n\n\n\nAnalyser → Analyser les fonctions et la structure des systèmes complexes pluritechnologiques rencontrés.\nModéliser → Proposer une représentation équationnelle d’un système en vue d’une simulation.\nRésoudre → Réaliser une simulation manuelle (calculs) ou assistée par logiciel pour pouvoir prévoir le comportement d’un système.\nExperimenter → Réaliser des mesures sur un système réel pour valider le comportement anticipé par simulation.\nConcevoir → Proposer une évolution matérielle ou logicielle pour améliorer le comportement d’un système et la réaliser.\nCommuniquer → Traiter des informations et mettre en œuvre une communication.",
     "crumbs": [
-      "Conception et Innovation -- CI3"
+      "CM2: Introduction à la conception des systèmes mécatroniques"
     ]
   },
   {
     "objectID": "CM/CM2.html#la-chaîne-dénergie",
     "href": "CM/CM2.html#la-chaîne-dénergie",
-    "title": "Conception et Innovation – CI3",
+    "title": "CM2: Introduction à la conception des systèmes mécatroniques",
     "section": "La chaîne d’énergie",
     "text": "La chaîne d’énergie\n\nChaque objet technique a besoin d’une énergie pour fonctionner.\n\nLes fonctions:\n\nAlimenter : constituants permettant l’énergie nécessaire au système\nStocker : certains objets doivent pouvoir stocker de L’énergie en vue de la restituer\nDistribuer : commander, contrôler et répartir la quantité d’énergie nécessaire\nConvertir : transformer une énergie en une autre nécessaire à l’effet attendu\nTransmettre : acheminer cette énergie convertie de façon à la rendre disponible pour l’action à réaliser.",
     "crumbs": [
-      "Conception et Innovation -- CI3"
+      "CM2: Introduction à la conception des systèmes mécatroniques"
     ]
   },
   {
     "objectID": "CM/CM1.html#lien-pédagogiques-gsi",
     "href": "CM/CM1.html#lien-pédagogiques-gsi",
-    "title": "Conception et Innovation - CI3-",
+    "title": "CM1: Introduction à la conception des systèmes mécatroniques",
     "section": "LIen Pédagogiques GSI",
     "text": "LIen Pédagogiques GSI\n(Voir les diapos de Fefe)",
     "crumbs": [
-      "Conception et Innovation - CI3-"
+      "CM1: Introduction à la conception des systèmes mécatroniques"
     ]
   },
   {
@@ -840,6 +840,23 @@
     "title": "Conception et Innovation – CI3",
     "section": "Exercice 0",
     "text": "Exercice 0\nBut: Faire le tutoriel proposé par onshape sur comment créer des assemblages et à travailleur avec eux.\n\n\n\n\n\n\nLien pour le tutoriel",
+    "crumbs": [
+      "Conception et Innovation -- CI3"
+    ]
+  },
+  {
+    "objectID": "index.html#cm",
+    "href": "index.html#cm",
+    "title": "\n             Introduction à la conception de système mécatronique\n         ",
+    "section": "3.1 Cours Magistraux",
+    "text": "3.1 Cours Magistraux\n\n\n\n\n\n\n\n\n\n\nCM1: Introduction à la conception des systèmes mécatroniques\n\n\n\n\n\n\nMdC. Fabio Cruz\n\n\nApr 19, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCM2: Introduction à la conception des systèmes mécatroniques\n\n\n\n\n\n\nMdC. Fabio Cruz\n\n\nApr 19, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCM3: Schema Cinématique\n\n\n\n\n\n\nMdC. Fabio Cruz\n\n\nApr 19, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "TP/TP3.html#interface-onshape",
+    "href": "TP/TP3.html#interface-onshape",
+    "title": "Conception et Innovation – CI3",
+    "section": "Interface Onshape",
+    "text": "Interface Onshape",
     "crumbs": [
       "Conception et Innovation -- CI3"
     ]

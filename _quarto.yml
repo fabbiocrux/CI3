@@ -45,21 +45,21 @@ website:
       - text: "Home"
         file: index.qmd    
       - text: "Cours Magistraux"
-        file: CM.qmd    
-      - text: "Travaux Dirigés"
-        file: TD.qmd    
-      - text: "Travaux Pratiques"
-        file: TP.qmd            
-      - text: "Aide"
-        menu:
-          - text: "Report un Erreur"
-            icon: "bug"
+        href: /#cm
+#      - text: "Travaux Dirigés"
+#       file: TD.qmd    
+#      - text: "Travaux Pratiques"
+#        file: TP.qmd            
+#      - text: "Aide"
+#        menu:
+#          - text: "Report un Erreur"
+#            icon: "bug"
 #            href: "https://github.com/quarto-dev/quarto-cli/issues"
-          - text: "Demandez une Question"
-            icon: "chat-right-text"
+#          - text: "Demandez une Question"
+#            icon: "chat-right-text"
 #            href: "https://github.com/quarto-dev/quarto-cli/discussions"
-          - text: "FAQ"
-            icon: "question-circle"
+#          - text: "FAQ"
+#            icon: "question-circle"
 #            href: docs/faq/index.qmd
     tools:
       - icon: twitter

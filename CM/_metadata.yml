@@ -3,6 +3,8 @@ institute: "Université de Lorraine | ENSGSI"
 author: 
   - "MdC. Fabio Cruz"
 link-citations: true
+date: today
+date-format: long
 format:
   revealjs:
     slide-number: c/t
@@ -19,7 +21,8 @@ format:
     pdf-separate-fragments: true
     toc: true
     #toc-title: Agenda for today
-    toc-depth: 2
+    toc-depth: 1
+    toc-title: But de la Séance
     center: false
     number-sections: false
     fig-align: center
