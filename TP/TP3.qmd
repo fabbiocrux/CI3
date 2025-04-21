@@ -1,50 +1,9 @@
 ---
-title: "Conception et Innovation -- CI3"
-subtitle: "TP3: Modélisation et assamblage des pièces par ordinateur"
-author: 
-  - "MCF. Fabio Cruz"
-date: 2023/05/13
-#metadata-files:
-#  - _metadata.yml
-email: "fabio.cruz@univ-lorraine.fr"
-institute: "Université de Lorraine | ENSGSI"
-link-citations: true
-format:
-  revealjs:
-    slide-number: c/t
-    slide-level: 3
-    controls: true
-    transition: none
-    #margin: 10
-    width: 1600
-    height: 900
-    theme: [default, ../assets/custom.scss]
-    logo: "../assets/img/ENSGSI.png"
-    #embed-resources: false
-    echo: false
-    pdf-separate-fragments: true
-    toc: false
-    #toc-title: Agenda for today
-    toc-depth: 1
-    center: false
-    number-sections: false
-    fig-align: center
-    code-copy: true        
-    header-logo: "../assets/img/ENSGSI.png"    
-    #subtitle-as-header: true
-    sc-sb-title: false
-    chalkboard: true
-    multiplex: true
-editor_options: 
-  chunk_output_type: console
+title: "TP3: Modélisation et assamblage des pièces par ordinateur"
+subtitle: "Conception et Innovation -CI3-"
+metadata-files:
+  - _metadata.yml
 ---
-
-
-```{r, include=FALSE}
-#install.packages("countdown")
-library(countdown)
-```
-
 
 
 # 🎯 But de la Séance de TP {.unummered}
@@ -53,19 +12,76 @@ library(countdown)
 2. Faire une **simulation de mouvement** d'un modèle CAO
 
 
-## Rapelle téorique
+
+# Etapes pour faire une assemblage
+
+::: {layout="[60,40]"}
+
+:::{}
+1. [Inserer les pièces](#inserer)
+2. [Établir une pièce fixe de Réference.](#ref)
+3. [Determiner les liaison](#liasons)
+4. [Etablier les limites](#limites)
+5. [Faire les simulation de mouvement](#simulation)
+:::
+
+:::{.callout-tip title="Aide d'Onshape"}
+
+📢 Nous allons regarder le [Manuel d'aide d'Onshape.](https://cad.onshape.com/help/fr_FR/Content/assembly.htm?TocPath=Assemblages%7C_____0)
+
+N'hesites pas à le regarder en détail ⚠️
+
+:::
+
+:::
+## Insérer les pièces {#inserer}
+
+::: {layout="[40,60]"}
+![](TP3/onshape/inserer-00.png)
+
+:::{}
+
+- `Onglet > Créer un Assemblage`
+- **Insérer**
+   - Documents Actif
+   - Autres documents
+   - Contenu Standard
+
+:::
+:::
 
 
-### 0 Degres de Liberté: Encastrement
+## Établir une pièce fixe de Réference {#ref}
+
+
+
+
+### Connecteur de posionnement
+
+
+![](TP3/onshape/interface-02.png){fig-align="center"}
+
+
+[![](https://embed-ssl.wistia.com/deliveries/f66491111cd57eb68771e15e7fb74694acf89859.jpg?image_play_button_size=2x&image_crop_resized=960x550&image_play_button_rounded=1&image_play_button_color=1b5faae0){width=80% fig-align="center"}
+](https://cad.onshape.com/help/fr_FR/Content/mateconnector_a.htm#Video)
+
+
+
+
+## Déterminer les Liasons {#liasons}
+
+### Rappels de théorie
+
+#### 0 Degres de Liberté: Encastrement
 
 ::: {.panel-tabset}
 
-#### Liaison Encastrement
+##### Liaison Encastrement
 
 ![](../CM/CM3/Liaison-Encastrement.png){width="80%" fig-align="center"}
 
 
-#### Encastrement sous Onshape
+##### Encastrement sous Onshape
 
 ::: {layout="[30,70]"}
 :::{}
@@ -100,16 +116,16 @@ library(countdown)
 #### Pivot sous Onshape
 
 ::: {layout="[30,70]"}
-:::{}
+
 ![](TP3/onshape/L1-pivot.png)
-:::
+
 :::{}
 
-<p><a href="https://cad.onshape.com/help/Content/mate-revolute.htm?TocPath=Assemblies%7CMates%7C_____2&wvideo=tfn8l3ci6y"><img src="https://embed-ssl.wistia.com/deliveries/a4965b7e5fe7b41ecb954563fa22fc6cd6430af1.jpg?image_play_button_size=2x&image_crop_resized=960x544&image_play_button_rounded=1&image_play_button_color=1b5faae0" width="400" height="226.25" style="width: 90%; height: auto;"></a></p><p><a href="https://cad.onshape.com/help/Content/mate-revolute.htm?TocPath=Assemblies%7CMates%7C_____2&wvideo=tfn8l3ci6y">Plus de détails</a></p>
+<p><a href="https://cad.onshape.com/help/Content/mate-slider.htm?TocPath=Assemblies%7CMates%7C_____3&wvideo=c2kawndkjz#"><img src="https://embed-ssl.wistia.com/deliveries/a68fcf05f0c706d47de33f5468c1cc389691d86a.jpg?image_play_button_size=2x&image_crop_resized=960x544&image_play_button_rounded=1&image_play_button_color=1b5faae0" width="400" height="226.25" style="width: 400px; height: 226.25px;"></a></p><p><a href="https://cad.onshape.com/help/Content/mate-slider.htm?TocPath=Assemblies%7CMates%7C_____3&wvideo=c2kawndkjz#">Slider-mate</a></p>
+
 
 :::
 :::
-
 
 
 
@@ -126,7 +142,7 @@ library(countdown)
 :::
 :::{}
 
-<p><a href="https://cad.onshape.com/help/Content/mate-slider.htm?TocPath=Assemblies%7CMates%7C_____3&wvideo=c2kawndkjz"><img src="https://embed-ssl.wistia.com/deliveries/a68fcf05f0c706d47de33f5468c1cc389691d86a.jpg?image_play_button_size=2x&image_crop_resized=960x544&image_play_button_rounded=1&image_play_button_color=1b5faae0" width="400" height="226.25" style="width: 90%; height: auto;"></a></p><p><a href="https://cad.onshape.com/help/Content/mate-slider.htm?TocPath=Assemblies%7CMates%7C_____3&wvideo=c2kawndkjz">Slider-mate</a></p>
+<p><a href="https://cad.onshape.com/help/Content/mate-slider.htm#video-example"><img src="https://embed-ssl.wistia.com/deliveries/a68fcf05f0c706d47de33f5468c1cc389691d86a.jpg?image_play_button_size=2x&image_crop_resized=960x544&image_play_button_rounded=1&image_play_button_color=1b5faae0" width="400" height="226.25" style="width: 90%; height: 226.25px;"></a></p>
 
 :::
 :::
@@ -194,17 +210,16 @@ library(countdown)
 :::
 
 
+
+## Établier les limites {#limites}
+
+## Faire les simulation de mouvement {#simulation}
+
 ## Exercices Liason Pivot
 
 
 
-## Exercice 0/
-
-
-
-
-
-
+# Exercices 
 
 
 ::: {layout="[[25,25, 25, 25], [20, 30, 50]]"}
@@ -240,10 +255,7 @@ Tutoriel de base
 :::
 
 
-# Exercice 0
 
-**But**: 
-Tutoriel sur la construction des ***modèles d'assemblage***. 
 
 
 ## Exercice 0
@@ -262,13 +274,13 @@ Tutoriel sur la construction des ***modèles d'assemblage***.
 :::
 
 
-# Exercice 1
+## Exercice 1
 
 **But**: 
 Concevoir un ***modèle d'assemblage***. 
 
 
-## Exercice 1
+### Exercice 1
 
 **But:** Faire les differents pièces et après faire la simulation de mouvement. 
 
@@ -280,15 +292,12 @@ Concevoir un ***modèle d'assemblage***.
 {{< video TP3/Ex1/Simulation.mp4 >}}
 
 
-
-
-
-# Exercice 2
+## Exercice 2
 
 **But**: 
 Concevoir un ***modèle d'assemblage***. 
 
-## Exercice 2
+### Exercice 2
 
 **But:** Faire les differents pièces et après faire la simulation de mouvement. 
 
@@ -304,16 +313,13 @@ Concevoir un ***modèle d'assemblage***.
 :::
 
 
-
-
-
-# Exercice 3
+## Exercice 3
 
 **But**: 
 Concevoir un ***modèle d'assemblage***. 
 
 
-## Exercice 3
+### Exercice 3
 
 **But:** Faire les differents pièces et après faire la simulation de mouvement. 
 
