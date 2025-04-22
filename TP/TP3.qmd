@@ -1,5 +1,5 @@
 ---
-title: "TP3: Modélisation et assamblage des pièces par ordinateur"
+title: "TP3: Modélisation et Assemblage des pièces par ordinateur"
 subtitle: "Conception et Innovation -CI3-"
 metadata-files:
   - _metadata.yml
@@ -36,8 +36,9 @@ N'hesites pas à le regarder en détail ⚠️
 :::
 ## Insérer les pièces {#inserer}
 
-::: {layout="[40,60]"}
-![](TP3/onshape/inserer-00.png)
+::: {layout="[30,60]"}
+
+![](TP3/onshape/inserer-00.png){width="400px" fig-align="center"}
 
 :::{}
 
@@ -53,54 +54,65 @@ N'hesites pas à le regarder en détail ⚠️
 
 ## Établir une pièce fixe de Réference {#ref}
 
+::: {layout="[30,60]"}
+:::{}
+1. Établir la prèmiere pièce à l'origine de l'assemblage.
+2. Fixer la pièce
+:::
 
-
-
-### Connecteur de posionnement
-
-
-![](TP3/onshape/interface-02.png){fig-align="center"}
-
-
-[![](https://embed-ssl.wistia.com/deliveries/f66491111cd57eb68771e15e7fb74694acf89859.jpg?image_play_button_size=2x&image_crop_resized=960x550&image_play_button_rounded=1&image_play_button_color=1b5faae0){width=80% fig-align="center"}
-](https://cad.onshape.com/help/fr_FR/Content/mateconnector_a.htm#Video)
-
+:::{}
+[![](https://embed-ssl.wistia.com/deliveries/ac9ab89b7169f23027e83a23cf090fa1ab3c35dd.jpg?image_play_button_size=2x&image_crop_resized=960x540&image_play_button_rounded=1&image_play_button_color=666666e0){width=80% fig-align="center"}
+](https://learn.onshape.com/learn/course/fundamentals-onshape-assemblies/creating-an-assembly/moving-your-first-part-to-the-origin?page=1&wvideo=rn2b2zw9nl){target="_blank"}
+:::
+:::
 
 
 
 ## Déterminer les Liasons {#liasons}
 
+Deux elements importantes:
+
+1. Connecteur de positionnement 📍.
+2. Établissement des liaisons entre chaque couples de pièces 🔗.  
+
+### Connecteur de posionnement
+
+::: {layout="[30,60]"}
+
+![](TP3/onshape/interface-02.png){fig-align="center"}
+
+
+[![](https://embed-ssl.wistia.com/deliveries/f66491111cd57eb68771e15e7fb74694acf89859.jpg?image_play_button_size=2x&image_crop_resized=960x550&image_play_button_rounded=1&image_play_button_color=1b5faae0){width=80% fig-align="center"}
+](https://cad.onshape.com/help/fr_FR/Content/mateconnector_a.htm#Video){target="_blank"}
+
+:::
+
+
+
+
 ### Rappels de théorie
 
 #### 0 Degres de Liberté: Encastrement
 
-::: {.panel-tabset}
-
-##### Liaison Encastrement
-
-![](../CM/CM3/Liaison-Encastrement.png){width="80%" fig-align="center"}
-
-
-##### Encastrement sous Onshape
 
 ::: {layout="[30,70]"}
 :::{}
-![](TP3/onshape/L0-encastrement.png)
 
-::: {.callout-tip}
-📢 Regardes l'aide du logiciel Onshape pour mieux comprendre !
-:::
+![](../CM/CM3/Liaison-Encastrement.png){.lightbox width="80%" fig-align="center"}
 
+![](TP3/onshape/L0-encastrement.png){width="300px" fig-align="center"}
 
 :::
+
 :::{}
 
-
-<p><a href="https://cad.onshape.com/help/Content/mate-fastened.htm?wvideo=w8fodmuokg#video-example"><img src="https://embed-ssl.wistia.com/deliveries/dc7daa240dd350697f4b1f47cc03c2697d87ecb2.jpg?image_play_button_size=2x&image_crop_resized=960x544&image_play_button_rounded=1&image_play_button_color=1b5faae0" width="600" height="226.25" style="width: 90%; height: auto;"></a></p><p><a href="https://cad.onshape.com/help/Content/mate-fastened.htm?wvideo=w8fodmuokg#video-example">Plus de détails</a></p>
-:::
-:::
+[![](https://embed-ssl.wistia.com/deliveries/dc7daa240dd350697f4b1f47cc03c2697d87ecb2.jpg?image_play_button_size=2x&image_crop_resized=960x544&image_play_button_rounded=1&image_play_button_color=1b5faae0){width=80% fig-align="center"}
+](https://cad.onshape.com/help/fr_FR/Content/mate-fastened.htm#video-example){target="_blank"}
 
 :::
+:::
+
+
 
 
 
@@ -110,112 +122,160 @@ N'hesites pas à le regarder en détail ⚠️
 ::: {.panel-tabset}
 
 #### Pivot 
-![](../CM/CM3/Liaison-Pivot.png){width="70%" fig-align="center"}
 
-
-#### Pivot sous Onshape
 
 ::: {layout="[30,70]"}
-
-![](TP3/onshape/L1-pivot.png)
-
 :::{}
+![](../CM/CM3/Liaison-Pivot.png){.lightbox width="70%" fig-align="center"}
 
-<p><a href="https://cad.onshape.com/help/Content/mate-slider.htm?TocPath=Assemblies%7CMates%7C_____3&wvideo=c2kawndkjz#"><img src="https://embed-ssl.wistia.com/deliveries/a68fcf05f0c706d47de33f5468c1cc389691d86a.jpg?image_play_button_size=2x&image_crop_resized=960x544&image_play_button_rounded=1&image_play_button_color=1b5faae0" width="400" height="226.25" style="width: 400px; height: 226.25px;"></a></p><p><a href="https://cad.onshape.com/help/Content/mate-slider.htm?TocPath=Assemblies%7CMates%7C_____3&wvideo=c2kawndkjz#">Slider-mate</a></p>
-
-
+![](TP3/onshape/L1-pivot.png){width="300px" fig-align="center"}
 :::
+
+
+[![](https://embed-ssl.wistia.com/deliveries/a4965b7e5fe7b41ecb954563fa22fc6cd6430af1.jpg?image_play_button_size=2x&image_crop_resized=960x544&image_play_button_rounded=1&image_play_button_color=1b5faae0){width=80% fig-align="center"}
+](https://cad.onshape.com/help/fr_FR/Content/mate-revolute.htm#video-example){target="_blank"}
+
 :::
 
 
 
 #### Glissière
-![](../CM/CM3/Liaison-Glissiere.png){width="70%" fig-align="center"}
-
-
-
-#### Glissière sous Onshape
 
 ::: {layout="[30,70]"}
 :::{}
-![](TP3/onshape/L1-glissiere.png)
-:::
-:::{}
+![](../CM/CM3/Liaison-Glissiere.png){.lightbox width="70%" fig-align="center"}
 
-<p><a href="https://cad.onshape.com/help/Content/mate-slider.htm#video-example"><img src="https://embed-ssl.wistia.com/deliveries/a68fcf05f0c706d47de33f5468c1cc389691d86a.jpg?image_play_button_size=2x&image_crop_resized=960x544&image_play_button_rounded=1&image_play_button_color=1b5faae0" width="400" height="226.25" style="width: 90%; height: 226.25px;"></a></p>
-
-:::
+![](TP3/onshape/L1-glissiere.png){width="300px" fig-align="center"}
 :::
 
 
+[![](https://embed-ssl.wistia.com/deliveries/a68fcf05f0c706d47de33f5468c1cc389691d86a.jpg?image_play_button_size=2x&image_crop_resized=960x544&image_play_button_rounded=1&image_play_button_color=1b5faae0){width=80% fig-align="center"}
+](https://cad.onshape.com/help/fr_FR/Content/mate-slider.htm#video-example){target="_blank"}
 
+
+:::
 :::
 
 
-### 2 Degrés de liberté 
+### 2 Degrés de liberté: Pivot glissant & Rotule à doigt
 
 ::: {.panel-tabset}
 
 #### Pivot glissant
-![](../CM/CM3/Liaison-Pivot-glissant-01.png){width="70%" fig-align="center"}
 
-#### Rotule à doigt
-![](../CM/CM3/Liaison-spherique.png){width="70%" fig-align="center"}
+::: {layout="[30,70]"}
+:::{}
+
+![](../CM/CM3/Liaison-Pivot-glissant-01.png){width="70%" fig-align="center" .lightbox}
+
+![](TP3/onshape/L2-pivot-glissiere.png){width="70%" fig-align="center"}
+:::
+:::{}
+
+[![](https://embed-ssl.wistia.com/deliveries/ddddd6f6bf10655c693ac742f2f4be664bc1e5f9.jpg?image_play_button_size=2x&image_crop_resized=960x607&image_play_button_rounded=1&image_play_button_color=1b5faae0){width=80% fig-align="center"}
+](https://cad.onshape.com/help/fr_FR/Content/mate-cylindrical.htm#video-example){target="_blank"}
+
+:::
 :::
 
 
-### 3 Degrés de liberté 
+
+
+#### Ranure
+
+::: {layout="[30,70]"}
+
+
+![](TP3/onshape/L2-roture-doight.png){width="70%" fig-align="center"}
+
+[![](https://embed-ssl.wistia.com/deliveries/adccc264bd652d41ba871b7373294b35.jpg?image_play_button_size=2x&image_crop_resized=960x552&image_play_button_rounded=1&image_play_button_color=1b5faae0){width=80% fig-align="center"}
+](https://cad.onshape.com/help/fr_FR/Content/mate-pin_slot.htm#video-example){target="_blank"}
+
+:::
+
+:::
+
+
+
+### 3 Degrés de liberté : Appui-Plan & Rotule
 
 ::: {.panel-tabset}
 
 #### Appui plan
-![](../CM/CM3/Liaison-Plan-01.png){width="70%" fig-align="center"}
-
-#### Rotule
-![](../CM/CM3/Liaison-rotule-01.png){width="70%" fig-align="center"}
-:::
-
-
-
-
-## Interface Onshape
-
-
-
-### Notion de Liasons
-
-
-
-
-
-
-
-
-## Exercices Individueles des Liasons.
 
 ::: {layout="[30,70]"}
 :::{}
-![Liaison fixe](TP3/theory/Liaison-00.png) liasion fxe
+![](../CM/CM3/Liaison-Plan-01.png){.lightbox width="70%" fig-align="center"}
 
-- 0 degrees de liberté
-- Selectioner entr
+![](TP3/onshape/L3-appuiplan.png){width="70%" fig-align="center"}
+:::
+
+[![](https://embed-ssl.wistia.com/deliveries/5b81848a551f750c193b7fcdc41501e8dd61d7de.jpg?image_play_button_size=2x&image_crop_resized=960x544&image_play_button_rounded=1&image_play_button_color=1b5faae0){width=80% fig-align="center"}
+](https://cad.onshape.com/help/fr_FR/Content/mate-planar.htm#video-example){target="_blank"}
 
 :::
 
+
+#### Rotule
+
+::: {layout="[30,70]"}
+:::{}
+![](../CM/CM3/Liaison-rotule-01.png){.lightbox width="70%" fig-align="center"}
+
+![](TP3/onshape/L3-rotule.png){width="70%" fig-align="center"}
+:::
+
+[![](https://embed-ssl.wistia.com/deliveries/b62c6a1372e7728e43309554112120b8a2cebf95.jpg?image_play_button_size=2x&image_crop_resized=960x607&image_play_button_rounded=1&image_play_button_color=1b5faae0){width=80% fig-align="center"}
+](https://cad.onshape.com/help/fr_FR/Content/mate-ball.htm#video-example){target="_blank"}
+
+:::
+:::
+
+
+
+### Additionnels : Parallèle & Tangent
+
+::: {.panel-tabset}
+
+#### Parallèle
+
+::: {layout="[30,70]"}
 :::{}
 
-{{< video https://fast.wistia.net/embed/iframe/w8fodmuokg?videoFoam=true&amp;qualityMin=540 >}}
-
-:::
+![](TP3/onshape/L4-appuie-plan.png){width="70%" fig-align="center"}
 :::
 
 
+[![](https://embed-ssl.wistia.com/deliveries/45952f0b795006d7a36c61a7390893bc5006eeb1.jpg?image_play_button_size=2x&image_crop_resized=960x540&image_play_button_rounded=1&image_play_button_color=1b5faae0){width=80% fig-align="center"}
+](https://cad.onshape.com/help/fr_FR/Content/parallelmate.htm#Video){target="_blank"}
 
-## Établier les limites {#limites}
+:::
 
-## Faire les simulation de mouvement {#simulation}
 
-## Exercices Liason Pivot
+#### Tangente
+
+[![](https://embed-ssl.wistia.com/deliveries/5e1cc46dc37bbefb9451e892e42c55411a52235e.jpg?image_play_button_size=2x&image_crop_resized=960x544&image_play_button_rounded=1&image_play_button_color=1b5faae0){width=80% fig-align="center"}
+](https://cad.onshape.com/help/fr_FR/Content/mate-tangent.htm#video-example){target="_blank"}
+
+:::
+
+
+## Établier les limites & Simulation {#limites}
+
+::: {layout="[40,60]"}
+
+:::{}
+1. Identifiez les types liaisons.
+2. Espécifiez des limites pour chaque axes traslation/rotation
+3. Simulez le mouvement elementaire de chaque liaison
+:::
+
+
+
+[![](https://embed-ssl.wistia.com/deliveries/45e01a066243bd379728ad5868aa86a45a92ac58.jpg?image_play_button_size=2x&image_crop_resized=960x540&image_play_button_rounded=1&image_play_button_color=666666e0){width=80% fig-align="center"}
+](https://learn.onshape.com/learn/course/fundamentals-onshape-assemblies/mating-assembly-components/onshape-mating?page=1&wvideo=h1h5cz7jry){target="_blank"}
+
+:::
 
 
 

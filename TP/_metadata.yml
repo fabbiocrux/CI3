@@ -24,7 +24,7 @@ format:
     toc-title: But de la Séance
     center: false
     number-sections: true
-    number-depth: 3
+    number-depth: 2
     fig-align: center
     code-copy: true        
     #header-logo: "../assets/img/logos/UL.png"    
