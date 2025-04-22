@@ -157,7 +157,8 @@ Deux elements importantes:
 :::
 
 
-### 2 Degrés de liberté: Pivot glissant & Rotule à doigt
+
+### 2 Degrés de liberté: Pivot glissant & Ranure
 
 ::: {.panel-tabset}
 
@@ -177,8 +178,6 @@ Deux elements importantes:
 
 :::
 :::
-
-
 
 
 #### Ranure
@@ -282,43 +281,35 @@ Deux elements importantes:
 # Exercices 
 
 
-::: {layout="[[25,25, 25, 25], [20, 30, 50]]"}
+::: {layout="[25,25, 25, 25]"}
 ::: {}
-**Ex. 0**
+**Ex. 1**
 
 ![](TP3/Ex0/Ex0.jpeg){width="90%" fig-align="center"} 
 
 Tutoriel de base
 :::
 ::: {}
-**Ex. 1**
-![](TP3/Ex1/Ex1.png){width="90%" fig-align="center"} 
+**Ex. 2**
+![](TP3/Ex1/Ex1-fabio.jpeg){.lightbox width="90%" fig-align="center"} 
 :::
 ::: {}
-**Ex. 2**
+**Ex. 3**
 
 ![](TP3/Ex2/Ex2.png){width="50%" fig-align="center"} 
 
 :::
 ::: {}
-**Ex. 3**
+**Ex. 4**
 ![](TP3/Ex3/Ex3.png){width="100%" fig-align="center"} 
 :::
-::: {}
-:::
-::: {}
-**Logiciel**:
-:::
-::: {}
-![[https://www.onshape.com/](https://www.onshape.com/)](TP1/Onshape-logo.png){width="40%" fig-align="left"}
-:::
 :::
 
 
 
 
 
-## Exercice 0
+## Exercice 1
 
 **But:** Faire le tutoriel proposé par onshape sur comment créer des assemblages et à travailleur avec eux. 
 
@@ -334,25 +325,27 @@ Tutoriel de base
 :::
 
 
-## Exercice 1
+## Exercice 2
 
+:::{layout="[30, 70]" layout-valign="center"}
+::: {}
 **But**: 
-Concevoir un ***modèle d'assemblage***. 
 
+1. Modéliser les pièces
+2. Construire  le ***modèle d'assemblage***. 
+3. Faire la simulation
+:::
 
-### Exercice 1
+![](TP3/Ex1/Ex1-fabio.jpeg){.lightbox width="65%" fig-align="center"} 
 
-**But:** Faire les differents pièces et après faire la simulation de mouvement. 
-
-![](TP3/Ex1/Ex1.png){width="65%" fig-align="center"} 
-
+:::
 
 ### Simulation Exercice 1
 
-{{< video TP3/Ex1/Simulation.mp4 >}}
+{{< video TP3/Ex1/Simulation-2.mp4 >}}
 
 
-## Exercice 2
+## Exercice 3
 
 **But**: 
 Concevoir un ***modèle d'assemblage***. 
@@ -411,10 +404,6 @@ Concevoir un ***modèle d'assemblage***.
 :::
 ![](TP3/Ex6/Ex.6.png){width="60%" fig-align="center"}
 :::
-
-## Exercice Bonus II
-
-![](TP3/Bonus.gif){width="40%" fig-align="center"}
 
 
 

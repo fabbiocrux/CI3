@@ -176,21 +176,21 @@
   {
     "objectID": "TP/TP3.html#exercice-2-1",
     "href": "TP/TP3.html#exercice-2-1",
-    "title": "TP3: Modélisation et assamblage des pièces par ordinateur",
-    "section": "5.1 Exercice 2",
-    "text": "5.1 Exercice 2\nBut: Faire les differents pièces et après faire la simulation de mouvement.\n\n\n\n\n\n\n⬇️ Téléchargez le dessin technique",
+    "title": "TP3: Modélisation et Assemblage des pièces par ordinateur",
+    "section": "3.3 Exercice 2",
+    "text": "3.3 Exercice 2\nBut: Concevoir un modèle d’assemblage.",
     "crumbs": [
-      "TP3: Modélisation et assamblage des pièces par ordinateur"
+      "TP3: Modélisation et Assemblage des pièces par ordinateur"
     ]
   },
   {
     "objectID": "TP/TP3.html#exercice-3-1",
     "href": "TP/TP3.html#exercice-3-1",
-    "title": "TP3: Modélisation et assamblage des pièces par ordinateur",
-    "section": "6.1 Exercice 3",
-    "text": "6.1 Exercice 3\nBut: Faire les differents pièces et après faire la simulation de mouvement.\n\n\n\n\n\n\n⬇️ Téléchargez le dessin technique",
+    "title": "TP3: Modélisation et Assemblage des pièces par ordinateur",
+    "section": "3.4 Exercice 3",
+    "text": "3.4 Exercice 3\nBut: Concevoir un modèle d’assemblage.",
     "crumbs": [
-      "TP3: Modélisation et assamblage des pièces par ordinateur"
+      "TP3: Modélisation et Assemblage des pièces par ordinateur"
     ]
   },
   {
@@ -849,7 +849,7 @@
     "href": "index.html#cm",
     "title": "\n             Introduction à la conception de système mécatronique\n         ",
     "section": "3.1 Cours Magistraux",
-    "text": "3.1 Cours Magistraux\n\n\n\n\n\n\n\n\n\n\nCM1: Introduction à la conception des systèmes mécatroniques\n\n\n\n\n\n\nMdC. Fabio Cruz\n\n\nApr 21, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCM2: Introduction à la conception des systèmes mécatroniques\n\n\n\n\n\n\nMdC. Fabio Cruz\n\n\nApr 21, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCM3: Schema Cinématique\n\n\n\n\n\n\nMdC. Fabio Cruz\n\n\nApr 21, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "3.1 Cours Magistraux\n\n\n\n\n\n\n\n\n\n\nCM1: Introduction à la conception des systèmes mécatroniques\n\n\n\n\n\n\nMdC. Fabio Cruz\n\n\nApr 22, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCM2: Introduction à la conception des systèmes mécatroniques\n\n\n\n\n\n\nMdC. Fabio Cruz\n\n\nApr 22, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCM3: Schema Cinématique\n\n\n\n\n\n\nMdC. Fabio Cruz\n\n\nApr 22, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "TP/TP3.html#interface-onshape",
@@ -1015,8 +1015,8 @@
     "objectID": "TP/TP3.html#exercice-1",
     "href": "TP/TP3.html#exercice-1",
     "title": "TP3: Modélisation et Assemblage des pièces par ordinateur",
-    "section": "3.2 Exercice 1",
-    "text": "3.2 Exercice 1\nBut: Concevoir un modèle d’assemblage.",
+    "section": "3.1 Exercice 1",
+    "text": "3.1 Exercice 1\nBut: Faire le tutoriel proposé par onshape sur comment créer des assemblages et à travailleur avec eux.\n\n\n\n\n\n\nLien pour le tutoriel",
     "crumbs": [
       "TP3: Modélisation et Assemblage des pièces par ordinateur"
     ]
@@ -1025,8 +1025,8 @@
     "objectID": "TP/TP3.html#exercice-2",
     "href": "TP/TP3.html#exercice-2",
     "title": "TP3: Modélisation et Assemblage des pièces par ordinateur",
-    "section": "3.3 Exercice 2",
-    "text": "3.3 Exercice 2\nBut: Concevoir un modèle d’assemblage.",
+    "section": "3.2 Exercice 2",
+    "text": "3.2 Exercice 2\n\n\n\n\n\n\nBut:\n\nModéliser les pièces\nConstruire le modèle d’assemblage.\nFaire la simulation",
     "crumbs": [
       "TP3: Modélisation et Assemblage des pièces par ordinateur"
     ]
@@ -1035,8 +1035,18 @@
     "objectID": "TP/TP3.html#exercice-3",
     "href": "TP/TP3.html#exercice-3",
     "title": "TP3: Modélisation et Assemblage des pièces par ordinateur",
-    "section": "3.4 Exercice 3",
-    "text": "3.4 Exercice 3\nBut: Concevoir un modèle d’assemblage.",
+    "section": "3.3 Exercice 3",
+    "text": "3.3 Exercice 3\nBut: Concevoir un modèle d’assemblage.",
+    "crumbs": [
+      "TP3: Modélisation et Assemblage des pièces par ordinateur"
+    ]
+  },
+  {
+    "objectID": "TP/TP3.html#exercice-2-2",
+    "href": "TP/TP3.html#exercice-2-2",
+    "title": "TP3: Modélisation et Assemblage des pièces par ordinateur",
+    "section": "3.3 Exercice 2",
+    "text": "3.3 Exercice 2\nBut: Concevoir un modèle d’assemblage.",
     "crumbs": [
       "TP3: Modélisation et Assemblage des pièces par ordinateur"
     ]
