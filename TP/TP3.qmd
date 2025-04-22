@@ -13,7 +13,7 @@ metadata-files:
 
 
 
-# Etapes pour faire une assemblage
+# 🚩 Etapes pour faire une assemblage
 
 ::: {layout="[60,40]"}
 
@@ -278,7 +278,7 @@ Deux elements importantes:
 
 
 
-# Exercices 
+# 🏋️‍♂️ Exercices 
 
 
 ::: {layout="[25,25, 25, 25]"}
@@ -318,8 +318,6 @@ Tutoriel de base
 ::: {}
 
 [Lien pour le tutoriel](https://learn.onshape.com/learn/course/fundamentals-onshape-assemblies/mating-assembly-components/exercise-basic-assembly?page=1){target="_blank"}
-
-
 :::
 
 ![](TP3/Ex0/Ex0-onshape.jpg){width="100%" fig-align="center"} 
@@ -391,7 +389,7 @@ Concevoir un ***modèle d'assemblage***.
 ![](TP3/Ex3/Ex3.png){width="50%" fig-align="center"} 
 :::
 
-# Bonus
+# ❇️ Bonus
 
 ## Exercice Bonus
 
