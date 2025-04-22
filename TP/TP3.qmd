@@ -311,17 +311,18 @@ Tutoriel de base
 
 ## Exercice 1
 
-**But:** Faire le tutoriel proposé par onshape sur comment créer des assemblages et à travailleur avec eux. 
+**But:** Faire le tutoriel proposé par onshape sur comment créer des assemblages. 
 
 
 ::: {layout="[30, 70]" layout-valign="center"}
 ::: {}
 
-[Lien pour le tutoriel](https://learn.onshape.com/courses/fundamentals-onshape-assemblies)
+[Lien pour le tutoriel](https://learn.onshape.com/learn/course/fundamentals-onshape-assemblies/mating-assembly-components/exercise-basic-assembly?page=1){target="_blank"}
+
 
 :::
 
-![](TP3/Ex0/Ex0.jpeg){width="100%" fig-align="center"} 
+![](TP3/Ex0/Ex0-onshape.jpg){width="100%" fig-align="center"} 
 :::
 
 
