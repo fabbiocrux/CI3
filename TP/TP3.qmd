@@ -283,7 +283,7 @@ Deux elements importantes:
 
 ::: {layout="[20,20,20,20,20]"}
 ::: {}
-**Ex. 1**
+**Ex. 0**
 
 ![](TP3/Ex0/Ex0-onshape.jpg){width="90%" fig-align="center"} 
 
@@ -342,9 +342,9 @@ Tutoriel de base
 ![](TP3/Ex0/Ex0.jpeg){width="100%" fig-align="center"} 
 :::
 
-### Simulation Exercice 2
+### Simulation Exercice 1
 
-{{< video TP3/Ex0/Simulation.mp4 >}}
+{{< video TP3/Ex0/Simulation.mp4 width="50%">}}
 
 
 ## Exercice 2
