@@ -6,14 +6,14 @@ metadata-files:
 ---
 
 
-# 🎯 But de la Séance de TP {.unummered}
+# But de la Séance de TP  🎯 {.unummered} 
 
 1. Concevoir un ***modèle d'assemblage***.  
 2. Faire une **simulation de mouvement** d'un modèle CAO
 
 
 
-# 🚩 Etapes pour faire une assemblage
+# Etapes pour faire une assemblage 🚩 
 
 ::: {layout="[60,40]"}
 
@@ -278,16 +278,22 @@ Deux elements importantes:
 
 
 
-# 🏋️‍♂️ Exercices 
+# Exercices 🏋️‍♂️ 
 
 
-::: {layout="[25,25, 25, 25]"}
+::: {layout="[20,20,20,20,20]"}
+::: {}
+**Ex. 1**
+
+![](TP3/Ex0/Ex0-onshape.jpg){width="90%" fig-align="center"} 
+
+Tutoriel de base
+:::
 ::: {}
 **Ex. 1**
 
 ![](TP3/Ex0/Ex0.jpeg){width="90%" fig-align="center"} 
 
-Tutoriel de base
 :::
 ::: {}
 **Ex. 2**
@@ -308,8 +314,7 @@ Tutoriel de base
 
 
 
-
-## Exercice 1
+## Exercice 0
 
 **But:** Faire le tutoriel proposé par onshape sur comment créer des assemblages. 
 
@@ -323,6 +328,24 @@ Tutoriel de base
 ![](TP3/Ex0/Ex0-onshape.jpg){width="100%" fig-align="center"} 
 :::
 
+## Exercice 1
+
+**But:** Faire l'assemblages de pièces. 
+
+
+::: {layout="[30, 70]" layout-valign="center"}
+::: {}
+
+[Lien Onshape des composants](https://cad.onshape.com/documents/eafcbd547f8d02df7fb82f58/w/c7d64ec0b23e42f727fc69ef/e/1c84a47433a3fb1101f714ba?renderMode=0&uiState=6808702b83ed3655f2339b81){target="_blank"}
+:::
+
+![](TP3/Ex0/Ex0.jpeg){width="100%" fig-align="center"} 
+:::
+
+### Simulation Exercice 2
+
+{{< video TP3/Ex0/Simulation.mp4 >}}
+
 
 ## Exercice 2
 
@@ -332,14 +355,14 @@ Tutoriel de base
 
 1. Modéliser les pièces
 2. Construire  le ***modèle d'assemblage***. 
-3. Faire la simulation
+3. Faire la simulation.
 :::
 
 ![](TP3/Ex1/Ex1-fabio.jpeg){.lightbox width="65%" fig-align="center"} 
 
 :::
 
-### Simulation Exercice 1
+### Simulation Exercice 2
 
 {{< video TP3/Ex1/Simulation-2.mp4 >}}
 
@@ -389,7 +412,7 @@ Concevoir un ***modèle d'assemblage***.
 ![](TP3/Ex3/Ex3.png){width="50%" fig-align="center"} 
 :::
 
-# ❇️ Bonus
+# Bonus ❇️ 
 
 ## Exercice Bonus
 
