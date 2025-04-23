@@ -344,7 +344,7 @@ Tutoriel de base
 
 ### Simulation Exercice 1
 
-{{< video TP3/Ex0/Simulation.mp4 width="50%">}}
+{{< video TP3/Ex0/Simulation.mp4 width="800px">}}
 
 
 ## Exercice 2
@@ -367,13 +367,12 @@ Tutoriel de base
 {{< video TP3/Ex1/Simulation-2.mp4 >}}
 
 
-
 ## Exercice 3
 
 **But**: 
 Concevoir un ***modèle d'assemblage***. 
 
-### Exercice 2
+### Exercice 3
 
 **But:** Faire les differents pièces et après faire la simulation de mouvement. 
 
@@ -389,13 +388,13 @@ Concevoir un ***modèle d'assemblage***.
 :::
 
 
-## Exercice 3
+## Exercice 4
 
 **But**: 
 Concevoir un ***modèle d'assemblage***. 
 
 
-### Exercice 3
+### Exercice 4
 
 **But:** Faire les differents pièces et après faire la simulation de mouvement. 
 
