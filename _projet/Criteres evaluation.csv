@@ -1,0 +1,13 @@
+Principe,Critère,Indicateurs,Verficateurs,Pas du tout d’accord,Neutre,Tout à fait d’accord
+"Performance  
+(10 points)",Evaluation de l'efficacité et de l'efficience du mécanisme,Taille,Le mécanisme est inscrit dans la zone sans toucher les lignes ,0,1,2
+,,Recuperation du cube,Le mécanisme déplace le propre cube vers l'objectif,0,1.5,3
+,,Emboitement,Le mécanisme emboite le cube de façon parfait,0,1.5,3
+,,Temps,Le mécanisme est rapide,0,1,2
+"Simplicité et robustesse
+(6 points)","Évalue la facilité de fabrication, la fiabilité structurelle, et la résistance à l’usage.",Autonomie,Le mécanisme est completement autonome dans son fonctionnement,0,1,2
+,,Robustesse,Le mecanisme est robuste reparable,0,1.5,2
+,,Strategie,Le mécanisme prevoit une strategie d'attaque/defense pour le challenge,0,1,2
+"Originalité
+(6 points)",Ingéniosité et frugalité de la solution ,Concept mécanique,"Le mecanisme optimise la quantité de piéces, utilise  le monos de ressources possibles ",0,1.5,3
+,,Concept electronique,Lé mecanisme est coherent en utilisation de ressources electroniques,0,1.5,3
