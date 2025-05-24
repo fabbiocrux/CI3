@@ -61,12 +61,12 @@ Cette année le projet de CI3 consistera dans un **Challenge** de conception mé
    - Pas electronique de communication (e.g. Wifi, radio)
 
 - **LF2L**: 
-   - L'accès au LF2L en dehors de séances de cours prévues, est soumis à réservation et validation par Benjamin Ennesser-Serville.
+   - L'accès au LF2L en dehors de séances de cours prévues, est soumis à réservation et validation par [Benjamin Ennesser-Serville - benjamin.ennesser-serville@univ-lorraine.fr](mailto:benjamin.ennesser-serville@univ-lorraine.fr).
      - \textcolor{red}{Réservation préalable 48h a l'avance.}
      - \textcolor{red}{Lors de la réservation, veuillez indiquer votre groupe (1.1, 1.2, 2.1 ou 2.2) ainsi que votre équipe (A, B, C, etc.).}
      
 
-\color{MidnightBlue}
+
 
 ## Critères d’évaluation
 
@@ -81,9 +81,28 @@ La soutenance prendra la forme d’un **tournoi par élimination,** où les équ
 La compétition se déroulera en deux étapes :
 
 1. **Test individuel** : Évaluation du mécanisme en fonctionnement autonome, sans adversaire.
-2. **Test en confrontation directe** : Affrontement entre deux équipes sur la même arène.
+    - 3 essais maximum pour évaluer le bon fonctionnement de votre mécanisme.
 
+2. **Test en confrontation directe** : Affrontement entre deux équipes sur la même arène.
+   -  Chaque match se joue en 2 manches gagnantes.
+
+\color{MidnightBlue}
+3. **Joker** (seulement pour les 3 premiers rounds) :
+  - Les équipes éliminées auront une chance de réintégrer la compétition grâce à une roue aléatoire :  [En utilisant par exemple: https://spinthewheel.io/fr](https://spinthewheel.io/fr) 
+
+
+**Note** :
+*Pour mieux gérer le temps, le format des confrontations directes pourra être ajusté en cours de route.*
 :::
+
+
+#### Distribution des matchs
+
+![](Challengue/Challenge%20CI3.jpg)
+
+
+\color{black}
+
 
 
 ## Critères de Victoire
@@ -157,7 +176,6 @@ table1 %>%
 ```
 
 
-\color{black}
 
 ### Rapport complémentaire 
 En complement de ce compétition, chaque groupe devra réaliser: 
@@ -234,78 +252,3 @@ L’Ensemble des rendus de concernant le rapport CI3  sont à rendre par un fich
 
 
 
-
-
-<!-- \newpage -->
-
-<!-- 
-\begin{tikzpicture}
-  \tikzset{
-    label/.style={text depth=.2em,font=\itshape\scriptsize,anchor=south},
-    match/.style={
-      matrix,matrix of nodes,ampersand replacement=\&,
-      inner sep=0,nodes={inner sep=.2em,text height=.7em,text depth=.1em}
-    },
-    grow=left,
-    level distance=10em,
-    level 1/.style={sibling distance=12em},
-    level 2/.style={sibling distance=6em},
-    level 3/.style={sibling distance=3em},
-    edge from parent path={
-      (\tikzparentnode.west)
-      -| ($(\tikzparentnode)!.5!(\tikzchildnode)$)
-      |- (\tikzchildnode.east)
-    },
-  }
-  \path \gainpremier{1-1}{États-Unis}{5}{Japon}{2}
-  child {\gainpremier{2-1}{États-Unis}{0}{Allemagne}{2}
-    child {\gainsecond{4-1}{Chine}{0}{États-Unis}{1}
-      child {\gainpremier{8-1}{Chine}{1}{Cameroun}{0}}
-      child {\gainpremier{8-2}{États-Unis}{2}{Colombie}{0}}
-    }
-    child {\gainpremier{4-2}{Allemagne}{1(5)}{France}{1(4)}
-      child {\gainpremier{8-3}{Allemagne}{4}{Suède}{1}}
-      child {\gainpremier{8-4}{France}{3}{Corée du Sud}{0}}
-    }
-  }
-  child {\gainpremier{2-2}{Japon}{2}{Angleterre}{1}
-    child {\gainsecond{4-3}{Australie}{0}{Japon}{1}
-      child {\gainsecond{8-5}{Brésil}{0}{Australie}{1}}
-      child {\gainpremier{8-6}{Japon}{2}{Pays-Bas}{1}}
-    }
-    child {\gainpremier{4-4}{Angleterre}{2}{Canada}{1}
-      child {\gainsecond{8-7}{Norvège}{1}{Angleterre}{2}}
-      child {\gainpremier{8-8}{Canada}{1}{Suisse}{0}}
-    }
-  }
-  ;
-  \begin{pgfonlayer}{background}
-    \node[inner sep=.2em,fit=(8-1)(8-2)(8-3)(8-4)(8-5)(8-6)(8-7)(8-8)]
-    (huitieme){};
-    \node[inner sep=.2em,fit=(4-1)(4-2)(4-3)(4-4)](quart){};
-    \node[inner sep=.2em,fit=(2-1)(2-2)](demi){};
-    \node[inner sep=.2em,fit=(1-1)](finale){};
-    \node[inner sep=0,fit=(huitieme)(quart)(demi)(finale)](global){};
-
-    \foreach \niveau/\couleur in {
-      huitieme/cyan!10,
-      quart/orange!10,
-      demi/yellow!20,
-      finale/red!10%
-    }{
-      \fill[fill=\couleur]
-      (\niveau.west |- global.south)
-      rectangle
-      (\niveau.east |- global.north);
-    }
-    \path
-    (huitieme |- global.north) node[label]{Huitièmes de finale}
-    (quart |- global.north) node[label]{Quarts de finale}
-    (demi |- global.north) node[label]{Demi-finales}
-    (finale |- global.north) node[label]{Finale}
-    ;
-  \end{pgfonlayer}
-\end{tikzpicture} -->
-
-
-[CI12] RECHERCHE, INNOVATION, ET DÉVELOPPEMENT

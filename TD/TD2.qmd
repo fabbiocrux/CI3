@@ -97,8 +97,7 @@ Nommez et identifiez les classes d’equivalence et les liaisons.
 :::
 
 :::{.solutionbox arguments="5cm"}
-![](TD2/Hemomixer-Correction-01.png){fig-align="center" width="80%"}
-
+![](TD2/Hemomixer/Hemomixer-00.png){fig-align="center" width="120px"}
 :::
 
 
@@ -106,8 +105,8 @@ Nommez et identifiez les classes d’equivalence et les liaisons.
 []{.question} 
 Déterminer le graphe des liaisons du mécanisme (choisir la base pour orienter l’espace, et les différents points nécessaires à la description des liaisons)
 
-
 :::{.solutionbox arguments="5cm"}
+![](TD2/Hemomixer/Hemomixer-01.png){fig-align="center" width="130px"}
 
 :::
 :::
@@ -117,6 +116,9 @@ Déterminer le graphe des liaisons du mécanisme (choisir la base pour orienter 
 Réaliser le schéma cinématique dans le plan de l’animation précédente.
 
 :::{.solutionbox arguments="6cm"}
+
+![](TD2/Hemomixer/Hemomixer-02.jpg){fig-align="center" width="130px"}
+
 :::
 
 :::
@@ -243,18 +245,46 @@ Identifier les classes d'equivalence à l'aide de couleurs distintes.Tracé le G
 
 ![](TD2/Bride-03.png){width="100%" fig-align="center"}
 
-:::{.solutionbox arguments="5cm"}
+:::{.solutionbox arguments="8cm"}
 
+
+**Classes d'équivalence cinématique**
+
+- \textcolor{blue}{$A: \{1,2,5,6 \} $ Bâti }
+- \textcolor{red}{$B: \{ 3 \} $ Piston }
+- \textcolor{green}{$C: \{ 4,9,10 \} $ Levier }
+- \textcolor{yellow}{$D: $ Pièce à usiner }
+
+![](TD2/bride/bride-00.png){fig-align="left" width="200px"}
+
+Ressort et joint sont à exclure car il sont déformable.
 :::
 
 :::
 
 
-
+:::{layout="[45,-5,45]" layout-valign="center"}
 
 :::{.solutionbox arguments="9cm"}
 
+**Graph des liaisons:**
+<br>
+
+![](TD2/bride/bride-01.png){fig-align="center" width="200px"}
+
 :::
+
+:::{.solutionbox arguments="9cm"}
+
+Schéma cinématique
+<br>
+<br>
+
+![](TD2/bride/bride-02.png){fig-align="center" width="280px"}
+:::
+
+:::
+
 :::
 
 

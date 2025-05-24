@@ -330,7 +330,7 @@ $L_{3-0}$ : Pivot glissant d’axe $(𝐴,\vec{y})$<br>
 ::: {layout="[50,40]" layout-valign="center"}
 
 Introduction to Mechanism Design <br>
-Source: [http://benchtophybrid.com/mechdes/ch01/driverDyad.html?sel=0](http://www.mechdes.net/)
+Source: [http://benchtophybrid.com/mechdes/ch01/driverDyad.html?sel=0](http://benchtophybrid.com/mechdes/ch01/driverDyad.html?sel=0)
 
 ![](CM3/Mechanism-design.png){width="80%" fig-align="center"}
 :::
