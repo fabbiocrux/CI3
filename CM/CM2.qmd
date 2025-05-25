@@ -26,6 +26,8 @@ Le mot Ingénieur (latin **Ingeniator**) est dérivé des mots latins **Ingeniar
 
 ::: {.callout-note}
 
+
+
 - **Analyser** → Analyser les fonctions et la structure des systèmes complexes pluritechnologiques rencontrés.
 - **Modéliser** → Proposer une représentation équationnelle d’un système en vue d’une simulation.
 - **Résoudre** → Réaliser une simulation manuelle (calculs) ou assistée par logiciel pour pouvoir prévoir le comportement d’un système.
@@ -44,7 +46,8 @@ financement et à leur commercialisation.
 <br> À ce titre un ingénieur doit posséder un ensemble de savoirs techniques, économiques, sociaux et humains, reposant sur une solide culture scientifique. 
 -- **Commission des Titres d’Ingénieur**.
 
-## Referentiel Compétence ENSGSI
+## Referentiel Compétence ENSGSI {.scrollable .smaller}
+
 
 1. C2: **MAITRISER LES SCIENCES POUR L’INGENIEUR NECESSAIRES AUX METIERS DE L’INNOVATION**
 
@@ -58,7 +61,7 @@ financement et à leur commercialisation.
 
 
 
-### Vocabulaire 
+### Vocabulaire {.scrollable .smaller}
 
 ::: {.callout-tip title="Definitions"}
 - Un **système** → Un arrangement d’éléments en interaction, organisé en vue d’atteindre un ou 

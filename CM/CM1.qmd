@@ -41,7 +41,7 @@ metadata-files:
 
 Le mot Ingénieur (latin **Ingeniator**) est dérivé des mots latins **Ingeniare** ("concevoir, inventer") et **Ingenium** ("ingéniosité").
 
-![](engineers.png){width="70%" fig-align="center"}
+![](CM1/engineers.png){width="70%" fig-align="center"}
 
 
 
@@ -51,7 +51,7 @@ Le mot Ingénieur (latin **Ingeniator**) est dérivé des mots latins **Ingeniar
 
 **Mathématiques + Physique** → Force, Masse, et *Mouvement*.
 
-![](Mechanics.jpeg){width="60%" fig-align="center"}
+![](CM1/Mechanics.jpeg){width="60%" fig-align="center"}
 
 :::footer
 Source: [engineer4free](https://www.engineer4free.com/uploads/1/0/2/9/10296972/free-online-engineering-dynamics-course_orig.jpg)
@@ -203,14 +203,15 @@ David Kelly, IDEO
 3.  **Échouer le plus tôt possible**.
 :::
 
-![](OIC-00.png){width="70%" fig-align="center"}
+![](CM1/OIC-00.png){width="70%" fig-align="center"}
+
 
 
 ### Échouer avec Enthousiasme et Détermination !
 
 Pour valider des hypothèses de conception.
 
-![](CM/Fail.png){width="60%" fig-align="center"}
+![](CM1/Fail.png){width="60%" fig-align="center"}
 
 
 ## Objectifs d'apprentissage du module
@@ -279,7 +280,7 @@ Test sous PC (**Weight: 2/3**)
 :::
 
 :::{}
-**Challenge par Groups**
+**Challenge par Groups** (**Weight: 1/3**)
 
 Presentation of the mechanism
 Documentation of the mechanism on <https://fabmanager.lf2l.fr/>
@@ -288,4 +289,3 @@ Documentation of the mechanism on <https://fabmanager.lf2l.fr/>
 
 ### Merci
 
-**Prochaine fois: 11/03/2024**

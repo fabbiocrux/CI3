@@ -8,16 +8,24 @@
 \begin{minipage}{.7\textwidth}   
     \bigskip
     
+        
+    $if(challenge)$
     \textbf{\textcolor{gsi_violet}{Enseignants :}} \textbf{MdC. Alaa Hassan et MdC. Fabio Cruz} \newline     
-    
-    $if(challenge)$    
     \textbf{\textcolor{gsi_violet}{Équipe support du LF2L:}} \textbf{Paola Vazquez / Benjamin Enneser-Serville} \newline    
     \textbf{\textcolor{gsi_violet}{Date du Challenge: }} \textbf{Mai 27/2025 à 14h} \newline   
     \textbf{\textcolor{gsi_violet}{Lieu:}} \textbf{Amphi A1}        
     $endif$
+
+    $if(examen)$    
+    \textbf{\textcolor{gsi_violet}{Prénom NOM:}} \dotfill \\[2pt]    
+    \textbf{\textcolor{gsi_violet}{Date de l’épreuve : }} $date$ \\[2pt]    
+    \textbf{\textcolor{gsi_violet}{Lieu:}} $examen.Lieu$ \\[2pt]              
+    \textbf{\textcolor{gsi_violet}{Enseignant(s) :}} \textbf{Alaa HASSAN, Fabio CRUZ} \\[2pt] 
+    \textbf{\textcolor{gsi_violet}{Note :}} \mbox{\hspace{2cm} / 20}\newline     
+    $endif$
 \end{minipage}   
 
-\bigskip
+
 \bigskip
 
 \hrule height .1pt depth .2pt width \textwidth
@@ -25,14 +33,45 @@
 \bigskip
 
 \begin{center}
+
 \textbf{\sffamily\Large $title$} \newline
 \textbf{\sffamily\normalsize $subtitle$}
+
 \end{center}
 
 \bigskip
 \hrule height .1pt depth .2pt width \textwidth
+\medskip
+
+$if(examen)$
+
+\begin{minipage}[t]{.5\textwidth}
+\flushleft
+\textbf{\textcolor{gsi_violet}{Durée :}} $examen.Duree$ \\[2pt]
+\textbf{\textcolor{gsi_violet}{Calculatrices :}} $examen.Calculatrices$ \\[2pt] 
+\end{minipage}
+\hfill
+\begin{minipage}[t]{.49\textwidth}
+\flushright
+Vos \textbf{smartphones} et \textbf{montres connectées} sont \textbf{éteints} et \textbf{rangés} dans votre sac!
+\end{minipage}
+
+\textbf{\textcolor{gsi_violet}{Documents :}} $examen.Documents$ \\[2pt] 
+\textbf{\textcolor{gsi_violet}{Composition :}} $examen.Composition$ \\[2pt] 
+
+
+\hrule height .1pt depth .2pt width \textwidth
+
+\medskip
+\textbf{\textcolor{gsi_violet}{Consignes particulières :}} $examen.Consignes$ 
+\bigskip
+
+\hrule height .1pt depth .2pt width \textwidth
 
 \bigskip
+
+$endif$
+
 
 $if(abstract)$
 \begin{abstract}
