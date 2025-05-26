@@ -42,7 +42,7 @@ How it started !!
 ## Avant de démarrer avec les hostilités.. 
 
 
-## {background-image="challenge/feedback.png" background-size="50%" }
+## {background-image="challenge/feedback.png" background-size="30%" }
 
 
 ## 
