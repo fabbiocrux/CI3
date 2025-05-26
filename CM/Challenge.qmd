@@ -80,7 +80,7 @@ La compétition se déroulera en deux étapes :
 🕒 13:45 - 15:45 !
 
 
-## {background-image="challenge/Challenge-CI3.jpg" background-size="70%"}
+## {background-image="challenge/Challenge-CI3.jpg" background-size="40%"}
 
 
 [Canva CI3 ranking](https://www.canva.com/design/DAGoWou_r5A/R6BQfmlracbm1fvZPrweBQ/edit){target="_blank"}
