@@ -167,17 +167,93 @@ Les équipes éliminées auront une chance de réintégrer la compétition grâc
 
 ## Crabe chirac Vs. E-GLOU
 
+:::{layout="[45,-5, 45]" layout-valign="top"}
+
+![](challenge/OC1/C-Crabe-Chirac.png){width="600px" fig-align="center"}
+
+![](challenge/OC1/K-E-GLOU.png){width="600px" fig-align="center"}
+
+:::
+
+
 ## YAT Vs. La Tour de Pise
+
+:::{layout="[45,-5, 45]" layout-valign="top"}
+
+![](challenge/OC1/L-YAT.png){width="600px" fig-align="center"}
+
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2d5Z3hmc2tvaTc5YXVvMGlwNTE3YTJjMTlqeTluNjBhOWd0bGw2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IxPtHa2UYo4gGaFthi/giphy.gif){width="600px" fig-align="center"}
+
+:::
 
 
 ## DiplodoCube Vs. Botchou
 
+:::{layout="[45,-5, 45]" layout-valign="top"}
+
+![](challenge/OC1/E-Diplodocube.png){width="600px" fig-align="center"}
+
+![](challenge/OC1/M-Botchou.png){width="600px" fig-align="center"}
+
+:::
+
 
 ## La cage Vs. Bras Levis
+
+:::{layout="[45,-5, 45]" layout-valign="top"}
+
+![](challenge/OC1/N-LA-cage.png){width="600px" fig-align="center"}
+
+![](challenge/OC1/F-Bras-Levis.png){width="600px" fig-align="center"}
+
+:::
 
 
 ## CubeBot Vs. Flash3
 
+:::{layout="[45,-5, 45]" layout-valign="top"}
+
+![](challenge/OC1/G-CubeBot.png){width="600px" fig-align="center"}
+
+![](challenge/OC1/O-Flash3.jpg){width="600px" fig-align="center"}
+:::
+
+:::{layout="[45,-5, 45]" layout-valign="top"}
+
+![]()
+
+{{< video challenge/videos/O-Flash3.mp4 >}}
+:::
+
+
+
+## CubeBot Vs. Flash3
+
+:::{layout="[45,-5, 45]" layout-valign="top"}
+
+![](challenge/OC1/O-Flash3.jpg){width="600px" fig-align="center"}
+:::
+
+
+
+
 ## Ener Vs. 1DIREXION
 
+:::{layout="[45,-5, 45]" layout-valign="top"}
+
+![](challenge/OC1/P-Ener.png){width="600px" fig-align="center"}
+
+![](challenge/OC1/H-1DIREXION.png){width="600px" fig-align="center"}
+
+:::
+
+
 ## JIM Vs. ARTI CUBE
+
+:::{layout="[45,-5, 45]" layout-valign="top"}
+
+![](challenge/OC1/Q-JIM.png){width="600px" fig-align="center"}
+
+![](challenge/OC1/R-ARTI-CUBE.png){width="600px" fig-align="center"}
+
+:::
