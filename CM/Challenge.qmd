@@ -1,0 +1,106 @@
+---
+title: "Challenge"
+subtitle: "Conception et Innovation -CI3-"
+author: 
+  - "MdC. Fabio Cruz"
+image: CM3/Liaisons.png
+metadata-files:
+  - _metadata.yml  
+---
+
+
+# How it started... 
+
+## {background-image="challenge/Started-00.png" background-size="cover" style="color: #FFFF"}
+
+
+How it started !!
+
+
+## { background-image="challenge/Started-01.png" background-size="cover"}
+
+
+## how it's going ...
+
+## {background-image="challenge/Started-02.png" background-size="cover" style="color: #FFFF"}
+
+
+## Avant de démarrer avec les hostilités.. 
+
+
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW11aW5zNWl5YjhqcXM0a2Rwc215YzE1M203bzA0aWVkY2s2ZThocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QAsvgarfoX2zcuXRWq/giphy.gif){fig-align="center"}
+
+## {background-image="challenge/feedback.png" background-size="70%" }
+
+
+
+## et maintenant !
+
+# Les confrontations
+
+
+# {background-image="challenge/Challenge-CI3.jpg" background-size="70%"}
+
+
+
+## Règles du Jeu
+
+::: {.callout-important title=""}
+La compétition se déroulera en deux étapes :
+
+1. **Test individuel** : Évaluation du mécanisme en fonctionnement autonome, sans adversaire.
+    - 3 essais maximum pour évaluer le bon fonctionnement de votre mécanisme.
+
+2. **Test en confrontation directe** : Affrontement entre deux équipes sur la même arène.
+   -  Chaque match se joue en 2 manches gagnantes.
+
+**Note** :
+*Pour mieux gérer le temps, le format des confrontations directes pourra être ajusté en cours de route.*
+:::
+
+
+
+## Joker 
+
+Seulement pour les 3 premiers rounds
+
+Les équipes éliminées auront une chance de réintégrer la compétition grâce à une roue aléatoire 
+
+![](challenge/joker.png){width="100%" fig-align="center"}
+
+[https://spinthewheel.io/fr](https://spinthewheel.io/fr) 
+
+
+
+## Joker {background-iframe="https://spinthewheel.io/wheels/YFtMKG8dwWT8XzuPX10w" background-interactive="true"}
+
+
+# Notre Jury
+
+
+
+# The war begins !!
+
+
+## Brasquito Vs ROBOCOOOOT
+
+
+## DUOPALES Vs. Thibaud & co 
+
+
+## Crabe chirac Vs. E-GLOU
+
+## YAT Vs. La Tour de Pise
+
+
+## DiplodoCube Vs. Botchou
+
+
+## La cage Vs. Bras Levis
+
+
+## CubeBot Vs. Flash3
+
+## Ener Vs. 1DIREXION
+
+## JIM Vs. ARTI CUBE

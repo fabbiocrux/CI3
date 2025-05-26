@@ -849,7 +849,7 @@
     "href": "index.html#cm",
     "title": "\n             Introduction à la conception de système mécatronique\n         ",
     "section": "3.1 Cours Magistraux",
-    "text": "3.1 Cours Magistraux\n\n\n\n\n\n\n\n\n\n\nCM1: Introduction à la conception des systèmes mécatroniques\n\n\n\n\n\n\nMdC. Fabio Cruz\n\n\nMay 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCM2: Introduction à la conception des systèmes mécatroniques\n\n\n\n\n\n\nMdC. Fabio Cruz\n\n\nMay 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCM3: Schema Cinématique\n\n\n\n\n\n\nMdC. Fabio Cruz\n\n\nMay 25, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "3.1 Cours Magistraux\n\n\n\n\n\n\n\n\n\n\nCM1: Introduction à la conception des systèmes mécatroniques\n\n\n\n\n\n\nMdC. Fabio Cruz\n\n\nMay 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCM2: Introduction à la conception des systèmes mécatroniques\n\n\n\n\n\n\nMdC. Fabio Cruz\n\n\nMay 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCM3: Schema Cinématique\n\n\n\n\n\n\nMdC. Fabio Cruz\n\n\nMay 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChallenge\n\n\n\n\n\n\nMdC. Fabio Cruz\n\n\nMay 27, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "TP/TP3.html#interface-onshape",
@@ -1060,5 +1060,173 @@
     "crumbs": [
       "TP3: Modélisation et Assemblage des pièces par ordinateur"
     ]
+  },
+  {
+    "objectID": "CM/Challenge.html#how-it-started-1",
+    "href": "CM/Challenge.html#how-it-started-1",
+    "title": "Challenge",
+    "section": "How it started",
+    "text": "How it started\n\nThis text will be shown in dark mode."
+  },
+  {
+    "objectID": "CM/Challenge.html#how-it-started-2",
+    "href": "CM/Challenge.html#how-it-started-2",
+    "title": "Challenge",
+    "section": "how it started",
+    "text": "how it started"
+  },
+  {
+    "objectID": "CM/Challenge.html#how-its-going",
+    "href": "CM/Challenge.html#how-its-going",
+    "title": "Challenge",
+    "section": "how it’s going …",
+    "text": "how it’s going …"
+  },
+  {
+    "objectID": "CM/Challenge.html#how-its-going-1",
+    "href": "CM/Challenge.html#how-its-going-1",
+    "title": "Challenge",
+    "section": "how it’s going",
+    "text": "how it’s going"
+  },
+  {
+    "objectID": "CM/Challenge.html#section",
+    "href": "CM/Challenge.html#section",
+    "title": "Challenge",
+    "section": "",
+    "text": "How it started !!"
+  },
+  {
+    "objectID": "CM/Challenge.html#section-2",
+    "href": "CM/Challenge.html#section-2",
+    "title": "Challenge",
+    "section": "",
+    "text": "how it’s going !!"
+  },
+  {
+    "objectID": "CM/Challenge.html#et-maintenant",
+    "href": "CM/Challenge.html#et-maintenant",
+    "title": "Challenge",
+    "section": "et maintenant !",
+    "text": "et maintenant !"
+  },
+  {
+    "objectID": "CM/Challenge.html#brasquito-vs",
+    "href": "CM/Challenge.html#brasquito-vs",
+    "title": "Challenge",
+    "section": "Brasquito Vs",
+    "text": "Brasquito Vs"
+  },
+  {
+    "objectID": "CM/Challenge.html#brasquito-vs-robocoooot",
+    "href": "CM/Challenge.html#brasquito-vs-robocoooot",
+    "title": "Challenge",
+    "section": "Brasquito Vs ROBOCOOOOT",
+    "text": "Brasquito Vs ROBOCOOOOT"
+  },
+  {
+    "objectID": "CM/Challenge.html#duopales-vs.-thibaud-co",
+    "href": "CM/Challenge.html#duopales-vs.-thibaud-co",
+    "title": "Challenge",
+    "section": "DUOPALES Vs. Thibaud & co",
+    "text": "DUOPALES Vs. Thibaud & co"
+  },
+  {
+    "objectID": "CM/Challenge.html#crabe-chirac-vs.-e-glou",
+    "href": "CM/Challenge.html#crabe-chirac-vs.-e-glou",
+    "title": "Challenge",
+    "section": "Crabe chirac Vs. E-GLOU",
+    "text": "Crabe chirac Vs. E-GLOU"
+  },
+  {
+    "objectID": "CM/Challenge.html#yat-vs.-la-tour-de-pise",
+    "href": "CM/Challenge.html#yat-vs.-la-tour-de-pise",
+    "title": "Challenge",
+    "section": "YAT Vs. La Tour de Pise",
+    "text": "YAT Vs. La Tour de Pise"
+  },
+  {
+    "objectID": "CM/Challenge.html#diplodocube-vs.-botchou",
+    "href": "CM/Challenge.html#diplodocube-vs.-botchou",
+    "title": "Challenge",
+    "section": "DiplodoCube Vs. Botchou",
+    "text": "DiplodoCube Vs. Botchou"
+  },
+  {
+    "objectID": "CM/Challenge.html#la-cage-vs.-bras-levis",
+    "href": "CM/Challenge.html#la-cage-vs.-bras-levis",
+    "title": "Challenge",
+    "section": "La cage Vs. Bras Levis",
+    "text": "La cage Vs. Bras Levis"
+  },
+  {
+    "objectID": "CM/Challenge.html#cubebot-vs.-flash3",
+    "href": "CM/Challenge.html#cubebot-vs.-flash3",
+    "title": "Challenge",
+    "section": "CubeBot Vs. Flash3",
+    "text": "CubeBot Vs. Flash3"
+  },
+  {
+    "objectID": "CM/Challenge.html#ener-vs.-1direxion",
+    "href": "CM/Challenge.html#ener-vs.-1direxion",
+    "title": "Challenge",
+    "section": "Ener Vs. 1DIREXION",
+    "text": "Ener Vs. 1DIREXION"
+  },
+  {
+    "objectID": "CM/Challenge.html#jim-vs.-arti-cube",
+    "href": "CM/Challenge.html#jim-vs.-arti-cube",
+    "title": "Challenge",
+    "section": "JIM Vs. ARTI CUBE",
+    "text": "JIM Vs. ARTI CUBE"
+  },
+  {
+    "objectID": "CM/Challenge.html#règles",
+    "href": "CM/Challenge.html#règles",
+    "title": "Challenge",
+    "section": "Règles",
+    "text": "Règles\n\n\n\n\n\n\n\nImportant\n\n\nLa compétition se déroulera en deux étapes :\n\nTest individuel : Évaluation du mécanisme en fonctionnement autonome, sans adversaire.\n\n3 essais maximum pour évaluer le bon fonctionnement de votre mécanisme.\n\nTest en confrontation directe : Affrontement entre deux équipes sur la même arène.\n\nChaque match se joue en 2 manches gagnantes.\n\n\n\nJoker (seulement pour les 3 premiers rounds) :\n\n\nLes équipes éliminées auront une chance de réintégrer la compétition grâce à une roue aléatoire : En utilisant par exemple: https://spinthewheel.io/fr\n\nNote : Pour mieux gérer le temps, le format des confrontations directes pourra être ajusté en cours de route."
+  },
+  {
+    "objectID": "CM/Challenge.html#joker",
+    "href": "CM/Challenge.html#joker",
+    "title": "Challenge",
+    "section": "Joker",
+    "text": "Joker\nSeulement pour les 3 premiers rounds\nLes équipes éliminées auront une chance de réintégrer la compétition grâce à une roue aléatoire\n\nhttps://spinthewheel.io/fr"
+  },
+  {
+    "objectID": "CM/Challenge.html#feedback",
+    "href": "CM/Challenge.html#feedback",
+    "title": "Challenge",
+    "section": "Feedback",
+    "text": "Feedback"
+  },
+  {
+    "objectID": "CM/Challenge.html#avant-de-démarrer-avec-les-hostilités..",
+    "href": "CM/Challenge.html#avant-de-démarrer-avec-les-hostilités..",
+    "title": "Challenge",
+    "section": "Avant de démarrer avec les hostilités..",
+    "text": "Avant de démarrer avec les hostilités.."
+  },
+  {
+    "objectID": "CM/Challenge.html#règles-du-jeu",
+    "href": "CM/Challenge.html#règles-du-jeu",
+    "title": "Challenge",
+    "section": "Règles du Jeu",
+    "text": "Règles du Jeu\n\n\n\n\n\n\n\nImportant\n\n\nLa compétition se déroulera en deux étapes :\n\nTest individuel : Évaluation du mécanisme en fonctionnement autonome, sans adversaire.\n\n3 essais maximum pour évaluer le bon fonctionnement de votre mécanisme.\n\nTest en confrontation directe : Affrontement entre deux équipes sur la même arène.\n\nChaque match se joue en 2 manches gagnantes.\n\n\nNote : Pour mieux gérer le temps, le format des confrontations directes pourra être ajusté en cours de route."
+  },
+  {
+    "objectID": "CM/Challenge.html#joker-seulement-pour-les-3-premiers-rounds",
+    "href": "CM/Challenge.html#joker-seulement-pour-les-3-premiers-rounds",
+    "title": "Challenge",
+    "section": "Joker (seulement pour les 3 premiers rounds)",
+    "text": "Joker (seulement pour les 3 premiers rounds)\nLes équipes éliminées auront une chance de réintégrer la compétition grâce à une roue aléatoire\n\nhttps://spinthewheel.io/fr"
+  },
+  {
+    "objectID": "CM/Challenge.html#joker-1",
+    "href": "CM/Challenge.html#joker-1",
+    "title": "Challenge",
+    "section": "Joker",
+    "text": "Joker"
   }
 ]

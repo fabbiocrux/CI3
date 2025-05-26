@@ -24,6 +24,7 @@ format:
     toc-depth: 1
     toc-title: But de la Séance
     center: false
+    center-title-slide: false
     number-sections: false
     fig-align: center
     code-copy: true        
