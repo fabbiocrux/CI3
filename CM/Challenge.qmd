@@ -25,21 +25,40 @@ How it started !!
 ## {background-image="challenge/Started-02.png" background-size="cover" style="color: #FFFF"}
 
 
+
+
+
+:::{layout="[30,-5, 38,-5,30]" layout-valign="top"}
+
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RzOGZ4NTdseXdobjF5a3Niczd1cXNzYm9zaGprNmN1cmlkOTh1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNbGyHcDYphNbhe4EE/giphy.gif){ .fragment width="500px" fig-align="center"}
+
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGplYXg4dmQ1c2dybHVsOTNmY2h3cDl5Mmo0eWo3eXRybTU1dm1obyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10fxZavhBFXsUE/giphy.gif){.fragment width="500px"  fig-align="center"}
+
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzltNHUyZTRrZ3Ruc3FwN29teTNqY3N6b21zZjZyb3V1cGd4a3hvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufcVAp3AiJJsrIs/giphy.gif){.fragment width="500px"  fig-align="center"}
+:::
+
+
+
 ## Avant de démarrer avec les hostilités.. 
 
 
-![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW11aW5zNWl5YjhqcXM0a2Rwc215YzE1M203bzA0aWVkY2s2ZThocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QAsvgarfoX2zcuXRWq/giphy.gif){fig-align="center"}
+## {background-image="challenge/feedback.png" background-size="50%" }
 
-## {background-image="challenge/feedback.png" background-size="70%" }
+
+## 
+
+On recuperar l'**Electronique** et les pièces en **impression 3D** ♻️ ❗❗❗❗
+
 
 
 
 ## et maintenant !
 
-# Les confrontations
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW11aW5zNWl5YjhqcXM0a2Rwc215YzE1M203bzA0aWVkY2s2ZThocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QAsvgarfoX2zcuXRWq/giphy.gif){fig-align="center"}
 
 
-# {background-image="challenge/Challenge-CI3.jpg" background-size="70%"}
+
+# Let's begin. 
 
 
 
@@ -58,6 +77,10 @@ La compétition se déroulera en deux étapes :
 *Pour mieux gérer le temps, le format des confrontations directes pourra être ajusté en cours de route.*
 :::
 
+🕒 13:45 - 15:45 !
+
+
+## {background-image="challenge/Challenge-CI3.jpg" background-size="70%"}
 
 
 ## Joker 
@@ -72,20 +95,74 @@ Les équipes éliminées auront une chance de réintégrer la compétition grâc
 
 
 
-## Joker {background-iframe="https://spinthewheel.io/wheels/YFtMKG8dwWT8XzuPX10w" background-interactive="true"}
+## Joker {background-iframe="https://spinthewheel.io/wheels/YFtMKG8dwWT8XzuPX10w" background-interactive="true" style="color: #FFFF"}
 
 
 # Notre Jury
 
 
+:::{layout="[30,-5, 30,-5,30]" layout-valign="top"}
+
+![](challenge/Guillaume.png){width="100%" fig-align="center"}
+
+![](challenge/Ferney.png){width="100%" fig-align="center"}
+
+![](challenge/Catalina-2.png){width="100%" fig-align="center"}
+:::
+
+
+![](challenge/Paola.png){.absolute .fragment bottom=0 left=0 width="300"} 
+![](challenge/Benjamin.png){.absolute .fragment bottom=0 left=350 width="300"} 
+
+## Grille d'Evaluation
+
+![](challenge/Grille.png){width="100%" fig-align="center"}
+
+## Des questions?
+
+## Est qu'il y a un prix pour le gagnant?
+
+
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWp3N3F6MGd1MGh2NG94bzIwdDJweG91OGF6dDE3bGtwa3Jta3VwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jUyuZUwZXMu66q0NFw/giphy.gif
+){width="100%" fig-align="center"}
+
+## Est qu'il y a un prix pour le gagnant?
+
+
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXV4aXZoMXh5MWc3anFmMnh0ZXZyZXI1c2M1cG11eGJrc2NjdWF3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TIzBy9NNKcfVWugB9H/giphy.gif){width="100%" fig-align="center"}
+
+
+## D'autres questions?
+
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZoOGx6bTJmZzkzMnoxMmpsbzBkeTZ0OWE5MjY1aWUxcnJqbWRscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X8OdYYnQEENnAP6zUC/giphy.gif
+){width="100%" fig-align="center"}
+
 
 # The war begins !!
+
 
 
 ## Brasquito Vs ROBOCOOOOT
 
 
+:::{layout="[45,-5, 45]" layout-valign="top"}
+
+![](challenge/OC1/A-Brasquito-0.jpg){width="600px" fig-align="center"}
+
+![](challenge/OC1/I-ROBOCOOOOT.png){width="500px" fig-align="center"}
+:::
+
+
+
 ## DUOPALES Vs. Thibaud & co 
+
+:::{layout="[45,-5, 45]" layout-valign="top"}
+
+![](challenge/OC1/J-DuoPales.jpg){width="600px" fig-align="center"}
+
+![](challenge/OC1/B-Thibaud-Co.png){width="600px" fig-align="center"}
+
+:::
 
 
 ## Crabe chirac Vs. E-GLOU

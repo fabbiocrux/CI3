@@ -1213,7 +1213,7 @@
     "href": "CM/Challenge.html#règles-du-jeu",
     "title": "Challenge",
     "section": "Règles du Jeu",
-    "text": "Règles du Jeu\n\n\n\n\n\n\n\nImportant\n\n\nLa compétition se déroulera en deux étapes :\n\nTest individuel : Évaluation du mécanisme en fonctionnement autonome, sans adversaire.\n\n3 essais maximum pour évaluer le bon fonctionnement de votre mécanisme.\n\nTest en confrontation directe : Affrontement entre deux équipes sur la même arène.\n\nChaque match se joue en 2 manches gagnantes.\n\n\nNote : Pour mieux gérer le temps, le format des confrontations directes pourra être ajusté en cours de route."
+    "text": "Règles du Jeu\n\n\n\n\n\n\n\nImportant\n\n\nLa compétition se déroulera en deux étapes :\n\nTest individuel : Évaluation du mécanisme en fonctionnement autonome, sans adversaire.\n\n3 essais maximum pour évaluer le bon fonctionnement de votre mécanisme.\n\nTest en confrontation directe : Affrontement entre deux équipes sur la même arène.\n\nChaque match se joue en 2 manches gagnantes.\n\n\nNote : Pour mieux gérer le temps, le format des confrontations directes pourra être ajusté en cours de route.\n\n\n\n\n🕒 13:45 - 15:45 !"
   },
   {
     "objectID": "CM/Challenge.html#joker-seulement-pour-les-3-premiers-rounds",
@@ -1228,5 +1228,54 @@
     "title": "Challenge",
     "section": "Joker",
     "text": "Joker"
+  },
+  {
+    "objectID": "CM/Challenge.html#grille-devaluation",
+    "href": "CM/Challenge.html#grille-devaluation",
+    "title": "Challenge",
+    "section": "Grille d’Evaluation",
+    "text": "Grille d’Evaluation"
+  },
+  {
+    "objectID": "CM/Challenge.html#est-c",
+    "href": "CM/Challenge.html#est-c",
+    "title": "Challenge",
+    "section": "Est c”",
+    "text": "Est c”"
+  },
+  {
+    "objectID": "CM/Challenge.html#des-questions",
+    "href": "CM/Challenge.html#des-questions",
+    "title": "Challenge",
+    "section": "Des questions?",
+    "text": "Des questions?"
+  },
+  {
+    "objectID": "CM/Challenge.html#est-quil-y-a-un-prix-pour-le-gagnant",
+    "href": "CM/Challenge.html#est-quil-y-a-un-prix-pour-le-gagnant",
+    "title": "Challenge",
+    "section": "Est qu’il y a un prix pour le gagnant?",
+    "text": "Est qu’il y a un prix pour le gagnant?"
+  },
+  {
+    "objectID": "CM/Challenge.html#section-4",
+    "href": "CM/Challenge.html#section-4",
+    "title": "Challenge",
+    "section": "",
+    "text": "On recuperar l’Electronique et les pièces en impression 3D ♻️ ❗❗❗❗"
+  },
+  {
+    "objectID": "CM/Challenge.html#est-quil-y-a-un-prix-pour-le-gagnant-1",
+    "href": "CM/Challenge.html#est-quil-y-a-un-prix-pour-le-gagnant-1",
+    "title": "Challenge",
+    "section": "Est qu’il y a un prix pour le gagnant?",
+    "text": "Est qu’il y a un prix pour le gagnant?"
+  },
+  {
+    "objectID": "CM/Challenge.html#dautres-questions",
+    "href": "CM/Challenge.html#dautres-questions",
+    "title": "Challenge",
+    "section": "D’autres questions?",
+    "text": "D’autres questions?"
   }
 ]
