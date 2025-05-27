@@ -225,6 +225,9 @@ Les équipes éliminées auront une chance de réintégrer la compétition grâc
 ![](challenge/OC1/O-Flash3.jpg){width="600px" fig-align="center"}
 :::
 
+
+## CubeBot Vs. Flash3
+
 :::{layout="[45,-5, 45]" layout-valign="top"}
 
 ![]()
