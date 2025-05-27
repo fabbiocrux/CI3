@@ -51,6 +51,10 @@ On recuperar l'**Electronique** et les pièces en **impression 3D** ♻️ ❗�
 
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGd6OHY2NzE2cXA3bWEyZHE2YWpidmdkZ2w5Y2x5eHAwdnF2dnk3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3mlE7uhX8KFgEmY/giphy.gif){width="500px"  fig-align="center"}
 
+##
+
+{{< video https://www.youtube.com/watch?v=uV9tHQ91nqY width="100%" height="1000" >}}
+
 
 ## et maintenant !
 
