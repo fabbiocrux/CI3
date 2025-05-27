@@ -47,7 +47,7 @@ How it started !!
 
 ## 
 
-On recuperar l'**Electronique** et les pièces en **impression 3D** ♻️ ❗❗❗❗
+On recupère l'**Electronique** et les pièces en **impression 3D** ♻️ ❗❗❗❗
 
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGd6OHY2NzE2cXA3bWEyZHE2YWpidmdkZ2w5Y2x5eHAwdnF2dnk3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3mlE7uhX8KFgEmY/giphy.gif){width="500px"  fig-align="center"}
 
@@ -103,8 +103,6 @@ Les équipes éliminées auront une chance de réintégrer la compétition grâc
 
 
 ## Joker {background-iframe="https://spinthewheel.io/wheels/YFtMKG8dwWT8XzuPX10w" background-interactive="true" style="color: #FFFF"}
-
-
 
 
 
@@ -230,7 +228,7 @@ Les équipes éliminées auront une chance de réintégrer la compétition grâc
 :::
 
 
-## CubeBot Vs. Flash3
+### CubeBot Vs. Flash3
 
 :::{layout="[45,-5, 45]" layout-valign="top"}
 
@@ -240,13 +238,6 @@ Les équipes éliminées auront une chance de réintégrer la compétition grâc
 :::
 
 
-
-## CubeBot Vs. Flash3
-
-:::{layout="[45,-5, 45]" layout-valign="top"}
-
-![](challenge/OC1/O-Flash3.jpg){width="600px" fig-align="center"}
-:::
 
 
 
@@ -260,6 +251,17 @@ Les équipes éliminées auront une chance de réintégrer la compétition grâc
 ![](challenge/OC1/H-1DIREXION.png){width="600px" fig-align="center"}
 
 :::
+
+
+### Ener Vs. 1DIREXION
+
+:::{layout="[45,-5, 45]" layout-valign="top"}
+
+![]()
+
+{{< video challenge/videos/P-Ener.mp4 >}}
+:::
+
 
 
 ## JIM Vs. ARTI CUBE

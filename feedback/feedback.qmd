@@ -38,7 +38,7 @@ commands: [question, part, choice, CorrectChoice]
 environments: [center, parts, questions, checkboxes, solutionbox, minipage]
 ---
 
-::: {.callout-tip title="But de cet document"}
+::: {.callout-tip title="But de ce document"}
 Comme tout processus de conception, le module CI3 est en évolution constante afin de mieux développer les compétences d’une ingénierie de l’innovation adaptée aux enjeux du $XXIe$ siècle.
 
 Ce document a pour objectif de **recueillir votre retour d’expérience** afin d’identifier vos perceptions, suggestions et axes d’amélioration, dans une démarche d’amélioration continue au service des futurs ingénieur.es de l’ENSGSI.
@@ -57,10 +57,9 @@ Merci de bien vouloir partager vos remarques concernant :
 
 ::: {.questions}
 []{.question} 
-Quels sont, selon vous, les éléments positifs du module que vous avez appréciez et qui devraient être conservés ou renforcés pour les futurs étudiant(e)s de l’ENSGSI ?
+Quels sont, selon vous, les éléments positifs du module que vous avez appréciés et qui devraient être conservés ou renforcés pour les futurs étudiant(e)s de l’ENSGSI ?
 
 :::{.solutionbox arguments="4cm"}
-
 
 :::
 
@@ -69,13 +68,13 @@ Quels sont, selon vous, les éléments positifs du module que vous avez appréci
 
 :::{layout="[70, 30]"}
 :::{}
-Le module CI3 travail spécifiquement les compétences:
+Le module CI3 travaille  spécifiquement les compétences:
 
 1. **C2:** Maîtriser les Science pour l'Ingénieur nécessaires au métiers de l'Innovation.
-   - Compéténces: *C2.1, C2.2, C2.3*
+   - Compétences: *C2.1, C2.2, C2.3*
 
 1. **C3** : Élaborer et implémenter des processus d'Innovation
-   - Compéténces: *C3.2*
+   - Compétences: *C3.2*
 :::
 
 ![](qrcode_ensgsi.univ-lorraine.fr.png){width="100px" fig-align="center"}
@@ -85,7 +84,7 @@ Le module CI3 travail spécifiquement les compétences:
 
 
 []{.question} 
-En revanche, quelles sont, selon vous, les elements que vous pensez que devront être enleves du module CI3  que correspondent pas du tout au *Référentiel Emploi-Compétences (REC)* de l'ENSGSI?
+En revanche, quelles sont, selon vous, les éléments dont vous pensez qu'ils devront être enlevés du module CI3 car ils ne correspondent pas au *Référentiel Emploi-Compétences (REC)* de l'ENSGSI?
 
 :::{.solutionbox arguments="4cm"}
 :::
@@ -103,9 +102,9 @@ Quelles sont les pistes d’amélioration et/ou suggestions possibles pour ce mo
 
 
 []{.question} 
-Avez-vous un commentaire, un remerciement ou une critique constructive que vous souhaiteriez adresser à Avez-vous un commentaire, un remerciement ou une critique constructive que vous souhaiteriez adresser à l'équipe pédagogique de l'ENSGSI, en lien avec votre expérience cette année dans le module, et que vous jugez important de mettre en avant ? Vous pouvez également simplement partager un ressenti lié à votre vécu.
+Avez-vous un commentaire, un remerciement ou une critique constructive que vous souhaiteriez adresser à l'équipe pédagogique de l'ENSGSI, en lien avec votre expérience cette année dans le module, et que vous jugez important de mettre en avant ? Vous pouvez également simplement partager un ressenti lié à votre vécu.
 
-:::{.solutionbox arguments="5cm"}
+:::{.solutionbox arguments="6cm"}
 
 
 :::
