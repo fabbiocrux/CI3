@@ -228,9 +228,9 @@ Les équipes éliminées auront une chance de réintégrer la compétition grâc
 
 :::{layout="[40,-5, 40]" layout-valign="top"}
 
-{{< video challenge/videos/L-TP.mp4 >}}
-
 {{< video challenge/videos/L-YAT.mp4 >}}
+
+{{< video challenge/videos/L-TP.mp4 >}}
 
 :::
 
@@ -251,7 +251,7 @@ Les équipes éliminées auront une chance de réintégrer la compétition grâc
 
 :::{layout="[40,-5, 40]" layout-valign="top"}
 
-{{< video challenge/videos/E-Diplodocube.mp4 >}}
+{{< video challenge/videos/E-DiplodoCube.mov >}}
 
 {{< video challenge/videos/M-Botchou.mp4 >}}
 
@@ -301,9 +301,6 @@ Les équipes éliminées auront une chance de réintégrer la compétition grâc
 
 
 
-
-
-
 ## Ener Vs. 1DIREXION
 
 :::{layout="[45,-5, 45]" layout-valign="top"}
@@ -319,9 +316,9 @@ Les équipes éliminées auront une chance de réintégrer la compétition grâc
 
 :::{layout="[45,-5, 45]" layout-valign="top"}
 
-![]()
-
 {{< video challenge/videos/P-Ener.mp4 >}}
+
+{{< video challenge/videos/H.mp4 >}}
 :::
 
 
@@ -341,8 +338,9 @@ Les équipes éliminées auront une chance de réintégrer la compétition grâc
 
 :::{layout="[45,-5, 45]" layout-valign="top"}
 
-![]()
-
 {{< video challenge/videos/Q-JIM.mp4 >}}
+
+{{< video challenge/videos/R-Articube.mp4 >}}
+
 :::
 
