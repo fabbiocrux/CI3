@@ -161,6 +161,16 @@ Les équipes éliminées auront une chance de réintégrer la compétition grâc
 ![](challenge/OC1/I-ROBOCOOOOT.png){width="500px" fig-align="center"}
 :::
 
+### Brasquito Vs ROBOCOOOOT
+
+:::{layout="[40,-5, 40]" layout-valign="top"}
+
+![]()
+
+{{< video challenge/videos/I-ROBOCOOOOT.mp4 >}}
+
+:::
+
 
 
 ## DUOPALES Vs. Thibaud & co 
@@ -170,6 +180,16 @@ Les équipes éliminées auront une chance de réintégrer la compétition grâc
 ![](challenge/OC1/J-DuoPales.jpg){width="600px" fig-align="center"}
 
 ![](challenge/OC1/B-Thibaud-Co.png){width="600px" fig-align="center"}
+
+:::
+
+### DUOPALES Vs. Thibaud & co 
+
+:::{layout="[40,-5, 40]" layout-valign="top"}
+
+{{< video challenge/videos/J-DuoPales.mp4 >}}
+
+{{< video challenge/videos/B-Thibaud-Co.mp4 >}}
 
 :::
 
@@ -184,6 +204,15 @@ Les équipes éliminées auront une chance de réintégrer la compétition grâc
 
 :::
 
+### Crabe chirac Vs. E-GLOU
+
+:::{layout="[40,-5, 40]" layout-valign="top"}
+
+{{< video challenge/videos/C-Crabe-Chirac.mp4 >}}
+
+{{< video challenge/videos/K-E-GLOU.mp4 >}}
+
+:::
 
 ## YAT Vs. La Tour de Pise
 
@@ -192,6 +221,16 @@ Les équipes éliminées auront une chance de réintégrer la compétition grâc
 ![](challenge/OC1/L-YAT.png){width="600px" fig-align="center"}
 
 ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2d5Z3hmc2tvaTc5YXVvMGlwNTE3YTJjMTlqeTluNjBhOWd0bGw2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IxPtHa2UYo4gGaFthi/giphy.gif){width="600px" fig-align="center"}
+
+:::
+
+### YAT Vs. La Tour de Pise
+
+:::{layout="[40,-5, 40]" layout-valign="top"}
+
+{{< video challenge/videos/L-YAT.mp4 >}}
+
+{{< video challenge/videos/L-YAT.mp4 >}}
 
 :::
 
@@ -207,6 +246,17 @@ Les équipes éliminées auront une chance de réintégrer la compétition grâc
 :::
 
 
+### DiplodoCube Vs. Botchou
+
+:::{layout="[40,-5, 40]" layout-valign="top"}
+
+{{< video challenge/videos/E-Diplodocube.mp4 >}}
+
+{{< video challenge/videos/M-Botchou.mp4 >}}
+
+:::
+
+
 ## La cage Vs. Bras Levis
 
 :::{layout="[45,-5, 45]" layout-valign="top"}
@@ -214,6 +264,16 @@ Les équipes éliminées auront une chance de réintégrer la compétition grâc
 ![](challenge/OC1/N-LA-cage.png){width="600px" fig-align="center"}
 
 ![](challenge/OC1/F-Bras-Levis.png){width="600px" fig-align="center"}
+
+:::
+
+### La cage Vs. Bras Levis
+
+:::{layout="[40,-5, 40]" layout-valign="top"}
+
+{{< video challenge/videos/N-LA-cage.mp4 >}}
+
+{{< video challenge/videos/F-Bras-Levis.mp4 >}}
 
 :::
 
@@ -230,11 +290,12 @@ Les équipes éliminées auront une chance de réintégrer la compétition grâc
 
 ### CubeBot Vs. Flash3
 
-:::{layout="[45,-5, 45]" layout-valign="top"}
+:::{layout="[40,-5, 40]" layout-valign="top"}
 
-![]()
+{{< video challenge/videos/G-CubeBot.mp4 >}}
 
 {{< video challenge/videos/O-Flash3.mp4 >}}
+
 :::
 
 
@@ -273,3 +334,14 @@ Les équipes éliminées auront une chance de réintégrer la compétition grâc
 ![](challenge/OC1/R-ARTI-CUBE.png){width="600px" fig-align="center"}
 
 :::
+
+### JIM Vs. ARTI CUBE
+
+
+:::{layout="[45,-5, 45]" layout-valign="top"}
+
+![]()
+
+{{< video challenge/videos/Q-JIM.mp4 >}}
+:::
+
