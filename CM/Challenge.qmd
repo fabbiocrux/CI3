@@ -228,11 +228,12 @@ Les équipes éliminées auront une chance de réintégrer la compétition grâc
 
 :::{layout="[40,-5, 40]" layout-valign="top"}
 
-{{< video challenge/videos/L-YAT.mp4 >}}
+{{< video challenge/videos/L-TP.mp4 >}}
 
 {{< video challenge/videos/L-YAT.mp4 >}}
 
 :::
+
 
 
 ## DiplodoCube Vs. Botchou
