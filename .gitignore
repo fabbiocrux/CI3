@@ -4,6 +4,8 @@
 .Ruserdata
 _bibliography/
 /.quarto/
-_bibliography/
+_projet/
 Examen/
 .DS_Store
+
+**/*.quarto_ipynb
