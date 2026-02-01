@@ -13,6 +13,36 @@ $gray-800: #343a40 !default;
 $gray-900: #212529 !default;
 $black:    #000 !default;
 
+
+
+$morado: #642C81 !default;
+$orange: #f37703 !default;
+$amarillo: #FFDC00 !default;
+
+
+$red: #f34213 !default;
+$purple: #3e2f5b !default;
+$orange: #ff8811 !default;
+$green: #d9edc2 !default;
+$grey: #F5F5F5 !default;
+$yellow: #FAFE83 !default;
+$blue: #1381B0 !default;
+$grey_Inedit: #969696 !default;
+
+$navy: #37455a;
+$cyan: #a3d9cb;
+$peach: #ff9d7a;
+
+$colors: (
+  red: $red,
+  navy: $navy,
+  blue: $blue,
+  cyan: $cyan,
+  peach: $peach,
+  green: $green,
+  yellow: $yellow,
+);
+
 // Personalization for the Slides
 .slide-deck {
      border: 3px solid #dee2e6;
@@ -100,6 +130,7 @@ $presentation-line-height: 1.3 !default;
 // headings
 $presentation-heading-font: $font-family-sans-serif !default;
 $presentation-heading-line-height: 1.2 !default;
+$presentation-heading-color: $morado;
 $presentation-heading-letter-spacing: normal !default;
 $presentation-heading-text-transform: none !default;
 $presentation-heading-text-shadow: red !default;
@@ -113,6 +144,5 @@ $presentation-h4-font-size: 1em !default;
 
 
 
-.grey{
-  color: $gray-300;
-}
+
+

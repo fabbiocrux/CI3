@@ -1,4 +1,5 @@
 ---
+lang: fr
 title: "CM1: Introduction à la conception des systèmes mécatroniques"
 subtitle: "Conception et Innovation -CI3-"
 image: CM1/Mechanics.jpeg
@@ -6,46 +7,89 @@ metadata-files:
   - _metadata.yml
 ---
 
-# Introduction
+# Introduction Conception et Innovation --CI3-- {.center}
 ## Conception et Innovation - CI3?
 
-- De quoi parle ce cours ?
-- Structure du cours, des attendus, les engagements
+
+- D'où vient ce module?
+- De quoi on va parler dans ce cours ?
+- Pourquoi il est important dans votre parcours?
+- Comment va être évalué?
+- Quelles sont les attendus et engagements de votre et notre part?
 
 
-### Ligné de la Conception et Innovation du ENSGSI 
+## D'où vient ce module?
 
 ::: {.panel-tabset}
 
-#### CI1 - Créativité
+#### CI1
+
+
+:::{layout="[50,50]"}
+
+:::{}
+`Créativité`
+
+- Divergence - Convergence
+- Piloter les phases d'un projet de créativité collective.
+- Techniques de créativité.
+
+:::
 
 ![](CM1/Raphael.png){fig-align="center" width="55%"}
+:::
 
-#### CI2 Ingénierie de l'innovation I
+
+#### CI2 
+
+:::{layout="[50,50]"}
+
+:::{}
+`Ingénierie de l'innovation I`
+
+
+:::
 
 ![](CM1/Manon.png){fig-align="center" width="80%"}
 :::
 
-## LIen Pédagogiques GSI
 
-(Voir les diapos de Fefe) 
+#### ISys1 
 
-![](CM1/Manon.png){fig-align="center" width="80%"}
+:::{layout="[50,50]"}
+
+:::{}
+`Introduction à l'approche Système`
+
+- Raisonnement systémique et analytique
+- Architecture
+- 
+:::
+
+![](CM1/Fefe-00.png){fig-align="center" width="80%"}
+:::
 
 
 
-### Ingénierie et Mécanique
-### Quelle est la signification du mot "Ingénieur" pour vous ?
+:::
+
+
+
+
+## De quoi on va parler dans ce cours ? 
+
+**Quelle est la signification du mot "Ingénieur" pour vous ?**
 
 . . .
 
-Le mot Ingénieur (latin **Ingeniator**) est dérivé des mots latins **Ingeniare** ("concevoir, inventer") et **Ingenium** ("ingéniosité").
+Le mot ingénieur (latin **Ingeniator**) est dérivé des mots latins **Ingeniare** ("concevoir, inventer") et **Ingenium** ("ingéniosité").
 
 ![](CM1/engineers.png){width="70%" fig-align="center"}
 
+---
 
 
-### Quelle est la signification du mot « Mécanique » pour vous ?
+**Quelle est la signification du mot « Mécanique » pour vous ?**
 
 . . .
 
@@ -57,14 +101,107 @@ Le mot Ingénieur (latin **Ingeniator**) est dérivé des mots latins **Ingeniar
 Source: [engineer4free](https://www.engineer4free.com/uploads/1/0/2/9/10296972/free-online-engineering-dynamics-course_orig.jpg)
 :::
 
-### Qu'est-ce que la conception en ingénierie ?
+## Pourquoi il est important dans votre parcours?
+
+
+. . .
 
 La conception en ingénierie est un **processus systématique** dans lequel les concepteurs **génèrent**, **évaluent** et **spécifient** des dispositifs, systèmes ou processus dont la forme et la fonction atteignent des *objectifs tout en respectant des contraintes*
 
 
+:::warning
+test
+:::
+
+:::{layout= "[30, 70]"}
+![](CM1/Design-process-01.png){width="65%" fig-align="center"}
+
+:::{.incremental}
+- Processus de sélection heuristique subjective.
+- Exploration d'une variété en faisant des hypothèses (implicites/explicites).
+- Donner forme à une idée.
+- Implémenter un cadre cohérent de test.
+- **Avoir l'audace d'échouer est indispensable.**
+:::
+:::
+
+:::footer
+Source: Cross, N. (2021). Engineering design methods: strategies for product design. John Wiley & Sons.
+:::
 
 
-## Challenge {.center background-color="aquamarine"}
+layout: true
+
+## Pourquoi est-ce important pour vous, futurs ingénieurs en innovation ?
+
+. . .
+
+- **Concevoir un produit/service est une activité complexe** 
+  - mobiliser de multiples partenaires de différentes disciplines, 
+  - Imaginer des solutions créatives et pratiques, 
+  - de tester et vériﬁer mille problèmes avant soit trop tard
+
+
+## Le rôle de ce module ?{background-image="CM1/Design-process-02.png" background-size="30%" background-position="70% 50%"}
+
+:::{layout="[30, 70]" layout-valign="center"}
+
+:::{}
+![](CM1/Design-process-01.png){width="65%" fig-align="center"}
+:::
+
+
+:::
+
+:::footer
+Source: Cross, N. (2021). Engineering design methods: strategies for product design. John Wiley & Sons.
+:::
+
+
+
+
+## Comment va être évalué le module?
+
+
+**Planification**: Fevrier - Juin 2026
+
+- 7 CM Introduction à la conception mécatronique   
+- 2 TD Application de la théorie                               
+- TP 1-4 **apprentissage des outils de conception** : CAO, découpe laser, impression 3D  
+- TP 5-9 Projet développé par Vous!
+
+:::{layout="[50, 50]"}
+
+:::{}
+**Examen final (individuel)**: <br>**Coef. 2/3** de la note finale
+
+- Test sous PC
+:::
+
+:::{}
+**Challenge (groupe)**: <br>**Coef. 1/3** de la note finale
+
+- Participation du Challenge
+- Documentation <https://fabmanager.lf2l.fr/>
+:::
+:::
+
+## Quelles sont les attendus et engagements de votre et notre part? {.scrollable .smaller}
+
+**Referentiel Compétence ENSGSI**
+
+1. C2: **MAITRISER LES SCIENCES POUR L’INGENIEUR NECESSAIRES AUX METIERS DE L’INNOVATION**
+
+   - Analyser les besoins, définir les exigences de conception aux niveaux mécanique et énergétique en amont de la phase d'industrialisation d'un produit, les intégrer à un CDC et réaliser une première ébauche du dimensionnement et de l'optimisation du produit/procédé
+   
+   - Matérialiser des concepts (réalisation de prototypes ou maquettes, plans numériques, avatars numériques), élaborer des protocoles d’essais
+
+1. C3 : **ELABORER ET IMPLEMENTER DES PROCESSUS D’INNOVATION**
+   - Créer les conditions de l’émergence et l’enrichissement de concepts de nouveaux produits (services/procédés/…), à l’aide d’outils collaboratifs de co-innovation (Objets Intermédiaires de Conception, Proof of Concept, …).
+
+
+
+# Aperçu du Module {.center background-color="aquamarine"}
 
 **Formez des équipes de quatre/cinq personnes**
 
@@ -76,7 +213,7 @@ La conception en ingénierie est un **processus systématique** dans lequel les 
 :::{}
 - 🎯 Construire une **tour** qui supporte des poids calibrés.
 
-- 🛠️ Utiliser **seulement** les matériaux listées ici →
+- 🛠️ Utiliser **seulement** les matériaux listés ici →
 - 🏆 Critères:
 
   1.  Il résiste à au moins un poids: Oui / Non
@@ -115,7 +252,7 @@ La conception en ingénierie est un **processus systématique** dans lequel les 
 ## Réflexion sur le processus de conception
 
 :::{layout="[80,35]"}
-:::{}
+:::{.incremental}
 - Quelles stratégies avez-vous utilisées pour construire vos tours ?
 - Combien de tours avez-vous construites ?
 - Combien d'équipes ont esquissé des idées avant de commencer à construire ?
@@ -130,54 +267,7 @@ La conception en ingénierie est un **processus systématique** dans lequel les 
 
 
 
-# CI3 -- Introduction à la conception des systèmes mécatroniques {.center background-color="orange"}
-
-
-## Le rôle cette module ?
-
-:::{layout= "[30, 70]"}
-![](CM1/Design-process-01.png){width="65%" fig-align="center"}
-
-:::{.incremental}
-- Processus de sélection heuristique subjective.
-- Éxploration d'un varieté de en faisant des hypothèses (implicites/explicites).
-- Donner forme à une idée.
-- Implementer un cadre cohérent de test.
-- **Avoir l'audace d'échouer est indispensable.**
-:::
-:::
-
-:::footer
-Source: Cross, N. (2021). Engineering design methods: strategies for product design. John Wiley & Sons.
-:::
-
-
-
-## Pourquoi est-ce important pour vous, futurs ingénieurs en innovation ?
-
-. . .
-
-- **Concevoir un produit/service est une activité complexe** 
-  - mobiliser de multiples partenaires de différentes disciplines, 
-  - Imaginer des solutions créatives et pratiques, 
-  - de tester et vériﬁer mille problèmes avant soit trop tard
-
-
-## Le rôle cette module ?{background-image="CM1/Design-process-02.png" background-size="30%" background-position="70% 20%"}
-
-:::{layout="[30, 70]" layout-valign="center"}
-
-:::{}
-![](CM1/Design-process-01.png){width="65%" fig-align="center"}
-:::
-
-
-:::
-
-:::footer
-Source: Cross, N. (2021). Engineering design methods: strategies for product design. John Wiley & Sons.
-:::
-
+# Introduction à la conception des systèmes mécatroniques {.center background-color="orange"}
 
 
 ## Le rôle du prototypage et la conception mécatronique?
@@ -195,7 +285,7 @@ David Kelly, IDEO
 :::
 :::
 
-### Ce qu'on attends de Vous à la fin de ce module?
+### Ce qu'on attend de vous à la fin de ce module?
 
 ::: incremental
 1.  Idée → Maquette → Preuve de concept → Prototype
@@ -207,7 +297,7 @@ David Kelly, IDEO
 
 
 
-### Échouer avec Enthousiasme et Détermination !
+### Échouer avec enthousiasme et détermination !
 
 Pour valider des hypothèses de conception.
 
@@ -218,7 +308,7 @@ Pour valider des hypothèses de conception.
 
 :::{.incremental}
 
-1. Vous donner les compétences de base pour pouvoir matérialiser une idée conceptuelle en un objet de conception mécatronique intermédiaire pour un concept donné.
+1. Donner les compétences de base pour pouvoir matérialiser une idée conceptuelle en un objet de conception mécatronique intermédiaire pour un concept donné.
 2.  Apprendre les technologies de prototypage disponibles au Lorraine Fab Living Lab.
 3.  Une base scientifique et technique pour concevoir et construire un prototype de façon autonome. --**Do-It-Yourself**-
 :::
@@ -246,14 +336,6 @@ Pour valider des hypothèses de conception.
 :::
 
 
-### Planification
-
-- 7 CM Introduction à la conception mécatronique   
-- 2 TD Application de la théorie                               
-- TP 1-4 **Apprentissage des outils de conception** : CAO, découpe laser, impression 3D  
-- TP 5-9 Projet développé par vous 
-
-
 ### Technologies at LF2L.
 
 :::{layout="[25,25, 25, 25]"}
@@ -268,24 +350,4 @@ Pour valider des hypothèses de conception.
 
 Documentation: <https://fabmanager.lf2l.fr/>
 
-
-
-### Evaluation du Module
-
-:::{layout="[50, 50]"}
-:::{}
-**Individuel**
-
-Test sous PC (**Weight: 2/3**)
-:::
-
-:::{}
-**Challenge par Groups** (**Weight: 1/3**)
-
-Presentation of the mechanism
-Documentation of the mechanism on <https://fabmanager.lf2l.fr/>
-:::
-:::
-
-### Merci
 

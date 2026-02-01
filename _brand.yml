@@ -13,12 +13,12 @@ logo:
 
 typography:
   fonts:
-    - family: Jura
+    - family: bentham
       source: google
     - family: Source+Serif+4
       source: google  
   base: Source+Serif+4
-  headings: Jura
+  headings: bentham
   link:
     decoration: underline
     color: "orange"
