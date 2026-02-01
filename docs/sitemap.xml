@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/CM/CM1.html</loc>
-    <lastmod>2026-02-01T18:35:02.360Z</lastmod>
-  </url>
-  <url>
     <loc>/references.html</loc>
     <lastmod>2024-02-10T15:30:12.107Z</lastmod>
   </url>
@@ -13,47 +9,35 @@
     <lastmod>2026-02-01T17:15:43.826Z</lastmod>
   </url>
   <url>
-    <loc>/CM/CM4.html</loc>
-    <lastmod>2024-02-10T15:30:12.070Z</lastmod>
-  </url>
-  <url>
-    <loc>/auto-evaluation/index.html</loc>
-    <lastmod>2024-05-12T17:57:37.312Z</lastmod>
-  </url>
-  <url>
-    <loc>/TD/TD1.html</loc>
-    <lastmod>2024-02-10T15:30:12.071Z</lastmod>
-  </url>
-  <url>
-    <loc>/TP/TP3.html</loc>
-    <lastmod>2025-04-29T12:07:56.297Z</lastmod>
+    <loc>/CM/CM1.html</loc>
+    <lastmod>2026-02-01T18:35:02.360Z</lastmod>
   </url>
   <url>
     <loc>/TP/TP1.html</loc>
     <lastmod>2025-03-10T12:29:41.042Z</lastmod>
   </url>
   <url>
-    <loc>/tutorials/laser-cut/index.html</loc>
-    <lastmod>2024-06-11T08:54:58.694Z</lastmod>
+    <loc>/TP/TP3.html</loc>
+    <lastmod>2025-04-29T12:07:56.297Z</lastmod>
   </url>
   <url>
-    <loc>/CM/CM6.html</loc>
-    <lastmod>2024-02-10T15:30:12.070Z</lastmod>
-  </url>
-  <url>
-    <loc>/CM/CM5.html</loc>
-    <lastmod>2024-02-10T15:30:12.070Z</lastmod>
-  </url>
-  <url>
-    <loc>/CM/CM3.html</loc>
-    <lastmod>2025-05-24T15:12:23.648Z</lastmod>
+    <loc>/TD/TD1.html</loc>
+    <lastmod>2024-02-10T15:30:12.071Z</lastmod>
   </url>
   <url>
     <loc>/index.html</loc>
     <lastmod>2025-04-19T06:10:53.672Z</lastmod>
   </url>
   <url>
+    <loc>/auto-evaluation/index.html</loc>
+    <lastmod>2024-05-12T17:57:37.312Z</lastmod>
+  </url>
+  <url>
     <loc>/CM/Challenge.html</loc>
     <lastmod>2025-06-02T08:35:24.928Z</lastmod>
+  </url>
+  <url>
+    <loc>/CM/CM3.html</loc>
+    <lastmod>2025-05-24T15:12:23.648Z</lastmod>
   </url>
 </urlset>
