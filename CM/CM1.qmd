@@ -22,6 +22,39 @@ metadata-files:
 
 ::: {.panel-tabset}
 
+
+#### ISys1 
+
+:::{layout="[50,50]"}
+
+:::{}
+`Introduction à l'approche Système`
+
+- Raisonnement systémique et analytique
+- Architecture
+
+:::
+
+![](CM1/Fefe-00.png){fig-align="center" width="80%"}
+:::
+
+#### GI2 
+
+:::{layout="[50,50]"}
+
+:::{}
+`Cahier de Charges Fonctionnel / Mgtm par la Valeur`
+
+- Définition des besoins
+- Analyse fonctionnelle
+- Evaluation des solutions
+
+:::
+
+![](CM1/Fefe-00.png){fig-align="center" width="80%"}
+:::
+
+
 #### CI1
 
 
@@ -47,27 +80,13 @@ metadata-files:
 :::{}
 `Ingénierie de l'innovation I`
 
-
+- Capacité à diagnostiquer un produit (nouveauté, performance ...)
+- Capacité à mettre en place des méthodes de conception et d'analyse
 :::
 
 ![](CM1/Manon.png){fig-align="center" width="80%"}
 :::
 
-
-#### ISys1 
-
-:::{layout="[50,50]"}
-
-:::{}
-`Introduction à l'approche Système`
-
-- Raisonnement systémique et analytique
-- Architecture
-- 
-:::
-
-![](CM1/Fefe-00.png){fig-align="center" width="80%"}
-:::
 
 
 
@@ -109,9 +128,6 @@ Source: [engineer4free](https://www.engineer4free.com/uploads/1/0/2/9/10296972/f
 La conception en ingénierie est un **processus systématique** dans lequel les concepteurs **génèrent**, **évaluent** et **spécifient** des dispositifs, systèmes ou processus dont la forme et la fonction atteignent des *objectifs tout en respectant des contraintes*
 
 
-:::warning
-test
-:::
 
 :::{layout= "[30, 70]"}
 ![](CM1/Design-process-01.png){width="65%" fig-align="center"}
@@ -130,7 +146,7 @@ Source: Cross, N. (2021). Engineering design methods: strategies for product des
 :::
 
 
-layout: true
+
 
 ## Pourquoi est-ce important pour vous, futurs ingénieurs en innovation ?
 
