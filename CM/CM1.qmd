@@ -120,7 +120,7 @@ Le mot ingénieur (latin **Ingeniator**) est dérivé des mots latins **Ingeniar
 Source: [engineer4free](https://www.engineer4free.com/uploads/1/0/2/9/10296972/free-online-engineering-dynamics-course_orig.jpg)
 :::
 
-## Pourquoi il est important dans votre parcours?
+## Pourquoi il est important ?
 
 
 . . .
@@ -183,7 +183,7 @@ Source: Cross, N. (2021). Engineering design methods: strategies for product des
 
 - 7 CM Introduction à la conception mécatronique   
 - 2 TD Application de la théorie                               
-- TP 1-4 **apprentissage des outils de conception** : CAO, découpe laser, impression 3D  
+- TP 1-4 **apprentissage des outils de conception** : CAO, Arduino, découpe laser, impression 3D  
 - TP 5-9 Projet développé par Vous!
 
 :::{layout="[50, 50]"}
@@ -232,17 +232,18 @@ Source: Cross, N. (2021). Engineering design methods: strategies for product des
 - 🛠️ Utiliser **seulement** les matériaux listés ici →
 - 🏆 Critères:
 
-  1.  Il résiste à au moins un poids: Oui / Non
-  2. $Hauteur > 2cm$
-  2. Coefficients → 🔩 $Vis = 0.6$ $Ecrou = 0.1$
-  
- $$ Score= \text{Hauteur} * (\text{# Vis}*0.6 + \text{# Ecrous}*0.6 )  $$ 
+    1.  Il résiste à au moins un poids: Oui / Non
+    1. $Hauteur > 2cm$
+    1. ⌛  18 minutes. 
+
+$Score= \text{Hauteur}  * (\text{# Vis})$
+
 :::
 
 ::: {}
 ![](CM1/Challege.png)
 
-- ⌛  18 minutes. 
+
 :::
 :::
 
@@ -365,5 +366,37 @@ Pour valider des hypothèses de conception.
 :::
 
 Documentation: <https://fabmanager.lf2l.fr/>
+
+
+
+
+### Projet de Conception $\rightarrow$ Vision partagé.
+
+![](CM2/Conception-00.png){width="80%" fig-align="center"}
+
+-   de mieux définir les exigences,
+-   d’améliorer la qualité de la conception,
+-   de faciliter le développement des systèmes complexes,
+-   de représenter de façon exhaustive le système.
+
+
+### Ecarts en conception
+
+![](CM2/Ecarts-03.png){width="80%" fig-align="center"}
+
+### Ecarts en conception
+
+![](CM2/Ecarts-04.png){width="100%" fig-align="center"}
+
+### Ecarts en conception
+
+-   **Système souhaité** $\rightarrow$ fonctions du système et de quantifier ses performances.
+-   **Système simulé** $\rightarrow$ modélisé par des lois comportementales, de façon à estimer ses capacités à répondre aux attentes du système souhaité.
+-   **Système réel** est la conséquence des choix effectués lors des simulations. Il est alors possible de mesurer les performances réelles et de les comparer aux performances attendues.
+
+
+**Les écarts entre chaque système font l’objet d’analyses et, le cas échéant, d’une reconfiguration.**
+
+### Domain de la Simulation: CAO
 
 

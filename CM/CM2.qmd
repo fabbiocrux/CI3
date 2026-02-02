@@ -1,7 +1,7 @@
 ---
 title: "CM2: Introduction à la conception des systèmes mécatroniques"
 subtitle: "Conception et Innovation -CI3-"
-image: figures/CM2/systeme.png
+image: CM2/systeme.png
 metadata-files:
   - _metadata.yml  
 format:
@@ -71,7 +71,7 @@ pas une solution unique.
 :::
 
 :::{layout="[30, 70]"}
-![](figures/CM2/systeme.png)
+![](CM2/systeme.png)
 
 :::{.small}
 
@@ -92,7 +92,7 @@ L’agence française de normalisation (AFNOR) définit le projet de la façon s
 ::: {layout="[[65, -5, 35]]"}
 > «Un projet se définit comme une **démarche spécifique qui permet de structurer méthodiquement une réalité à venir**. <br> Un projet est défini et mis en œuvre pour élaborer la réponse au *besoin d’un utilisateur, d’un client ou d’une clientèle* et il implique un objectif et des actions à entreprendre avec des ressources données».
 
-![](figures/CM2/AFNOR.png)
+![](CM2/AFNOR.png)
 :::
 
 
@@ -100,7 +100,7 @@ L’agence française de normalisation (AFNOR) définit le projet de la façon s
 
 ### Projet de Conception $\rightarrow$ Vision partagé.
 
-![](figures/CM2/Conception-00.png){width="80%" fig-align="center"}
+![](CM2/Conception-00.png){width="80%" fig-align="center"}
 
 -   de mieux définir les exigences,
 -   d’améliorer la qualité de la conception,
@@ -111,11 +111,11 @@ L’agence française de normalisation (AFNOR) définit le projet de la façon s
 
 ### Ecarts en conception
 
-![](figures/CM2/Ecarts-03.png){width="80%" fig-align="center"}
+![](CM2/Ecarts-03.png){width="80%" fig-align="center"}
 
 ### Ecarts en conception
 
-![](figures/CM2/Ecarts-04.png){width="100%" fig-align="center"}
+![](CM2/Ecarts-04.png){width="100%" fig-align="center"}
 
 ### Ecarts en conception
 
@@ -128,7 +128,7 @@ L’agence française de normalisation (AFNOR) définit le projet de la façon s
 
 ### Example 1
 
-![](figures/CM2/Escoba.png){width="80%" fig-align="center"}
+![](CM2/Escoba.png){width="80%" fig-align="center"}
 
 1.  **Domaine du Client**: Quelle est le besoin? ...
 2.  **Domaine de la Simulation**: loi physique?
@@ -146,33 +146,33 @@ Un projet comporte globalement 3 phases, connues sous la désignation «3C» : C
 
 ### Cycle en V
 
-![Cycle en V d'un projet](figures/CM2/Cycle-projet-00.png){width="40%" fig-align="center"}
+![Cycle en V d'un projet](CM2/Cycle-projet-00.png){width="40%" fig-align="center"}
 
 ### Cycle en V ... plus detaillé
 
-![Cycle en V d'un projet](figures/CM2/Cycle-projet-01.png){width="80%" fig-align="center"}
+![Cycle en V d'un projet](CM2/Cycle-projet-01.png){width="80%" fig-align="center"}
 
 ### Cycle en V ... (encore) plus detaillé
 
-![Cycle en V d'un projet](figures/CM2/Cycle-projet-012.png){width="80%" fig-align="center"}
+![Cycle en V d'un projet](CM2/Cycle-projet-012.png){width="80%" fig-align="center"}
 
 ### oui, mais comment on peut faire cela au ENSGSI? {.center .plain}
 
-![Cycle en V d'un projet](figures/CM2/Cycle-projet-01-proto.png){width="80%" fig-align="center"}
+![Cycle en V d'un projet](CM2/Cycle-projet-01-proto.png){width="80%" fig-align="center"}
 
 ### Avec une approche iteratif ...
 
 ::: {layout="[[45, -5, 55]]"}
-![Cycle en V d'un projet](figures/CM2/Cycle-projet-01-proto.png){width="100%" fig-align="center"}
+![Cycle en V d'un projet](CM2/Cycle-projet-01-proto.png){width="100%" fig-align="center"}
 
-![Cycle iteratif](figures/CM2/Cycle-projet-02.png){width="100%" fig-align="center"}
+![Cycle iteratif](CM2/Cycle-projet-02.png){width="100%" fig-align="center"}
 :::
 
 # Prototypage {.center}
 
 **Prenez 60 secondes et notez tous les différents types de prototypes pertinents pour le métier *d'Ingénieur de L'innovation***
 
-![](figures/CM2/Wooclap.png){width="70%" fig-align="center"}
+![](CM2/Wooclap.png){width="70%" fig-align="center"}
 
 ## Le prototypage : Une vue d'ensemble
 
@@ -181,6 +181,7 @@ Un projet comporte globalement 3 phases, connues sous la désignation «3C» : C
 3.  Quel type et quel rôle pour le prototype ?
 4.  Quel benefices du processus ?
 5.  La fidélité et les dimensions des prototypes
+
 
 ### Qu'est-ce que le prototypage ?
 
@@ -251,7 +252,7 @@ Un projet comporte globalement 3 phases, connues sous la désignation «3C» : C
 
 ::::: columns
 ::: {.column width="50%"}
-![](figures/CM2/Cycle-projet-01.png){width="80%" fig-align="center"}
+![](CM2/Cycle-projet-01.png){width="80%" fig-align="center"}
 :::
 
 ::: {.column width="50%"}
@@ -309,7 +310,7 @@ Il s’agit donc de récupérer ces informations, de les traiter et ensuite de c
 
 ## La chaîne d’énergie
 
-![](figures/CM2/Chaine-energie.png){width="70%" fig-align="center"}
+![](CM2/Chaine-energie.png){width="70%" fig-align="center"}
 
 **Chaque objet technique a besoin d’une énergie pour fonctionner.**
 
@@ -325,13 +326,13 @@ Les fonctions:
 
 ### Example
 
-![](figures/CM2/Chaine-energie-example.png){width="80%" fig-align="center"}
+![](CM2/Chaine-energie-example.png){width="80%" fig-align="center"}
 
 ## La Chaîne d'Information
 
 ### Chaîne d'Information
 
-![](figures/CM2/Chaine-info.png){width="70%" fig-align="center"}
+![](CM2/Chaine-info.png){width="70%" fig-align="center"}
 
 **La chaîne d'information décide des ordres à donner à la chaîne d'énergie.**
 
@@ -345,19 +346,19 @@ Les fonctions:
 
 ### Structure globale d’un système
 
-![Chaîne d'Information et d'Energie](figures/CM2/Chaine-energie-Info-00.png){width="7cm" fig-align="center"}
+![Chaîne d'Information et d'Energie](CM2/Chaine-energie-Info-00.png){width="7cm" fig-align="center"}
 
 ### Structure globale d’un système $\rightarrow$ Mécanique
 
-![Point vue Mécanique](figures/CM2/Chaine-energie-Info-00-Mecanique.png){width="10cm" fig-align="center"}
+![Point vue Mécanique](CM2/Chaine-energie-Info-00-Mecanique.png){width="10cm" fig-align="center"}
 
 ### Structure globale d’un système $\rightarrow$ Electrique
 
-![Point vue Mécanique](figures/CM2/Chaine-energie-Info-00-Electrique.png){width="10cm" fig-align="center"}
+![Point vue Mécanique](CM2/Chaine-energie-Info-00-Electrique.png){width="10cm" fig-align="center"}
 
 ### Structure globale d’un système $\rightarrow$ Informatique
 
-![Point vue Informatique](figures/CM2/Chaine-energie-Info-00-Informatique.png){width="10cm" fig-align="center"}
+![Point vue Informatique](CM2/Chaine-energie-Info-00-Informatique.png){width="10cm" fig-align="center"}
 
 ### Structure globale d’un système $\rightarrow$ ENSGSI? {.c}
 
@@ -371,10 +372,10 @@ Les fonctions:
 
 ::::: columns
 ::: {.column width="45%"}
-![Composants de la chhaîne d'Energie](figures/CM2/Next-1.png)
+![Composants de la chhaîne d'Energie](CM2/Next-1.png)
 :::
 
 ::: {.column width="45%"}
-![Composants de la chaîne d'Information](figures/CM2/Next-2.png)
+![Composants de la chaîne d'Information](CM2/Next-2.png)
 :::
 :::::

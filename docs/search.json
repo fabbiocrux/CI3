@@ -171,7 +171,7 @@
     "href": "CM/CM1.html#comment-va-être-évalué-le-module",
     "title": "CM1: Introduction à la conception des systèmes mécatroniques",
     "section": "Comment va être évalué le module?",
-    "text": "Comment va être évalué le module?\nPlanification: Fevrier - Juin 2026\n\n7 CM Introduction à la conception mécatronique\n\n2 TD Application de la théorie\n\nTP 1-4 apprentissage des outils de conception : CAO, découpe laser, impression 3D\n\nTP 5-9 Projet développé par Vous!\n\n\n\n\nExamen final (individuel): Coef. 2/3 de la note finale\n\nTest sous PC\n\n\n\nChallenge (groupe): Coef. 1/3 de la note finale\n\nParticipation du Challenge\nDocumentation https://fabmanager.lf2l.fr/",
+    "text": "Comment va être évalué le module?\nPlanification: Fevrier - Juin 2026\n\n7 CM Introduction à la conception mécatronique\n\n2 TD Application de la théorie\n\nTP 1-4 apprentissage des outils de conception : CAO, Arduino, découpe laser, impression 3D\n\nTP 5-9 Projet développé par Vous!\n\n\n\n\nExamen final (individuel): Coef. 2/3 de la note finale\n\nTest sous PC\n\n\n\nChallenge (groupe): Coef. 1/3 de la note finale\n\nParticipation du Challenge\nDocumentation https://fabmanager.lf2l.fr/",
     "crumbs": [
       "CM1: Introduction à la conception des systèmes mécatroniques"
     ]
@@ -834,6 +834,16 @@
     "text": "TD",
     "crumbs": [
       "CM3: Schema Cinématique"
+    ]
+  },
+  {
+    "objectID": "CM/CM1.html#pourquoi-il-est-important",
+    "href": "CM/CM1.html#pourquoi-il-est-important",
+    "title": "CM1: Introduction à la conception des systèmes mécatroniques",
+    "section": "Pourquoi il est important ?",
+    "text": "Pourquoi il est important ?\n\nLa conception en ingénierie est un processus systématique dans lequel les concepteurs génèrent, évaluent et spécifient des dispositifs, systèmes ou processus dont la forme et la fonction atteignent des objectifs tout en respectant des contraintes\n\n\n\n\n\n\n\n\n\n\n\nProcessus de sélection heuristique subjective.\nExploration d’une variété en faisant des hypothèses (implicites/explicites).\nDonner forme à une idée.\nImplémenter un cadre cohérent de test.\nAvoir l’audace d’échouer est indispensable.\n\n\n\n\n\nSource: Cross, N. (2021). Engineering design methods: strategies for product design. John Wiley & Sons.",
+    "crumbs": [
+      "CM1: Introduction à la conception des systèmes mécatroniques"
     ]
   }
 ]
