@@ -397,6 +397,13 @@ Documentation: <https://fabmanager.lf2l.fr/>
 
 **Les écarts entre chaque système font l’objet d’analyses et, le cas échéant, d’une reconfiguration.**
 
-### Domain de la Simulation: CAO
+### Domain de la Simulation: Dessin technique et CAO
 
+:::{layout="[50, 50]"}
+![](CM1/CAO-00.png){width="100%" fig-align="center"}
 
+![](CM1/CAO-01.png){width="100%" fig-align="center"}
+
+:::
+
+On va utiliser le logiciel **Onshape**.
