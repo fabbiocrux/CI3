@@ -223,7 +223,7 @@ Source: Cross, N. (2021). Engineering design methods: strategies for product des
 
 -   De préférence, avec vos voisins entre les rangs.
 
-### Challenge Tour autoportante { background-color="aquamarine"}
+### Challenge Tour autoportante { background-color="aquamarine" background-image="CM1/eiffel-tower.png" background-size="15%" background-position="85% 5%"}
 
 :::{layout="[70,30]"}
 :::{}
@@ -238,9 +238,12 @@ Source: Cross, N. (2021). Engineering design methods: strategies for product des
 
 $Score= \text{Hauteur}  * (\text{# Vis})$
 
+
 :::
 
 ::: {}
+<br>
+
 ![](CM1/Challege.png)
 
 
