@@ -217,7 +217,7 @@ Source: Cross, N. (2021). Engineering design methods: strategies for product des
 
 
 
-# Aperçu du Module {.center background-color="aquamarine"}
+# Challenge d'initiation {.center background-color="aquamarine"}
 
 **Formez des équipes de quatre/cinq personnes**
 
