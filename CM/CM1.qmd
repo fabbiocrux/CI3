@@ -11,11 +11,11 @@ metadata-files:
 ## Conception et Innovation - CI3?
 
 
-- D'où vient ce module?
+- D'où vient ce module ?
 - De quoi on va parler dans ce cours ?
-- Pourquoi il est important dans votre parcours?
-- Comment va être évalué?
-- Quelles sont les attendus et engagements de votre et notre part?
+- Pourquoi il est important dans votre parcours ?
+- Comment va être évalué ?
+- Quelles sont les attendus et engagements de votre et notre part ?
 
 
 ## D'où vient ce module?
