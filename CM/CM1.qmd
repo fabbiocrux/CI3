@@ -152,10 +152,10 @@ Source: Cross, N. (2021). Engineering design methods: strategies for product des
 
 . . .
 
-- **Concevoir un produit/service est une activité complexe** 
-  - mobiliser de multiples partenaires de différentes disciplines, 
+- **Concevoir un produit/service est une activité complexe**, cela implique de: 
+  - Mobiliser de multiples partenaires de différentes disciplines, 
   - Imaginer des solutions créatives et pratiques, 
-  - de tester et vériﬁer mille problèmes avant soit trop tard
+  - Tester et vériﬁer mille problèmes avant soit trop tard.
 
 
 ## Le rôle de ce module ?{background-image="CM1/Design-process-02.png" background-size="30%" background-position="70% 50%"}
