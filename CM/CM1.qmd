@@ -51,7 +51,7 @@ metadata-files:
 
 :::
 
-![](CM1/Fefe-00.png){fig-align="center" width="80%"}
+![](CM1/Bart-00.png){fig-align="center" width="80%"}
 :::
 
 
