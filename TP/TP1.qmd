@@ -3,7 +3,7 @@ title: "Conception et Innovation -- CI3"
 subtitle: "TP1: Introduction à conception et dessin assistés par ordinateur (CDAO)"
 author: 
   - "MCF. Fabio Cruz"
-date: 2023/05/13
+date: today
 #metadata-files:
 #  - _metadata.yml
 email: "fabio.cruz@univ-lorraine.fr"
@@ -82,31 +82,62 @@ editor_options:
 
 
 
-# Exercice 1
-
-**But**: 
-Faire les***dessin technique*** à partir d'une pièce donnée. 
-
-
-## Exercice 1
-
-**But:** Faire le dessin technique sur le papier de la pièce que donné. 
-
-::: {layout="[50, 50]"}
-::: {}
-::: {.callout-important}
-Le document de l'Ex 1 va être utilisé dans l'exercice 3, car vous allez comparer les documents entre vous pour vérifier la qualité de votre dessin.
-:::
-1. Notéz le code de la pièce et votre *Prenom* dans le cartouche en tant que dessinateur
-:::
-
-::: {}
-![](TP1/Ex3.png){width="40%" fig-align="center"} 
-:::
-:::
-
 
 ## Ressources sur le Dessin technique {#dessin}
+
+### Formats de papier
+
+Les formats de papier standardisés (ISO) sont utilisés pour assurer la compatibilité et la lisibilité des documents techniques. Les formats courants incluent A0, A1, A2, A3, A4, etc., chacun ayant des dimensions précises.
+
+![](TP1/livre/Livre-00.jpg){fig-align="center" width="60%"}
+
+### Types de dessins 
+
+
+::: {.panel-tabset}
+
+
+#### Dessins d'ensemble
+
+Répresentation non schématique, plu ou moins détaillé, à une certaine échelle  qui montrent comment les pièces sont assemblées pour faire un produit.
+
+
+![](TP1/dessin-00.png){fig-align="center" width="60%"}
+
+#### Dessins de définition
+
+:::{layout="[40,-5, 45]"}
+
+:::{}
+
+Représentation graphique d'une pièce ou d'un sous-ensemble, avec toutes les informations nécessaires à sa fabrication et à son contrôle.
+
+🚨 **Contrat entre concepteur et fabricant !**
+:::
+
+![](TP1/dessin-02.png){fig-align="center" width="60%"}
+
+:::
+
+:::
+
+### Projection orthogonale
+
+La projection orthogonale est une méthode de représentation en deux dimensions d'un objet tridimensionnel, en utilisant plusieurs vues planes perpendiculaires entre elles.
+
+:::{layout="[40,-5, 45]"}
+
+![](TP1/livre/Livre-03.jpg){fig-align="center" width="60%"}
+
+:::{}
+![](TP1/livre/Livre-04.jpg){fig-align="center" width="60%"}
+
+![](TP1/livre/Livre-05.jpg){fig-align="center" width="60%"}
+
+![](TP1/livre/Livre-06.jpg){fig-align="center" width="60%"}
+
+:::
+:::
 
 ### ⚠️ Comment réaliser un dessin de définition?
 
@@ -153,6 +184,30 @@ Le document de l'Ex 1 va être utilisé dans l'exercice 3, car vous allez compar
 :::
 :::
 
+
+
+# Exercice 1
+
+**But**: 
+Faire les ***dessin technique*** à partir d'une pièce donnée. 
+
+
+## Exercice 1
+
+**But:** Faire le dessin technique sur le papier de la pièce que donné. 
+
+::: {layout="[50, 50]"}
+::: {}
+::: {.callout-important}
+Le document de l'Ex 1 va être utilisé dans l'exercice 3, car vous allez comparer les documents entre vous pour vérifier la qualité de votre dessin.
+:::
+1. Notéz le code de la pièce et votre *Prenom* dans le cartouche en tant que dessinateur
+:::
+
+::: {}
+![](TP1/Ex3.png){width="40%" fig-align="center"} 
+:::
+:::
 
 
 
