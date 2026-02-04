@@ -1,6 +1,7 @@
 ---
 title: "Conception et Innovation -- CI3"
 subtitle: "TP1: Introduction à conception et dessin assistés par ordinateur (CDAO)"
+
 author: 
   - "MCF. Fabio Cruz"
 date: today
@@ -13,6 +14,7 @@ format:
   revealjs:
     slide-number: c/t
     slide-level: 3
+    scrollable: true
     controls: true
     transition: none
     #margin: 10
