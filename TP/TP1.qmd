@@ -145,10 +145,12 @@ La projection orthogonale est une méthode de représentation en deux dimensions
 
 ![](TP1/livre/Livre-07.jpg){fig-align="center" width="60%"}
 
-### Choix des vues {background-image="TP1/livre/Livre-08.jpg" background-size="60%" background-position="100% 50%"}
+### Choix des vues 
 
 :::{layout="[40,-5, 45]"}
 **But**: Choisir les vues qui montrent le mieux les caractéristiques de la pièce, en minimisant **la quantité**.
+
+![](TP1/livre/Livre-08.jpg){fig-align="center" width="100%"}
 
 :::
 
