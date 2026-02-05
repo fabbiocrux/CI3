@@ -256,7 +256,7 @@ Le document de l'Ex 1 va être utilisé dans l'exercice 3, car vous allez compar
 
 ::: {layout="[65, 30]"}
 ::: {}
-**But:** À partir des exercices du TD1 (Vues isometriques), utiliser le logiciel *Onshape* pour faire les 6 pièces proposés. 
+**But:** À partir des exercices du TD1 (Vues isometriques), utiliser le logiciel *Onshape* pour faire tous les pièces proposés du TD1. 
 
 **Chaque carré** equivaut à $10mm$
 
