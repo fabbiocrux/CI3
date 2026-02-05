@@ -141,6 +141,38 @@ La projection orthogonale est une méthode de représentation en deux dimensions
 :::
 :::
 
+### Projection orthogonale
+
+![](TP1/livre/Livre-07.jpg){fig-align="center" width="60%"}
+
+### Choix des vues {background-image="TP1/livre/Livre-08.jpg" background-size="60%" background-position="100% 50%"}
+
+:::{layout="[40,-5, 45]"}
+**But**: Choisir les vues qui montrent le mieux les caractéristiques de la pièce, en minimisant **la quantité**.
+
+:::
+
+
+### Cotation 
+
+C'est une technique utilisée pour indiquer les dimensions et les tolérances d'une pièce ou d'un assemblage sur un dessin technique.
+
+
+![](TP1/livre/Livre-09.jpg){fig-align="center" width="60%"}
+
+
+---
+
+![](TP1/livre/Livre-10.jpg){fig-align="center" width="60%"}
+
+### Reussir à la bonne Cotation
+
+![](TP1/livre/Livre-11.jpg){fig-align="center" width="60%"}
+
+---
+
+![](TP1/livre/Livre-12.jpg){fig-align="center" width="80%"}
+
 ### ⚠️ Comment réaliser un dessin de définition?
 
 ::: {layout="[15,-5, 85]"}
