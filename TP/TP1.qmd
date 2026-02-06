@@ -87,6 +87,11 @@ editor_options:
 
 ## Ressources sur le Dessin technique {#dessin}
 
+![](TP1/Science-Industrielles.jpg){fig-align="center" width="35%"}
+
+Source: [**Guide Des Sciences Et Techniques Industrielles**](https://udl.primo.exlibrisgroup.com/discovery/search?query=any,contains,Guide%20Des%20Sciences%20Et%20Techniques%20Industrielles&tab=Everything&search_scope=MyInst_and_CI&vid=33UDL_INST:UDL&offset=0)
+
+
 ### Formats de papier
 
 Les formats de papier standardisés (ISO) sont utilisés pour assurer la compatibilité et la lisibilité des documents techniques. Les formats courants incluent A0, A1, A2, A3, A4, etc., chacun ayant des dimensions précises.
