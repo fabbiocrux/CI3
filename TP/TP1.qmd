@@ -132,18 +132,18 @@ Représentation graphique d'une pièce ou d'un sous-ensemble, avec toutes les in
 
 La projection orthogonale est une méthode de représentation en deux dimensions d'un objet tridimensionnel, en utilisant plusieurs vues planes perpendiculaires entre elles.
 
-:::{layout="[40,-5, 45]"}
+:::{layout="[40,-5, 45]" layout-valign="center"}
 
 ![](TP1/livre/Livre-03.jpg){fig-align="center" width="60%"}
 
-:::{}
+
 ![](TP1/livre/Livre-04.jpg){fig-align="center" width="60%"}
 
 ![](TP1/livre/Livre-05.jpg){fig-align="center" width="60%"}
 
 ![](TP1/livre/Livre-06.jpg){fig-align="center" width="60%"}
 
-:::
+
 :::
 
 ### Projection orthogonale
