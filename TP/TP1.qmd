@@ -37,6 +37,7 @@ format:
     sc-sb-title: false
     chalkboard: true
     multiplex: true
+    lightbox: auto
 editor_options: 
   chunk_output_type: console
 ---
@@ -63,7 +64,7 @@ editor_options:
 :::
 
 ::: {}
-**Ex. 4**
+**Ex. 3**
 
 ![](TP1/Ex3.png){width="50%" fig-align="center"} 
 ![](TP1/Ex3-01.png){width="80%" fig-align="center"} 
