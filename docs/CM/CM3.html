@@ -10,7 +10,7 @@
   <meta name="generator" content="quarto-1.8.25">
 
   <meta name="author" content="MdC. Fabio Cruz">
-  <meta name="dcterms.date" content="2026-02-01">
+  <meta name="dcterms.date" content="2026-03-06">
   <title>CI3: – CM3: Schema Cinématique</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -48,6 +48,7 @@
     }
     .reveal .slide:not(.center) {
       height: 100%;
+      overflow-y: auto;
     }
     .reveal .slide.scrollable {
       overflow-y: auto;
@@ -144,38 +145,74 @@ MdC. Fabio Cruz
     </div>
 </div>
 
-  <p class="date">February 1, 2026</p>
+  <p class="date">March 6, 2026</p>
 </section><section id="TOC">
 <nav role="doc-toc"> 
 <h2 id="toc-title">But de la Séance</h2>
 <ul>
+<li><a href="#/où-en-sommes-nous" id="/toc-où-en-sommes-nous">Où en sommes-nous ?</a></li>
 <li><a href="#/modélisation-des-liaisons-mécaniques" id="/toc-modélisation-des-liaisons-mécaniques">Modélisation des liaisons mécaniques</a></li>
 <li><a href="#/élaboration-dun-schéma-cinématique" id="/toc-élaboration-dun-schéma-cinématique">Élaboration d’un schéma cinématique</a></li>
 </ul>
 </nav>
 </section>
 <section>
+<section id="où-en-sommes-nous" class="title-slide slide level1 unnumbered" data-background-image="CM3/onshape-00.png" data-background-size="700px" data-background-position="100% 50%">
+<h1>Où en sommes-nous ?</h1>
+<div class="quarto-layout-panel" data-layout="[40,50]">
+<div class="quarto-layout-row quarto-layout-valign-center">
+<div class="quarto-layout-cell" style="flex-basis: 44.4%;justify-content: flex-start;">
+<ul>
+<li><strong><code>Modelisation Pièce CAO</code></strong> : <br>Modélisation de la pièce à partir d’un dessin technique</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section id="objectif-pédagogique-de-cet-après-midi" class="title-slide slide level2 unnumbered scrollable">
+<h2>Objectif pédagogique de cet après-midi</h2>
+<ol type="1">
+<li>🧠 <strong>Connaissances</strong>: Identifier les differents <em>liasons mécaniques.</em></li>
+<li>🔨 <strong>Savoir-faire</strong>: Faire un <em>schéma cinématique</em> d’un mécanisme.</li>
+<li>✍ <strong>Compétences</strong>: Être capable de <em>modéliser le mouvement</em> d’un mécanisme et réaliser une simulation cinématique.</li>
+</ol>
+<div title="🚨 Objectif du jour">
+<div class="callout callout-tip callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>🚨 Objectif du jour</strong></p>
+</div>
+<div class="callout-content">
+<p><strong>Faire les graphs de liaisons et schémas cinématiques des certaines mécanismes !!!</strong></p>
+</div>
+</div>
+</div>
+</div>
+</section>
+</section>
+<section>
 <section id="modélisation-des-liaisons-mécaniques" class="title-slide slide level1">
 <h1>Modélisation des liaisons mécaniques</h1>
 
 </section>
-<section id="conception-en-v" class="title-slide slide level2">
-<h2>Conception en V</h2>
-
-<img data-src="CM3/System-design.png" class="quarto-figure quarto-figure-center r-stretch" style="width:80.0%"></section>
-
 <section id="mécanisme" class="title-slide slide level2" data-background-image="CM3/turbina.gif" data-background-size="30%" data-background-position="95% 30%">
 <h2>Mécanisme</h2>
 <p><strong>Définition</strong>:</p>
 <div class="quarto-layout-panel" data-layout="[65,30]">
 <div class="quarto-layout-row quarto-layout-valign-top">
 <div class="quarto-layout-cell" style="flex-basis: 68.4%;justify-content: flex-start;">
-<p>On appelle mécanisme, un <em>ensemble de pièces mécaniques</em> reliées entre elles par des <em>liaisons</em>, en vue de réaliser une fonction déterminée.</p>
+<p>On appelle <strong>mécanisme</strong>, un <em>ensemble de pièces mécaniques</em> reliées entre elles par des <em>liaisons</em>, en vue de réaliser une fonction déterminée.</p>
 </div>
 </div>
 </div>
 <div class="fragment">
-<p>Nous admettrons que les pièces mécaniques peuvent être modélisées par des <strong>solides indéformables</strong>.</p>
+<p>⚠️ Hypothèse de base :</p>
+<ul>
+<li>Nous admettrons que les pièces mécaniques peuvent être modélisées par des <strong>solides indéformables</strong>.</li>
+</ul>
 </div>
 </section>
 
@@ -210,7 +247,7 @@ MdC. Fabio Cruz
 </div>
 </section>
 
-<section id="repère" class="title-slide slide level2">
+<section id="repère" class="title-slide slide level2 scrollable">
 <h2>Repère</h2>
 <div class="quarto-layout-panel" data-layout="[60,40]">
 <div class="quarto-layout-row quarto-layout-valign-top">
@@ -250,15 +287,15 @@ MdC. Fabio Cruz
 <p><em>Exemple</em> : Repère local lié au Solide 2 (la bielle) et Repère de référence, lié au solide 0 (le bâti)</p>
 </section>
 
-<section id="degree-de-liberté" class="title-slide slide level2">
+<section id="degree-de-liberté" class="title-slide slide level2 smaller scrollable" data-background-image="CM3/Degrees-liberte.png" data-background-size="20%" data-background-position="85% 85%">
 <h2>Degree de liberté</h2>
 <p>Il existe deux <em>mouvements élémentaires</em> entre les solides :</p>
 <div class="quarto-layout-panel" data-layout="[60,50]">
 <div class="quarto-layout-row quarto-layout-valign-center">
 <div class="quarto-layout-cell" style="flex-basis: 54.6%;justify-content: flex-start;">
 <ol type="1">
-<li><strong>TRANSLATION (RECTILIGNE)</strong> : les trajectoires de tous les points du solide sont des droites parallèles.</li>
-<li><strong>ROTATION</strong> : les trajectoires de chaque point sont des cercles coaxiaux.</li>
+<li><p><strong>TRANSLATION (RECTILIGNE)</strong> : les trajectoires de tous les points du solide sont des droites parallèles. <span class="math inline">\(T_x, T_y, T_z\)</span> selon <span class="math inline">\((x,y,z)\)</span></p></li>
+<li><p><strong>ROTATION</strong> : les trajectoires de chaque point sont des cercles coaxiaux. <span class="math inline">\(R_x, R_y, R_z\)</span> autour des axes <span class="math inline">\((x,y,z)\)</span></p></li>
 </ol>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 45.5%;justify-content: center;">
@@ -270,21 +307,7 @@ MdC. Fabio Cruz
 </div>
 </div>
 </div>
-<p>On appelle <em>libertés</em> d’un solide par rapport à un référentiel, les mouvements indépendants de ce solide pour passer d’une position à une autre.</p>
-</section>
-<section id="degree-de-liberté-1" class="slide level3" data-background-image="CM3/Degrees-liberte.png" data-background-size="20%" data-background-position="85% 85%">
-<h3>Degree de Liberté</h3>
-<ol type="1">
-<li><strong>TRANSLATION (RECTILIGNE)</strong> : les trajectoires de tous les points du solide sont des droites parallèles.
-<ul>
-<li><span class="math inline">\(T_x, T_y, T_z\)</span> selon <span class="math inline">\((x,y,z)\)</span></li>
-</ul></li>
-<li><strong>ROTATION</strong> : les trajectoires de chaque point sont des cercles coaxiaux.
-<ul>
-<li><span class="math inline">\(R_x, R_y, R_z\)</span> autour des axes <span class="math inline">\((x,y,z)\)</span></li>
-</ul></li>
-</ol>
-<p><strong>6 Degrees de liberté</strong></p>
+<p>On appelle <em>libertés</em> d’un solide par rapport à un référentiel, les mouvements indépendants de ce solide pour passer d’une position à une autre. <strong>6 Degrees de liberté max.</strong></p>
 </section>
 
 <section id="notion-de-liaison" class="title-slide slide level2">
@@ -406,7 +429,7 @@ MdC. Fabio Cruz
 <h2>Example 1</h2>
 <p><strong>Modélisation cinématique d’un micromoteur de modélisme</strong></p>
 </section>
-<section id="etapes" class="slide level3" data-background-image="CM3/turbina.gif" data-background-size="30%" data-background-position="95% 30%">
+<section id="etapes" class="slide level3 scrollable" data-background-image="CM3/turbina.gif" data-background-size="30%" data-background-position="95% 30%">
 <h3>Etapes</h3>
 <ol type="1">
 <li>Regroupement des pièces en ensembles solides</li>
@@ -414,43 +437,64 @@ MdC. Fabio Cruz
 <li>Construction du schéma cinématique</li>
 </ol>
 </section>
-<section id="etapes-1" class="slide level3" data-background-image="CM3/Schema-Cine-01.png" data-background-size="25%" data-background-position="95% 30%">
+<section id="etapes-1" class="slide level3 scrollable" data-background-image="CM3/Schema-Cine-01.png" data-background-size="25%" data-background-position="95% 30%">
 <h3>Etapes</h3>
 <ol type="1">
 <li><strong>Regroupement des pièces en ensembles solides</strong></li>
-<li><span class="grey">Élaboration du graphe des liaisons</span></li>
-<li><span class="grey">Construction du schéma cinématique</span></li>
+<li><span class="light-content" data-fg="grey" style="color: grey;">Élaboration du graphe des liaisons</span></li>
+<li><span class="light-content" data-fg="grey" style="color: grey;">Construction du schéma cinématique</span></li>
 </ol>
 <div class="quarto-layout-panel" data-layout="[70,30]">
 <div class="quarto-layout-row quarto-layout-valign-center">
 <div class="class quarto-layout-cell" style="flex-basis: 70.0%;justify-content: flex-start;">
-<p><br><br> 🔎 On regroupe les pièces dans des ensembles (appelés classes d’équivalence cinématique)</p>
-<p>✍️ Un nom (un numéro par exemple)</p>
-<p>🔵 Une couleur</p>
+<p><br><br> 🔎 On regroupe les pièces dans des ensembles (appelés <strong>Classes d’équivalence cinématique</strong>)<br> ✍️ Un nom (Une lettre par exemple) <br> 🔵 Une couleur</p>
 </div>
 </div>
 </div>
 </section>
-<section id="etapes-2" class="slide level3" data-background-image="CM3/Repere-01.png" data-background-size="20%" data-background-position="85% 10%">
+<section id="classes-déquivalence-cinématique-cec" class="slide level3" data-background-image="CM3/Schema-Cine-01.png" data-background-size="25%" data-background-position="95% 30%">
+<h3>Classes d’équivalence cinématique – CEC</h3>
+<div class="callout-attention" title="Définition">
+<p><em>Une Classe d’équivalence cinématique est l’ensemble des pièces qui ont le même mouvement pendant le fonctionnement du mécanisme</em>.</p>
+</div>
+<p>✍️ Une lettre = {<code>#Pièces du même C.E.C</code>} <br> 🔵 Une couleur<br></p>
+<div class="quarto-layout-panel" data-layout="[20,30]">
+<div class="quarto-layout-row quarto-layout-valign-center">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
+<ul>
+<li><span class="light-content" data-bg="blue" data-fg="black" style="color: black;border-radius: 0.2rem; padding: 0 0.2rem 0 0.2rem;background-color: #ddeaf1;">O = {0}</span></li>
+<li><span class="light-content" data-bg="red" data-fg="white" style="color: white;border-radius: 0.2rem; padding: 0 0.2rem 0 0.2rem;background-color: red;">I = {1}</span></li>
+<li><span class="light-content" data-bg="grey" data-fg="white" style="color: white;border-radius: 0.2rem; padding: 0 0.2rem 0 0.2rem;background-color: grey;">II = {2}</span></li>
+<li><span class="light-content" data-bg="green" data-fg="white" style="color: white;border-radius: 0.2rem; padding: 0 0.2rem 0 0.2rem;background-color: green;">III = {3}</span></li>
+</ul>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-left">
+<figure>
+<p><img data-src="CM3/Graphe-des-liaisons.png" class="quarto-figure quarto-figure-left" width="300"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="etapes-2" class="slide level3 scrollable" data-background-image="CM3/Repere-01.png" data-background-size="20%" data-background-position="85% 10%">
 <h3>Etapes</h3>
 <ol type="1">
 <li><span class="grey">Regroupement des pièces en ensembles solides</span></li>
 <li><strong>Élaboration du graphe des liaisons</strong></li>
 <li><span class="grey">Construction du schéma cinématique</span></li>
 </ol>
-<div class="quarto-layout-panel" data-layout="[70,30]">
+<div class="quarto-layout-panel" data-layout="[50,30]">
 <div class="quarto-layout-row quarto-layout-valign-center">
-<div class=".{} quarto-layout-cell" style="flex-basis: 70.0%;justify-content: flex-start;">
+<div class=".{} quarto-layout-cell" style="flex-basis: 62.5%;justify-content: flex-start;">
 <p><br><br></p>
 <p>✓ Choix d’une base pour le solide de référence (bâti)<br> ✓ Recherche des contacts entre les solides<br> ✓ Étude des liaisons entre les solides</p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: flex-start;">
-<p><br><img data-src="CM3/Graphe-des-liaisons.png" class="quarto-figure quarto-figure-center" style="width:50.0%"></p>
 </div>
 </div>
 </div>
 </section>
-<section id="etapes-3" class="slide level3" data-background-image="CM3/Liaison-1.gif" data-background-size="20%" data-background-position="85% 10%">
+<section id="etapes-3" class="slide level3 scrollable" data-background-image="CM3/Liaison-1.gif" data-background-size="20%" data-background-position="85% 10%">
 <h3>Etapes</h3>
 <ol type="1">
 <li><span class="grey">Regroupement des pièces en ensembles solides</span></li>
@@ -460,29 +504,36 @@ MdC. Fabio Cruz
 <div class="quarto-layout-panel" data-layout="[80,20]">
 <div class="quarto-layout-row quarto-layout-valign-center">
 <div class=".{} quarto-layout-cell" style="flex-basis: 80.0%;justify-content: flex-start;">
-<p><br><br> Analyser pour <strong><em>chaque laiaison</em></strong></p>
+<p><br><br> Analyser pour <strong><em>chaque liaison</em></strong></p>
 <p>✓ Surfaces en contact → (plan/plan, sphère/cylindre, …)<br> ✓ Degrés de liberté<br> ✓ Identification de composants</p>
 </div>
 </div>
 </div>
 </section>
-<section id="etapes-4" class="slide level3" data-background-image="CM3/Schema-Cine-02.png" data-background-size="30%" data-background-position="95% 30%">
+<section id="etapes-4" class="slide level3 smaller scrollable" data-background-image="CM3/Schema-Cine-02.png" data-background-size="30%" data-background-position="100% 30%">
 <h3>Etapes</h3>
 <ol type="1">
 <li><span class="grey">Regroupement des pièces en ensembles solides</span></li>
 <li><strong>Élaboration du graphe des liaisons</strong></li>
 <li><span class="grey">Construction du schéma cinématique</span></li>
 </ol>
-<div class="quarto-layout-panel" data-layout="[80,20]">
+<div class="quarto-layout-panel" data-layout="[30,40]">
 <div class="quarto-layout-row quarto-layout-valign-center">
-<div class=".{} quarto-layout-cell" style="flex-basis: 80.0%;justify-content: flex-start;">
-<p><br><br> Analyser pour <strong><em>chaque laiaison</em></strong></p>
-<p><span class="math inline">\(L_{0-1}\)</span> : Pivot d’axe <span class="math inline">\((𝐴,\vec{z})\)</span><br> <span class="math inline">\(L_{1-2}\)</span> : Pivot d’axe <span class="math inline">\((𝐵,\vec{z})\)</span><br> <span class="math inline">\(L_{2-3}\)</span> : Pivot glissant d’axe <span class="math inline">\((𝐶,\vec{z})\)</span><br> <span class="math inline">\(L_{3-0}\)</span> : Pivot glissant d’axe <span class="math inline">\((𝐴,\vec{y})\)</span><br></p>
+<div class=".{} quarto-layout-cell" style="flex-basis: 42.9%;justify-content: flex-start;">
+<p><br> Analyser pour <strong><em>chaque liaison</em></strong></p>
+<p><span class="math inline">\(L_{0-I}\)</span> : Pivot d’axe <span class="math inline">\((𝐴,\vec{z})\)</span><br> <span class="math inline">\(L_{I-II}\)</span> : Pivot d’axe <span class="math inline">\((𝐵,\vec{z})\)</span><br> <span class="math inline">\(L_{II-III}\)</span> : Pivot glissant d’axe <span class="math inline">\((𝐶,\vec{z})\)</span><br> <span class="math inline">\(L_{III-0}\)</span> : Pivot glissant d’axe <span class="math inline">\((𝐴,\vec{y})\)</span><br></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 57.1%;justify-content: center;">
+<div class="quarto-figure quarto-figure-left">
+<figure>
+<p><img data-src="CM3/Graphe-des-liaisons-01.png" class="quarto-figure quarto-figure-left" width="300"></p>
+</figure>
+</div>
 </div>
 </div>
 </div>
 </section>
-<section id="etapes-5" class="slide level3" data-background-image="CM3/Schema-Cine-03.png" data-background-size="30%" data-background-position="95% 30%">
+<section id="etapes-5" class="slide level3 scrollable" data-background-image="CM3/Schema-Cine-03.png" data-background-size="30%" data-background-position="95% 30%">
 <h3>Etapes</h3>
 <ol type="1">
 <li><span class="grey">Regroupement des pièces en ensembles solides</span></li>
@@ -497,7 +548,7 @@ MdC. Fabio Cruz
 </div>
 </div>
 </section>
-<section id="etapes-6" class="slide level3" data-background-image="CM3/Schema-Cine-04.png" data-background-size="30%" data-background-position="95% 30%">
+<section id="etapes-6" class="slide level3 scrollable" data-background-image="CM3/Schema-Cine-04.png" data-background-size="30%" data-background-position="95% 30%">
 <h3>Etapes</h3>
 <ol type="1">
 <li><span class="grey">Regroupement des pièces en ensembles solides</span></li>
@@ -512,7 +563,7 @@ MdC. Fabio Cruz
 </div>
 </div>
 </section>
-<section id="etapes-7" class="slide level3" data-background-image="CM3/Schema-Cine-04.gif" data-background-size="12%" data-background-position="90% 30%">
+<section id="etapes-7" class="slide level3 scrollable" data-background-image="CM3/Schema-Cine-04.gif" data-background-size="12%" data-background-position="90% 30%">
 <h3>Etapes</h3>
 <ol type="1">
 <li><span class="grey">Regroupement des pièces en ensembles solides</span></li>
@@ -523,24 +574,6 @@ MdC. Fabio Cruz
 <div class="quarto-layout-row quarto-layout-valign-center">
 <div class=".{} quarto-layout-cell" style="flex-basis: 80.0%;justify-content: flex-start;">
 <p><br><br> <span class="grey">✓ Tracé des éléments de situation des liaisons</span> <br> <span class="grey">✓ Dessin des symboles des liaisons</span> <br> ✓ Simuler</p>
-</div>
-</div>
-</div>
-</section>
-
-<section id="simuler-pour-mieux-comprendre." class="title-slide slide level2">
-<h2>💻 Simuler pour mieux comprendre.</h2>
-<div class="quarto-layout-panel" data-layout="[50,40]">
-<div class="quarto-layout-row quarto-layout-valign-center">
-<div class="quarto-layout-cell" style="flex-basis: 55.6%;justify-content: flex-start;">
-<p>Introduction to Mechanism Design <br> Source: <a href="http://benchtophybrid.com/mechdes/ch01/driverDyad.html?sel=0">http://benchtophybrid.com/mechdes/ch01/driverDyad.html?sel=0</a></p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 44.4%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="CM3/Mechanism-design.png" class="quarto-figure quarto-figure-center"></p>
-</figure>
-</div>
 </div>
 </div>
 </div>
@@ -625,7 +658,7 @@ MdC. Fabio Cruz
 <h2>Example 2</h2>
 <p><strong>Modélisation cinématique d’une Vélo elliptique</strong></p>
 </section>
-<section id="etapes-8" class="slide level3" data-background-image="CM3/Velo-00.gif" data-background-size="30%" data-background-position="95% 30%">
+<section id="etapes-8" class="slide level3 scrollable" data-background-image="CM3/Velo-00.gif" data-background-size="30%" data-background-position="95% 30%">
 <h3>Etapes</h3>
 <ol type="1">
 <li>Regroupement des pièces en ensembles solides</li>
@@ -633,7 +666,7 @@ MdC. Fabio Cruz
 <li>Construction du schéma cinématique</li>
 </ol>
 </section>
-<section id="etapes-9" class="slide level3" data-background-image="CM3/Velo-fonctionnelle-06.png" data-background-size="30%" data-background-position="95% 0%">
+<section id="etapes-9" class="slide level3 scrollable" data-background-image="CM3/Velo-fonctionnelle-06.png" data-background-size="30%" data-background-position="95% 0%">
 <h3>Etapes</h3>
 <ol type="1">
 <li><strong>Regroupement des pièces en ensembles solides</strong></li>
@@ -653,7 +686,7 @@ MdC. Fabio Cruz
 </div>
 </div>
 </section>
-<section id="etapes-10" class="slide level3" data-background-image="CM3/Velo-fonctionnelle-10.png" data-background-size="40%" data-background-position="95% 10%">
+<section id="etapes-10" class="slide level3 scrollable" data-background-image="CM3/Velo-fonctionnelle-10.png" data-background-size="40%" data-background-position="95% 10%">
 <h3>Etapes</h3>
 <ol type="1">
 <li><span class="grey">Regroupement des pièces en ensembles solides</span></li>
@@ -668,7 +701,7 @@ MdC. Fabio Cruz
 </div>
 </div>
 </section>
-<section id="etapes-11" class="slide level3">
+<section id="etapes-11" class="slide level3 scrollable">
 <h3>Etapes</h3>
 <div class="quarto-layout-panel" data-layout="[80,20]">
 <div class="quarto-layout-row quarto-layout-valign-top">
@@ -696,7 +729,7 @@ MdC. Fabio Cruz
 </div>
 </div>
 </section>
-<section id="etapes-12" class="slide level3" data-background-image="CM3/Velo-fonctionnelle-10.png" data-background-size="40%" data-background-position="95% 10%">
+<section id="etapes-12" class="slide level3 scrollable" data-background-image="CM3/Velo-fonctionnelle-10.png" data-background-size="40%" data-background-position="95% 10%">
 <h3>Etapes</h3>
 <ol type="1">
 <li><span class="grey">Regroupement des pièces en ensembles solides</span></li>
@@ -712,7 +745,7 @@ MdC. Fabio Cruz
 </div>
 </div>
 </section>
-<section id="etapes-13" class="slide level3" data-background-image="CM3/Velo-fonctionnelle-12.png" data-background-size="40%" data-background-position="100% 30%">
+<section id="etapes-13" class="slide level3 scrollable" data-background-image="CM3/Velo-fonctionnelle-12.png" data-background-size="40%" data-background-position="100% 30%">
 <h3>Etapes</h3>
 <ol type="1">
 <li><span class="grey">Regroupement des pièces en ensembles solides</span></li>
@@ -727,7 +760,7 @@ MdC. Fabio Cruz
 </div>
 </div>
 </section>
-<section id="etapes-14" class="slide level3" data-background-image="CM3/Velo-00.gif" data-background-size="40%" data-background-position="100% 30%">
+<section id="etapes-14" class="slide level3 scrollable" data-background-image="CM3/Velo-00.gif" data-background-size="40%" data-background-position="100% 30%">
 <h3>Etapes</h3>
 <ol type="1">
 <li><span class="grey">Regroupement des pièces en ensembles solides</span></li>
@@ -743,31 +776,27 @@ MdC. Fabio Cruz
 </div>
 </section>
 
-<section id="simuler-pour-mieux-comprendre.-1" class="title-slide slide level2">
-<h2>💻 Simuler pour mieux comprendre.</h2>
-<div class="quarto-layout-panel" data-layout="[50,50]">
-<div class="quarto-layout-row quarto-layout-valign-center">
-<div class=".{} quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<p>✓ Simuler par example:</p>
-<ul>
-<li>Vitesses</li>
-</ul>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<iframe loading="lazy" style="border: 0px;" title="Equiprojectivité - vélo elliptique" src="https://www.geogebra.org/material/iframe/id/rmnb32bg/width/800/height/850/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/true/ctl/false" width="800px" height="850px" scrolling="no">
-</div>
-</div>
-<div class="quarto-layout-row quarto-layout-valign-center">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-</iframe>
-</div>
-</div>
-</div>
-</section>
-
 <section id="message-clé-de-cette-séance" class="title-slide slide level2">
 <h2>Message clé de cette séance</h2>
 
+</section>
+
+<section id="simuler-pour-mieux-comprendre." class="title-slide slide level2">
+<h2>💻 Simuler pour mieux comprendre.</h2>
+<div class="quarto-layout-panel" data-layout="[50,40]">
+<div class="quarto-layout-row quarto-layout-valign-center">
+<div class="quarto-layout-cell" style="flex-basis: 55.6%;justify-content: flex-start;">
+<p>Introduction to Mechanism Design <br> Source: <a href="http://benchtophybrid.com/mechdes/ch01/driverDyad.html?sel=0">http://benchtophybrid.com/mechdes/ch01/driverDyad.html?sel=0</a></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 44.4%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="CM3/Mechanism-design.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
 </section>
 
 <section id="questions" class="title-slide slide level2">
@@ -804,7 +833,7 @@ MdC. Fabio Cruz
 </section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
-<p><img src="../../assets/img/ENSGSI.png" class="slide-logo"></p>
+<p><img src="../assets/img/ENSGSI.png" class="slide-logo"></p>
 <div class="footer footer-default">
 
 </div>

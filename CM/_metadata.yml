@@ -68,3 +68,5 @@ format:
     #beamerarticle: true
     #latex_engine: lualatex
     #include-in-header: [assets/slides.tex]
+filters:
+  - highlight-text

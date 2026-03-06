@@ -8,24 +8,42 @@ metadata-files:
   - _metadata.yml  
 ---
 
+
+
+# Où en sommes-nous ? {.unnumbered background-image="CM3/onshape-00.png" background-size="700px" background-position="100% 50%"}
+
+:::{layout="[40,50]" layout-valign="center"}
+
+- **`Modelisation Pièce CAO`** : <br>Modélisation de la pièce à partir d’un dessin technique
+
+:::
+
+## Objectif pédagogique de cet après-midi {#objectif-pédagogique-de-cet-après-midi .unnumbered}
+
+1.  🧠 **Connaissances**:  Identifier les differents *liasons mécaniques.*
+2.  🔨 **Savoir-faire**:   Faire un *schéma cinématique* d'un mécanisme.
+3.  ✍ **Compétences**: Être capable de *modéliser le mouvement* d'un mécanisme et réaliser une simulation cinématique.
+
+::: {.callout-tip title="🚨 Objectif du jour"}
+**Faire les graphs de liaisons et schémas cinématiques des certaines mécanismes !!!**
+:::
+
+
 # Modélisation des liaisons mécaniques
-
-## Conception en V
-
-![](CM3/System-design.png){width="80%" fig-align="center"}
-
 
 ## Mécanisme {background-image="CM3/turbina.gif" background-size="30%" background-position="95% 30%"}
 
 **Définition**:
 
 ::: {layout="[65,30]" layout-valign="top"}
-On appelle mécanisme, un *ensemble de pièces mécaniques* reliées entre elles par des *liaisons*, en vue de réaliser une fonction déterminée.
+On appelle **mécanisme**, un *ensemble de pièces mécaniques* reliées entre elles par des *liaisons*, en vue de réaliser une fonction déterminée.
 :::
 
 . . .
 
-Nous admettrons que les pièces mécaniques peuvent être modélisées par des **solides indéformables**.
+⚠️ Hypothèse de base :
+
+- Nous admettrons que les pièces mécaniques peuvent être modélisées par des **solides indéformables**.
 
 ## Solides Indeformables
 
@@ -67,30 +85,26 @@ La position du solide dans l’espace, est déterminée par *6 paramètres indé
 *Exemple* : Repère local lié au Solide 2 (la bielle) et Repère de référence, lié au solide 0 (le bâti)
 
 
-## Degree de liberté
+## Degree de liberté {background-image="CM3/Degrees-liberte.png" background-size="20%" background-position="85% 85%" .smaller}
+
 
 Il existe deux *mouvements élémentaires* entre les solides :
 
 ::: {layout="[60,50]" layout-valign="center"}
 
-1.  **TRANSLATION (RECTILIGNE)** : les trajectoires de tous les points du solide sont des droites parallèles.
-2.  **ROTATION** : les trajectoires de chaque point sont des cercles coaxiaux.
+1.  **TRANSLATION (RECTILIGNE)** : les trajectoires de tous les points du solide sont des droites parallèles. $T_x, T_y, T_z$ selon $(x,y,z)$
+
+2.  **ROTATION** : les trajectoires de chaque point sont des cercles coaxiaux. $R_x, R_y, R_z$ autour des axes $(x,y,z)$
 
 ![](CM3/Repere-02.png){width="100%" fig-align="center"}
 :::
 
 On appelle *libertés* d’un solide par rapport à un référentiel, les mouvements indépendants de ce solide pour passer d’une position à une autre.
+**6 Degrees de liberté max.**
 
 
-### Degree de Liberté {background-image="CM3/Degrees-liberte.png" background-size="20%" background-position="85% 85%"}
-
-1.  **TRANSLATION (RECTILIGNE)** : les trajectoires de tous les points du solide sont des droites parallèles.
-    -   $T_x, T_y, T_z$ selon $(x,y,z)$
-2.  **ROTATION** : les trajectoires de chaque point sont des cercles coaxiaux.
-    -   $R_x, R_y, R_z$ autour des axes $(x,y,z)$
 
 
-**6 Degrees de liberté**
 
 
 ## Notion de liaison
@@ -194,20 +208,46 @@ Ce modèle est utile tant au niveau de la conception que de l’analyse à poste
 ### Etapes  {background-image="CM3/Schema-Cine-01.png" background-size="25%" background-position="95% 30%"} 
 
 1. **Regroupement des pièces en ensembles solides**
-2. [Élaboration du graphe des liaisons]{.grey}
-3. [Construction du schéma cinématique]{.grey}
+2. [Élaboration du graphe des liaisons]{fg=grey}
+3. [Construction du schéma cinématique]{fg=grey}
 
 
 ::: {layout="[70,30]" layout-valign="center"}
 ::: {.class}
 <br><br>
-🔎 On regroupe les pièces dans des ensembles (appelés classes d’équivalence cinématique)
-
-✍️ Un nom (un numéro par exemple)
-
+🔎 On regroupe les pièces dans des ensembles (appelés **Classes d’équivalence cinématique**)<br>
+✍️ Un nom (Une lettre par exemple) <br>
 🔵 Une couleur
 :::
+
 :::
+
+### Classes d’équivalence cinématique -- CEC {background-image="CM3/Schema-Cine-01.png" background-size="25%" background-position="95% 30%"} 
+
+
+::: {.callout-attention title="Définition"}
+*Une Classe d'équivalence cinématique est l'ensemble des pièces qui ont le même mouvement pendant le fonctionnement du mécanisme*.
+:::
+
+✍️ Une lettre = {`#Pièces du même C.E.C `} <br>
+🔵 Une couleur<br>
+
+::: {layout="[20,30]" layout-valign="center"}
+::: {}
+- [O = {0}]{bg=blue fg=black}
+- [I = {1}]{bg=red fg=white}
+- [II = {2}]{bg=grey fg=white}
+- [III = {3}]{bg=green fg=white}
+
+:::
+
+![](CM3/Graphe-des-liaisons.png){width="300px" fig-align="left"}
+
+:::
+
+
+
+
 
 ### Etapes  {background-image="CM3/Repere-01.png" background-size="20%" background-position="85% 10%"} 
 
@@ -215,7 +255,7 @@ Ce modèle est utile tant au niveau de la conception que de l’analyse à poste
 2. **Élaboration du graphe des liaisons**
 3. [Construction du schéma cinématique]{.grey}
 
-::: {layout="[70,30]" layout-valign="center"}
+::: {layout="[50,30]" layout-valign="center"}
 
 :::.{}
 <br><br>
@@ -224,8 +264,6 @@ Ce modèle est utile tant au niveau de la conception que de l’analyse à poste
 ✓ Recherche des contacts entre les solides<br>
 ✓ Étude des liaisons entre les solides
 :::
-
-<br>![](CM3/Graphe-des-liaisons.png){width="50%" fig-align="center"}
 :::
 
 
@@ -239,7 +277,7 @@ Ce modèle est utile tant au niveau de la conception que de l’analyse à poste
 
 :::.{}
 <br><br>
-Analyser pour ***chaque laiaison***
+Analyser pour ***chaque liaison***
 
 ✓ Surfaces en contact → (plan/plan, sphère/cylindre, ...)<br>
 ✓ Degrés de liberté<br>
@@ -247,24 +285,26 @@ Analyser pour ***chaque laiaison***
 :::
 :::
 
-### Etapes  {background-image="CM3/Schema-Cine-02.png" background-size="30%" background-position="95% 30%"} 
+### Etapes  {background-image="CM3/Schema-Cine-02.png" background-size="30%" background-position="100% 30%" .smaller} 
 
 1. [Regroupement des pièces en ensembles solides]{.grey}
 2. **Élaboration du graphe des liaisons**
 3. [Construction du schéma cinématique]{.grey}
 
-::: {layout="[80,20]" layout-valign="center"}
+::: {layout="[30,40]" layout-valign="center"}
 
 :::.{}
-<br><br>
-Analyser pour ***chaque laiaison***
+<br>
+Analyser pour ***chaque liaison***
 
-$L_{0-1}$ : Pivot d’axe $(𝐴,\vec{z})$<br>
-$L_{1-2}$ : Pivot d’axe $(𝐵,\vec{z})$<br>
-$L_{2-3}$ : Pivot glissant d’axe $(𝐶,\vec{z})$<br>
-$L_{3-0}$ : Pivot glissant d’axe $(𝐴,\vec{y})$<br>
+$L_{0-I}$ : Pivot d’axe $(𝐴,\vec{z})$<br>
+$L_{I-II}$ : Pivot d’axe $(𝐵,\vec{z})$<br>
+$L_{II-III}$ : Pivot glissant d’axe $(𝐶,\vec{z})$<br>
+$L_{III-0}$ : Pivot glissant d’axe $(𝐴,\vec{y})$<br>
 
 :::
+![](CM3/Graphe-des-liaisons-01.png){width="300px" fig-align="left"}
+
 :::
 
 
@@ -322,21 +362,6 @@ $L_{3-0}$ : Pivot glissant d’axe $(𝐴,\vec{y})$<br>
 :::
 
 :::
-
-## 💻 Simuler pour mieux comprendre.
-
-
-
-::: {layout="[50,40]" layout-valign="center"}
-
-Introduction to Mechanism Design <br>
-Source: [http://benchtophybrid.com/mechdes/ch01/driverDyad.html?sel=0](http://benchtophybrid.com/mechdes/ch01/driverDyad.html?sel=0)
-
-![](CM3/Mechanism-design.png){width="80%" fig-align="center"}
-:::
-
-
-
 
 
 
@@ -532,6 +557,27 @@ $L_{3-0}$ : Pivot d’axe $(E,\vec{z})$<br>
 :::
 
 
+
+
+## Message clé de cette séance
+
+
+
+## 💻 Simuler pour mieux comprendre.
+
+
+
+::: {layout="[50,40]" layout-valign="center"}
+
+Introduction to Mechanism Design <br>
+Source: [http://benchtophybrid.com/mechdes/ch01/driverDyad.html?sel=0](http://benchtophybrid.com/mechdes/ch01/driverDyad.html?sel=0)
+
+![](CM3/Mechanism-design.png){width="80%" fig-align="center"}
+:::
+
+
+
+
 ## 💻 Simuler pour mieux comprendre.
 
 ::: {layout="[50,50]" layout-valign="center"}
@@ -544,10 +590,6 @@ $L_{3-0}$ : Pivot d’axe $(E,\vec{z})$<br>
 
 <iframe loading="lazy" style="border: 0px;" title="Equiprojectivité - vélo elliptique" src="https://www.geogebra.org/material/iframe/id/rmnb32bg/width/800/height/850/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/true/ctl/false" width="800px" height="850px" scrolling="no"> </iframe>
 :::
-
-
-
-## Message clé de cette séance
 
 
 
@@ -577,5 +619,7 @@ $L_{3-0}$ : Pivot d’axe $(E,\vec{z})$<br>
 ---
 
 ![](CM3/Hayon-02.png){width="100%" fig-align="center"}
+
+
 
 
