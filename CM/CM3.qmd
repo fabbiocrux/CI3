@@ -520,6 +520,8 @@ $L_{3-0}$ : Pivot d’axe $(E,\vec{z})$<br>
 
 
 
+
+
 ### Etapes  {background-image="CM3/Velo-fonctionnelle-12.png" background-size="40%" background-position="100% 30%"} 
 
 1. [Regroupement des pièces en ensembles solides]{.grey}

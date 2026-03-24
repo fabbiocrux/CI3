@@ -113,11 +113,7 @@ Deux elements importantes:
 :::
 
 
-
-
-
 ### 1 Degré de Liberté: Pivot & Glissière
-
 
 ::: {.panel-tabset}
 
@@ -337,14 +333,17 @@ Tutoriel de base
 ::: {}
 
 [Lien Onshape des composants](https://cad.onshape.com/documents/eafcbd547f8d02df7fb82f58/w/c7d64ec0b23e42f727fc69ef/e/1c84a47433a3fb1101f714ba?renderMode=0&uiState=6808702b83ed3655f2339b81){target="_blank"}
+
+
+{{< video TP3/Ex0/Simulation.mp4 width="800px">}}
 :::
 
 ![](TP3/Ex0/Ex0.jpeg){width="100%" fig-align="center"} 
 :::
 
-### Simulation Exercice 1
 
-{{< video TP3/Ex0/Simulation.mp4 width="800px">}}
+
+
 
 
 ## Exercice 2

@@ -8,7 +8,7 @@ format:
     documentclass: exam
     classoption:
      - 12pt 
-     - answers 
+#     - answers 
     block-headings: false
     toc: false 
     geometry:
@@ -39,9 +39,10 @@ environments: [center, parts, questions, checkboxes, solutionbox, minipage]
 
 - Identifications des types de laisons mécaniques
 - Maitrise des notions théoriques sur la modélisation des mécanismes
-- Réalisations d'un schéma cinématique minimal
+- Réalisations d'un schéma cinématique minimal 
 
 :::
+
 
 
 
@@ -78,7 +79,6 @@ Le plateau d’agitation est animé d’un mouvement de rotation alternative aut
 Ce mouvement est provoqué par un motoréducteur qui entraine en rotation un bras, puis transmis au plateau via une bielle.
 :::
 :::
-
 
 
 **Questions:**

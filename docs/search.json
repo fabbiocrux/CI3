@@ -469,7 +469,7 @@
     "href": "index.html#cm",
     "title": "\n             Introduction à la conception de système mécatronique\n         ",
     "section": "3.1 Cours Magistraux",
-    "text": "3.1 Cours Magistraux\n\n\n\n\n\n\n\n\n\n\nCM1: Introduction à la conception des systèmes mécatroniques\n\n\n\n\n\n\nMdC. Fabio Cruz\n\n\nMar 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nCM2: Introduction à la conception des systèmes mécatroniques\n\n\n\n\n\n\nMdC. Fabio Cruz\n\n\nMar 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nCM3: Schema Cinématique\n\n\n\n\n\n\nMdC. Fabio Cruz\n\n\nMar 6, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "3.1 Cours Magistraux\n\n\n\n\n\n\n\n\n\n\nCM1: Introduction à la conception des systèmes mécatroniques\n\n\n\n\n\n\nMdC. Fabio Cruz\n\n\nMar 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nCM2: Introduction à la conception des systèmes mécatroniques\n\n\n\n\n\n\nMdC. Fabio Cruz\n\n\nMar 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nCM3: Schema Cinématique\n\n\n\n\n\n\nMdC. Fabio Cruz\n\n\nMar 22, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#bibliographie",
@@ -801,7 +801,7 @@
     "href": "CM/CM3.html#simuler-pour-mieux-comprendre.-1",
     "title": "CM3: Schema Cinématique",
     "section": "💻 Simuler pour mieux comprendre.",
-    "text": "💻 Simuler pour mieux comprendre.\n\n\n\nIntroduction to Mechanism Design  Source: http://benchtophybrid.com/mechdes/ch01/driverDyad.html?sel=0",
+    "text": "💻 Simuler pour mieux comprendre.\n\n\n\n✓ Simuler par example:\n\nVitesses\n\n\n\n\n&lt;/div&gt;\n&lt;/div&gt;\n&lt;div class=\"quarto-layout-row quarto-layout-valign-center\"&gt;\n&lt;div class=\"quarto-layout-cell\" style=\"flex-basis: 50.0%;justify-content: flex-start;\"&gt;",
     "crumbs": [
       "CM3: Schema Cinématique"
     ]
