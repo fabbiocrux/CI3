@@ -11,6 +11,11 @@ metadata-files:
 
 # How it started... {.center}
 
+
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzR3ZXZ0NXB0NGo1Mzk4ZGF4eDIxaDJueDRoYTRtYnN0dGFkY2VjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f8c3iR9TzCCSDyIAsY/giphy.gif){width="500px"  fig-align="center"}
+
+
+
 ## { background-image="2026/Started-00.png" background-size="cover" style="color: #642C81"}
 
 
