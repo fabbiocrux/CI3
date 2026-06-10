@@ -2,57 +2,79 @@
 title: "Challenge 2026"
 subtitle: "Conception et Innovation -CI3-"
 author: 
-  - "MdC. Fabio Cruz <br> Fabio CRUZ"
+  - "MdC. Fabio Cruz <br> Alaa Hasan"
 image: CM3/Liaisons.png
 metadata-files:
   - _metadata.yml  
 ---
 
 
-# How it started... 
+# How it started... {.center}
 
-## {background-image="challenge/Started-00.png" background-size="cover" style="color: #FFFF"}
-
-
-How it started !!
-
-
-## { background-image="challenge/Started-01.png" background-size="cover"}
-
-
-## how it's going ...
-
-## {background-image="challenge/Started-02.png" background-size="cover" style="color: #FFFF"}
+## { background-image="2026/Started-00.png" background-size="cover" style="color: #642C81"}
 
 
 
-:::{layout="[30,-5, 38,-5,30]" layout-valign="top"}
+## { background-image="2026/Started-01.png" background-size="cover" style="color: #642C81 "}
 
-![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RzOGZ4NTdseXdobjF5a3Niczd1cXNzYm9zaGprNmN1cmlkOTh1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNbGyHcDYphNbhe4EE/giphy.gif){ .fragment width="500px" fig-align="center"}
 
-![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGplYXg4dmQ1c2dybHVsOTNmY2h3cDl5Mmo0eWo3eXRybTU1dm1obyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10fxZavhBFXsUE/giphy.gif){.fragment width="500px"  fig-align="center"}
+--- 
 
-![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzltNHUyZTRrZ3Ruc3FwN29teTNqY3N6b21zZjZyb3V1cGd4a3hvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufcVAp3AiJJsrIs/giphy.gif){.fragment width="500px"  fig-align="center"}
+::: {.r-fit-text  style="color: #642C81 "}
+<br>
+How it's going ...
+:::
+
+## {background-image="challenge/2026.png" background-size="cover" style="color: #FFFF"}
+
+
+
+::: {.r-stack}
+
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RzOGZ4NTdseXdobjF5a3Niczd1cXNzYm9zaGprNmN1cmlkOTh1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNbGyHcDYphNbhe4EE/giphy.gif){ .fragment width="900px" fig-align="center"}
+
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGplYXg4dmQ1c2dybHVsOTNmY2h3cDl5Mmo0eWo3eXRybTU1dm1obyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10fxZavhBFXsUE/giphy.gif){.fragment width="1000px"  fig-align="center"}
+
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzltNHUyZTRrZ3Ruc3FwN29teTNqY3N6b21zZjZyb3V1cGd4a3hvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufcVAp3AiJJsrIs/giphy.gif){.fragment width="1200px"  fig-align="center"}
 
 :::
 
 
+## {background-image="2026/photos/IMG_5873.jpeg" background-size="cover" }
 
-## Avant de démarrer avec les hostilités.. 
+## {.center}
 
-## {background-image="challenge/feedback.png" background-size="30%" }
+::: {.r-fit-text style="color: #642C81 "}
+<br>
+En tout cas..
+:::
 
 
-## 
+## Avant de démarrer avec les hostilités.. {.center}
 
-On recupère l'**Electronique** et les pièces en **impression 3D** ♻️ ❗❗❗❗
+## Teaser video sous Arche!! {background-image="challenge/teaser.webp" background-size="50%" }
+
+
+## Votre feedback est important! {background-image="challenge/feedback.png" background-size="50%" }
+
+
+## On recupère l'**Electronique** et les pièces en **impression 3D** ♻️ ❗❗
 
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGd6OHY2NzE2cXA3bWEyZHE2YWpidmdkZ2w5Y2x5eHAwdnF2dnk3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3mlE7uhX8KFgEmY/giphy.gif){width="500px"  fig-align="center"}
 
-##
+## Pour vous!
 
-{{< video https://www.youtube.com/watch?v=uV9tHQ91nqY width="100%" height="1000" >}}
+{{< video https://www.youtube.com/watch?v=E_9QX99pMds width="100%" height="1000" >}}
 
+
+## Merci à l'équipe LF2L!
+
+![](challenge/Paola.png){.absolute  top=200 left=100 width="500px"} 
+
+![](challenge/Benjamin.png){.absolute top=200 right=100 width="600px"} 
+
+
+## Et maintenant ! {.center}
 
 ## et maintenant !
 
@@ -60,8 +82,7 @@ On recupère l'**Electronique** et les pièces en **impression 3D** ♻️ ❗�
 
 
 
-# Let's begin. 
-
+# Welcome <br> Challenge CI3! {.center}
 
 
 ## Règles du Jeu
@@ -79,62 +100,68 @@ La compétition se déroulera en deux étapes :
 *Pour mieux gérer le temps, le format des confrontations directes pourra être ajusté en cours de route.*
 :::
 
-🕒 13:45 - 15:45 !
+🕒 9:00 - 12:00 !
 
 
-## {background-image="challenge/Challenge-CI3.jpg" background-size="40%"}
+## {background-image="2026/Matchs.png" background-size="90%"}
+
+:::footer
 
 
-[Canva CI3 ranking](https://www.canva.com/design/DAGoWou_r5A/R6BQfmlracbm1fvZPrweBQ/edit){target="_blank"}
+[Ranking CI3](https://www.canva.com/design/DAGoWou_r5A/R6BQfmlracbm1fvZPrweBQ/edit){target="_blank"}
 
-
-## Joker 
-
-Seulement pour les 3 premiers rounds
-
-Les équipes éliminées auront une chance de réintégrer la compétition grâce à une roue aléatoire 
-
-![](challenge/joker.png){width="100%" fig-align="center"}
-
-[https://spinthewheel.io/fr](https://spinthewheel.io/fr) 
-
-
-
-## Joker {background-iframe="https://spinthewheel.io/wheels/YFtMKG8dwWT8XzuPX10w" background-interactive="true" style="color: #FFFF"}
-
-
-
-
-# Notre Jury
-
-
-:::{layout="[30,-5, 30,-5,30]" layout-valign="top"}
-
-![](challenge/Guillaume.png){width="100%" fig-align="center"}
-
-![](challenge/Ferney.png){width="100%" fig-align="center"}
-
-![](challenge/Catalina-2.png){width="100%" fig-align="center"}
 :::
 
 
-![](challenge/Paola.png){.absolute .fragment bottom=0 left=0 width="300"} 
-![](challenge/Benjamin.png){.absolute .fragment bottom=0 left=350 width="300"} 
+## Notre Jury
+
+
+::: {.r-stack}
+
+![](challenge/Paola.png){.absolute  top=100 left=300 width="400px"} 
+
+![](2026/Hugo-Pierson.webp){.fragment  .absolute  top=100 right=300 width="400px" }
+
+![](challenge/Catalina-2.png){.fragment  .absolute  top=300 left=0 width="400px" }
+
+![](challenge/Guillaume.png){ .fragment  .absolute  top=300 right=0 width="400px" }
+
+
+:::
+
 
 ## Grille d'Evaluation
 
-![](challenge/Grille.png){width="100%" fig-align="center"}
+![](challenge/criterios.png){width="100%" fig-align="center"}
 
-## Des questions?
 
-## Est qu'il y a un prix pour le gagnant?
 
+## Des questions? {.center}
+
+## Est qu'il y a une mauvais note si on perd le challenge?
+
+Non, mais rappellez-vous...
+
+:::{layout="[45,-5, 45]" layout-valign="top"}
+
+
+![](challenge/Syllabus-CI3.jpg){width="100%" fig-align="center" group="syllabus" .lightbox}
+
+![](challenge/Syllabus-CI3-01.jpg){width="100%" fig-align="center" group="syllabus" .lightbox}
+
+:::
+
+---
+
+
+
+
+## Est qu'il y a un prix pour les gagnants?
 
 ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWp3N3F6MGd1MGh2NG94bzIwdDJweG91OGF6dDE3bGtwa3Jta3VwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jUyuZUwZXMu66q0NFw/giphy.gif
 ){width="100%" fig-align="center"}
 
 ## Est qu'il y a un prix pour le gagnant?
-
 
 ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXV4aXZoMXh5MWc3anFmMnh0ZXZyZXI1c2M1cG11eGJrc2NjdWF3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TIzBy9NNKcfVWugB9H/giphy.gif){width="100%" fig-align="center"}
 
@@ -145,21 +172,23 @@ Les équipes éliminées auront une chance de réintégrer la compétition grâc
 ){width="100%" fig-align="center"}
 
 
-# The war begins !!
+# Commençons !!
+
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHhyMmFoa2JseDI1dG9qNG9jMWNoNWI2YjJ6YmJsZGlkOGp6YnphdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2z6x8UzzCdBBu/giphy.gif
+){width="100%" fig-align="center"}
 
 
 
-## Brasquito Vs ROBOCOOOOT
-
+## Happy 4 Friends Vs Les Techniciens de l'Extreme
 
 :::{layout="[45,-5, 45]" layout-valign="top"}
 
-![](challenge/OC1/A-Brasquito-0.jpg){width="600px" fig-align="center"}
+![](2026/OC1/G5.png){width="600px" fig-align="center"}
 
-![](challenge/OC1/I-ROBOCOOOOT.png){width="500px" fig-align="center"}
+![](2026/OC1/G11.jpg){width="500px" fig-align="center"}
 :::
 
-### Brasquito Vs ROBOCOOOOT
+### Happy 4 Friends Vs Les Techniciens de l'Extreme
 
 :::{layout="[40,-5, 40]" layout-valign="top"}
 
@@ -171,7 +200,7 @@ Les équipes éliminées auront une chance de réintégrer la compétition grâc
 
 
 
-## DUOPALES Vs. Thibaud & co 
+## Volt Vs Sentinelle
 
 :::{layout="[45,-5, 45]" layout-valign="top"}
 
@@ -181,7 +210,7 @@ Les équipes éliminées auront une chance de réintégrer la compétition grâc
 
 :::
 
-### DUOPALES Vs. Thibaud & co 
+### Volt Vs Sentinelle
 
 :::{layout="[40,-5, 40]" layout-valign="top"}
 
@@ -192,7 +221,7 @@ Les équipes éliminées auront une chance de réintégrer la compétition grâc
 :::
 
 
-## Crabe chirac Vs. E-GLOU
+## Drift Vs Disruptor
 
 :::{layout="[45,-5, 45]" layout-valign="top"}
 
@@ -202,7 +231,7 @@ Les équipes éliminées auront une chance de réintégrer la compétition grâc
 
 :::
 
-### Crabe chirac Vs. E-GLOU
+### Drift Vs Disruptor
 
 :::{layout="[40,-5, 40]" layout-valign="top"}
 
@@ -212,7 +241,7 @@ Les équipes éliminées auront une chance de réintégrer la compétition grâc
 
 :::
 
-## YAT Vs. La Tour de Pise
+## Vengeancex Vs Bosslady
 
 :::{layout="[45,-5, 45]" layout-valign="top"}
 

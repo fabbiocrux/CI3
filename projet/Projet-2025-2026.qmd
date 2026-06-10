@@ -276,6 +276,10 @@ Mejoras
 - Mirar la alimetacion de baterias
 - Dar el modelo onshape de cosas?
 - Hacer reunion con Eric, Alaa, delegados para discutir premio de CI3
+- Problema de las baterias
+
+
+
 
 
 
