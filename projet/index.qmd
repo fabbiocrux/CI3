@@ -14,7 +14,6 @@ metadata-files:
 ## { background-image="2026/Started-00.png" background-size="cover" style="color: #642C81"}
 
 
-
 ## { background-image="2026/Started-01.png" background-size="cover" style="color: #642C81 "}
 
 
@@ -192,9 +191,9 @@ Non, mais rappellez-vous...
 
 :::{layout="[40,-5, 40]" layout-valign="top"}
 
-![]()
+{{< video 2026/video/G5.mp4 >}}
 
-{{< video challenge/videos/I-ROBOCOOOOT.mp4 >}}
+{{< video 2026/video/G11.mp4 >}}
 
 :::
 
@@ -204,9 +203,9 @@ Non, mais rappellez-vous...
 
 :::{layout="[45,-5, 45]" layout-valign="top"}
 
-![](challenge/OC1/J-DuoPales.jpg){width="600px" fig-align="center"}
+![](2026/OC1/G1.png){width="600px" fig-align="center"}
 
-![](challenge/OC1/B-Thibaud-Co.png){width="600px" fig-align="center"}
+![](2026/OC1/G12.jpeg){width="600px" fig-align="center"}
 
 :::
 
@@ -214,9 +213,9 @@ Non, mais rappellez-vous...
 
 :::{layout="[40,-5, 40]" layout-valign="top"}
 
-{{< video challenge/videos/J-DuoPales.mp4 >}}
+{{< video 2026/video/G1.mp4 >}}
 
-{{< video challenge/videos/B-Thibaud-Co.mp4 >}}
+{{< video 2026/video/G12.mp4 >}}
 
 :::
 
@@ -225,9 +224,9 @@ Non, mais rappellez-vous...
 
 :::{layout="[45,-5, 45]" layout-valign="top"}
 
-![](challenge/OC1/C-Crabe-Chirac.png){width="600px" fig-align="center"}
+![Drift](2026/OC1/G7.png){width="600px" fig-align="center"}
 
-![](challenge/OC1/K-E-GLOU.png){width="600px" fig-align="center"}
+![Disruptor?](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRtOHljdDAzOW1ocmhzM2F3N3hsMGUxdWg2cDQwOGF6dzM2dThnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vghskRXiOFUCkVAp3D/giphy.gif){width="600px" fig-align="center"}
 
 :::
 
@@ -235,141 +234,119 @@ Non, mais rappellez-vous...
 
 :::{layout="[40,-5, 40]" layout-valign="top"}
 
-{{< video challenge/videos/C-Crabe-Chirac.mp4 >}}
+{{< video 2026/video/G7.mov >}}
 
-{{< video challenge/videos/K-E-GLOU.mp4 >}}
+{{< video 2026/video/G16.mov >}}
 
 :::
 
-## Vengeancex Vs Bosslady
+## VengeanceX Vs Bosslady
 
 :::{layout="[45,-5, 45]" layout-valign="top"}
 
-![](challenge/OC1/L-YAT.png){width="600px" fig-align="center"}
+![](2026/OC1/G2.png){width="600px" fig-align="center"}
 
-![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2d5Z3hmc2tvaTc5YXVvMGlwNTE3YTJjMTlqeTluNjBhOWd0bGw2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IxPtHa2UYo4gGaFthi/giphy.gif){width="600px" fig-align="center"}
+![](2026/OC1/G10.png){width="600px" fig-align="center"}
 
 :::
 
-### YAT Vs. La Tour de Pise
+### VengeanceX Vs Bosslady
 
 :::{layout="[40,-5, 40]" layout-valign="top"}
 
-{{< video challenge/videos/L-YAT.mp4 >}}
+{{< video 2026/video/G2.mp4 >}}
 
-{{< video challenge/videos/L-TP.mp4 >}}
+{{< video 2026/video/G10.mp4 >}}
 
 :::
 
 
 
-## DiplodoCube Vs. Botchou
+## JAQA Vs Destroyer 67
 
 :::{layout="[45,-5, 45]" layout-valign="top"}
 
-![](challenge/OC1/E-Diplodocube.png){width="600px" fig-align="center"}
+![](2026/OC1/G13.jpg){width="600px" fig-align="center"}
 
-![](challenge/OC1/M-Botchou.png){width="600px" fig-align="center"}
+![](2026/OC1/G3.png){width="600px" fig-align="center"}
 
 :::
 
 
-### DiplodoCube Vs. Botchou
+### JAQA Vs Destroyer 67
 
 :::{layout="[40,-5, 40]" layout-valign="top"}
 
-{{< video challenge/videos/E-DiplodoCube.mov >}}
+{{< video 2026/video/G13.mp4 >}}
 
-{{< video challenge/videos/M-Botchou.mp4 >}}
+{{< video 2026/video/G3.mp4 >}}
 
 :::
 
 
-## La cage Vs. Bras Levis
+## Novaflash Vs Manyack
 
 :::{layout="[45,-5, 45]" layout-valign="top"}
 
-![](challenge/OC1/N-LA-cage.png){width="600px" fig-align="center"}
+![](2026/OC1/G9.png){width="600px" fig-align="center"}
 
-![](challenge/OC1/F-Bras-Levis.png){width="600px" fig-align="center"}
+![](2026/OC1/G4.png){width="600px" fig-align="center"}
 
 :::
 
-### La cage Vs. Bras Levis
+### Novaflash Vs Manyack
 
 :::{layout="[40,-5, 40]" layout-valign="top"}
 
-{{< video challenge/videos/N-LA-cage.mp4 >}}
+{{< video 2026/video/G9.mp4  >}}
 
-{{< video challenge/videos/F-Bras-Levis.mp4 >}}
+{{< video 2026/video/G4.mp4 >}}
 
 :::
 
 
-## CubeBot Vs. Flash3
+## Totally Bots Vs MechaFury
 
 :::{layout="[45,-5, 45]" layout-valign="top"}
 
-![](challenge/OC1/G-CubeBot.png){width="600px" fig-align="center"}
+![](2026/OC1/G15.jpg){width="600px" fig-align="center"}
 
-![](challenge/OC1/O-Flash3.jpg){width="600px" fig-align="center"}
+![](2026/OC1/G6.png){width="600px" fig-align="center"}
 :::
 
 
-### CubeBot Vs. Flash3
+### Totally Bots Vs MechaFury
 
 :::{layout="[40,-5, 40]" layout-valign="top"}
 
-{{< video challenge/videos/G-CubeBot.mp4 >}}
+{{< video 2026/video/G15.mp4 >}}
 
-{{< video challenge/videos/O-Flash3.mp4 >}}
+{{< video 2026/video/G6.mp4 >}}
 
 :::
 
 
 
-## Ener Vs. 1DIREXION
+## TentaCube Vs The Cube
 
 :::{layout="[45,-5, 45]" layout-valign="top"}
 
-![](challenge/OC1/P-Ener.png){width="600px" fig-align="center"}
+![](2026/OC1/G14.png){width="600px" fig-align="center"}
 
-![](challenge/OC1/H-1DIREXION.png){width="600px" fig-align="center"}
+![](2026/OC1/G8.jpg){width="600px" fig-align="center"}
 
 :::
 
 
-### Ener Vs. 1DIREXION
+### TentaCube Vs The Cube
 
 :::{layout="[45,-5, 45]" layout-valign="top"}
 
-{{< video challenge/videos/P-Ener.mp4 >}}
+{{< video 2026/video/G14.mov >}}
 
-{{< video challenge/videos/H.mp4 >}}
+{{< video 2026/video/G8.mp4 >}}
 :::
 
-
-
-## JIM Vs. ARTI CUBE
-
-:::{layout="[45,-5, 45]" layout-valign="top"}
-
-![](challenge/OC1/Q-JIM.png){width="600px" fig-align="center"}
-
-![](challenge/OC1/R-ARTI-CUBE.png){width="600px" fig-align="center"}
-
-:::
-
-### JIM Vs. ARTI CUBE
-
-
-:::{layout="[45,-5, 45]" layout-valign="top"}
-
-{{< video challenge/videos/Q-JIM.mp4 >}}
-
-{{< video challenge/videos/R-Articube.mp4 >}}
-
-:::
 
 
 
