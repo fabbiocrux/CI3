@@ -50,8 +50,19 @@ How it's going ...
 
 ::: {.r-fit-text style="color: #642C81 "}
 <br>
-En tout cas..
+En tout cas...
 :::
+
+## {.center}
+
+::: {.r-fit-text style="color: #642C81 "}
+<br>
+Merci de vous être engagés jusqu'au bout de ce module.
+:::
+
+![](2026/photos/IMG_5937.jpeg){width="500px" fig-align="center"}
+
+
 
 
 ## Avant de démarrer avec les hostilités.. {.center}
