@@ -855,5 +855,243 @@
     "crumbs": [
       "CM3: Schema Cinématique"
     ]
+  },
+  {
+    "objectID": "TP/ti-robot-183.html",
+    "href": "TP/ti-robot-183.html",
+    "title": "1 TI-ROBOT",
+    "section": "",
+    "text": "Illustration\n\n\nNotre système repose sur deux mécanismes principaux : un bras motorisé capable d’effectuer une rotation de 180°, ainsi qu’un système de translation fonctionnant sur le même principe qu’un tiroir.\nL’objectif de ce tiroir, alourdi par des poids à l’arrière, est de servir de support stable (ou bâti) permettant à la partie mobile de se déplacer avec précision vers le trou, même en présence de perturbations extérieures.\nL’ensemble mobile est piloté par une carte électronique reliée aux moteurs et alimentée par des piles.\n\n\n\n\nDès le départ, notre équipe a fait le choix d’un bras mécanique tombant directement sur le cube, notre cible principale. Cette solution présentait l’avantage d’être simple à concevoir, précise et rapide à exécuter.\nUne fois le cube saisi, le bras avait pour rôle de l’orienter dans l’axe du trou grâce à un mouvement de rotation. Ensuite, un second moteur s’activait pour entraîner la partie mobile sur des rail en plexi dans la direction souhaitée ( vers le trou ) afin d’y pousser le cube et le faire tomber.\nAinsi, la conception de notre robot repose sur la décomposition d’un mouvement complexe en deux actions distinctes, rapides, précises et faciles à mettre en œuvre : une rotation suivie d’une translation.\n\n\n\nImage 1\n\n\n\n\n\nLa majorité de nos pièces ont été réalisées à l’aide d’une découpe laser, dans des matériaux tels que le bois et le plexiglas.\nLa liaison pivot permettant la rotation du bras a été fabriquée à l’aide d’une imprimante 3D. Le matériau utilisé pour cette pièce est le PLA.\n\n\n\nImage 1\n\n\n\n\n\nImage 2\n\n\n\n\n\nImage 3\n\n\n\n\n\nImage 4\n\n\n\n\n\nImage 5\n\n\n\n\n\nLe bras d’attaque en plexiglas a pour objectif de sécuriser la zone cible tout en empêchant l’équipe adverse d’y déposer leur cube.\nIl est suffisamment long pour atteindre cette zone directement depuis la position de départ.\n\n\n\nImage 1\n\n\n\n\n\nImage 2\n\n\n\n\n\nImage 3\n\n\n\n\n\nLe robot utilise un microcontroleur Romeo V1.3, deux moteurs TT et un capteur de position permettant d’actionner le moteur  \n\n\n\nImage 1\n\n\n\n\n\nLes phases de test se sont révélées relativement rapides grâce à la conception efficace de notre robot.\nNous avons principalement eu à définir les délais d’intervalle entre l’activation des deux moteurs, ainsi que la durée pendant laquelle chaque moteur devait rester en fonctionnement.\nConcernant la rotation du bras, une butée avait pour rôle de stopper son mouvement à l’angle souhaité.\n\n\n\nImage 1\n\n\n\n\n\nImage 2\n\n\n\n\n\nImage 3\n\n\n\n\n\nImage 4\n\n\n\n\n\n\nArthur Ferrand\n\n\n\n\n\n\nPart_Studio_1_-_Part_10.stl\n\n\n\n\n\nPart_Studio_4_-_Part_1.dxf\n\n\n\n\n\nPart_Studio_3_-_Spur_gear__25_teeth_.dxf\n\n\n\n\n\nPart_Studio_5_-_Part_4.dxf\n\n\n\n\n\nPart_Studio_5_-_Part_2.dxf\n\n\n\n\n\nPart_Studio_5_-_Part_1.dxf\n\n\n\n\n\nPart_Studio_1_-_Part_9__1_.dxf\n\n\n\n\n\nPart_Studio_1_-_Part_4.dxf\n\n\n\n\n\nPart_Studio_1_-_Part_10.dxf\n\n\n\n\n\nPart_Studio_1_-_Part_11.dxf\n\n\n\n\n\nTerminé\n\n\n\nDÉCOUPE LASER 100 W / Ml Laser / ML-W960 Ganymede, Flashforge Adventurer 5M PRO - 752\n\n\n\nPlexi / PMMA, PLA, Bois Medium\n\n\n\nCruz Fabio, Alaa Hassan, Paola Del Pilar Vazquez Barba\n\n\n\nAttribution (BY)"
+  },
+  {
+    "objectID": "TP/ti-robot-183.html#étapes",
+    "href": "TP/ti-robot-183.html#étapes",
+    "title": "1 TI-ROBOT",
+    "section": "",
+    "text": "Dès le départ, notre équipe a fait le choix d’un bras mécanique tombant directement sur le cube, notre cible principale. Cette solution présentait l’avantage d’être simple à concevoir, précise et rapide à exécuter.\nUne fois le cube saisi, le bras avait pour rôle de l’orienter dans l’axe du trou grâce à un mouvement de rotation. Ensuite, un second moteur s’activait pour entraîner la partie mobile sur des rail en plexi dans la direction souhaitée ( vers le trou ) afin d’y pousser le cube et le faire tomber.\nAinsi, la conception de notre robot repose sur la décomposition d’un mouvement complexe en deux actions distinctes, rapides, précises et faciles à mettre en œuvre : une rotation suivie d’une translation.\n\n\n\nImage 1\n\n\n\n\n\nLa majorité de nos pièces ont été réalisées à l’aide d’une découpe laser, dans des matériaux tels que le bois et le plexiglas.\nLa liaison pivot permettant la rotation du bras a été fabriquée à l’aide d’une imprimante 3D. Le matériau utilisé pour cette pièce est le PLA.\n\n\n\nImage 1\n\n\n\n\n\nImage 2\n\n\n\n\n\nImage 3\n\n\n\n\n\nImage 4\n\n\n\n\n\nImage 5\n\n\n\n\n\nLe bras d’attaque en plexiglas a pour objectif de sécuriser la zone cible tout en empêchant l’équipe adverse d’y déposer leur cube.\nIl est suffisamment long pour atteindre cette zone directement depuis la position de départ.\n\n\n\nImage 1\n\n\n\n\n\nImage 2\n\n\n\n\n\nImage 3\n\n\n\n\n\nLe robot utilise un microcontroleur Romeo V1.3, deux moteurs TT et un capteur de position permettant d’actionner le moteur  \n\n\n\nImage 1\n\n\n\n\n\nLes phases de test se sont révélées relativement rapides grâce à la conception efficace de notre robot.\nNous avons principalement eu à définir les délais d’intervalle entre l’activation des deux moteurs, ainsi que la durée pendant laquelle chaque moteur devait rester en fonctionnement.\nConcernant la rotation du bras, une butée avait pour rôle de stopper son mouvement à l’angle souhaité.\n\n\n\nImage 1\n\n\n\n\n\nImage 2\n\n\n\n\n\nImage 3\n\n\n\n\n\nImage 4"
+  },
+  {
+    "objectID": "TP/ti-robot-183.html#auteur",
+    "href": "TP/ti-robot-183.html#auteur",
+    "title": "1 TI-ROBOT",
+    "section": "",
+    "text": "Arthur Ferrand"
+  },
+  {
+    "objectID": "TP/ti-robot-183.html#fichiers-cad",
+    "href": "TP/ti-robot-183.html#fichiers-cad",
+    "title": "1 TI-ROBOT",
+    "section": "",
+    "text": "Part_Studio_1_-_Part_10.stl\n\n\n\n\n\nPart_Studio_4_-_Part_1.dxf\n\n\n\n\n\nPart_Studio_3_-_Spur_gear__25_teeth_.dxf\n\n\n\n\n\nPart_Studio_5_-_Part_4.dxf\n\n\n\n\n\nPart_Studio_5_-_Part_2.dxf\n\n\n\n\n\nPart_Studio_5_-_Part_1.dxf\n\n\n\n\n\nPart_Studio_1_-_Part_9__1_.dxf\n\n\n\n\n\nPart_Studio_1_-_Part_4.dxf\n\n\n\n\n\nPart_Studio_1_-_Part_10.dxf\n\n\n\n\n\nPart_Studio_1_-_Part_11.dxf"
+  },
+  {
+    "objectID": "TP/ti-robot-183.html#statut",
+    "href": "TP/ti-robot-183.html#statut",
+    "title": "1 TI-ROBOT",
+    "section": "",
+    "text": "Terminé"
+  },
+  {
+    "objectID": "TP/ti-robot-183.html#machines-utilisées",
+    "href": "TP/ti-robot-183.html#machines-utilisées",
+    "title": "1 TI-ROBOT",
+    "section": "",
+    "text": "DÉCOUPE LASER 100 W / Ml Laser / ML-W960 Ganymede, Flashforge Adventurer 5M PRO - 752"
+  },
+  {
+    "objectID": "TP/ti-robot-183.html#matériaux-utilisés",
+    "href": "TP/ti-robot-183.html#matériaux-utilisés",
+    "title": "1 TI-ROBOT",
+    "section": "",
+    "text": "Plexi / PMMA, PLA, Bois Medium"
+  },
+  {
+    "objectID": "TP/ti-robot-183.html#les-collaborateurs",
+    "href": "TP/ti-robot-183.html#les-collaborateurs",
+    "title": "1 TI-ROBOT",
+    "section": "",
+    "text": "Cruz Fabio, Alaa Hassan, Paola Del Pilar Vazquez Barba"
+  },
+  {
+    "objectID": "TP/ti-robot-183.html#licence",
+    "href": "TP/ti-robot-183.html#licence",
+    "title": "1 TI-ROBOT",
+    "section": "",
+    "text": "Attribution (BY)"
+  },
+  {
+    "objectID": "TP/TP5.html",
+    "href": "TP/TP5.html",
+    "title": "Déclaration du problème de conception, analyse fonctionelle et benchmark de concepts de solution possibles",
+    "section": "",
+    "text": "AstuceLe but de la Séance est:\n\n\n\n\nDéclarer le problème de conception.\nFaire l’analyse fonctionelle et le cahier de charges.\nFaire un benchmark de concepts de solution possibles.\nSe familiariser avec les outils du LF2L."
+  },
+  {
+    "objectID": "TP/TP5.html#section",
+    "href": "TP/TP5.html#section",
+    "title": "Déclaration du problème de conception, analyse fonctionelle et benchmark de concepts de solution possibles",
+    "section": "1.1 ",
+    "text": "1.1"
+  },
+  {
+    "objectID": "projet/index.html#section",
+    "href": "projet/index.html#section",
+    "title": "Challenge 2026",
+    "section": "",
+    "text": "How it started !!"
+  },
+  {
+    "objectID": "projet/index.html#how-its-going",
+    "href": "projet/index.html#how-its-going",
+    "title": "Challenge 2026",
+    "section": "how it’s going …",
+    "text": "how it’s going …"
+  },
+  {
+    "objectID": "projet/index.html#avant-de-démarrer-avec-les-hostilités..",
+    "href": "projet/index.html#avant-de-démarrer-avec-les-hostilités..",
+    "title": "Challenge 2026",
+    "section": "Avant de démarrer avec les hostilités..",
+    "text": "Avant de démarrer avec les hostilités.."
+  },
+  {
+    "objectID": "projet/index.html#section-4",
+    "href": "projet/index.html#section-4",
+    "title": "Challenge 2026",
+    "section": "",
+    "text": "On recupère l’Electronique et les pièces en impression 3D ♻️ ❗❗❗❗"
+  },
+  {
+    "objectID": "projet/index.html#et-maintenant",
+    "href": "projet/index.html#et-maintenant",
+    "title": "Challenge 2026",
+    "section": "et maintenant !",
+    "text": "et maintenant !"
+  },
+  {
+    "objectID": "projet/index.html#règles-du-jeu",
+    "href": "projet/index.html#règles-du-jeu",
+    "title": "Challenge 2026",
+    "section": "Règles du Jeu",
+    "text": "Règles du Jeu\n\n\n\n\n\n\n\nImportant\n\n\nLa compétition se déroulera en deux étapes :\n\nTest individuel : Évaluation du mécanisme en fonctionnement autonome, sans adversaire.\n\n3 essais maximum pour évaluer le bon fonctionnement de votre mécanisme.\n\nTest en confrontation directe : Affrontement entre deux équipes sur la même arène.\n\nChaque match se joue en 2 manches gagnantes.\n\n\nNote : Pour mieux gérer le temps, le format des confrontations directes pourra être ajusté en cours de route.\n\n\n\n\n🕒 13:45 - 15:45 !"
+  },
+  {
+    "objectID": "projet/index.html#section-6",
+    "href": "projet/index.html#section-6",
+    "title": "Challenge 2026",
+    "section": "",
+    "text": "Canva CI3 ranking"
+  },
+  {
+    "objectID": "projet/index.html#joker",
+    "href": "projet/index.html#joker",
+    "title": "Challenge 2026",
+    "section": "Joker",
+    "text": "Joker\nSeulement pour les 3 premiers rounds\nLes équipes éliminées auront une chance de réintégrer la compétition grâce à une roue aléatoire\n\nhttps://spinthewheel.io/fr"
+  },
+  {
+    "objectID": "projet/index.html#joker-1",
+    "href": "projet/index.html#joker-1",
+    "title": "Challenge 2026",
+    "section": "Joker",
+    "text": "Joker"
+  },
+  {
+    "objectID": "projet/index.html#grille-devaluation",
+    "href": "projet/index.html#grille-devaluation",
+    "title": "Challenge 2026",
+    "section": "Grille d’Evaluation",
+    "text": "Grille d’Evaluation"
+  },
+  {
+    "objectID": "projet/index.html#des-questions",
+    "href": "projet/index.html#des-questions",
+    "title": "Challenge 2026",
+    "section": "Des questions?",
+    "text": "Des questions?"
+  },
+  {
+    "objectID": "projet/index.html#est-quil-y-a-un-prix-pour-le-gagnant",
+    "href": "projet/index.html#est-quil-y-a-un-prix-pour-le-gagnant",
+    "title": "Challenge 2026",
+    "section": "Est qu’il y a un prix pour le gagnant?",
+    "text": "Est qu’il y a un prix pour le gagnant?"
+  },
+  {
+    "objectID": "projet/index.html#est-quil-y-a-un-prix-pour-le-gagnant-1",
+    "href": "projet/index.html#est-quil-y-a-un-prix-pour-le-gagnant-1",
+    "title": "Challenge 2026",
+    "section": "Est qu’il y a un prix pour le gagnant?",
+    "text": "Est qu’il y a un prix pour le gagnant?"
+  },
+  {
+    "objectID": "projet/index.html#dautres-questions",
+    "href": "projet/index.html#dautres-questions",
+    "title": "Challenge 2026",
+    "section": "D’autres questions?",
+    "text": "D’autres questions?"
+  },
+  {
+    "objectID": "projet/index.html#brasquito-vs-robocoooot",
+    "href": "projet/index.html#brasquito-vs-robocoooot",
+    "title": "Challenge 2026",
+    "section": "Brasquito Vs ROBOCOOOOT",
+    "text": "Brasquito Vs ROBOCOOOOT"
+  },
+  {
+    "objectID": "projet/index.html#duopales-vs.-thibaud-co",
+    "href": "projet/index.html#duopales-vs.-thibaud-co",
+    "title": "Challenge 2026",
+    "section": "DUOPALES Vs. Thibaud & co",
+    "text": "DUOPALES Vs. Thibaud & co"
+  },
+  {
+    "objectID": "projet/index.html#crabe-chirac-vs.-e-glou",
+    "href": "projet/index.html#crabe-chirac-vs.-e-glou",
+    "title": "Challenge 2026",
+    "section": "Crabe chirac Vs. E-GLOU",
+    "text": "Crabe chirac Vs. E-GLOU"
+  },
+  {
+    "objectID": "projet/index.html#yat-vs.-la-tour-de-pise",
+    "href": "projet/index.html#yat-vs.-la-tour-de-pise",
+    "title": "Challenge 2026",
+    "section": "YAT Vs. La Tour de Pise",
+    "text": "YAT Vs. La Tour de Pise"
+  },
+  {
+    "objectID": "projet/index.html#diplodocube-vs.-botchou",
+    "href": "projet/index.html#diplodocube-vs.-botchou",
+    "title": "Challenge 2026",
+    "section": "DiplodoCube Vs. Botchou",
+    "text": "DiplodoCube Vs. Botchou"
+  },
+  {
+    "objectID": "projet/index.html#la-cage-vs.-bras-levis",
+    "href": "projet/index.html#la-cage-vs.-bras-levis",
+    "title": "Challenge 2026",
+    "section": "La cage Vs. Bras Levis",
+    "text": "La cage Vs. Bras Levis"
+  },
+  {
+    "objectID": "projet/index.html#cubebot-vs.-flash3",
+    "href": "projet/index.html#cubebot-vs.-flash3",
+    "title": "Challenge 2026",
+    "section": "CubeBot Vs. Flash3",
+    "text": "CubeBot Vs. Flash3"
+  },
+  {
+    "objectID": "projet/index.html#ener-vs.-1direxion",
+    "href": "projet/index.html#ener-vs.-1direxion",
+    "title": "Challenge 2026",
+    "section": "Ener Vs. 1DIREXION",
+    "text": "Ener Vs. 1DIREXION"
+  },
+  {
+    "objectID": "projet/index.html#jim-vs.-arti-cube",
+    "href": "projet/index.html#jim-vs.-arti-cube",
+    "title": "Challenge 2026",
+    "section": "JIM Vs. ARTI CUBE",
+    "text": "JIM Vs. ARTI CUBE"
   }
 ]

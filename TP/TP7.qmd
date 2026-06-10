@@ -1,0 +1,59 @@
+---
+lang: fr
+title: "Prototype de Basse Fidélité"
+subtitle: "TP7: Conception et Innovation --CI3--"
+#abstract-title: 'Objectif'
+#abstract: "Concevoir et fabriquer un objet totem unique à l'aide de techniques de dessin à la main et de conception assistée par ordinateur, puis fabriquer un moule à l'aide de la découpe laser pour être utilisé avec la machine Holipresse."
+format:
+  pdf:
+    #documentclass: article
+    block-headings: false
+    toc: false 
+    geometry:
+     - top=30mm
+     - left=20mm
+     - bottom=20mm
+     - right=20mm     
+    number-sections: true
+    colorlinks: true     
+    highlight-style: github
+    keep-tex: false
+    template-partials: 
+     - ../assets/before-body.tex      
+    include-in-header:    
+      - text: |
+          \usepackage{tikz}
+          \usepackage{fancyhdr}
+          \pagestyle{fancy}          
+          \fancyhead[R]{ENSGSI - 2025/2026}
+          \fancyhead[C]{CI3}
+          \fancyhead[L]{\includegraphics[width=2cm]{../assets/img/ENSGSI.png}}          
+          \fancyfoot[L]{Fabio CRUZ}
+          \fancyfoot[C]{\thepage}
+          \fancyfoot[R]{ENSGSI}
+          \renewcommand{\footrulewidth}{0.3pt}% default is 0pt
+filters:
+   - latex-environment
+environments: [description]  
+commands: [item]
+TP: true
+bibliography: ../assets/library.bib
+cls: ../assets/journal-of-cleaner-production
+---
+
+
+::: {.callout-tip}
+
+## Objectif de la Séance
+
+:::
+
+
+
+
+
+
+
+## Tips
+
+- Optimisation de decoupe laser: [https://deepnest.io/](https://deepnest.io/) 

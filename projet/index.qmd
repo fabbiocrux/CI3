@@ -1,0 +1,347 @@
+---
+title: "Challenge 2026"
+subtitle: "Conception et Innovation -CI3-"
+author: 
+  - "MdC. Fabio Cruz <br> Fabio CRUZ"
+image: CM3/Liaisons.png
+metadata-files:
+  - _metadata.yml  
+---
+
+
+# How it started... 
+
+## {background-image="challenge/Started-00.png" background-size="cover" style="color: #FFFF"}
+
+
+How it started !!
+
+
+## { background-image="challenge/Started-01.png" background-size="cover"}
+
+
+## how it's going ...
+
+## {background-image="challenge/Started-02.png" background-size="cover" style="color: #FFFF"}
+
+
+
+:::{layout="[30,-5, 38,-5,30]" layout-valign="top"}
+
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RzOGZ4NTdseXdobjF5a3Niczd1cXNzYm9zaGprNmN1cmlkOTh1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNbGyHcDYphNbhe4EE/giphy.gif){ .fragment width="500px" fig-align="center"}
+
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGplYXg4dmQ1c2dybHVsOTNmY2h3cDl5Mmo0eWo3eXRybTU1dm1obyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10fxZavhBFXsUE/giphy.gif){.fragment width="500px"  fig-align="center"}
+
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzltNHUyZTRrZ3Ruc3FwN29teTNqY3N6b21zZjZyb3V1cGd4a3hvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufcVAp3AiJJsrIs/giphy.gif){.fragment width="500px"  fig-align="center"}
+
+:::
+
+
+
+## Avant de démarrer avec les hostilités.. 
+
+## {background-image="challenge/feedback.png" background-size="30%" }
+
+
+## 
+
+On recupère l'**Electronique** et les pièces en **impression 3D** ♻️ ❗❗❗❗
+
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGd6OHY2NzE2cXA3bWEyZHE2YWpidmdkZ2w5Y2x5eHAwdnF2dnk3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3mlE7uhX8KFgEmY/giphy.gif){width="500px"  fig-align="center"}
+
+##
+
+{{< video https://www.youtube.com/watch?v=uV9tHQ91nqY width="100%" height="1000" >}}
+
+
+## et maintenant !
+
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW11aW5zNWl5YjhqcXM0a2Rwc215YzE1M203bzA0aWVkY2s2ZThocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QAsvgarfoX2zcuXRWq/giphy.gif){fig-align="center"}
+
+
+
+# Let's begin. 
+
+
+
+## Règles du Jeu
+
+::: {.callout-important title=""}
+La compétition se déroulera en deux étapes :
+
+1. **Test individuel** : Évaluation du mécanisme en fonctionnement autonome, sans adversaire.
+    - 3 essais maximum pour évaluer le bon fonctionnement de votre mécanisme.
+
+2. **Test en confrontation directe** : Affrontement entre deux équipes sur la même arène.
+   -  Chaque match se joue en 2 manches gagnantes.
+
+**Note** :
+*Pour mieux gérer le temps, le format des confrontations directes pourra être ajusté en cours de route.*
+:::
+
+🕒 13:45 - 15:45 !
+
+
+## {background-image="challenge/Challenge-CI3.jpg" background-size="40%"}
+
+
+[Canva CI3 ranking](https://www.canva.com/design/DAGoWou_r5A/R6BQfmlracbm1fvZPrweBQ/edit){target="_blank"}
+
+
+## Joker 
+
+Seulement pour les 3 premiers rounds
+
+Les équipes éliminées auront une chance de réintégrer la compétition grâce à une roue aléatoire 
+
+![](challenge/joker.png){width="100%" fig-align="center"}
+
+[https://spinthewheel.io/fr](https://spinthewheel.io/fr) 
+
+
+
+## Joker {background-iframe="https://spinthewheel.io/wheels/YFtMKG8dwWT8XzuPX10w" background-interactive="true" style="color: #FFFF"}
+
+
+
+
+# Notre Jury
+
+
+:::{layout="[30,-5, 30,-5,30]" layout-valign="top"}
+
+![](challenge/Guillaume.png){width="100%" fig-align="center"}
+
+![](challenge/Ferney.png){width="100%" fig-align="center"}
+
+![](challenge/Catalina-2.png){width="100%" fig-align="center"}
+:::
+
+
+![](challenge/Paola.png){.absolute .fragment bottom=0 left=0 width="300"} 
+![](challenge/Benjamin.png){.absolute .fragment bottom=0 left=350 width="300"} 
+
+## Grille d'Evaluation
+
+![](challenge/Grille.png){width="100%" fig-align="center"}
+
+## Des questions?
+
+## Est qu'il y a un prix pour le gagnant?
+
+
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWp3N3F6MGd1MGh2NG94bzIwdDJweG91OGF6dDE3bGtwa3Jta3VwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jUyuZUwZXMu66q0NFw/giphy.gif
+){width="100%" fig-align="center"}
+
+## Est qu'il y a un prix pour le gagnant?
+
+
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXV4aXZoMXh5MWc3anFmMnh0ZXZyZXI1c2M1cG11eGJrc2NjdWF3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TIzBy9NNKcfVWugB9H/giphy.gif){width="100%" fig-align="center"}
+
+
+## D'autres questions?
+
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZoOGx6bTJmZzkzMnoxMmpsbzBkeTZ0OWE5MjY1aWUxcnJqbWRscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X8OdYYnQEENnAP6zUC/giphy.gif
+){width="100%" fig-align="center"}
+
+
+# The war begins !!
+
+
+
+## Brasquito Vs ROBOCOOOOT
+
+
+:::{layout="[45,-5, 45]" layout-valign="top"}
+
+![](challenge/OC1/A-Brasquito-0.jpg){width="600px" fig-align="center"}
+
+![](challenge/OC1/I-ROBOCOOOOT.png){width="500px" fig-align="center"}
+:::
+
+### Brasquito Vs ROBOCOOOOT
+
+:::{layout="[40,-5, 40]" layout-valign="top"}
+
+![]()
+
+{{< video challenge/videos/I-ROBOCOOOOT.mp4 >}}
+
+:::
+
+
+
+## DUOPALES Vs. Thibaud & co 
+
+:::{layout="[45,-5, 45]" layout-valign="top"}
+
+![](challenge/OC1/J-DuoPales.jpg){width="600px" fig-align="center"}
+
+![](challenge/OC1/B-Thibaud-Co.png){width="600px" fig-align="center"}
+
+:::
+
+### DUOPALES Vs. Thibaud & co 
+
+:::{layout="[40,-5, 40]" layout-valign="top"}
+
+{{< video challenge/videos/J-DuoPales.mp4 >}}
+
+{{< video challenge/videos/B-Thibaud-Co.mp4 >}}
+
+:::
+
+
+## Crabe chirac Vs. E-GLOU
+
+:::{layout="[45,-5, 45]" layout-valign="top"}
+
+![](challenge/OC1/C-Crabe-Chirac.png){width="600px" fig-align="center"}
+
+![](challenge/OC1/K-E-GLOU.png){width="600px" fig-align="center"}
+
+:::
+
+### Crabe chirac Vs. E-GLOU
+
+:::{layout="[40,-5, 40]" layout-valign="top"}
+
+{{< video challenge/videos/C-Crabe-Chirac.mp4 >}}
+
+{{< video challenge/videos/K-E-GLOU.mp4 >}}
+
+:::
+
+## YAT Vs. La Tour de Pise
+
+:::{layout="[45,-5, 45]" layout-valign="top"}
+
+![](challenge/OC1/L-YAT.png){width="600px" fig-align="center"}
+
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2d5Z3hmc2tvaTc5YXVvMGlwNTE3YTJjMTlqeTluNjBhOWd0bGw2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IxPtHa2UYo4gGaFthi/giphy.gif){width="600px" fig-align="center"}
+
+:::
+
+### YAT Vs. La Tour de Pise
+
+:::{layout="[40,-5, 40]" layout-valign="top"}
+
+{{< video challenge/videos/L-YAT.mp4 >}}
+
+{{< video challenge/videos/L-TP.mp4 >}}
+
+:::
+
+
+
+## DiplodoCube Vs. Botchou
+
+:::{layout="[45,-5, 45]" layout-valign="top"}
+
+![](challenge/OC1/E-Diplodocube.png){width="600px" fig-align="center"}
+
+![](challenge/OC1/M-Botchou.png){width="600px" fig-align="center"}
+
+:::
+
+
+### DiplodoCube Vs. Botchou
+
+:::{layout="[40,-5, 40]" layout-valign="top"}
+
+{{< video challenge/videos/E-DiplodoCube.mov >}}
+
+{{< video challenge/videos/M-Botchou.mp4 >}}
+
+:::
+
+
+## La cage Vs. Bras Levis
+
+:::{layout="[45,-5, 45]" layout-valign="top"}
+
+![](challenge/OC1/N-LA-cage.png){width="600px" fig-align="center"}
+
+![](challenge/OC1/F-Bras-Levis.png){width="600px" fig-align="center"}
+
+:::
+
+### La cage Vs. Bras Levis
+
+:::{layout="[40,-5, 40]" layout-valign="top"}
+
+{{< video challenge/videos/N-LA-cage.mp4 >}}
+
+{{< video challenge/videos/F-Bras-Levis.mp4 >}}
+
+:::
+
+
+## CubeBot Vs. Flash3
+
+:::{layout="[45,-5, 45]" layout-valign="top"}
+
+![](challenge/OC1/G-CubeBot.png){width="600px" fig-align="center"}
+
+![](challenge/OC1/O-Flash3.jpg){width="600px" fig-align="center"}
+:::
+
+
+### CubeBot Vs. Flash3
+
+:::{layout="[40,-5, 40]" layout-valign="top"}
+
+{{< video challenge/videos/G-CubeBot.mp4 >}}
+
+{{< video challenge/videos/O-Flash3.mp4 >}}
+
+:::
+
+
+
+## Ener Vs. 1DIREXION
+
+:::{layout="[45,-5, 45]" layout-valign="top"}
+
+![](challenge/OC1/P-Ener.png){width="600px" fig-align="center"}
+
+![](challenge/OC1/H-1DIREXION.png){width="600px" fig-align="center"}
+
+:::
+
+
+### Ener Vs. 1DIREXION
+
+:::{layout="[45,-5, 45]" layout-valign="top"}
+
+{{< video challenge/videos/P-Ener.mp4 >}}
+
+{{< video challenge/videos/H.mp4 >}}
+:::
+
+
+
+## JIM Vs. ARTI CUBE
+
+:::{layout="[45,-5, 45]" layout-valign="top"}
+
+![](challenge/OC1/Q-JIM.png){width="600px" fig-align="center"}
+
+![](challenge/OC1/R-ARTI-CUBE.png){width="600px" fig-align="center"}
+
+:::
+
+### JIM Vs. ARTI CUBE
+
+
+:::{layout="[45,-5, 45]" layout-valign="top"}
+
+{{< video challenge/videos/Q-JIM.mp4 >}}
+
+{{< video challenge/videos/R-Articube.mp4 >}}
+
+:::
+
+
+
+

@@ -1,0 +1,72 @@
+email: "fabio.cruz@univ-lorraine.fr"
+institute: "Université de Lorraine | ENSGSI"
+author: 
+  - "MdC. Fabio Cruz"
+link-citations: true
+date: today
+date-format: long
+format:
+  revealjs:
+    slide-number: c/t
+    slide-level: 3
+    controls: true
+    transition: none
+    scrollable: true
+    #margin: 1cm
+    width: 1600
+    height: 900
+    theme: [default, ../assets/custom.scss]
+    logo: "/assets/img/ENSGSI.png"
+    #embed-resources: false
+    echo: false
+    pdf-separate-fragments: true
+    toc: true
+    #toc-title: Agenda for today
+    toc-depth: 1
+    toc-title: But de la Séance
+    center: false
+    center-title-slide: false
+    number-sections: false
+    fig-align: center
+    code-copy: true        
+    #header-logo: "../assets/img/logos/UL.png"    
+    #subtitle-as-header: true
+    sc-sb-title: false
+    chalkboard: true
+    menu:
+      side: right
+      width: wide
+      numbers: false  
+#use reveal-header extension if you need both header and footer on slides. They are declared in the presentation.qmd file
+#filters:
+#  - reveal-header
+#  - reveal-auto-agenda
+#auto-agenda:
+#  bullets: numbered
+#  heading: Agenda for today
+#  
+
+  # beamer: 
+  #   linkcolor: Blue
+  #   urlcolor: Blue
+  #   keep-tex: false
+  #   classoption: c
+  #   aspectratio: 169
+  #   navigation: horizontal
+  #   theme: Luebeck #AnnArbor
+  #   toc: true
+  #   toc-title: "Organisation de la presentation"    
+  #   colortheme: beaver  #seahorse
+  #   slide-level: 3
+  #   toc-depth: 4
+  #   fig-align: center
+    #header-includes:
+    #  - \titlegraphic{\includegraphics[width=0.6\paperwidth]{Figures/logos/UL-ENSGSI-ERPI.png}}
+#      - \date{Thisis test }
+    # beameroption: 
+    #  - show notes on second screen
+    #beamerarticle: true
+    #latex_engine: lualatex
+    #include-in-header: [assets/slides.tex]
+filters:
+  - highlight-text
