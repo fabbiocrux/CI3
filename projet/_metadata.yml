@@ -1,10 +1,10 @@
-email: "fabio.cruz@univ-lorraine.fr"
-institute: "Université de Lorraine | ENSGSI"
-author: 
-  - "MdC. Fabio Cruz"
+#email: "fabio.cruz@univ-lorraine.fr"
+#institute: "Université de Lorraine | ENSGSI"
+# author: 
+#   - "MdC. Fabio Cruz"
 link-citations: true
-date: today
-date-format: long
+#date: today
+#date-format: long
 format:
   revealjs:
     slide-number: c/t
